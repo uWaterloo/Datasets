@@ -9,3 +9,7 @@ but new datasets will not always make it to the API
 
 It is not required for you to have your data in CSV format. If formats like JSON or XML better represent
 the data's hierarchy and relations, use them instead
+
+**Requesting**
+
+To request data, please see the [OpenData](https://github.com/uWaterloo/OpenData/issues) repository
