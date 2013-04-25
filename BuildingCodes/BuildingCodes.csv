@@ -13,7 +13,7 @@ BuildingID, BuildingCode, BuildingName, AltBuildingNames
 012,CSB,"Central Services Building",""
 013,B2,"Biology 2",""
 014,GSC,"General Services Complex",""
-015,COM,"Commisary","Police & Parking Services"
+015,COM,"Commissary","Police & Parking Services"
 016,SCH,"South Campus Hall",""
 017,MC,"Mathematics & Computer",""
 018,PAC,"Physical Activities Complex",""
