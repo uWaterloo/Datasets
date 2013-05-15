@@ -1,26 +1,26 @@
 AcademicOrganization,Description
-ACC,Accounting&Finance - School of
+ACC,"School of Accounting & Finance"
 AHS,Applied Health Sciences
-AHSDEAN,Dean of Applied Hlth Sciences
+AHSDEAN,Dean of Applied Health Sciences
 AMATH,Applied Mathematics
 ANTH,Anthropology
-ARCH,Architecture - School of
+ARCH,School of Architecture
 ART,Arts
 ARTSDEAN,Dean of Arts
 BIOL,Biology
-CBET,"Conrad Bus, Entrepren & Tech"
-CECS,Coop Educn & Career Action
+CBET,"Conrad Business, Entrepreneurship & Technology"
+CECS,Coop Education & Career Action
 CGC,Conrad Grebel College
 CHE,Chemical Engineering
 CHEM,Chemistry
-CIVE,Civil & Environmental Engg
+CIVE,Civil & Environmental Engineering
 CLASSICS,Classical Studies
 CO,Combinatorics & Optimization
-CS,Computer Sci - Cheriton School
+CS,Computer Science - Cheriton School
 DANCE,Dance
 DRAMA,Drama & Speech Communication
 EARTH,Earth & Environmental Sciences
-ECE,Electrical & Computer Engg
+ECE,Electrical & Computer Engineering
 ECON,Economics
 ENG,Engineering
 ENGDEAN,Dean of Engineering
@@ -31,24 +31,24 @@ ERS,Environment & Resource Studies
 FINE,Fine Arts
 FR,French Studies
 GEOE,Geological Engineering
-GEOG,Geography & Environmental Mgmt
+GEOG,Geography & Environmental Management
 GERSLAV,Germanic & Slavic Studies
 GRAD,Graduate Studies
 GRADDEAN,Graduate Dean
 HIST,History
-HLTHGERON,Public Hlth&Hlth Sys-School of
-ICR,Inst for Computer Research
+HLTHGERON,School of Public Health Science
+ICR,Institute for Computer Research
 IS,Independent Studies
 KIN,Kinesiology
 MAT,Math
 MATHDEAN,Dean of Mathematics
-ME,Mechanical & Mechatronics Engg
+ME,Mechanical & Mechatronics Engineering
 MSCI,Management Sciences
-OPTOM,Optometry & Vision Sci-Sch of
-PHARM,Pharmacy - School of
+OPTOM,School of Optometry & Vision Science
+PHARM,School of Pharmacy
 PHIL,Philosophy
 PHYS,Physics & Astronomy
-PLAN,Planning - School of
+PLAN,School of Planning
 PMATH,Pure Mathematics
 PSCI,Political Science
 PSYCH,Psychology
@@ -57,13 +57,13 @@ REN,Renison University College
 RS,Religious Studies
 SCI,Science
 SCIDEAN,Dean of Science Office
-SEED,"Env, Entr & Dev - School of"
+SEED,"School of Environment, Enterprise & Development"
 SOC,Sociology & Legal Studies
-SPAN,Spanish & Latin American Stud.
+SPAN,Spanish & Latin American Studies
 STATACTSC,Statistics & Actuarial Science
 STJ,St Jerome's University
 STP,St Paul's University College
-STV,"Society, Technology&Values Ctr"
+STV,"Society, Technology & Values"
 SYDE,Systems Design Engineering
 THC,Theatre Centre
 UW,University of Waterloo
