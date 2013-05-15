@@ -1,5 +1,5 @@
 Subject,Description
-AADMS,Arts Adm Spec Seminar
+AADMS,Arts Administration Specification Seminar
 AB,Arabic (WLU)
 ACC,Accounting
 ACTSC,Actuarial Science
@@ -40,7 +40,7 @@ COGSCI,Cognitive Science
 COMM,Commerce
 COMPT,Computing (WLU)
 COMST,Communication Studies (WLU)
-CONST,Contemporary Studies(WLU)
+CONST,Contemporary Studies (WLU)
 COOP,Co-op
 CROAT,Croatian
 CS,Computer Science
@@ -127,7 +127,7 @@ MI,Mediterranean Studies (WLU)
 MISC,Miscellaneous
 MNS,Materials and Nano-Sciences
 MSCI,Management Sciences
-MSE,Management & Systems
+MSE,Management & Systems Engineering
 MTE,Mechatronics Engineering
 MTHEL,Mathematics Elective
 MUSIC,Music
@@ -137,10 +137,10 @@ NE,Nanotechnology Engineering
 NES,Near Eastern Studies (WLU)
 OPTOM,Optometry
 PACS,Peace & Conflict Studies
-PAS,Personnel & Admin Studies
+PAS,Personnel & Admininstration Studies
 PD,Professional Development
 PDARCH,Professional Development for Architect
-PDENG,Professional Development for Eng
+PDENG,Professional Development for Engineers
 PDPHRM,Professional Development for Pharmacy
 PED,Physical Education (WLU)
 PERST,Personnel Studies
@@ -186,7 +186,7 @@ TAX,Taxation
 THTRE,Theatre (WLU)
 TN,Theoretical Neuroscience
 TOUR,Tourism
-TPM,Technical Presentation
+TPM,Technical Presentation Milestone
 TPPE,Tech Presentation Proficiency Examination
 TS,Theological Studies
 UKRAN,Ukrainian
@@ -196,7 +196,7 @@ URBAN,Urban Studies (WLU)
 UU,Interdisciplinary Studies (WLU)
 VCULT,Visual Culture
 WATER,WATER
-WHMIS,Workplace Hazardous Materials Info
+WHMIS,Workplace Hazardous Materials Information System
 WKRPT,Work Report
 WS,Women's Studies
 ZOOL,Zoology
