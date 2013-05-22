@@ -130,7 +130,7 @@ foreach ($buildings as $building) {
     parsePrinterListPage($page, $printers);
 }
 
-fwrite(STDOUT, 'printer,ad,server,comment,driver,server,room,faculty' . "\n");
+fwrite(STDOUT, 'printer,ad,server,comment,driver,room,faculty' . "\n");
 foreach ($printers as $printer) {
     fputcsv(STDOUT, $printer);
 }

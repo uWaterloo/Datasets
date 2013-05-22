@@ -1,4 +1,4 @@
-printer,ad,server,comment,driver,server,room,faculty
+printer,ad,server,comment,driver,room,faculty
 deancopy,"CN=AHSCOSERV-deancopy;CN=ahscoserv;OU=AHSCO;OU=GROUPS;OU=AHS;OU=Domain Member Servers;DC=NEXUS;DC=UWATERLOO;DC=CA",AHSCOSERV,"Redeployed June 12; 2012","Xerox Global Print Driver PCL","3rd Floor",AHS
 hsgprt2IP,"CN=AHSCOSERV-hsgprt2IP;CN=ahscoserv;OU=AHSCO;OU=GROUPS;OU=AHS;OU=Domain Member Servers;DC=NEXUS;DC=UWATERLOO;DC=CA",AHSCOSERV,-,"HP LaserJet 4250 PS","HSG Grad",AHS
 recprt2IP,"CN=AHSCOSERV-recprt2IP;CN=ahscoserv;OU=AHSCO;OU=GROUPS;OU=AHS;OU=Domain Member Servers;DC=NEXUS;DC=UWATERLOO;DC=CA",AHSCOSERV,"Created June 4; 2010","HP LaserJet 4250 PS","RLS Grad",AHS
