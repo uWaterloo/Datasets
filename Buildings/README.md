@@ -13,7 +13,8 @@ latitude
 longitude
 ```
 
-Where a building might be known by more than one name, either due to a renaming or due to colloquialisms, include them under the AltBuildingNames column, and separate multiple names with a pipe character ("**|**").
+Where a building might be known by more than one name, either due to a renaming or due to colloquialisms,
+include them under the `alternate_building_names` column, and separate multiple names with a pipe character (`|`).
 
 Sources: 
 * [Plant Operations Floor Plans](http://plantoperations.uwaterloo.ca/floor_plans/)
