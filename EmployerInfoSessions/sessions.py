@@ -58,7 +58,7 @@ for month in ["2013Sep", "2013Oct"]:
 		session["website"] = websites[i]
 		session["audience"] = others[i][0]
 		session["programs"] = others[i][1]
-		session["description"] = others[i][2]
+		session["description"] = others[i][2].replace('</p>', '')
 		sessions.append(session)
 
 # sessions object is complete here and can be exported as needed
