@@ -56,9 +56,9 @@ for month in ["2013Sep", "2013Oct"]:
 		session["end_time"] = times[i][1]
 		session["location"] = locations[i]
 		session["website"] = websites[i]
-		session["coop/grad"] = others[i][0]
+		session["audience"] = others[i][0]
 		session["programs"] = others[i][1]
-		session["info"] = others[i][2]
+		session["description"] = others[i][2]
 		sessions.append(session)
 
 # sessions object is complete here and can be exported as needed
@@ -67,6 +67,6 @@ for month in ["2013Sep", "2013Oct"]:
 
 with open('sessions.csv', 'wb') as f:
 	writer = csv.writer(f)
-	writer.writerow(["id", "employer", "date", "start_time", "end_time", "location", "website", "coop/grad", "programs", "info"])
+	writer.writerow(["id", "employer", "date", "start_time", "end_time", "location", "website", "audience", "programs", "description"])
 	for session in sessions:
-		writer.writerow([session["id"], session["employer"], session["date"], session["start_time"], session["end_time"], session["location"], session["website"], session["coop/grad"], session["programs"], session["info"]])
+		writer.writerow([session["id"], session["employer"], session["date"], session["start_time"], session["end_time"], session["location"], session["website"], session["audience"], session["programs"], session["description"]])
