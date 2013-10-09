@@ -3,7 +3,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 "",AAR,Architecture Annex Rome,"",41.889615,12.470925
 "",ACW,Accelerator Centre Waterloo,"",43.47731,-80.54896
 "",IQC,Institute for Quantum Computing,"",43.47843,-80.55508
-"",WFF,Warrior Football Field,"",43.4747,-80.55014
+145,WFF,Warrior Football Field,"",43.4747,-80.55014
 001,DWE,"Douglas Wright Engineering Building","",43.469981,-80.540042
 002,E2,"Engineering 2","",43.47104345,-80.54041224
 003,E3,"Engineering 3","",43.4717442,-80.54086285
