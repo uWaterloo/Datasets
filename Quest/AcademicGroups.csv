@@ -1,15 +1,15 @@
-group,description
-AHS,Applied Health Sciences
-ART,Arts
-CGC,Conrad Grebel College
-ENG,Engineering
-ENV,Environment
-GRAD,Graduate Studies
-IS,Independent Studies
-MAT,Mathematics
-REN,Renison University College
-SCI,Science
-STJ,St Jerome's University
-STP,St Paul's University College
-THL,Theology
-VPA,Interdisciplinary Studies
+group_code,group_short_name,group_full_name
+"AHS","Applied Health Sciences","Faculty of Applied Health Sciences"
+"ART","Arts","Faculty of Arts"
+"CGC","Conrad Grebel","Conrad Grebel University College"
+"ENG","Engineering","Faculty of Engineering"
+"ENV","Environment","Faculty of Environment"
+"GRAD","Graduate Studies","Graduate Studies"
+"IS","Independent Studies","Independent Studies"
+"MAT","Mathematics","Faculty of Mathematics"
+"REN","Renison","Renison University College"
+"SCI","Science","Faculty of Science"
+"STJ","St. Jeromes","St. Jerome's University"
+"STP","St. Pauls","St. Paul's University College"
+"THL","Theology","Theology"
+"VPA","Interdisciplinary","Interdisciplinary Studies"
