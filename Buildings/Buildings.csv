@@ -3,7 +3,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 "",AAR,Architecture Annex Rome,"",41.889615,12.470925
 "",ACW,Accelerator Centre Waterloo,"",43.47731,-80.54896
 "",IQC,Institute for Quantum Computing,"",43.47843,-80.55508
-"",WFF,Warrior Football Field,"",43.4747,-80.55014
+145,WFF,Warrior Football Field,"",43.4747,-80.55014
 001,DWE,"Douglas Wright Engineering Building","",43.469981,-80.540042
 002,E2,"Engineering 2","",43.47104345,-80.54041224
 003,E3,"Engineering 3","",43.4717442,-80.54086285
@@ -175,7 +175,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 104,GH,"Graduate House","Grad House",43.4696575,-80.54103451
 110,PHR,"School of Pharmacy","10 Victoria Street S, Kitchener, ON",43.450985,-80.499763
 111,ARC,"School of Architecture","7 Melville Street S, Cambridge, ON",43.358572,-80.31692
-132,GA,"Centre for Extended Learning","335 Gage Street, Kitchener, ON",43.44585,-80.5184
+132,GA,"Centre for Extended Learning","335 Gage Avenue, Kitchener, ON",43.44585,-80.5184
 133,HSC,"Huntsville Summit Center","87 Forbes Hill Drive, Huntsville, ON",45.32211,-79.20695
 134,WSS,"Stratford Campus","6 Wellington Street, Stratford, ON",43.370474,-80.982231
 155,180King,"180 King Street South, 7th Floor","180 King Street S, Kitchener, ON",43.46084,-80.51938
