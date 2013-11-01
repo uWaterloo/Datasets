@@ -1,0 +1,582 @@
+employer,surname,given_name,position,salary_paid,taxable_benefits
+University of Waterloo,AAGAARD,MARK,Associate Professor,113991.00,610.28
+University of Waterloo,ABLER,THOMAS S.,Professor,119645.90,991.80
+University of Waterloo,ABOULNAGA,ASHRAF ISMAIL,Assistant Professor,104988.76,344.80
+University of Waterloo,ABRAHAM,BOVAS,Professor,133497.12,1022.64
+University of Waterloo,AGER,SHEILA L.,Associate Professor,123328.42,373.00
+University of Waterloo,AGNEW,GORDON,Associate Professor,112843.32,370.52
+University of Waterloo,ALLARD,FRANCES A.,Associate Professor,136776.22,420.52
+University of Waterloo,AMBAINIS,ANDRIS,Assistant Professor,108151.36,305.96
+University of Waterloo,ANDERSON,WILLIAM A.,Professor,122615.46,2631.76
+University of Waterloo,ANDREY,JEAN,Associate Professor,114165.02,2645.94
+University of Waterloo,ANGLIN,JEREMY M.,Professor,115810.46,3169.40
+University of Waterloo,APLEVICH,J. DWIGHT,Professor,144426.87,1012.24
+University of Waterloo,ARMITAGE,HOWARD M.,Professor,148628.08,1036.48
+University of Waterloo,ATKINSON,ANTHONY,Professor,133744.28,1024.44
+University of Waterloo,ATLEE,JOANNE,Associate Professor,113451.40,413.52
+University of Waterloo,BALL,NORMAN R.,Associate Professor,129964.68,995.68
+University of Waterloo,BANDYOPADHYAY,SATIPRASAD,Associate Professor,117764.96,902.08
+University of Waterloo,BARANOSKI,GLADIMIR,Associate Professor,105423.72,807.96
+University of Waterloo,BARBY,JAMES A.,Associate Professor,116481.36,382.48
+University of Waterloo,BARKER,JAMES F.,Professor,125437.00,961.16
+University of Waterloo,BARNETT,JAMES,Lecturer,149990.72,1433.59
+University of Waterloo,BARTON,DAVID R.,Professor,114989.28,865.76
+University of Waterloo,BASIR,OTMAN,Associate Professor,113119.08,866.80
+University of Waterloo,BEDI,SANJEEV,Professor,134424.68,934.28
+University of Waterloo,BEN-DAVID,SHAI,Professor,133360.08,1018.80
+University of Waterloo,BERRY,DANIEL,Professor,117101.48,1055.40
+University of Waterloo,BESNER,DEREK,Professor,116748.56,965.64
+University of Waterloo,BEST,MICHAEL J.,Professor,125924.68,964.68
+University of Waterloo,BHATTACHARYA,KANKAR,Associate Professor,107098.20,820.68
+University of Waterloo,BIRD,RANJANA,Dean,148166.04,1020.20
+University of Waterloo,BIRKETT,STEPHEN,Associate Professor,105047.36,2874.96
+University of Waterloo,BLACK,JAMES P.,Associate Professor,137377.26,442.04
+University of Waterloo,BLAKE,CLIFFORD G.,Lecturer,100623.12,318.16
+University of Waterloo,BLOOM,KATHLEEN,Associate Professor,128423.52,421.60
+University of Waterloo,BLOWES,DAVID W.,Professor,141843.64,694.20
+University of Waterloo,BOAKE,TERESA,Associate Professor,109708.88,347.84
+University of Waterloo,BOBIER,WILLIAM R.,Professor,130056.84,920.04
+University of Waterloo,BODELL,RICHARD W.,Associate Professor,123455.12,929.72
+University of Waterloo,BOLS,NIELS C.,Professor,151867.12,1025.60
+University of Waterloo,BONNER,KIERAN,Professor,148293.24,4146.66
+University of Waterloo,BOOKBINDER,JAMES H.,Professor,128831.20,986.88
+University of Waterloo,BORITZ,JEFIM EFRIM,Professor,130363.52,428.00
+University of Waterloo,BOUTABA,RAOUF,Associate Professor,121251.64,398.20
+University of Waterloo,BRECHT,TIMOTHY,Associate Professor,118879.36,390.36
+University of Waterloo,BRENNER,THOMAS E.,Assistant Professor,105253.72,1784.56
+University of Waterloo,BRINGELSON,LIWANA,Associate Professor,100346.68,289.08
+University of Waterloo,BRODLAND,G. WAYNE,Professor,131472.28,5203.94
+University of Waterloo,BROWN,DANIEL G.,Assistant Professor,104555.27,563.40
+University of Waterloo,BROWN,GRAHAM,"Principal, St. Paul's College",138161.68,962.00
+University of Waterloo,BROWN,K. STEPHEN,Professor,149009.20,1983.20
+University of Waterloo,BROWN,ROBERT L.,Professor,157252.92,1025.24
+University of Waterloo,BROX,JAMES A.,Professor,133022.12,1019.48
+University of Waterloo,BRYANT,M. DARROL,Professor,116434.48,663.56
+University of Waterloo,BUDMAN,HECTOR,Professor,123048.24,923.96
+University of Waterloo,BUHR,PETER A.,Associate Professor,134907.00,1033.44
+University of Waterloo,BULMAN-FLEMING,BARBARA,Associate Professor,109429.88,787.44
+University of Waterloo,BUNTING,TRUDI,Professor,130405.00,999.12
+University of Waterloo,BURBIDGE,JOHN,Professor,138310.08,999.96
+University of Waterloo,BURKOWSKI,FORBES J.,Associate Professor,133504.68,1022.60
+University of Waterloo,BURN,DONALD H.,Professor,130103.64,427.16
+University of Waterloo,BURNS,CATHERINE,Associate Professor,102636.84,328.88
+University of Waterloo,BURT,SANDRA D.,Associate Professor,132610.98,941.36
+University of Waterloo,BUSCH,LUTZ-ALEXANDER,Associate Professor,118364.32,348.08
+University of Waterloo,BUSS,JONATHAN F.,Associate Professor,105519.80,365.04
+University of Waterloo,BUYERS,JANE G.,Professor,109874.98,351.84
+University of Waterloo,CALAMAI,PAUL H.,Professor,124802.60,956.28
+University of Waterloo,CALLAGHAN,JACK P.,Associate Professor,100608.56,734.12
+University of Waterloo,CAMERON,ALLAN JAMES ROY,Professor,138342.32,1059.84
+University of Waterloo,CAMPBELL,HELEN SHARON,Associate Professor,125313.00,691.96
+University of Waterloo,CAMPBELL,MELANIE C.,Professor,134903.12,5014.78
+University of Waterloo,CAMPBELL,SUE ANN,Professor,115270.30,850.12
+University of Waterloo,CANIZARES,CLAUDIO,Professor,135347.12,7111.92
+University of Waterloo,CARVALHO,EMANUEL,Associate Professor,151953.18,957.52
+University of Waterloo,CASCANTE,GIOVANNI,Associate Professor,108232.20,829.36
+University of Waterloo,CHAKMA,AMIT,"Vice President, Academic & Provost",365859.92,4096.59
+University of Waterloo,CHAN,EDWARD P. F.,Associate Professor,118597.28,908.56
+University of Waterloo,CHAN,TIMOTHY,Professor,119497.00,392.44
+University of Waterloo,CHATZIS,IOANNIS,Professor,131516.04,1008.24
+University of Waterloo,CHAUDHURI,SUJEET K.,Professor,171084.76,1195.56
+University of Waterloo,CHEN,CHANGLING,Assistant Professor,143642.04,947.24
+University of Waterloo,CHEN,JIAHUA,Professor,112589.16,3061.20
+University of Waterloo,CHEN,PU,Associate Professor,121904.20,857.48
+University of Waterloo,CHEN,ZHENG-YU,Professor,119582.94,854.64
+University of Waterloo,CHERIYAN,JOSEPH,Professor,114818.44,879.84
+University of Waterloo,CHESNEY,WILLIAM,Associate Professor,109129.06,820.44
+University of Waterloo,CHONG,MICHAEL J.,Professor,125143.12,3334.64
+University of Waterloo,CHOU,BERNT R,Associate Professor,112981.64,563.68
+University of Waterloo,CHOU,CHIH-HSIUNG P.,Associate Professor,105751.48,751.60
+University of Waterloo,CLAPP,JENNIFER,Associate Professor,107722.32,825.08
+University of Waterloo,CLARKE,CHARLES L. A.,Associate Professor,101477.44,914.84
+University of Waterloo,CLAUSI,DAVID A.,Associate Professor,107962.72,591.00
+University of Waterloo,CLAXTON,LOIS,University Secretary,150055.00,492.56
+University of Waterloo,CLEVE,RICHARD,Professor,149369.40,441.12
+University of Waterloo,COHEN,ROBIN,Professor,137604.48,451.76
+University of Waterloo,COLEMAN,TOM,Dean,226955.20,1333.76
+University of Waterloo,COLLINS,MICHAEL,Assistant Professor,101204.40,554.32
+University of Waterloo,CONIGLIO,MARIO,Professor,133401.26,406.12
+University of Waterloo,COOK,RICHARD J.,Professor,144645.92,425.64
+University of Waterloo,COOPER,ANDREW F.,Professor,121361.84,930.08
+University of Waterloo,CORBIN,STEPHEN,Associate Professor,115900.08,634.36
+University of Waterloo,CORMACK,GORDON V.,Professor,138314.52,1059.60
+University of Waterloo,COVVEY,DOMINIC,Professor,107515.92,352.64
+University of Waterloo,COWAN,WILLIAM B.,Associate Professor,145718.60,478.36
+University of Waterloo,COZZARIN,BRIAN,Associate Professor,101092.32,774.60
+University of Waterloo,CRONIN,DUANE,Assistant Professor,111886.36,589.16
+University of Waterloo,CROSSLEY,JOHN,"Principal, Professor, Director, Renison College",138088.60,1057.96
+University of Waterloo,CUENCA,JAVIER,Professor,118796.64,403.24
+University of Waterloo,CULHAM,RICHARD J.,Associate Professor,130439.64,4461.57
+University of Waterloo,CUNNINGHAM,WILLIAM,Professor,148862.58,1106.48
+University of Waterloo,CURCHIN,LEONARD A.,Associate Professor,123667.36,669.48
+University of Waterloo,CURTIS,LORI,Associate Professor,103494.00,793.20
+University of Waterloo,CUTHBERT BRANDT,GAIL P.,"Associate Vice President Academic, Learning Resources & Innovation",162056.01,972.40
+University of Waterloo,CUTLER,COLLEEN D.,Professor,111862.00,857.04
+University of Waterloo,D'ALESSIO,SERGE,Associate Professor,115264.06,595.40
+University of Waterloo,DAMEN,MOHAMED O.,Assistant Professor,110092.88,328.68
+University of Waterloo,DASIEWICZ,PAUL,Associate Professor,113199.80,619.44
+University of Waterloo,DAVIDSON,GEORGE A.,Associate Professor,139891.18,3154.16
+University of Waterloo,DAVIDSON,KENNETH R.,Professor,150863.58,1107.84
+University of Waterloo,DAVISON,DANIEL,Associate Professor,103308.08,339.24
+University of Waterloo,DAWSON,LORNE,Professor,110258.68,2984.16
+University of Waterloo,DESROCHES,FRED,Professor,165349.96,925.00
+University of Waterloo,DEVEREAUX,THOMAS P.,Professor,102372.64,803.80
+University of Waterloo,DICICCIO,VICTOR F.,"Director, Institute for Computer Research",130564.08,892.68
+University of Waterloo,DIETRICH,DAVID J. J.,"Director, Human Resources, Pension & Benefits",100740.80,770.51
+University of Waterloo,DIMARCO,CHRYSANNE,Associate Professor,112160.84,859.44
+University of Waterloo,DIXON,BRIAN,Associate Professor,101281.90,734.76
+University of Waterloo,DIXON,GEORGE,Professor,182910.16,1064.24
+University of Waterloo,DIXON,MICHAEL J.,Professor,115804.18,797.44
+University of Waterloo,DMITRIENKO,GARY I.,Associate Professor,121161.08,928.28
+University of Waterloo,DOUGLAS,ALAN V. S.,Associate Professor,139131.80,391.20
+University of Waterloo,DOUGLAS,PETER,Professor,132107.42,937.60
+University of Waterloo,DUDYCHA,DOUGLAS J.,Associate Professor,103593.36,340.12
+University of Waterloo,DUEVER,THOMAS A.,Professor,141519.66,721.40
+University of Waterloo,DYCK,ARNIE V.,Associate Professor,136957.68,1015.92
+University of Waterloo,EAGLES,PAUL F. J.,Professor,118831.88,910.56
+University of Waterloo,EDWARDS,THOMAS W. D.,Professor,103016.32,365.16
+University of Waterloo,ELHEDHLI,SAMIR,Associate Professor,102167.96,764.32
+University of Waterloo,ELKAMEL,ALI,Assistant Professor,105040.36,805.48
+University of Waterloo,ELMITT,MICHAEL W. W.,Associate Professor,131630.08,973.88
+University of Waterloo,ENGLISH,JOHN R.,Professor,155522.52,1191.32
+University of Waterloo,ENNS,LEONARD J.,Professor,106628.86,882.04
+University of Waterloo,EVANS,STEPHEN G.,Professor,113985.84,873.40
+University of Waterloo,FABER,RIEMER,Associate Professor,104870.70,776.48
+University of Waterloo,FAMA,ANTONIO,Associate Professor,121526.10,980.16
+University of Waterloo,FENG,XIANSHE,Associate Professor,109133.76,836.88
+University of Waterloo,FICH,MICHEL,Associate Professor,100332.92,329.52
+University of Waterloo,FIEGUTH,PAUL,Associate Professor,115063.38,355.52
+University of Waterloo,FILION,PIERRE,Professor,117861.37,974.96
+University of Waterloo,FLANAGAN,JOHN G.,Professor,140353.72,1355.39
+University of Waterloo,FOGEL,STANLEY,Professor,114915.77,370.94
+University of Waterloo,FONG,GEOFFREY T.,Associate Professor,121505.04,931.60
+University of Waterloo,FONN,DESMOND,Professor,132362.08,937.64
+University of Waterloo,FORREST,BRIAN EDMOND E.,Professor,135456.68,993.76
+University of Waterloo,FORREST,JAMES,Associate Professor,105765.54,1856.72
+University of Waterloo,FORSYTH,PETER,Professor,169300.99,1168.72
+University of Waterloo,FOWLER,MICHAEL,Assistant Professor,107824.40,346.00
+University of Waterloo,FRAPE,SHAUN,Professor,123159.16,943.68
+University of Waterloo,FRASER,ROYDON A.,Professor,133509.10,415.84
+University of Waterloo,FREEMAN,GEORGE H.,Associate Professor,128425.70,2470.36
+University of Waterloo,FU,LIPING F.,Associate Professor,103436.00,792.60
+University of Waterloo,FULLER,J. DAVID,Professor,132339.68,984.76
+University of Waterloo,FURINO,STEVE,Associate Professor,106601.36,343.28
+University of Waterloo,GAUTHIER,MARIO,Professor,107306.32,822.24
+University of Waterloo,GEBOTYS,CATHERINE,Associate Professor,110913.45,836.08
+University of Waterloo,GEDDES,KEITH O.,Professor,137335.56,1081.60
+University of Waterloo,GEELEN,JAMES F.,Associate Professor,126241.90,372.40
+University of Waterloo,GEORGE,J. ALAN,"Vice President, University Research",235594.08,0.00
+University of Waterloo,GIBSON,ROBERT B.,Professor,113323.44,974.64
+University of Waterloo,GIESBRECHT,MARK,Associate Professor,115245.06,953.24
+University of Waterloo,GILBERTSON,A. CATHARINE,Associate Provost Human Resources & Student Services,162583.84,1304.56
+University of Waterloo,GILLHAM,ROBERT W.,Professor,103296.30,713.56
+University of Waterloo,GINGRAS,MICHEL,Professor,127141.22,384.74
+University of Waterloo,GLICK,BERNARD R.,Professor,147025.64,1043.40
+University of Waterloo,GLINKA,GRZEGORZ,Professor,128708.32,2081.92
+University of Waterloo,GODFREY,MICHAEL,Assistant Professor,109352.60,837.92
+University of Waterloo,GODSIL,CHRISTOPHER D.,Professor,123745.28,1011.44
+University of Waterloo,GOLINI,VERA,Associate Professor,128387.90,405.56
+University of Waterloo,GOLLNICK,JAMES,Professor,106054.04,580.56
+University of Waterloo,GONG,GUANG,Professor,112851.52,2002.06
+University of Waterloo,GOODWIN,DAVID,Associate Professor,106274.52,814.40
+University of Waterloo,GOULDEN,IAN P.,Professor,146115.42,1103.08
+University of Waterloo,GOYDER,JOHN C.,Professor,137492.16,999.80
+University of Waterloo,GREENBERG,BRUCE M.,Professor,125912.82,872.36
+University of Waterloo,GREENBERG,JOEL S.,Professor,121187.04,928.56
+University of Waterloo,GUELKE,JEANNE KAY,Professor,140060.64,1072.99
+University of Waterloo,GUILD,PAUL D.,Professor,161850.52,8892.48
+University of Waterloo,GUNZ,SARAH P.,Professor,140662.28,924.60
+University of Waterloo,GUTIERREZ,MARIELA A.,Professor,123672.42,406.26
+University of Waterloo,HAAS,CARL THOMAS,Professor,152424.40,949.40
+University of Waterloo,HADLEY,KENNETH D.,Clinical Lecturer,103035.88,789.52
+University of Waterloo,HAIGHT,MURRAY E.,Associate Professor,132848.86,1396.48
+University of Waterloo,HALDENBY,ERIC R. M.,Associate Professor,143520.76,1804.48
+University of Waterloo,HAMEL,JOHN,Professor,110752.12,363.52
+University of Waterloo,HANNING,RHONA,Associate Professor,102403.84,784.92
+University of Waterloo,HANSSON,CAROLYN M.,Professor,152129.20,991.39
+University of Waterloo,HARA,KIMIE,Associate Professor,102681.72,337.16
+University of Waterloo,HARDY,MARY R.,Professor,139051.22,663.00
+University of Waterloo,HARE,KATHRYN E.,Professor,122925.67,985.88
+University of Waterloo,HARRIGAN,PATRICK J.,Professor,142956.92,927.91
+University of Waterloo,HARRIS,RANDY,Professor,123610.08,928.00
+University of Waterloo,HASAN,ANWARUL,Professor,126250.60,1018.92
+University of Waterloo,HASLETT,K. MARK,University Librarian,120761.52,925.16
+University of Waterloo,HAVITZ,MARK,Professor,107254.00,821.92
+University of Waterloo,HAWTHORN,WAYNE,Associate Professor,128879.88,987.40
+University of Waterloo,HAXELL,PENELOPE EVELYN,Professor,115164.88,378.44
+University of Waterloo,HECKY,ROBERT E.,Professor,133879.36,1025.64
+University of Waterloo,HEGAZI,TAREK,Professor,109121.08,2817.32
+University of Waterloo,HEIKKILA,JOHN J.,Professor,139429.76,5254.98
+University of Waterloo,HELLEINER,ERIC,Associate Professor,109027.52,835.24
+University of Waterloo,HELLINGA,BRUCE,Associate Professor,110307.32,845.24
+University of Waterloo,HELMES-HAYES,RICHARD C.,Associate Professor,106065.32,757.80
+University of Waterloo,HEPPLER,GLENN R.,Professor,139003.90,3137.48
+University of Waterloo,HESJEDAL,THORSTEN,Associate Professor,102000.00,514.08
+University of Waterloo,HEUNIS,ANDREW J.,Professor,135453.96,993.60
+University of Waterloo,HIGGINS,MICHAEL,President/Professor,285593.58,2693.84
+University of Waterloo,HIPEL,KEITH W.,Professor,145143.08,3029.96
+University of Waterloo,HIRDES,JOHN,Professor,118482.36,907.88
+University of Waterloo,HIRSCHKOP,KENNETH K.,Associate Professor,116076.84,889.12
+University of Waterloo,HISCOTT,ROBERT D.,Associate Professor,107366.88,587.68
+University of Waterloo,HOFFMAN,PETER,Professor,127463.64,976.32
+University of Waterloo,HOFFMAN-GOETZ,LAURIE,Professor,126142.64,690.84
+University of Waterloo,HOLMES,JOHN G.,Professor,145354.32,476.12
+University of Waterloo,HOLMES,RICHARD H.,Associate Professor,132223.08,3368.02
+University of Waterloo,HOLT,RICHARD,Professor,170010.84,737.35
+University of Waterloo,HONEK,JOHN F,Professor,125621.40,962.64
+University of Waterloo,HOVIS,JEFFERY K.,Associate Professor,118738.44,595.20
+University of Waterloo,HOWARD,MICHAEL C.,Professor,124329.60,1014.88
+University of Waterloo,HRYNCHAK,PATRICIA K.,Clinical Lecturer,134663.30,853.64
+University of Waterloo,HUANG,ALAN,Assistant Professor,128765.76,984.72
+University of Waterloo,HUBER,DENNIS,"Vice-President, Administration & Finance",209725.08,3677.92
+University of Waterloo,HUCK,PETER M.,Professor,150900.32,1041.08
+University of Waterloo,HUDSON,CHRISTOPHER,Associate Professor,110002.44,766.40
+University of Waterloo,HUGHSON,RICHARD L.,Professor,129535.70,2202.68
+University of Waterloo,HUISSOON,JAN PAUL,Professor,128609.70,935.68
+University of Waterloo,HULL,KENNETH R.,Associate Professor,105135.92,786.52
+University of Waterloo,IDZIAK,STEFAN,Associate Professor,105802.26,774.04
+University of Waterloo,ILYAS,IHAB,Assistant Professor,101109.56,774.76
+University of Waterloo,INCE,WILLIAM C. W.,Associate Director,100820.48,330.92
+University of Waterloo,IOANNIDIS,MARIOS,Associate Professor,108202.32,348.36
+University of Waterloo,IRVING,ELIZABETH,Associate Professor,110242.52,299.92
+University of Waterloo,ISMAIL,FATHY M.,Professor,146421.18,3025.58
+University of Waterloo,JACKSON,DAVID M.,Professor,140020.64,1072.72
+University of Waterloo,JAHEDMOTLAGH,HAMIDREZA,Associate Professor,110616.40,11256.74
+University of Waterloo,JARVIE,PEGGY,Executive Director,144238.52,473.52
+University of Waterloo,JAYARAM,SHESHAKAMAL,Professor,124186.60,951.64
+University of Waterloo,JERNIGAN,MARVIN EDWARD,Professor,153391.12,1106.20
+University of Waterloo,JERVIS,ERIC,Associate Professor,103010.52,789.32
+University of Waterloo,JEWKES,ELIZABETH M.,Professor,137991.28,428.40
+University of Waterloo,JHA,RANJINI,Associate Professor,143046.32,404.24
+University of Waterloo,JOHNSON,DAVID A.,Associate Professor,112385.28,615.08
+University of Waterloo,JOHNSON,RONALD C. A.,Associate Professor,120527.96,1877.52
+University of Waterloo,JOHNSTON,DAVID L.,President,416232.01,24236.12
+University of Waterloo,JONES,DEBORAH A.,Clinical Lecturer,116489.58,846.92
+University of Waterloo,JONES,LYNDON,Professor,116396.16,855.28
+University of Waterloo,KAMEL,MOHAMED S.,Professor,144340.40,2821.76
+University of Waterloo,KAPLAN,CRAIG,Assistant Professor,100599.80,771.00
+University of Waterloo,KARANASSIOS,VASSILI,Professor,112063.52,859.40
+University of Waterloo,KARPIAK,ROBERT,Associate Professor,125338.68,2007.57
+University of Waterloo,KARRAY,FAKHREDDINE,Professor,122895.32,942.08
+University of Waterloo,KAY,PAUL,Associate Professor,122703.16,893.40
+University of Waterloo,KAZERANI,MEHRDAD,Associate Professor,102502.84,4833.98
+University of Waterloo,KELLY,RICHARD,Associate Professor,158261.32,829.16
+University of Waterloo,KEMPF,ACHIM,Professor,120036.52,590.36
+University of Waterloo,KENNEDY,DUANE B.,Associate Professor,145259.88,697.52
+University of Waterloo,KERTON,ROBERT R.,Professor,167711.12,1112.48
+University of Waterloo,KESHAV,SRINIVASAN,Associate Professor,135763.84,963.68
+University of Waterloo,KHAJEPOUR,AMIR,Professor,117694.96,901.92
+University of Waterloo,KHAMESEE,BEHRAD,Assistant Professor,101583.00,555.96
+University of Waterloo,KHANDANI,AMIR KEYVAN K.,Professor,165965.72,1023.04
+University of Waterloo,KIESWETTER,LINDA,"Director, Individual Giving",129367.44,1854.36
+University of Waterloo,KLEINKE,HOLGER,Professor,101041.22,728.86
+University of Waterloo,KNIGHT,MARK A.,Associate Professor,109649.86,802.72
+University of Waterloo,KOLKIEWICZ,ADAM W.,Associate Professor,104181.62,1245.84
+University of Waterloo,KOROVKIN,TANYA,Associate Professor,105986.52,812.20
+University of Waterloo,KOTCHETOVA,NATALIA,Assistant Professor,118468.56,385.96
+University of Waterloo,KUMAR,RAMESH C.,Professor,112191.04,934.68
+University of Waterloo,LABAHN,GEORGE,Professor,163845.10,1085.42
+University of Waterloo,LAFLAMME,RAYMOND,Professor,176230.20,1121.16
+University of Waterloo,LAIKEN,STANLEY N.,Professor,155847.95,1037.76
+University of Waterloo,LAMB,KEVIN G.,Professor,121859.16,884.24
+University of Waterloo,LAMBERT,STEPHAN B.,Professor,136716.56,932.56
+University of Waterloo,LARSON,KATHERINE,Assistant Professor,100914.52,331.44
+University of Waterloo,LAVIGNE,KENNETH A.,University Registrar,118484.68,388.88
+University of Waterloo,LAWLESS,JERALD F.,Professor,157186.16,1204.04
+University of Waterloo,LAWRENCE,JOHN W.,Professor,128709.52,986.00
+University of Waterloo,LE ROY,ROBERT J.,Professor,133471.08,1022.56
+University of Waterloo,LEAT,SUSAN,Associate Professor,126492.28,366.56
+University of Waterloo,LEDREW,ELLSWORTH F.,Professor,134157.60,1027.92
+University of Waterloo,LEGGE,RAYMOND L.,Professor,129002.32,415.44
+University of Waterloo,LEUNG,BOSCO,Professor,113298.24,4668.42
+University of Waterloo,LEUNG,DEBBIE,Assistant Professor,103682.96,307.60
+University of Waterloo,LEUNG,KAM TONG,Professor,117486.44,386.00
+University of Waterloo,LI,MING,Professor,149261.08,1029.16
+University of Waterloo,LI,XIANGUO,Professor,124969.92,957.64
+University of Waterloo,LI,YUYING,Professor,135608.42,1004.40
+University of Waterloo,LIEN,FUE-SANG S.,Professor,118947.48,1747.04
+University of Waterloo,LINNEN,ROBERT L.,Associate Professor,108588.58,342.64
+University of Waterloo,LIU,WING-KI,Professor,134114.54,3104.32
+University of Waterloo,LIU,XINZHI,Professor,116025.48,4584.66
+University of Waterloo,LO,SHIU-HING,Associate Professor,101805.72,780.20
+University of Waterloo,LOPEZ-ORTIZ,ALEJANDRO,Associate Professor,114399.12,876.60
+University of Waterloo,LOUCKS,WAYNE,Associate Professor,144339.66,2949.04
+University of Waterloo,LUTKENHAUS,NORBERT N.,Associate Professor,116112.00,510.91
+University of Waterloo,LYONS,HARRIET,Professor,126730.76,964.24
+University of Waterloo,MACDOUGALL,HEATHER A.,Associate Professor,117544.72,643.48
+University of Waterloo,MACGREGOR,CAROLYN G.,Associate Professor,113508.98,558.98
+University of Waterloo,MACKAY,R. JOCK,Associate Professor,131863.64,1002.52
+University of Waterloo,MACLEOD,COLIN,Professor,140285.62,1160.44
+University of Waterloo,MACNAUGHTON,ALAN,Associate Professor,127619.93,2794.80
+University of Waterloo,MALLECK,GEOFF,Associate Professor,117327.19,7406.50
+University of Waterloo,MALTON,ANDREW,Associate Professor,117638.12,901.36
+University of Waterloo,MANN,RICHARD,Associate Professor,106329.04,581.92
+University of Waterloo,MANN,ROBERT B.,Professor,141480.50,2171.52
+University of Waterloo,MANN,STEPHEN,Associate Professor,133254.74,693.72
+University of Waterloo,MANNELL,ROGER C.,Professor,143717.04,4723.12
+University of Waterloo,MANSON,JANE M.,"Director, Finance",125344.64,960.16
+University of Waterloo,MANSOUR,RAAFAT,Professor,157759.00,6238.22
+University of Waterloo,MARCOUX,LAURENT,Professor,104805.00,371.44
+University of Waterloo,MARRIOTT,PAUL K.,Professor,114414.84,876.76
+University of Waterloo,MASON,ALISTER,Professor,107486.24,696.16
+University of Waterloo,MASON,DAVID H.,"Director, Information Systems",105340.83,785.40
+University of Waterloo,MATTHEWS,DAVID,Professor,143293.94,4781.76
+University of Waterloo,MAVADDAT,FARHAD,Associate Professor,124314.72,952.36
+University of Waterloo,MAYFIELD,COLIN I.,Professor,129428.40,991.44
+University of Waterloo,MAZUMDAR,RAVI R.,Professor,159395.56,1220.92
+University of Waterloo,MCALLISTER,MARY LOUISE,Associate Professor,100123.20,4184.34
+University of Waterloo,MCARTHUR,MURRAY,Associate Professor,111383.12,3236.90
+University of Waterloo,MCBOYLE,GEOFFREY R.,Professor,140762.74,1191.96
+University of Waterloo,MCCARVILLE,RONALD,Professor,109570.72,810.56
+University of Waterloo,MCCOLL,R. STEPHEN,Associate Professor,129883.28,401.68
+University of Waterloo,MCCOOL,MICHAEL,Associate Professor,102252.02,845.84
+University of Waterloo,MCCRAE,JUDITH ANN,"Director, Athletics",109116.72,836.24
+University of Waterloo,MCGEE,C. EDWARD,Associate Dean/Professor,135108.06,987.04
+University of Waterloo,MCGILL,STUART M.,Professor,140415.74,721.00
+University of Waterloo,MCKAY,DONALD D.,Associate Professor,124665.12,409.32
+University of Waterloo,MCKAY,KENNETH,Professor,116034.82,874.36
+University of Waterloo,MCKILLOP,IAN,Associate Professor,145353.10,973.36
+University of Waterloo,MCLAUGHLIN,KENNETH M.,Professor,144003.19,1063.20
+University of Waterloo,MCLEISH,DONALD L.,Professor,129907.00,4125.20
+University of Waterloo,MCMAHON,TERRANCE B.,Professor,170812.36,1225.84
+University of Waterloo,MCNAUGHTON,RODNEY BRETT,Professor,145127.52,957.60
+University of Waterloo,MCPHEE,JOHN,Professor,125604.73,949.80
+University of Waterloo,MEDLEY,JOHN B.,Professor,135135.54,928.20
+University of Waterloo,MENEZES,ALFRED J.,Professor,123576.40,405.88
+University of Waterloo,MESBUR,ELLEN SUE,Professor/Director School of Social Work,117360.08,899.36
+University of Waterloo,MICHALENKO,GREGORY C.,Assistant Professor,117449.44,900.00
+University of Waterloo,MICHELA,JOHN,Associate Professor,119116.28,387.04
+University of Waterloo,MIKKELSEN,SUSAN R.,Professor,106807.56,584.52
+University of Waterloo,MILLER,DANIEL E.,Professor,123658.08,406.08
+University of Waterloo,MILLER,JUDITH,Associate Professor,114890.56,628.88
+University of Waterloo,MISKOVIC,ZORAN,Professor,105752.08,810.44
+University of Waterloo,MITCHELL,BRUCE,"Associate Provost, Academic & Student Affairs",179178.16,1296.52
+University of Waterloo,MITCHINSON,WENDY L.,Professor,138581.40,719.56
+University of Waterloo,MOFFATT,BARBARA A.,Associate Professor,111284.68,609.52
+University of Waterloo,MORESOLI,CHRISTINE,Associate Professor,114282.56,375.56
+University of Waterloo,MORGAN,ALAN V. S.,Professor,135325.14,1005.92
+University of Waterloo,MORRIS,KIRSTEN A.,Professor,124542.20,888.00
+University of Waterloo,MOSCA,MICHELE,Associate Professor,114370.53,335.56
+University of Waterloo,MOUL,WILLIAM B.,Associate Professor,120891.84,926.36
+University of Waterloo,MUNRO,JAMES IAN,Professor,169797.92,1185.72
+University of Waterloo,MUSZYNSKI,ALICJA,Associate Professor,104734.92,573.28
+University of Waterloo,MYERS,ANITA M.,Professor,113234.88,371.88
+University of Waterloo,MYERS,ROBERT,Professor,133845.68,1051.80
+University of Waterloo,NAIK,KSHIRASAGAR,Associate Professor,104709.64,573.12
+University of Waterloo,NATHAN,AROKIA,Professor,113783.44,782.80
+University of Waterloo,NAZAR,LINDA F.,Professor,131663.72,399.48
+University of Waterloo,NEEDHAM,WILLIAM ROBERT,Associate Professor,132900.64,1018.00
+University of Waterloo,NELSON,EDNA D.,Associate Professor,109023.16,1931.48
+University of Waterloo,NG,CHETAT T.,Professor,133267.46,2966.18
+University of Waterloo,NG,FLORA T. T.,Professor,134556.32,1030.84
+University of Waterloo,NGUYEN,TRIEN T.,Professor,106712.89,917.16
+University of Waterloo,NICA,ALEXANDRU,Professor,108836.12,834.08
+University of Waterloo,NICCOLI,GABRIEL,Professor,104019.94,3042.02
+University of Waterloo,NISHIMURA,NAOMI,Associate Professor,134575.06,701.24
+University of Waterloo,NORTH,JOHN,Professor,130437.24,999.32
+University of Waterloo,NOVAK,JOSEPH A.,Associate Professor,115837.08,887.60
+University of Waterloo,NUTBROWN,RICHARD A.,Assistant Professor,116704.36,600.32
+University of Waterloo,OAKLEY,RICHARD,Professor,134860.88,442.80
+University of Waterloo,O'BRIEN,PATRICIA,Professor,135831.36,458.64
+University of Waterloo,OLDFORD,WAYNE,Professor,125688.68,972.28
+University of Waterloo,OPAL,AJOY,Professor,131346.46,968.96
+University of Waterloo,OREND,BRIAN,Associate Professor,105815.42,308.40
+University of Waterloo,OZSU,TAMER,Professor,166771.08,1200.92
+University of Waterloo,PACE,RODGER J.,Clinical Lecturer,126792.54,392.08
+University of Waterloo,PAETKAU,HENRY,"President, Conrad Grebel University College",118118.96,813.24
+University of Waterloo,PAL,RAJINDER,Professor,120433.08,395.44
+University of Waterloo,PAN,QINMIN,Associate Professor,102310.92,3546.12
+University of Waterloo,PANDEY,MAHESH D.,Professor,136638.36,932.12
+University of Waterloo,PANJER,HARRY H.,Professor,131824.82,1009.72
+University of Waterloo,PANKRATZ,JAMES,Academic Dean,118277.36,781.75
+University of Waterloo,PARE,FRANCOIS,Professor,132524.62,417.40
+University of Waterloo,PARK,ROBERT,Associate Professor,103249.30,310.28
+University of Waterloo,PARKER,BETH LOUISE,Associate Professor,101888.64,334.64
+University of Waterloo,PARKER,PAUL,Professor,116994.08,849.92
+University of Waterloo,PARKER,WAYNE J.,Associate Professor,116633.68,894.32
+University of Waterloo,PATLA,AFTAB,Professor,106610.49,648.73
+University of Waterloo,PAWLISZYN,JANUSZ B.,Professor,132999.60,9035.54
+University of Waterloo,PEEMOELLER,HARTWIG,Professor,110634.04,1943.76
+University of Waterloo,PENLIDIS,ALEXANDER,Professor,149782.40,1032.64
+University of Waterloo,PETERSON,CAROL A.,Professor,107840.84,351.84
+University of Waterloo,PIDDUCK,ANNE B.,Lecturer,106836.76,3523.28
+University of Waterloo,PLOTKIN,ANN D.,Clinical Lecturer,109555.76,839.44
+University of Waterloo,POIRIER,GUY,Associate Professor,101921.84,330.60
+University of Waterloo,PONNAMBALAM,KUMARASWAMY,Professor,116982.98,863.24
+University of Waterloo,POOLE,WILLIAM,Director,109756.48,802.32
+University of Waterloo,POUPART,PASCAL,Assistant Professor,101150.08,332.16
+University of Waterloo,POWER,MICHAEL,Professor,100818.56,790.40
+University of Waterloo,POWER,WILLIAM PATRICK,Associate Professor,115195.16,767.96
+University of Waterloo,PRICE,JONATHAN,Professor,116198.74,2029.20
+University of Waterloo,PRITZKER,MARK D.,Professor,123066.76,673.64
+University of Waterloo,PROKOPICH,LISA,Clinical Lecturer,112121.22,804.40
+University of Waterloo,PRUS,ROBERT C.,Professor,125152.40,983.00
+University of Waterloo,RAGDE,PRABHAKAR L.,Professor,132484.72,724.96
+University of Waterloo,RAMAHI,OMAR O. M.,Associate Professor,119129.80,391.20
+University of Waterloo,RANDALL,NEIL,Associate Professor,101573.88,778.32
+University of Waterloo,REARDON,ERIC J.,Professor,127791.80,4082.20
+University of Waterloo,REDEKOP,JAMES M.,Assistant Professor,105937.64,347.80
+University of Waterloo,REIMER,A. JAMES,Professor,110002.50,843.12
+University of Waterloo,REMPEL,GARRY L.,Professor,164295.44,1143.84
+University of Waterloo,REMPEL,JOHN,Associate Professor,100271.12,2866.10
+University of Waterloo,RENKSIZBULUT,METIN,Professor,135111.24,1035.60
+University of Waterloo,REVINGTON,DERECK,Associate Professor,109682.60,360.24
+University of Waterloo,RICHMOND,LAWRENCE B.,Professor,122563.20,3078.25
+University of Waterloo,RICHTER,R. BRUCE,Professor,114632.40,407.00
+University of Waterloo,ROBERTSON,KENNETH M.,Associate Professor,126708.08,894.28
+University of Waterloo,ROBINSON,BARBARA E.,Associate Professor,106344.84,310.84
+University of Waterloo,ROBINSON,JAMES E.,Associate Professor,113777.68,5260.10
+University of Waterloo,ROSENBERG,CATHERINE,Professor,187367.06,1238.56
+University of Waterloo,ROSS,HILDY S.,Professor,128882.48,1024.16
+University of Waterloo,ROSS,MICHAEL A.,Professor,143957.12,1131.20
+University of Waterloo,ROTHENBURG,LEO,Professor,144339.66,1031.04
+University of Waterloo,ROUTLIFFE,SUSAN,Associate University Librarian,101252.44,3196.02
+University of Waterloo,ROWLANDS,IAN H.,Associate Professor,108800.28,811.36
+University of Waterloo,ROY,ERIC A.,Professor,123803.72,677.64
+University of Waterloo,RUDOLPH,DAVID L.,Professor,110183.20,844.28
+University of Waterloo,RUSH,JAMES,Associate Professor,110697.64,778.40
+University of Waterloo,RUSSELL,DELBERT W.,Professor,133846.82,1014.32
+University of Waterloo,RUSSELL,GRANT W.,Associate Professor,127492.10,958.72
+University of Waterloo,RUTTAN,TOM,"Director, Counselling",104920.48,306.40
+University of Waterloo,SACCOMANNO,FEDEL F.,Professor,113457.66,958.68
+University of Waterloo,SACHDEV,MANOJ,Professor,127947.28,980.20
+University of Waterloo,SAFAVI-NAEINI,SAFIEDDIN,Professor,138804.00,2829.52
+University of Waterloo,SAFAYENI,FRANK R.,Professor,127870.52,979.52
+University of Waterloo,SAINI,HARGURDEEP,Professor,140162.16,2052.60
+University of Waterloo,SALAMA,MAGDY,Professor,160652.80,1154.12
+University of Waterloo,SALEM,KENNETH,Associate Professor,121356.72,442.32
+University of Waterloo,SAVAGE,GORDON,Professor,126351.80,414.88
+University of Waterloo,SCHELLENBERG,PAUL,Professor,137933.32,1024.00
+University of Waterloo,SCHIFF,SHERRY L.,Professor,113366.16,1965.24
+University of Waterloo,SCHNEIDER,GERALD,Professor,161562.84,1131.28
+University of Waterloo,SCHRYER,CATHERINE,Associate Professor,105010.00,1528.80
+University of Waterloo,SCHUMACHER,BARBARA,"Director, Health Services",148911.92,1415.26
+University of Waterloo,SEASONS,MARK,Associate Professor,107094.18,4068.00
+University of Waterloo,SEDRA,ADEL,Professor,256324.48,6100.48
+University of Waterloo,SEEBOHM,THOMAS,Associate Professor,118535.44,389.24
+University of Waterloo,SELVAKUMAR,CHETTYPALAYAM R.,Professor,117136.24,1994.00
+University of Waterloo,SEMPLE,JOHN C.,Professor,132747.96,2869.92
+University of Waterloo,SERVOS,MARK R.,Professor,125460.12,846.40
+University of Waterloo,SEVIORA,RUDOLPH E.,Associate Professor,131214.96,855.15
+University of Waterloo,SHALLIT,JEFFREY O.,Professor,145946.92,468.84
+University of Waterloo,SHARRATT,MICHAEL T.,Professor,145775.40,3034.84
+University of Waterloo,SHAW,SUSAN,Professor,122934.46,954.40
+University of Waterloo,SHEN,SHERMAN,Professor,135856.42,424.72
+University of Waterloo,SIEGEL,DAVID,Professor,122877.24,403.44
+University of Waterloo,SIMPSON,TREFFORD,Professor,119320.58,788.36
+University of Waterloo,SINGH,AJIT,Associate Professor,109136.72,836.24
+University of Waterloo,SIVAK,JACOB G.,Professor,157433.84,1126.04
+University of Waterloo,SIVALOGANATHAN,SIVABAL,Professor,114254.68,375.16
+University of Waterloo,SIVOTHTHAMAN,SIVA,Associate Professor,125949.06,900.72
+University of Waterloo,SLIWKA,RYSZARD,Associate Professor,107408.00,352.72
+University of Waterloo,SLOAN,JAMES J.,Professor,127393.08,418.20
+University of Waterloo,SMALE,BRYAN J. A.,Professor,122208.30,870.68
+University of Waterloo,SMALL,CHRISTOPHER G.,Professor,122969.32,403.76
+University of Waterloo,SMITH,RALPH E. H.,Professor,114045.52,874.04
+University of Waterloo,SMITH,STEPHEN L.,Professor,128740.96,986.20
+University of Waterloo,SMYTH,MICHAEL G.,Associate Professor/Associate Dean,121377.96,838.92
+University of Waterloo,SNYDER,C. ARNOLD,Professor,100989.19,840.80
+University of Waterloo,SOARES,JOAO,Professor,119409.00,2781.21
+University of Waterloo,SOCKEN,PAUL,Professor,131910.84,1010.40
+University of Waterloo,SONG,PETER XUE-KUN,Associate Professor,101935.88,781.20
+University of Waterloo,SORBARA,LUIGINA,Associate Professor,132905.24,649.16
+University of Waterloo,SOULIS,ERIC D.,Associate Professor,121158.12,5065.34
+University of Waterloo,SPAFFORD,MARLEE,Associate Professor,140652.94,403.08
+University of Waterloo,SPENCER,STEVEN J.,Associate Professor,101908.32,324.88
+University of Waterloo,SPRINGER,CHRISTOPHER C.,Lecturer,109314.84,837.28
+University of Waterloo,STASHUK,DANIEL W.,Associate Professor,117322.48,3038.62
+University of Waterloo,STEINER,STEFAN,Associate Professor,110731.06,342.60
+University of Waterloo,STEWART,CAMERON L.,Professor,157531.96,3237.66
+University of Waterloo,STINSON,DOUGLAS R.,Professor,170367.42,1203.12
+University of Waterloo,STOLZ,JENNIFER,Associate Professor,101083.82,736.36
+University of Waterloo,STONE,MICHEAL,Professor,116051.62,587.84
+University of Waterloo,STORJOHANN,ARNE,Assistant Professor,101696.60,334.04
+University of Waterloo,STRONG,J. GRAHAM,Professor,144392.28,1029.64
+University of Waterloo,STRUTHERS,CYNTHIA,Associate Dean/Associate Professor,118212.34,811.00
+University of Waterloo,STUBLEY,GORDON,Professor,135876.84,1008.80
+University of Waterloo,SUDICKY,EDWARD A.,Professor,147247.72,2076.14
+University of Waterloo,SULLIVAN,PEARL PEK WAH,Professor,130905.56,935.46
+University of Waterloo,SUNDARRAJ,R. RANGARAJA,Associate Professor,118925.94,675.12
+University of Waterloo,SYKES,JONATHAN,Professor,144527.08,1107.08
+University of Waterloo,SYKES,SUSAN E.,"Director, Research Ethics & Grants",105407.72,7611.82
+University of Waterloo,TALBOT-ALLAN,LAURA,"Vice President, University Relations",301395.72,691.07
+University of Waterloo,TAN,KEN SENG,Associate Professor,115396.35,329.96
+University of Waterloo,TATARYN,MYROSLAW,"President/Professor, St. Jerome's University",157590.99,1011.61
+University of Waterloo,TAYLOR,BRUCE,Professor,105887.92,791.04
+University of Waterloo,TAYLOR,DAVID J.,Professor,156078.68,480.60
+University of Waterloo,TAYLOR,WILLIAM D.,Professor,145752.74,977.64
+University of Waterloo,TCHIR,MORRIS,Associate Professor,126435.68,968.72
+University of Waterloo,THAGARD,PAUL,Professor,140154.92,1050.80
+University of Waterloo,THEBERGE,NANCY,Professor,122271.22,387.24
+University of Waterloo,THIESSEN,JAKE,Director,110799.00,0.00
+University of Waterloo,THISTLE,JOHN,Associate Professor,114550.52,877.76
+University of Waterloo,THOMPSON,GERALD A.,"Vice President, Strategic Initiatives",115069.23,0.00
+University of Waterloo,THOMPSON,JOHN E.,"Associate Vice President, University Research",159615.96,991.16
+University of Waterloo,THOMPSON,MARY E.,Professor,148826.76,2520.80
+University of Waterloo,THOMSON,NEIL R.,Professor,134922.02,996.32
+University of Waterloo,TIAN,WEIDONG,Associate Professor,108360.36,830.32
+University of Waterloo,TIESSEN,HILDI E. FROESE,Associate Professor,110816.68,849.20
+University of Waterloo,TIGHE,SUSAN L.,Associate Professor,115675.32,810.16
+University of Waterloo,TOMAN,DAVID,Associate Professor,112106.24,368.08
+University of Waterloo,TOMASSON GOODWIN,JILL P.,Associate Professor,106952.76,819.56
+University of Waterloo,TOMPA,FRANK W.,Professor,153175.48,1173.32
+University of Waterloo,TRUMAN,ROBERT,"Director, Institutional Analysis & Planning",116310.16,891.60
+University of Waterloo,TUNCEL,LEVENT,Professor,118464.04,956.68
+University of Waterloo,TZOGANAKIS,COSTAS,Professor,123267.46,926.16
+University of Waterloo,UHDE,JAN,Professor,115229.56,877.20
+University of Waterloo,VAN BEEK,PETER,Professor,141694.84,424.16
+University of Waterloo,VAN PELT,ROBERT J.,Professor,127474.20,418.52
+University of Waterloo,VANNELLI,ANTHONY,Professor,166086.10,2549.98
+University of Waterloo,VANSTONE,SCOTT,Professor,141813.71,1066.56
+University of Waterloo,VARIN,ROBERT A.,Professor,125843.64,688.72
+University of Waterloo,VETZAL,KENNETH R.,Associate Professor,150114.23,1003.40
+University of Waterloo,VIJAYAN,MATT M.,Associate Professor,108789.88,757.12
+University of Waterloo,VRSCAY,EDWARD R.,Professor,116608.64,967.40
+University of Waterloo,WAGNER,DAVID G.,Professor,100066.60,607.88
+University of Waterloo,WAINWRIGHT,JOHN,Professor,151938.16,1131.32
+University of Waterloo,WAINWRIGHT,PATRICIA E.,Professor,126339.08,414.92
+University of Waterloo,WALKER,JAMES W.,Professor,128462.28,1038.34
+University of Waterloo,WALKER,JOHN D.,"Director, Business Services",152111.16,1165.16
+University of Waterloo,WALL,GEOFFREY,Professor,137074.00,4818.54
+University of Waterloo,WAN,JUSTIN WING LOK,Associate Professor,116316.10,827.56
+University of Waterloo,WARD,OWEN P.,Professor,149934.50,1728.81
+University of Waterloo,WARNER,BARRY G.,Professor,123311.40,923.72
+University of Waterloo,WARRINER,G. KEITH,Associate Professor,111630.44,855.40
+University of Waterloo,WEAVER,CAROL A.,Associate Professor,102881.54,853.60
+University of Waterloo,WEBB,ALAN,Associate Professor,152167.80,404.48
+University of Waterloo,WECKMAN,DAVID C.,Professor,128716.96,3731.80
+University of Waterloo,WECKMAN,ELIZABETH J.,Professor,122608.88,922.68
+University of Waterloo,WEDDELL,GRANT E.,Associate Professor,123550.12,946.68
+University of Waterloo,WELLS,RICHARD P.,Professor,117843.76,903.04
+University of Waterloo,WESTHUES,KENNETH,Professor,120568.40,997.36
+University of Waterloo,WIGGINS,RICK A.,Clinical Lecturer,106243.64,814.04
+University of Waterloo,WILLARD,ROSS D.,Professor,125271.98,4987.30
+University of Waterloo,WILLIAMS,ROBERT J.,Associate Professor,132120.62,995.48
+University of Waterloo,WILLMOT,GORDON E.,Professor,145460.00,5354.04
+University of Waterloo,WILSON,WILLIAM J.,Professor,142229.00,1040.00
+University of Waterloo,WILTON,DAVID A.,Professor,137610.24,1054.04
+University of Waterloo,WIRJANTO,TONY,Professor,133793.76,2570.32
+University of Waterloo,WOLKOWICZ,HENRY,Professor,116515.18,966.40
+University of Waterloo,WONG,JOHNNY,Professor,178319.08,1204.72
+University of Waterloo,WOOD,JOANNE,Professor,117800.76,386.84
+University of Waterloo,WOOD,PETER J.,Lecturer,102407.06,302.08
+University of Waterloo,WOODY,ERIK Z.,Professor,128571.96,4471.12
+University of Waterloo,WOOLSTENCROFT,ROBERT PETER,Associate Professor,124504.64,954.00
+University of Waterloo,WORMALD,NICHOLAS,Professor,161979.40,804.68
+University of Waterloo,WORSWICK,MICHAEL J.,Professor,152196.68,1013.52
+University of Waterloo,WRIGHT,JOHN L.,Professor,129921.06,917.00
+University of Waterloo,XIE,LIANG-LIANG,Associate Professor,101370.88,776.40
+University of Waterloo,XIE,WEI-CHAU,Professor,127662.90,941.40
+University of Waterloo,XU,BAOCI,Research Associate,148840.08,229.60
+University of Waterloo,XU,LEI,Associate Professor,106924.78,4888.02
+University of Waterloo,YANG,EN-HUI H.,Professor,149136.44,440.40
+University of Waterloo,YAVUZ,MUSTAFA,Associate Professor,114812.24,352.40
+University of Waterloo,YEOW,TZE WEI,Assistant Professor,100204.56,768.52
+University of Waterloo,YEVICK,DAVID O.,Professor,120556.28,923.76
+University of Waterloo,YODER NEUFELD,THOMAS,Associate Professor,104500.85,790.58
+University of Waterloo,ZANNA,MARK P.,Professor,168942.40,1217.52
+University of Waterloo,ZELEK,JOHN,Associate Professor,102662.72,548.36
+University of Waterloo,ZELLER,ANNE C.,Professor,129157.58,956.48
+University of Waterloo,ZHOU,NORMAN YUNHONG,Associate Professor,127547.48,386.08
+University of Waterloo,ZHUANG,WEIHUA,Professor,131669.12,424.12
+University of Waterloo,ZORZITTO,FRANK A.,Professor,138215.14,4179.94
