@@ -14,18 +14,18 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/bomber1.jpg"
          },
   "13" : {
-           "latitude"     : 43.4719444,
-           "longitude"    : -080.5380556,
+           "latitude"     : 43.47221185,
+           "longitude"    : -80.5381270858596,
            "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
            "phone_number" : "519-747-9888",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/campuspizza.gif"
          },
   "17" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.4718084,
+           "longitude"    : -80.5389249907953,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-0126",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/curry.GIF"
          },
   "29" : {
            "latitude"     : null,
