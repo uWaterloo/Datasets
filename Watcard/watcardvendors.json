@@ -43,16 +43,16 @@
          },
   "11" : {
            "latitude"     : 43.4715807,
-           "longitude"    : 80.53853825,
+           "longitude"    : -80.53853825,
            "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
            "phone_number" : "519-886-9933",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/farah.gif"
          },
   "32" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
+           "latitude"     : 43.47171775,
+           "longitude"    : -80.5387763409521,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-880-0606",
            "logo"         : ""
          },
   "27" : {
