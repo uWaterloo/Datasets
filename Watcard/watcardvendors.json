@@ -35,11 +35,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/dominos.jpg"
          },
   "12" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.4715047,
+           "longitude"    : -80.5384036153438,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-725-9310",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/ESM.jpg"
          },
   "11" : {
            "latitude"     : null,
