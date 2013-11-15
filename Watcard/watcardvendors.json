@@ -28,11 +28,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/curry.GIF"
          },
   "29" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.4675986,
+           "longitude"    : -80.5685925,
+           "address"      : "2-450 Columbia Street W, Waterloo, ON N2T 2W1, Canada",
+           "phone_number" : "519-747-7300",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/dominos.jpg"
          },
   "12" : {
            "latitude"     : null,
