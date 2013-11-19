@@ -1,202 +1,205 @@
-subject,description
-AADMS,Arts Administration Specification Seminar
-AB,Arabic (WLU)
-ACC,Accounting
-ACTSC,Actuarial Science
-ADMGT,Advanced Management
-AES,Applied Environmental Studies
-AFM,Accounting & Financial Management
-AHS,Applied Health Sciences
-AMATH,Applied Mathematics
-ANTH,Anthropology
-APHYS,Applied Physics
-APPLS,Applied Language Studies
-ARBUS,Arts and Business
-ARCH,Architecture
-ARCHL,Archeology (WLU)
-ART,Art
-ARTS,Arts
-ASIAN,Asian Studies
-ASTRN,Astronomy (WLU)
-AVIA,Aviation
-BE,Business Entrepreneurship
-BET,"Business, Entrepreneurship & Technology"
-BIOL,Biology
-BME,Biomedical Engineering
-BOT,Botany
-BUS,Business
-CCIV,Classical Civilization
-CDNST,Canadian Studies
-CEDEV,Children's Education & Development
-CHE,Chemical Engineering
-CHEM,Chemistry
-CHINA,Chinese
-CIVE,Civil Engineering
-CLAS,Classical Studies
-CM,Computational Mathematics
-CMW,Church Music and Worship
-CO,Combinatorics & Optimization
-COGSCI,Cognitive Science
-COMM,Commerce
-COMPT,Computing (WLU)
-COMST,Communication Studies (WLU)
-CONST,Contemporary Studies (WLU)
-COOP,Co-op
-CROAT,Croatian
-CS,Computer Science
-CT,Catholic Thought
-CULMG,Cultural Management
-CULT,Cultural Studies
-DAC,Digital Arts Communication
-DANCE,Dance
-DEI,Digital Experience Innovation
-DES,Design
-DEVIS,Development & International Studies (WLU)
-DM,Design and Manufacturing
-DRAMA,Drama
-DUTCH,Dutch
-EARTH,Earth Science
-EASIA,East Asian Studies
-ECE,Electrical & Computer Engineering
-ECON,Economics
-EFAS,English for Academic Success
-ELE,Electrical Engineering
-ELPE,English Language Prof Exam
-ENBUS,Environment and Business
-ENGL,English
-ENVE,Environmental Engineering
-ENVS,Environmental Studies
-ERS,Environment & Resource Studies
-ESL,English as a Second Language
-FILM,Film (WLU)
-FINAN,Finance
-FINE,Fine Arts
-FR,French Studies
-FRCS,French Cultural Studies
-GBDA,Global Business & Digital Arts
-GEMCC,"Geography & Environment. Management, Climate Change"
-GENE,General Engineering
-GEOE,Geological Engineering
-GEOG,Geography
-GEOL,Geology (WLU)
-GER,German
-GERON,Gerontology
-GGOV,Global Governance
-GLOBAL,Global Studies (WLU)
-GRAD,Continuing Graduate Studies
-GRK,Greek
-GS,Graduate Studies
-HEBRW,Hebrew (WLU)
-HIST,History
-HLTH,Health Studies
-HRCS,Human Relations & Counselling Studies
-HRM,Human Resources Management
-HS,High School
-HSG,Health Studies and Gerontology
-HUMSC,Human Sciences
-HUNGN,Hungarian
-IFS,Inter-Faculty Studies
-INDEV,International Development
-INTEG,Integrated Studies
-INTERN,Internship
-INTST,International Studies
-INTTS,International Trade Seminars
-IS,Independent Studies
-ISS,Interdisciplinary Social Sciences
-ITAL,Italian
-ITALST,Italian Studies
-JAPAN,Japanese
-JS,Jewish Studies
-KIN,Kinesiology
-KOREA,Korean
-KPE,Kinesiology & Physical Education (WLU)
-LANG,Language (WLU)
-LAT,Latin
-LATAM,Latin American Studies
-LED,Local Economic Development
-LS,Legal Studies
-LSC,Legal Studies and Criminology
-MATBUS,Mathematical Business
-MATH,Mathematics
-ME,Mechanical Engineering
-MEDST,Media Studies (WLU)
-MEDVL,Medieval Studies
-MENV,Man Environment
-MES,Middle Eastern Studies
-MI,Mediterranean Studies (WLU)
-MISC,Miscellaneous
-MNS,Materials and Nano-Sciences
-MSCI,Management Sciences
-MSE,Management & Systems Engineering
-MTE,Mechatronics Engineering
-MTHEL,Mathematics Elective
-MUSIC,Music
-NANO,Nanotechnology
-NATST,Native Studies
-NE,Nanotechnology Engineering
-NES,Near Eastern Studies (WLU)
-OPTOM,Optometry
-PACS,Peace & Conflict Studies
-PAS,Personnel & Admininstration Studies
-PD,Professional Development
-PDARCH,Professional Development for Architect
-PDENG,Professional Development for Engineers
-PDPHRM,Professional Development for Pharmacy
-PED,Physical Education (WLU)
-PERST,Personnel Studies
-PHARM,Pharmacy
-PHIL,Philosophy
-PHS,Public Health Sciences
-PHYS,Physics
-PLAN,Planning
-PMATH,Pure Mathematics
-POLSH,Polish
-PORT,Portuguese
-PS,Public Service
-PSCI,Political Science
-PSYCH,Psychology
-QIC,Quantum Info & Computation
-REC,Recreation & Leisure Studies
-REES,Russian & Eastern European Studies
-RELC,Religion & Culture (WLU)
-RS,Religious Studies
-RUSS,Russian
-SCBUS,Science and Business
-SCI,Science
-SDS,Social Development Studies
-SE,Software Engineering
-SEQ,Co-op Sequence
-SI,Studies in Islam
-SIPAR,Studies in Personality & Religion
-SMF,"Sexuality, Marriage & Family"
-SOC,Sociology
-SOCIN,Social Innovation
-SOCWK,Social Work
-SOCWL,Social Welfare (WLU)
-SPAN,Spanish
-SPCOM,Speech Communication
-SPD,Spirituality & Personal Development
-STAT,Statistics
-STV,"Society, Technology & Values"
-SUSM,Sustainability Management
-SWK,Social Work
-SWREN,Social Work (BSW)
-SYDE,Systems Design Engineering
-TAX,Taxation
-THTRE,Theatre (WLU)
-TN,Theoretical Neuroscience
-TOUR,Tourism
-TPM,Technical Presentation Milestone
-TPPE,Tech Presentation Proficiency Examination
-TS,Theological Studies
-UKRAN,Ukrainian
-UN,Nuclear Engineering
-UNIV,University
-URBAN,Urban Studies (WLU)
-UU,Interdisciplinary Studies (WLU)
-VCULT,Visual Culture
-WATER,WATER
-WHMIS,Workplace Hazardous Materials Information System
-WKRPT,Work Report
-WS,Women's Studies
-ZOOL,Zoology
+subject,description,unit
+"AADMS","Arts Administration Specialization Seminar","ARTSDEAN"
+"AB","Arabic (WLU)","VPA"
+"ACC","Accounting","ACC"
+"ACINTY","Academic Integrity","VPA"
+"ACTSC","Actuarial Science","STATACTSC"
+"ADMGT","Advanced Management","CBET"
+"AES","Applied Environmental Studies","ENVDEAN"
+"AFM","Accounting and Financial Managment","ACC"
+"AHS","Applied Health Sciences","AHSDEAN"
+"AMATH","Applied Mathematics","AMATH"
+"ANTH","Anthropology","ANTH"
+"APHYS","Applied Physics","ENGDEAN"
+"APPLS","Applied Language Studies","REN"
+"ARBUS","Arts and Business","ARTSDEAN"
+"ARCH","Architecture","ARCH"
+"ARCHL","Archeology (WLU)","VPA"
+"ART","Art","FINE"
+"ARTS","Arts","ARTSDEAN"
+"ASIAN","Asian Studies","REN"
+"ASTRN","Astronomy (WLU)","VPA"
+"AVIA","Aviation","VPA"
+"BE","Business Entrepreneurship","CBET"
+"BET","Business, Entrepreneurship and Technology","CBET"
+"BIOL","Biology","BIOL"
+"BME","Biomedical Engineering","ENGDEAN"
+"BOT","Botany (WLU)","VPA"
+"BUS","Business","MATHDEAN"
+"CCIV","Classical Civilization","CLASSICS"
+"CDNST","Canadian Studies","STP"
+"CEDEV","Children's Education & Development (WLU)","VPA"
+"CHE","Chemical Engineering","CHE"
+"CHEM","Chemistry","CHEM"
+"CHINA","Chinese","REN"
+"CIVE","Civil Engineering","CIVE"
+"CLAS","Classical Studies","CLASSICS"
+"CM","Computational Mathematics","MATHDEAN"
+"CMW","Church Music and Worship","CGC"
+"CO","Combinatorics and Optimization","CO"
+"COGSCI","Cognitive Science","GRAD"
+"COMM","Commerce","MATHDEAN"
+"COMPT","Computing (WLU)","VPA"
+"COMST","Communication Studies (WLU)","VPA"
+"CONST","Contemporary Studies (WLU)","VPA"
+"COOP","Co-op","CECS"
+"CROAT","Croatian","GERSLAV"
+"CS","Computer Science","CS"
+"CT","Catholic Thought","STJ"
+"CULMG","Cultural Management","ARTSDEAN"
+"CULT","Cultural Studies","VPA"
+"DAC","Digital Arts Communication","ARTSDEAN"
+"DANCE","Dance","ARTSDEAN"
+"DEI","Digital Experience Innovation","ARTSDEAN"
+"DES","Design","SYDE"
+"DEVIS","Development & International Studies (WLU)","VPA"
+"DM","Design and Manufacturing","ME"
+"DRAMA","Drama","DRAMA"
+"DUTCH","Dutch","GERSLAV"
+"EARTH","Earth Science","EARTH"
+"EASIA","East Asian Studies","REN"
+"EBUS","Environment and Business","ENVDEAN"
+"ECE","Electrical and Computer Engineering","ECE"
+"ECON","Economics","ECON"
+"EFAS","English for Academic Success","REN"
+"ELE","Electrical Engineering","ECE"
+"ELPE","English Language Proficiency Examination","VPA"
+"ENBUS","Environment and Business","SEED"
+"ENGL","English","ENGL"
+"ENVE","Environmental Engineering","ENGDEAN"
+"ENVS","Environmental Studies","ENVDEAN"
+"ERS","Environment and Resource Studies","ERS"
+"ESL","English as a Second Language","REN"
+"EVSY","Environment and Society","VPA"
+"FILM","Film (WLU)","VPA"
+"FINAN","Finance","ACC"
+"FINE","Fine Arts","FINE"
+"FR","French Studies","FR"
+"FRCS","French Cultural Studies","FR"
+"GBDA","Global Business and Digital Arts","ARTSDEAN"
+"GEMCC","Geography and Environmental Mgmt, Climate Change","GEOG"
+"GENE","General Engineering","ENGDEAN"
+"GEOE","Geological Engineering","CIVE"
+"GEOG","Geography","GEOG"
+"GEOL","Geology (WLU)","VPA"
+"GER","German","GERSLAV"
+"GERON","Gerontology","HLTHGERON"
+"GGOV","Global Governance","ARTSDEAN"
+"GLOBAL","Global Studies (WLU)","VPA"
+"GRAD","Continuing Graduate Studies","GRADDEAN"
+"GRK","Greek","CLASSICS"
+"GS","Graduate Studies","GRADDEAN"
+"HEBRW","Hebrew (WLU)","VPA"
+"HIST","History","HIST"
+"HLTH","Health Studies","HLTHGERON"
+"HRCS","Human Relations & Counselling Studies","PSYCH"
+"HRM","Human Resources Management","ARTSDEAN"
+"HS","High School","VPA"
+"HSG","Health Studies and Gerontology","HLTHGERON"
+"HUMSC","Human Sciences","STJ"
+"HUNGN","Hungarian","GERSLAV"
+"IFS","Inter-Faculty Studies","ARTSDEAN"
+"INDEV","International Development","SEED"
+"INTEG","Integrated Studies","ENVDEAN"
+"INTERN","Internship","VPA"
+"INTST","International Studies","ARTSDEAN"
+"INTTS","International Trade Seminars","ARTSDEAN"
+"IS","Independent Studies","IS"
+"ISS","Interdisciplinary Social Sciences","REN"
+"ITAL","Italian","STJ"
+"ITALST","Italian Studies","STJ"
+"JAPAN","Japanese","REN"
+"JS","Jewish Studies","ARTSDEAN"
+"KIN","Kinesiology","KIN"
+"KOREA","Korean","REN"
+"KPE","Kinesiology and Physical Education (WLU)","VPA"
+"LANG","Language (WLU)","VPA"
+"LAT","Latin","CLASSICS"
+"LATAM","Latin American Studies","SPAN"
+"LED","Local Economic Development","ENVDEAN"
+"LS","Legal Studies","SOC"
+"LSC","Legal Studies and Criminology","ARTSDEAN"
+"MATBUS","Mathematical Business","MATHDEAN"
+"MATH","Mathematics","MATHDEAN"
+"ME","Mechanical Engineering","ME"
+"MEDST","Media Studies (WLU)","VPA"
+"MEDVL","Medieval Studies","CLASSICS"
+"MENV","Man Environment","ERS"
+"MES","Middle Eastern Studies","ARTSDEAN"
+"MI","Mediterranean Studies (WLU)","VPA"
+"MISC","Miscellaneous","VPA"
+"MNS","Materials and Nano-Sciences","CHEM"
+"MSCI","Management Sciences","MSCI"
+"MSE","Management & Systems","SYDE"
+"MTE","Mechatronics Engineering","ME"
+"MTHEL","Mathematics Elective","MATHDEAN"
+"MUSIC","Music","CGC"
+"NANO","Nanotechnology","GRAD"
+"NATST","Native Studies","STP"
+"NE","Nanotechnology Engineering","ENGDEAN"
+"NES","Near Eastern Studies (WLU)","VPA"
+"OPTOM","Optometry","OPTOM"
+"PACS","Peace and Conflict Studies","CGC"
+"PAS","Personnel & Administration Studies","ARTSDEAN"
+"PD","Professional Development","VPA"
+"PDARCH","Professional Development for Architecture Students","ARCH"
+"PDENG","Professional Development for Engineering Students","ENGDEAN"
+"PDPHRM","Professional Development for Pharmacy Students","PHARM"
+"PED","Physical Education (WLU)","VPA"
+"PERST","Personnel Studies","ARTSDEAN"
+"PHARM","Pharmacy","PHARM"
+"PHIL","Philosophy","PHIL"
+"PHS","Public Health Sciences","HLTHGERON"
+"PHYS","Physics","PHYS"
+"PLAN","Planning","PLAN"
+"PMATH","Pure Mathematics","PMATH"
+"POLSH","Polish","GERSLAV"
+"PORT","Portuguese","SPAN"
+"PS","Public Serivce","ARTSDEAN"
+"PSCI","Political Science","PSCI"
+"PSYCH","Psychology","PSYCH"
+"QIC","Quantum Information and Computation","GRAD"
+"REC","Recreation and Leisure Studies","REC"
+"REES","Russian and Eastern European Studies","GERSLAV"
+"RELC","Religion & Culture (WLU)","VPA"
+"RS","Religious Studies","RS"
+"RUSS","Russian","GERSLAV"
+"SCBUS","Science and Business","SCIDEAN"
+"SCI","Science","SCIDEAN"
+"SDS","Social Development Studies","REN"
+"SE","Software Engineering","VPA"
+"SEQ","Co-op Sequence","MATHDEAN"
+"SI","Studies in Islam","REN"
+"SIPAR","Studies in Personality & Religion","STP"
+"SMF","Sexuality, Marriage and the Family","STJ"
+"SOC","Sociology","SOC"
+"SOCIN","Social Innovation","SEED"
+"SOCWK","Social Work (Social Development Studies)","REN"
+"SOCWL","Social Welfare (WLU)","VPA"
+"SPAN","Spanish","SPAN"
+"SPCOM","Speech Communication","DRAMA"
+"SPD","Spirituality and Personal Development","STP"
+"STAT","Statistics","STATACTSC"
+"STV","Society, Technology and Values","STV"
+"SUSM","Sustainability Management","SEED"
+"SWK","Social Work","AHSDEAN"
+"SWREN","Social Work (Bachelor of Social Work)","REN"
+"SYDE","Systems Design Engineering","SYDE"
+"TAX","Taxation","ACC"
+"THTRE","Theatre (WLU)","VPA"
+"TN","Theoretical Neuroscience","GRAD"
+"TOUR","Tourism","ENVDEAN"
+"TPM","Technical Presentation Milestone","ECE"
+"TPPE","Technical Presentation Proficiency Requirement","ECE"
+"TS","Theological Studies","CGC"
+"UKRAN","Ukrainian","GERSLAV"
+"UN","Nuclear Engineering","CIVE"
+"UNIV","University","VPA"
+"URBAN","Urban Studies (WLU)","VPA"
+"UU","University Interdisciplinary Studies (WLU)","VPA"
+"VCULT","Visual Culture","FINE"
+"WATER","Water","GRAD"
+"WHMIS","Workplace Hazardous Materials Information Systems","SCIDEAN"
+"WKRPT","Work-term Report","CECS"
+"WS","Women's Studies","WS"
+"ZOOL","Zoology (WLU)","VPA"
