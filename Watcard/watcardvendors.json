@@ -105,11 +105,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/chillgrill2.jpg"
          },
   "30" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.47232705,
+           "longitude"    : -80.5473634753538,
+           "address"      : "200 University Ave W, UC, Waterloo, ON N2L 3G1, Canada",
+           "phone_number" : "519-888-4567 x33801",
+           "logo"         : "https://uwaterloo.ca/university-club/sites/ca.university-club/files/uploads/images/uclogo.gif"
          },
   "18" : {
            "latitude"     : null,
