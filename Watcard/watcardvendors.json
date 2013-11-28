@@ -2,14 +2,14 @@
   "20" : {
            "latitude"     : 43.471758,
            "longitude"    : -80.545506,
-           "address"      : "200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+           "address"      : "200 University Ave W, SLC,  Waterloo, ON N2L 3G1, Canada",
            "phone_number" : "519-886-3391",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/apple.gif"
          },
   "21" : {
            "latitude"     : 43.4715899,
            "longitude"    : -80.5450282,
-           "address"      : "200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+           "address"      : "200 University Ave W, SLC, Waterloo, ON N2L 3G1, Canada",
            "phone_number" : "519-888-4082",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/bomber1.jpg"
          },
@@ -84,11 +84,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/sobeys.jpg"
          },
   "19" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.47206,
+           "longitude"    : -80.545331,
+           "address"      : "200 University Ave W, SLC, Waterloo, ON N2L 3G1, Canada"",
+           "phone_number" : "519-746-4500",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/national.gif"
          },
   "10" : {
            "latitude"     : null,
