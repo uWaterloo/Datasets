@@ -91,11 +91,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/national.gif"
          },
   "10" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.4793344,
+           "longitude"    : -80.521739,
+           "address"      : "267 Weber St N, Waterloo, ON N2J 3H8, Canada",
+           "phone_number" : "519-884-9410",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/swiss.gif"
          },
   "25" : {
            "latitude"     : null,
