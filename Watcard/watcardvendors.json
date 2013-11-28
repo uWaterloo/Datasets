@@ -119,11 +119,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/taxi.jpg"
          },
   "15" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.47246935,
+           "longitude"    : -80.5385750120121,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-7254",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/williams1.jpg"
          },
   "31" : {
            "latitude"     : null,
