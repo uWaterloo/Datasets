@@ -1,0 +1,141 @@
+{
+  "20" : {
+           "latitude"     : 43.471758,
+           "longitude"    : -80.545506,
+           "address"      : "200 University Ave W, SLC,  Waterloo, ON N2L 3G1, Canada",
+           "phone_number" : "519-886-3391",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/apple.gif"
+         },
+  "21" : {
+           "latitude"     : 43.4715899,
+           "longitude"    : -80.5450282,
+           "address"      : "200 University Ave W, SLC, Waterloo, ON N2L 3G1, Canada",
+           "phone_number" : "519-888-4082",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/bomber1.jpg"
+         },
+  "13" : {
+           "latitude"     : 43.47221185,
+           "longitude"    : -80.5381270858596,
+           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-747-9888",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/campuspizza.gif"
+         },
+  "17" : {
+           "latitude"     : 43.4718084,
+           "longitude"    : -80.5389249907953,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-0126",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/curry.GIF"
+         },
+  "29" : {
+           "latitude"     : 43.4675986,
+           "longitude"    : -80.5685925,
+           "address"      : "2-450 Columbia Street W, Waterloo, ON N2T 2W1, Canada",
+           "phone_number" : "519-747-7300",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/dominos.jpg"
+         },
+  "12" : {
+           "latitude"     : 43.4715047,
+           "longitude"    : -80.5384036153438,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-725-9310",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/ESM.jpg"
+         },
+  "11" : {
+           "latitude"     : 43.4715807,
+           "longitude"    : -80.53853825,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-886-9933",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/farah.gif"
+         },
+  "32" : {
+           "latitude"     : 43.47171775,
+           "longitude"    : -80.5387763409521,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-880-0606",
+           "logo"         : ""
+         },
+  "27" : {
+           "latitude"     : 43.4720769,
+           "longitude"    : -80.5371024587205,
+           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-886-6490",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/frontrow.JPG"
+         },
+  "33" : {
+           "latitude"     : 43.47217525,
+           "longitude"    : -80.5382134615491,
+           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-1039",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/beijinghouse2.jpg"
+         },
+  "16" : {
+           "latitude"     : 43.472665,
+           "longitude"    : -80.536031,
+           "address"      : "150 University Ave W, Waterloo, ON N2L 3E4, Canada",
+           "phone_number" : "519-725-4927",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/pita.gif"
+         },
+  "24" : {
+           "latitude"     : 43.4686857,
+           "longitude"    : -80.5681272,
+           "address"      : "450 Columbia St W, Waterloo, ON N2T 2W1, Canada",
+           "phone_number" : "519-880-9143",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/sobeys.jpg"
+         },
+  "19" : {
+           "latitude"     : 43.47206,
+           "longitude"    : -80.545331,
+           "address"      : "200 University Ave W, SLC, Waterloo, ON N2L 3G1, Canada",
+           "phone_number" : "519-746-4500",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/national.gif"
+         },
+  "10" : {
+           "latitude"     : 43.4793344,
+           "longitude"    : -80.521739,
+           "address"      : "267 Weber St N, Waterloo, ON N2J 3H8, Canada",
+           "phone_number" : "519-884-9410",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/swiss.gif"
+         },
+  "25" : {
+           "latitude"     : 43.47245555,
+           "longitude"    : -80.5371471727811,
+           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-0020",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/chillgrill2.jpg"
+         },
+  "30" : {
+           "latitude"     : 43.47232705,
+           "longitude"    : -80.5473634753538,
+           "address"      : "200 University Ave W, UC, Waterloo, ON N2L 3G1, Canada",
+           "phone_number" : "519-888-4567 x33801",
+           "logo"         : "https://uwaterloo.ca/university-club/sites/ca.university-club/files/uploads/images/uclogo.gif"
+         },
+  "18" : {
+           "latitude"     : 43.472665,
+           "longitude"    : -80.536031,
+           "address"      : "55 King St N, Waterloo, ON N2J 2W9, Canada",
+           "phone_number" : "519-888-7777",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/taxi.jpg"
+         },
+  "15" : {
+           "latitude"     : 43.47246935,
+           "longitude"    : -80.5385750120121,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-7254",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/williams1.jpg"
+         },
+  "31" : {
+           "latitude"     : 43.4767687,
+           "longitude"    : -80.5213432,
+           "address"      : "65 University Ave E, Waterloo, ON N2J 2V9, Canada",
+           "phone_number" : "519-725-5252",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/wingsup.jpg"
+         },
+  "23" : {
+           "vendor_id"    : null
+         },
+  "14" : {
+           "vendor_id"    : null
+         }
+}
