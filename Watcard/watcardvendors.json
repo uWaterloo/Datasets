@@ -126,10 +126,10 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/williams1.jpg"
          },
   "31" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.4767687,
+           "longitude"    : -80.5213432,
+           "address"      : "65 University Ave E, Waterloo, ON N2J 2V9, Canada",
+           "phone_number" : "519-725-5252",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/wingsup.jpg"
          }
 }
