@@ -65,23 +65,23 @@
   "23" : {
            "latitude"     : 43.4722,
            "longitude"    : -80.5358,
-           "address"      : "150 University Ave W, Unit 3, Waterloo, Ontario, N2L 3E4, Canada",
+           "address"      : "150 University Ave W, Unit 3, Waterloo, ON N2L 3E4, Canada",
            "phone_number" : "519-772-0146",
            "logo"         : ""
          },
   "33" : {
            "latitude"     : 43.47217525,
            "longitude"    : -80.5382134615491,
-           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9",
+           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
            "phone_number" : "519-888-1039",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/beijinghouse2.jpg"
          },
   "16" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.472665,
+           "longitude"    : -80.536031,
+           "address"      : "150 University Ave W, Waterloo, ON N2L 3E4, Canada",
+           "phone_number" : "519-725-4927",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/pita.gif"
          },
   "14" : {
            "latitude"     : null,
