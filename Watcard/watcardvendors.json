@@ -98,11 +98,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/swiss.gif"
          },
   "25" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "latitude"     : 43.47245555,
+           "longitude"    : -80.5371471727811,
+           "address"      : "160 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-888-0020",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/chillgrill2.jpg"
          },
   "30" : {
            "latitude"     : null,
