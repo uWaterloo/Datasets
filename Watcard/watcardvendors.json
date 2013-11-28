@@ -63,10 +63,10 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/frontrow.JPG"
          },
   "23" : {
-           "latitude"     : null,
-           "longitude"    : null,
-           "address"      : "",
-           "phone_number" : "",
+           "latitude"     : 43.4722,
+           "longitude"    : -80.5358,
+           "address"      : "150 University Avenue West, Unit 3, Waterloo, Ontario, N2L 3E4, Canada",
+           "phone_number" : "519-772-0146",
            "logo"         : ""
          },
   "33" : {
