@@ -77,11 +77,11 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/pita.gif"
          },
   "24" : {
-           "latitude"     : null,
-           "longitude"    : null,
+           "latitude"     : 43.4686857,
+           "longitude"    : -80.5681272,
            "address"      : "",
-           "phone_number" : "",
-           "logo"         : ""
+           "phone_number" : "519-880-9143",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/sobeys.jpg"
          },
   "19" : {
            "latitude"     : null,
