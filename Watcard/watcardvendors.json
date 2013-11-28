@@ -131,5 +131,11 @@
            "address"      : "65 University Ave E, Waterloo, ON N2J 2V9, Canada",
            "phone_number" : "519-725-5252",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/wingsup.jpg"
+         },
+  "23" : {
+           "vendor_id"    : null
+         },
+  "14" : {
+           "vendor_id"    : null
          }
 }
