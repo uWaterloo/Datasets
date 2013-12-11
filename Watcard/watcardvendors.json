@@ -35,6 +35,7 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/dominos.jpg"
          },
   "12" : {
+           "vendor_name"  : "East Side Mario's - Waterloo (University)",
            "latitude"     : 43.4715047,
            "longitude"    : -80.5384036153438,
            "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
@@ -131,6 +132,14 @@
            "address"      : "65 University Ave E, Waterloo, ON N2J 2V9, Canada",
            "phone_number" : "519-725-5252",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/wingsup.jpg"
+         },
+  "51" : {
+           "vendor_name"  : "East Side Mario's - Waterloo (King)",
+           "latitude"     : 43.4876172,
+           "longitude"    : -80.5262448644941,
+           "address"      : "450 King St N, Waterloo, ON N2J 2Z6, Canada",
+           "phone_number" : "519-886-8388",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/ESM.jpg"
          },
   "23" : {
            "vendor_id"    : null
