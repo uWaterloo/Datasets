@@ -134,6 +134,7 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/wingsup.jpg"
          },
   "51" : {
+           "vendor_id"    : 51,
            "vendor_name"  : "East Side Mario's - Waterloo (King)",
            "latitude"     : 43.4876172,
            "longitude"    : -80.5262448644941,
@@ -142,6 +143,7 @@
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/ESM.jpg"
          },
   "52" : {
+           "vendor_id"    : 52,
            "vendor_name"  : "Grab A Greek",
            "latitude"     : 43.47274025,
            "longitude"    : -80.5379006297935,
