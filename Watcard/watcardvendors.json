@@ -141,6 +141,14 @@
            "phone_number" : "519-886-8388",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/ESM.jpg"
          },
+  "52" : {
+           "vendor_name"  : "Grab A Greek",
+           "latitude"     : 43.47274025,
+           "longitude"    : -80.5379006297935,
+           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
+           "phone_number" : "519-886-5000",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/grabagreek.jpg"
+         },
   "23" : {
            "vendor_id"    : null
          },
