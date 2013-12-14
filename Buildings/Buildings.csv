@@ -122,7 +122,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 051,RAC,"Research Advancement Centre","",43.47884,-80.55498
 052,IHB,"Integrated Health Building 1","",43.450981,-80.499828
 053,E5,"Engineering 5","",43.472953,-80.540085
-056,M3,"Mathematics 3","",43.47302,-80.54448
+056,M3,"Mathematics 3","MC3",43.47302,-80.54448
 057,EV3,"Environment 3","",43.46745,-80.54319
 058,RA2,"Research Advancement Centre 2","",43.47863,-80.55553
 060,E6,"Engineering 6","",43.47301,-80.5389
