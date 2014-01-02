@@ -2,6 +2,7 @@ import re
 import urllib2
 import csv
 
+TERM = "1139"
 CECA_URL = "http://www.ceca.uwaterloo.ca/students/sessions_details.php?id=%s"
 sessions = []
 
@@ -67,6 +68,7 @@ for month in ["2014Jan", "2014Feb", "2014Mar"]:
 		session["audience"] = others[i][0]
 		session["programs"] = others[i][1]
 		session["description"] = others[i][2].replace('</p>', '')
+		session["term"] = TERM
 		sessions.append(session)
 
 # sessions object is complete here and can be exported as needed
