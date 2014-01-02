@@ -30,7 +30,8 @@ def parse_time(html):
 	return html.split(" - ")
 
 # parsing Fall 2013
-for month in ["2013Sep", "2013Oct"]:
+TERM = "1141"
+for month in ["2014Jan", "2014Feb", "2014Mar"]:
 	html = urllib2.urlopen(CECA_URL%month).read()
 
 	# find all the fields individually. note the order matters.
@@ -65,7 +66,7 @@ for month in ["2013Sep", "2013Oct"]:
 # import json
 # print json.dumps(sessions)
 
-with open('sessions.csv', 'wb') as f:
+with open(TERM+'infosessions.csv', 'wb') as f:
 	writer = csv.writer(f)
 	writer.writerow(["id", "employer", "date", "start_time", "end_time", "location", "website", "audience", "programs", "description"])
 	for session in sessions:
