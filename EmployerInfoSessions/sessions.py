@@ -10,7 +10,7 @@ sessions = []
 def get_by_label(label, html):
 	# regex is very slow if it doesn't exist (too many wildcards); prevent that.
 	if label in html:
-		return re.findall("<td.*?>.*?%s.*?</td>.*?<td.*?>(.*?)</td>"%label, html, re.DOTALL)
+		return re.findall("<td.*?>%s </td>.*?<td.*?>(.*?)</td>"%label, html, re.DOTALL)
 	else:
 		return []
 
