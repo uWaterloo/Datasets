@@ -43,14 +43,19 @@ for month in ["2014Jan", "2014Feb", "2014Mar"]:
 	websites = map(parse_link, get_by_label("Web Site:", html))
 	others = get_others(html)
 
-	# make sure each session has all the required fields
-	if not (len(ids) == len(employers) == len(dates) == len(times) == len(locations) == len(websites) == len(others)):
+	# make sure each session has all the required fields, except id field.
+	if not (len(employers) == len(dates) == len(times) == len(locations) == len(websites) == len(others)):
 		raise Exception, 'Some sessions are missing info'
 
 	# merge/zipper all the fields together per info sessions
+	# set if offset, first number of offset sessions (passed) have no id.
+	idOffset = len(employers) - len(ids)
 	for i in range(0, len(employers)):
 		session = {}
-		session["id"] = ids[i]
+		if i < idOffset:
+                session["id"] = ""
+            else:
+                session["id"] = ids[i - idOffset]
 		session["employer"] = employers[i]
 		session["date"] = dates[i]
 		session["start_time"] = times[i][0]
