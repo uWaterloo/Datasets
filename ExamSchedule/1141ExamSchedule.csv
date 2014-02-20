@@ -1,4 +1,6 @@
-Exam,Section(s),Day,Date,"Start Time","End Time",Location
+Exam,Section(s),Day,Date,"Start
+Time","End
+Time",Location
 ACTSC 231,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,M3 1006
 ACTSC 232,001,Monday,"April 14, 2014",4:00 PM,6:30 PM,"PAC 8,10"
 ACTSC 331,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,PAC 1
@@ -27,7 +29,7 @@ AFM 475,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,PAC 4
 AFM 481,001 to 003,Thursday,"April 17, 2014",4:00 PM,6:30 PM,"PAC 1,2"
 AFM 491,001 to 003,Monday,"April 14, 2014",9:00 AM,11:30 AM,M3 1006
 AHS 150,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-AMATH 231,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,RCH 103
+AMATH 231,001,Exam removed from the schedule. Contact instructor for further information,,,,
 AMATH 242,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 6
 AMATH 250,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,"PAC 1,2"
 AMATH 331,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,PAC 3
@@ -49,7 +51,7 @@ ANTH 202,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,See Prof
 ANTH 330,001,Tuesday,"April 15, 2014",4:00 PM,6:00 PM,See Prof
 ANTH 348,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,See Prof
 ANTH 440,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-ANTH 455,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
+ANTH 455,001,Exam removed from the schedule. Contact instructor for further information,,,,
 APPLS 304R,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
 APPLS 306R,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,See Prof
 ARBUS 102,001 to 003,Friday,"April 11, 2014",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6"
@@ -57,9 +59,9 @@ ARBUS 202,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
 ARBUS 202,002,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
 ARBUS 202,003,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
 ARBUS 202,004,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-ARBUS 302,"003,004",Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 7,8"
 ARBUS 302,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 4
 ARBUS 302,002,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 5
+ARBUS 302,"003,004",Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 7,8"
 ARTS 280,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,PAC 8
 BIOL 112,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,PAC 7
 BIOL 120,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,"PAC 7,8,11,12"
@@ -243,7 +245,7 @@ CO 666,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 306
 CO 687,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,DC 1350
 COMM 231,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,M3 1006
 COMM 321,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 305
-COMM 400,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,RCH 307
+COMM 400,001,Exam removed from the schedule. Contact instructor for further information,,,,
 COMM 421,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 307
 COMM 432,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,MC 4064
 CROAT 102,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,See Prof
@@ -378,20 +380,20 @@ ECE 730,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,RCH 301
 ECE 730,004,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,RCH 211
 ECE 770,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,RCH 205
 ECON  140W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+ECON 101,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,"DC 1350,1351"
 ECON 101,"002,005",Monday,"April 14, 2014",7:30 PM,10:00 PM,"PAC 1,2,3"
 ECON 101,"003,004",Monday,"April 14, 2014",7:30 PM,10:00 PM,"PAC 4,5,6,7,8"
 ECON 101,"006,007",Monday,"April 14, 2014",7:30 PM,10:00 PM,"PAC 11,12"
-ECON 101,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,"DC 1350,1351"
 ECON 102,"001,002",Tuesday,"April 8, 2014",4:00 PM,6:30 PM,"PAC 1,2,3,8,9,10"
-ECON 102,"004,006",Tuesday,"April 8, 2014",4:00 PM,6:30 PM,"PAC 4,5,6,7,11,12"
 ECON 102,003,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,"DC 1350,1351"
+ECON 102,"004,006",Tuesday,"April 8, 2014",4:00 PM,6:30 PM,"PAC 4,5,6,7,11,12"
 ECON 102,005,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,"MC 4020,4021,4059,4061"
 ECON 102,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ECON 201,"001,003",Thursday,"April 17, 2014",9:00 AM,11:30 AM,"PAC 1,2"
 ECON 201,002,Thursday,"April 17, 2014",9:00 AM,11:30 AM,PAC 3
-ECON 202,"003,004",Thursday,"April 10, 2014",9:00 AM,11:30 AM,"PAC 4,5"
 ECON 202,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,PAC 1
 ECON 202,002,Thursday,"April 10, 2014",9:00 AM,11:30 AM,PAC 6
+ECON 202,"003,004",Thursday,"April 10, 2014",9:00 AM,11:30 AM,"PAC 4,5"
 ECON 211,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 110
 ECON 211,002,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 307
 ECON 221,001,Tuesday,"April 22, 2014",12:30 PM,2:30 PM,DC 1351
@@ -404,9 +406,9 @@ ECON 304,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,PAC 5
 ECON 321,001,Tuesday,"April 22, 2014",4:00 PM,6:00 PM,DC 1350
 ECON 321,002,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,"PAC 9,10"
 ECON 332,"001,002",Monday,"April 14, 2014",12:30 PM,2:30 PM,M3 1006
-ECON 344,"003,004",Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 7,8"
 ECON 344,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 4
 ECON 344,002,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 5
+ECON 344,"003,004",Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 7,8"
 ECON 351,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,See Prof
 ECON 361,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ECON 371,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,"RCH 110,112"
@@ -451,8 +453,8 @@ ENGL 251B,003,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
 ENGL 251B,004,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,See Prof
 ENGL 251B,005,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,RCH 206
 ENGL 251B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 306A,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,See Prof
-ENGL 306A,002,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,See Prof
+ENGL 306A,001,Exam removed from the schedule. Contact instructor for further information,,,,
+ENGL 306A,002,Exam removed from the schedule. Contact instructor for further information,,,,
 ENGL 309G,001,Friday,"April 11, 2014",7:30 PM,9:00 PM,MC 4042
 ENGL 315,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 322,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
@@ -476,7 +478,7 @@ ERS 375,001,Friday,"April 11, 2014",12:30 PM,2:30 PM,RCH 205
 ERS 375,002,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
 ERS 383,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
 ERS 404,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,RCH 105
-ERS 461,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 110
+ERS 461,001,Exam removed from the schedule. Contact instructor for further information,,,,
 ERS 675,008,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
 ESL 102R,001 to 017,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,"PAC 4,5,6,7"
 ESL 129R,"001,002",Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
@@ -524,7 +526,7 @@ GEOG 351,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,MC 4045
 GEOG 368,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 2,3"
 GEOG 407,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,MC 4040
 GEOG 432,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"PAC 9,10"
-GEOG 461,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 110
+GEOG 461,001,Exam removed from the schedule. Contact instructor for further information,,,,
 GER 101,001 to 004,Monday,"April 21, 2014",7:30 PM,10:00 PM,See Prof
 GER 101,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GER 102,"001,002",Tuesday,"April 22, 2014",12:30 PM,3:00 PM,See Prof
@@ -612,7 +614,8 @@ MATH 136,"001 to 006,008",Tuesday,"April 15, 2014",9:00 AM,11:30 AM,"PAC 1,2,3,4
 MATH 136,007,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,MC 1085
 MATH 136,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 MATH 137,001 to 003,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"PAC 4,5,6"
-MATH 138,"001,003 to 006,008,009",Thursday,"April 10, 2014",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+MATH 138,"001,003 to 006
+008,009",Thursday,"April 10, 2014",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
 MATH 138,002,Thursday,"April 10, 2014",4:00 PM,6:30 PM,"MC 4058,4059,4060,4061"
 MATH 138,007,Thursday,"April 10, 2014",4:00 PM,6:30 PM,MC 4045
 MATH 146,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 301
@@ -925,13 +928,13 @@ STAT 372,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,PAC 3
 STAT 431,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,DC 1351
 STAT 435,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,RCH 204
 STAT 436,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,RCH 204
-STAT 437,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,RCH 204
+STAT 437,001,Exam removed from the schedule. Contact instructor for further information,,,,
 STAT 443,"001,002",Tuesday,"April 22, 2014",4:00 PM,6:30 PM,"PAC 1,2"
 STAT 444,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 307
 STAT 450,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,DC 1351
 STAT 835,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,RCH 204
 STAT 836,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,RCH 204
-STAT 837,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,RCH 204
+STAT 837,001,Exam removed from the schedule. Contact instructor for further information,,,,
 STAT 844,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 307
 SWREN 120R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SWREN 220R,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
