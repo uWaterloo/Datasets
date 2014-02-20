@@ -53,9 +53,9 @@ for month in ["2014Jan", "2014Feb", "2014Mar"]:
 	for i in range(0, len(employers)):
 		session = {}
 		if i < idOffset:
-            session["id"] = ""
-        else:
-            session["id"] = ids[i - idOffset]
+			session["id"] = ""
+		else:
+			session["id"] = ids[i - idOffset]
 		session["employer"] = employers[i]
 		session["date"] = dates[i]
 		session["start_time"] = times[i][0]
