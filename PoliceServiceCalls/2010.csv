@@ -1,0 +1,95 @@
+ID,Name,Incidents
+900,Bomb Threat,2
+902,Sudden Death,3
+903,Attempt Suicide,4
+904,Sex Offence,7
+905,Indecent Act,1
+906,Threatening,7
+907,Assault,8
+909,Robbery,3
+910,Extortion,0
+911,Break and Enter,12
+912,Theft Over,2
+913,Theft of Motor Vehicle,3
+914,Have Stolen Goods,3
+915,Fraud,3
+916,Counterfeit Money,3
+917,Offensive Weapons,5
+918,Property Damage,88
+921,Drugs,29
+922,Missing Persons,3
+924,Fire,27
+925,Alarm,927
+926,Assist Citizen,86
+927,Assist Other Police Force,86
+928,Compassionate to Locate,31
+929,Unwanted Contact,28
+930,Disturbance,55
+931,Landlord-Tenant Dispute,2
+932,Neighbour Dispute,0
+933,Domestic Dispute,3
+934,Labour Dispute,0
+935,Intoxicated Person,76
+936,Unwanted Person,73
+937,Mentally Ill Person,4
+938,Public Mischief,0
+939,Dangerous Condition,5
+940,Workplace Accident,0
+942,Insecure Premise,30
+943,Lost Property,37
+944,Found Property,704
+947,Suspicious Person,70
+948,Suspicious Vehicle,30
+949,Arrest,9
+950,MVC,49
+951,MVC-PI,4
+952,MCV-H&R,9
+954,Traffic Enforcement,112
+955,Driving Complaint,16
+956,Traffic Control,243
+957,Impaired Driving,1
+959,Parking Complaint,89
+960,Abandoned Vehicle,0
+961,Liquor Offence,21
+962,Dog/Animal Complaint,14
+963,Noise Complaint,22
+964,Escort,35
+965,Youth Complaint,3
+969,Injured/Sick Person,217
+970,Missing Juvenile,1
+971,Privately Towed Vehicle,228
+973,By Law Complaint,11
+974,Premise to Check,26
+975,Paid Duty,35
+976,Follow Up,223
+979,Theft Under,220
+980,Routine Detail,24
+984,Missing Adult Located,0
+987,Recovered Vehicle,1
+988,Theft from Vehicle,1
+990,Criminal Harassment,2
+991,Technology Crime,0
+992,Graffiti,10
+993,Family Dispute,0
+997,Pornography,0
+,Administration Duties,24
+,Assist Outside Agency,86
+,Bookings,248
+,Brinks Cash Pick up,90
+,Commissionaires/G4S,3246
+,Door Openings/Closures,1141
+,Foot Patrol,4438
+,General Vehicle Patrol,2017
+,Help Line Testing,52
+,Help Line Activation,59
+,Bike Patrol,0
+,Interview,73
+,Money pick-up,0
+,Other,726
+,Parking Duties,1009
+,Presentations,14
+,Radar,38
+,Safety Hazard,55
+,Security Observation,51
+,Suspicious Package,4
+,Vehicle Maintainence Detail,1661
