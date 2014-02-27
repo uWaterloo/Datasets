@@ -22,9 +22,9 @@ AFM 131,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,DC 1350
 AFM 131,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 AFM 231,001,Tuesday,"April 15, 2014",4:00 PM,6:00 PM,M3 1006
 AFM 372,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,RCH 205
-AFM 451,001 to 003,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
+AFM 451,001 to 003,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"CPH 1346, E2 1310"
 AFM 452,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,MC 4064
-AFM 472,"001,002",Tuesday,"April 22, 2014",9:00 AM,10:30 AM,See Prof
+AFM 472,"001,002",Tuesday,"April 22, 2014",9:00 AM,10:30 AM,E2 1310
 AFM 475,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,PAC 4
 AFM 481,001 to 003,Thursday,"April 17, 2014",4:00 PM,6:30 PM,"PAC 1,2"
 AFM 491,001 to 003,Monday,"April 14, 2014",9:00 AM,11:30 AM,M3 1006
@@ -34,10 +34,10 @@ AMATH 242,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 6
 AMATH 250,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,"PAC 1,2"
 AMATH 331,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,PAC 3
 AMATH 332,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,PAC 3
-AMATH 342,001,Monday,"April 14, 2014",4:00 PM,6:30 PM,See Prof
+AMATH 342,001,Monday,"April 14, 2014",4:00 PM,6:30 PM,MC 4041
 AMATH 350,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,"PAC 11,12"
 AMATH 353,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 211
-AMATH 361,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
+AMATH 361,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,MC 4041
 AMATH 373,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 205
 AMATH 451,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,PAC 9
 AMATH 455,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,MC 4040
@@ -46,19 +46,19 @@ AMATH 655,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,MC 4040
 AMATH 675,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,PAC 11
 ANTH 101,001,Wednesday,"April 23, 2014",9:00 AM,11:00 AM,"DC 1350,1351"
 ANTH 102,001,Wednesday,"April 23, 2014",7:30 PM,9:30 PM,"PAC 5,6"
-ANTH 201,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-ANTH 202,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,See Prof
-ANTH 330,001,Tuesday,"April 15, 2014",4:00 PM,6:00 PM,See Prof
-ANTH 348,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,See Prof
-ANTH 440,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
+ANTH 201,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,PAS 1229
+ANTH 202,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,PAS 2086
+ANTH 330,001,Tuesday,"April 15, 2014",4:00 PM,6:00 PM,PAS 1229
+ANTH 348,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,PAS 2086
+ANTH 440,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,PAS 1241
 ANTH 455,001,Exam removed from the schedule. Contact instructor for further information,,,,
-APPLS 304R,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
-APPLS 306R,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,See Prof
+APPLS 304R,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,REN 2102
+APPLS 306R,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,REN 2102
 ARBUS 102,001 to 003,Friday,"April 11, 2014",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6"
-ARBUS 202,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-ARBUS 202,002,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-ARBUS 202,003,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-ARBUS 202,004,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
+ARBUS 202,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 103,105,106"
+ARBUS 202,002,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 109,110,112"
+ARBUS 202,003,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 307,308,309"
+ARBUS 202,004,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 301,302"
 ARBUS 302,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 4
 ARBUS 302,002,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 5
 ARBUS 302,"003,004",Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 7,8"
@@ -86,9 +86,9 @@ BIOL 366,001,Friday,"April 11, 2014",7:30 PM,10:00 PM,"PAC 11,12"
 BIOL 371,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 305
 BIOL 373,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,"PAC 4,5,6,7"
 BIOL 373L,001 to 008,Thursday,"April 10, 2014",7:30 PM,8:30 PM,"DC 1350,1351"
-BIOL 383,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+BIOL 383,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,RCH 309
 BIOL 403,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,RCH 205
-BIOL 428,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,See Prof
+BIOL 428,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,B2 350
 BIOL 431,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,PAC 8
 BIOL 432,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,DC 1350
 BIOL 438,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,MC 4041
@@ -143,30 +143,30 @@ BUS 498SW,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
 CHE 101,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"RCH 306,307"
 CHE 121,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 301
 CHE 161,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 302
-CHE 200,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,See Prof
-CHE 220,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,See Prof
-CHE 230,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
-CHE 311,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,See Prof
-CHE 312,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-CHE 313,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,See Prof
-CHE 322,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
-CHE 325,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-CHE 330,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,See Prof
-CHE 331,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,See Prof
-CHE 360,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-CHE 500,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-CHE 514,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
-CHE 522,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-CHE 543,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
-CHE 562,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-CHE 564,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,See Prof
-CHE 571,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
-CHE 572,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,See Prof
-CHE 574,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,See Prof
-CHE 614,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
-CHE 624,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-CHE 672,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,See Prof
-CHE 674,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,See Prof
+CHE 200,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,"E6 2024,4022"
+CHE 220,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,"E6 2024,4022"
+CHE 230,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,"E6 2024,4022"
+CHE 311,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,"E6 2024,4022"
+CHE 312,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"RCH 207,211"
+CHE 313,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,"E6 2024,4022"
+CHE 322,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"RCH 103,105"
+CHE 325,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,"E6 2024,4022"
+CHE 330,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,"E6 2024,4022"
+CHE 331,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,"E6 2024,4022"
+CHE 360,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 207,211"
+CHE 500,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,"E6 2024,4022"
+CHE 514,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,"E6 2024,4022"
+CHE 522,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,E6 2024
+CHE 543,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,E6 4022
+CHE 562,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,E6 4022
+CHE 564,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,E6 4022
+CHE 571,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,E6 2024
+CHE 572,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,"CPH 3602,3604"
+CHE 574,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,"RCH 103,105"
+CHE 614,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,"E6 2024,4022"
+CHE 624,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,E6 2024
+CHE 672,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,"CPH 3602,3604"
+CHE 674,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,"RCH 103,105"
 CHEM 120,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 1,2,3"
 CHEM 123,001 to 004,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12, M3 1006"
 CHEM 123L,001 to 014,Wednesday,"April 9, 2014",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12, MC 1056"
@@ -181,49 +181,49 @@ CHEM 262,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,DC 1351
 CHEM 265,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,RCH 110
 CHEM 267,"001,002",Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 4,5,6,7"
 CHEM 313,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,RCH 305
-CHEM 350,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
+CHEM 350,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,RCH 211
 CHEM 357,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,MC 1085
 CHEM 360,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,DC 1350
 CHEM 381,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,MC 4058
 CHEM 410,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 205
-CHEM 420,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
+CHEM 420,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,RCH 205
 CHEM 430,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,MC 4040
 CHEM 433,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 306
-CHEM 440,001,Wednesday,"April 16, 2014",7:30 PM,10:00 PM,See Prof
+CHEM 440,001,Wednesday,"April 16, 2014",7:30 PM,10:00 PM,C2 361
 CHEM 460,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,MC 4064
-CHEM 470,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
+CHEM 470,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,C2 361
 CHEM 713,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 205
-CHEM 773,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-CHINA 101R,"001,002",Thursday,"April 24, 2014",12:30 PM,3:00 PM,See Prof
-CHINA 102R,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-CHINA 120R,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,See Prof
-CHINA 200R,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
-CHINA 201R,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,See Prof
-CHINA 202R,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,See Prof
-CHINA 302R,001,Monday,"April 21, 2014",9:00 AM,10:30 AM,See Prof
+CHEM 773,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,C2 361
+CHINA 101R,"001,002",Thursday,"April 24, 2014",12:30 PM,3:00 PM,REN 2106
+CHINA 102R,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,REN 2107
+CHINA 120R,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,REN 2106
+CHINA 200R,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,REN 2102
+CHINA 201R,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,REN 2107
+CHINA 202R,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,REN 2104
+CHINA 302R,001,Monday,"April 21, 2014",9:00 AM,10:30 AM,REN 2102
 CIVE 121,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,PAC 1
 CIVE 127,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"PAC 3,8"
-CIVE 303,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 331,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,See Prof
-CIVE 342,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 353,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 375,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 381,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 405,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 415,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
-CIVE 422,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,See Prof
-CIVE 440,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,See Prof
-CIVE 460,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
-CIVE 497,002,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
-CIVE 507,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 542,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 554,001,Wednesday,"April 16, 2014",7:30 PM,10:00 PM,See Prof
-CIVE 583,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,See Prof
-CIVE 596,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+CIVE 303,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 331,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,"CPH 3602,3604,3607"
+CIVE 342,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 353,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 375,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 381,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,RCH 301
+CIVE 405,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,RCH 305
+CIVE 415,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,RCH 302
+CIVE 422,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,DWE 2527
+CIVE 440,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,CPH 3607
+CIVE 460,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,"E5 3101,3102"
+CIVE 497,002,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,DWE 2402
+CIVE 507,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"CPH 3602,3607"
+CIVE 542,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,CPH 3604
+CIVE 554,001,Wednesday,"April 16, 2014",7:30 PM,10:00 PM,CPH 3607
+CIVE 583,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,DWE 2527
+CIVE 596,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"MC 2017,2054"
 CLAS 104,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,"PAC 4,5,6,7"
 CLAS 202,001,Wednesday,"April 23, 2014",7:30 PM,9:30 PM,"PAC 1,2,3,4"
-CLAS 221,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-CLAS 325,001,Tuesday,"April 8, 2014",4:00 PM,6:00 PM,See Prof
+CLAS 221,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,PAS 1229
+CLAS 325,001,Tuesday,"April 8, 2014",4:00 PM,6:00 PM,AL 208
 CLAS 352,001,Wednesday,"April 9, 2014",12:30 PM,2:30 PM,MC 4040
 CLAS 361,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CM 730,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,RCH 204
@@ -234,7 +234,7 @@ CO 255,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,PAC 9
 CO 327,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,PAC 10
 CO 331,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,PAC 5
 CO 353,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,MC 2034
-CO 367,001,Friday,"April 11, 2014",7:30 PM,10:00 PM,See Prof
+CO 367,001,Friday,"April 11, 2014",7:30 PM,10:00 PM,MC 4040
 CO 370,001,Monday,"April 21, 2014",4:00 PM,6:30 PM,"PAC 11,12"
 CO 372,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"RCH 103,105"
 CO 466,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 306
@@ -246,9 +246,9 @@ COMM 321,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 305
 COMM 400,001,Exam removed from the schedule. Contact instructor for further information,,,,
 COMM 421,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 307
 COMM 432,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,MC 4064
-CROAT 102,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,See Prof
+CROAT 102,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,ML 212
 CROAT 102,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CROAT 202,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+CROAT 202,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,ML 212
 CS 100,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CS 115,"001,002",Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"PAC 4,5,6,7"
 CS 116,001 to 005,Monday,"April 14, 2014",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8"
@@ -307,8 +307,8 @@ CS 686,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,MC 1085
 CS 687,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,RCH 204
 DRAMA 387,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 DUTCH 101,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-DUTCH 102,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-DUTCH 202,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,See Prof
+DUTCH 102,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,ML 246
+DUTCH 202,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,RCH 212
 EARTH 122,001,Wednesday,"April 23, 2014",12:30 PM,2:30 PM,"DC 1350,1351"
 EARTH 122L,001 to 004,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"PAC 2,3"
 EARTH 221,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 9,10"
@@ -329,8 +329,8 @@ EARTH 491,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 205
 EARTH 656,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,PAC 11
 EARTH 658,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 205
 EARTH 659,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 211
-EASIA 210R,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
-EASIA 275R,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+EASIA 210R,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,REN 2106
+EASIA 275R,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,REN 2106
 ECE 103,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,"MC 4020,4021,4045"
 ECE 106,"001,002",Tuesday,"April 8, 2014",12:30 PM,3:00 PM,"PAC 1,2,3"
 ECE 124,"001,002",Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"PAC 4,5,6"
@@ -354,7 +354,7 @@ ECE 361,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"RCH 110,112"
 ECE 375,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 112
 ECE 380,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,DC 1350
 ECE 390,"001,002",Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"DC 1350,1351"
-ECE 404,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+ECE 404,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,PHY 235
 ECE 405,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,RCH 204
 ECE 406,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,RCH 301
 ECE 409,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,MC 2054
@@ -407,79 +407,79 @@ ECON 332,"001,002",Monday,"April 14, 2014",12:30 PM,2:30 PM,M3 1006
 ECON 344,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 4
 ECON 344,002,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 5
 ECON 344,"003,004",Thursday,"April 10, 2014",7:30 PM,10:00 PM,"PAC 7,8"
-ECON 351,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,See Prof
+ECON 351,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,MC 4020
 ECON 361,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ECON 371,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,"RCH 110,112"
 ECON 372,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,"RCH 103,105"
 ECON 401,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,PAC 11
 ECON 402,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,RCH 309
 ECON 405,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 205
-ECON 421,001,Saturday,"April 12, 2014",7:30 PM,9:30 PM,See Prof
+ECON 421,001,Saturday,"April 12, 2014",7:30 PM,9:30 PM,RCH 305
 ECON 483,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 305
 ELPE 100,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENBUS 302,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,"PAC 5,6"
 ENGL 100A,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,MC 2035
 ENGL 101A,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,PAC 2
-ENGL 101A,002,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+ENGL 101A,002,Monday,"April 21, 2014",12:30 PM,3:00 PM,STJ 2011
 ENGL 101B,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,MC 4041
 ENGL 101B,002,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 206
-ENGL 102B,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+ENGL 102B,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,REN 2102
 ENGL 102B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 104,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,PAC 6
 ENGL 108A,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,MC 4045
-ENGL 108A,002,Monday,"April 14, 2014",7:30 PM,9:00 PM,See Prof
-ENGL 108C,001,Monday,"April 14, 2014",12:30 PM,2:30 PM,See Prof
-ENGL 108F,001,Thursday,"April 17, 2014",4:00 PM,6:30 PM,See Prof
+ENGL 108A,002,Monday,"April 14, 2014",7:30 PM,9:00 PM,REN 2106
+ENGL 108C,001,Monday,"April 14, 2014",12:30 PM,2:30 PM,STJ 3027
+ENGL 108F,001,Thursday,"April 17, 2014",4:00 PM,6:30 PM,STJ 2009
 ENGL 108H,001,Monday,"April 14, 2014",4:00 PM,6:30 PM,PAC 9
-ENGL 108M,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,See Prof
+ENGL 108M,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,HH 2107
 ENGL 109,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 129R,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+ENGL 129R,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,REN 2107
 ENGL 190,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 200A,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 200B,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,MC 4045
-ENGL 200B,002,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
+ENGL 200B,002,Thursday,"April 10, 2014",9:00 AM,11:30 AM,STJ 3027
 ENGL 200B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 202A,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 208B,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,See Prof
+ENGL 208B,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,STJ 2017
 ENGL 208C,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 208E,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
-ENGL 208N,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
+ENGL 208E,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,REN 2107
+ENGL 208N,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,STJ 2011
 ENGL 210F,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 251A,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 251B,002,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-ENGL 251B,003,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
-ENGL 251B,004,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,See Prof
+ENGL 251B,002,Thursday,"April 17, 2014",12:30 PM,3:00 PM,STJ 3012
+ENGL 251B,003,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,STJ 3016
+ENGL 251B,004,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,HH 2107
 ENGL 251B,005,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,RCH 206
 ENGL 251B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 306A,001,Exam removed from the schedule. Contact instructor for further information,,,,
 ENGL 306A,002,Exam removed from the schedule. Contact instructor for further information,,,,
 ENGL 309G,001,Friday,"April 11, 2014",7:30 PM,9:00 PM,MC 4042
 ENGL 315,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 322,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
-ENGL 325,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+ENGL 322,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,STJ 3016
+ENGL 325,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,STJ 2009
 ENGL 330A,001,Tuesday,"April 22, 2014",9:00 AM,11:00 AM,MC 4040
 ENGL 363,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 371,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
+ENGL 371,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,STJ 2009
 ENGL 460B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENVE 221,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
-ENVE 224,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,See Prof
-ENVE 275,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-ENVE 375,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
-ENVE 391,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,See Prof
-ENVE 573,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,See Prof
-ENVE 577,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,See Prof
+ENVE 221,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,RCH 301
+ENVE 224,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,RCH 301
+ENVE 275,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 110
+ENVE 375,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,CPH 3607
+ENVE 391,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,CPH 3607
+ENVE 573,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,CPH 3604
+ENVE 577,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,CPH 3602
 ENVS 200,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,PAC 6
 ENVS 220,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"DC 1350,1351"
-ERS 270,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-ERS 365,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
+ERS 270,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,AL 208
+ERS 365,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,AL 105
 ERS 375,001,Friday,"April 11, 2014",12:30 PM,2:30 PM,RCH 205
-ERS 375,002,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
-ERS 383,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+ERS 375,002,Thursday,"April 10, 2014",9:00 AM,11:30 AM,EV1 350
+ERS 383,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,RCH 309
 ERS 404,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,RCH 105
 ERS 461,001,Exam removed from the schedule. Contact instructor for further information,,,,
-ERS 675,008,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
+ERS 675,008,Thursday,"April 10, 2014",9:00 AM,11:30 AM,EV1 350
 ESL 102R,001 to 017,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,"PAC 4,5,6,7"
-ESL 129R,"001,002",Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+ESL 129R,"001,002",Monday,"April 21, 2014",12:30 PM,3:00 PM,REN 2106
 ESL 129R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FINE 204,002,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 9
 FINE 262,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,MC 2038
@@ -490,23 +490,23 @@ FR 152,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-
 FR 192A,001 to 004,Thursday,"April 24, 2014",12:30 PM,2:30 PM,DC 1350
 FR 192A,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FR 192B,001 to 004,Tuesday,"April 8, 2014",12:30 PM,2:30 PM,"RCH 103,105"
-FR 192B,005,Tuesday,"April 8, 2014",12:30 PM,2:30 PM,See Prof
+FR 192B,005,Tuesday,"April 8, 2014",12:30 PM,2:30 PM,STJ 2009
 FR 192B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 197,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,See Prof
+FR 197,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,RCH 306
 FR 197,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 251,001,Tuesday,"April 8, 2014",12:30 PM,2:30 PM,See Prof
+FR 251,001,Tuesday,"April 8, 2014",12:30 PM,2:30 PM,RCH 309
 FR 251,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 252,"001,002",Thursday,"April 10, 2014",4:00 PM,6:30 PM,See Prof
-FR 263,001,Thursday,"April 24, 2014",4:00 PM,6:00 PM,See Prof
+FR 252,"001,002",Thursday,"April 10, 2014",4:00 PM,6:30 PM,AL 208
+FR 263,001,Thursday,"April 24, 2014",4:00 PM,6:00 PM,ML 349
 FR 276,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FR 292,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 297,"001,002",Saturday,"April 12, 2014",4:00 PM,6:00 PM,See Prof
+FR 297,"001,002",Saturday,"April 12, 2014",4:00 PM,6:00 PM,RCH 204
 FR 355,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 400,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-FR 410,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-FR 452,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
-FR 473,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,See Prof
-FR 484,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,See Prof
+FR 400,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,STJ 3014
+FR 410,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,ML 349
+FR 452,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,AL 208
+FR 473,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,AL 105
+FR 484,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,AL 208
 GBDA 102,"001,002",Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 11,12"
 GBDA 204,002,Tuesday,"April 15, 2014",12:30 PM,2:30 PM,RCH 306
 GBDA 205,"001,002",Wednesday,"April 9, 2014",4:00 PM,6:30 PM,PAC 3
@@ -525,49 +525,49 @@ GEOG 368,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 2,3"
 GEOG 407,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,MC 4040
 GEOG 432,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"PAC 9,10"
 GEOG 461,001,Exam removed from the schedule. Contact instructor for further information,,,,
-GER 101,001 to 004,Monday,"April 21, 2014",7:30 PM,10:00 PM,See Prof
+GER 101,001 to 004,Monday,"April 21, 2014",7:30 PM,10:00 PM,RCH 301
 GER 101,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-GER 102,"001,002",Tuesday,"April 22, 2014",12:30 PM,3:00 PM,See Prof
+GER 102,"001,002",Tuesday,"April 22, 2014",12:30 PM,3:00 PM,AL 105
 GER 102,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-GER 180,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
+GER 180,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,EV3 1408
 GER 201,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-GER 202,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+GER 202,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,ML 246
 GER 202,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-GER 212,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
-GER 334,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
+GER 212,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,RCH 106
+GER 334,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,ML 212
 GERON 210,001,Thursday,"April 10, 2014",7:30 PM,9:00 PM,"MC 4059,4061"
 GERON 352,001,Monday,"April 14, 2014",4:00 PM,6:00 PM,M3 1006
-GRK 102,001,Wednesday,"April 16, 2014",4:00 PM,6:00 PM,See Prof
+GRK 102,001,Wednesday,"April 16, 2014",4:00 PM,6:00 PM,ML 349
 HIST 105,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,"PAC 4,5"
-HIST 111,001,Tuesday,"April 8, 2014",9:00 AM,10:30 AM,See Prof
-HIST 113,001,Thursday,"April 17, 2014",4:00 PM,6:30 PM,See Prof
-HIST 223,001,Friday,"April 11, 2014",9:00 AM,11:00 AM,See Prof
-HIST 226,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
-HIST 262,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
-HIST 268,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-HIST 278,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,See Prof
-HIST 291,002,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,See Prof
-HIST 318,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-HIST 348,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,See Prof
-HIST 350,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,See Prof
-HIST 380,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
+HIST 111,001,Tuesday,"April 8, 2014",9:00 AM,10:30 AM,CGC 1111
+HIST 113,001,Thursday,"April 17, 2014",4:00 PM,6:30 PM,STJ 2017
+HIST 223,001,Friday,"April 11, 2014",9:00 AM,11:00 AM,"HH 1101,1102"
+HIST 226,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,HH 1101
+HIST 262,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,HH 1102
+HIST 268,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,HH 1101
+HIST 278,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,RCH 207
+HIST 291,002,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,STJ 2009
+HIST 318,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,STJ 3015
+HIST 348,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,CGC 1300
+HIST 350,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,STJ 3015
+HIST 380,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,STJ 2009
 HLTH 102,"001,002",Friday,"April 11, 2014",9:00 AM,11:30 AM,"DC 1350,1351"
 HLTH 210,001,Thursday,"April 10, 2014",7:30 PM,9:00 PM,"MC 4059,4061"
-HLTH 253,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
+HLTH 253,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,EV3 1408
 HLTH 330,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,DC 1350
 HLTH 352,001,Monday,"April 14, 2014",4:00 PM,6:00 PM,M3 1006
 HLTH 420,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"PAC 9,10"
 HRM 301,001,Saturday,"April 12, 2014",12:30 PM,2:30 PM,"MC 2034,2035"
 HRM 307,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,RCH 112
 HUMSC 101,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,PAC 9
-HUMSC 301,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+HUMSC 301,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,STJ 3012
 INDEV 101,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,PAC 8
 INTEG 275,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 9
-JAPAN 101R,"001,002",Tuesday,"April 15, 2014",7:30 PM,9:30 PM,See Prof
-JAPAN 102R,001,Thursday,"April 24, 2014",9:00 AM,11:00 AM,See Prof
-JAPAN 201R,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-JAPAN 202R,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,See Prof
-JAPAN 301R,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,See Prof
+JAPAN 101R,"001,002",Tuesday,"April 15, 2014",7:30 PM,9:30 PM,STJ 1036
+JAPAN 102R,001,Thursday,"April 24, 2014",9:00 AM,11:00 AM,REN 2106
+JAPAN 201R,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,REN 2107
+JAPAN 202R,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,REN 2107
+JAPAN 301R,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,REN 2102
 KIN 100,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,"PAC 1,2,3"
 KIN 100L,001 to 010,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,M3 1006
 KIN 101,001 to 014,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"DC 1350,1351"
@@ -582,17 +582,17 @@ KIN 420,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,RCH 112
 KIN 422,001,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,PAC 6
 KIN 427,001,Tuesday,"April 8, 2014",9:00 AM,10:30 AM,M3 1006
 KIN 471,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,PAC 12
-KOREA 101R,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,See Prof
+KOREA 101R,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,REN 2106
 LAT 102,"001,002",Monday,"April 21, 2014",7:30 PM,9:30 PM,PAC 10
 LAT 202,001,Monday,"April 14, 2014",12:30 PM,2:30 PM,RCH 206
 LS 101,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-LS 102,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
-LS 102,002,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-LS 201,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-LS 280,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,See Prof
-LS 321,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,See Prof
-LS 403,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
-LS 403,002,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
+LS 102,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,STJ 1036
+LS 102,002,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,STJ 1036
+LS 201,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,HH 1101
+LS 280,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,CPH 1346
+LS 321,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,HH 1101
+LS 403,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,PAS 1229
+LS 403,002,Monday,"April 14, 2014",7:30 PM,10:00 PM,PAS 1229
 MATBUS 470,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 301
 MATBUS 471,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,"PAC 9,10"
 MATBUS 472,001,Thursday,"April 17, 2014",4:00 PM,6:30 PM,PAC 3
@@ -618,7 +618,7 @@ MATH 138,002,Thursday,"April 10, 2014",4:00 PM,6:30 PM,"MC 4058,4059,4060,4061"
 MATH 138,007,Thursday,"April 10, 2014",4:00 PM,6:30 PM,MC 4045
 MATH 146,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,RCH 301
 MATH 148,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,PAC 6
-MATH 207,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,See Prof
+MATH 207,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,MC 4064
 MATH 215,"001,002",Monday,"April 21, 2014",12:30 PM,3:00 PM,"PAC 3,8"
 MATH 217,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"PAC 9,10"
 MATH 225,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -626,75 +626,75 @@ MATH 228,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,PAC 11
 MATH 235,"001,002",Friday,"April 11, 2014",7:30 PM,10:00 PM,"PAC 1,2"
 MATH 237,"001,002",Tuesday,"April 15, 2014",9:00 AM,11:30 AM,"RCH 301,302,307"
 MATH 239,001 to 003,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,"DC 1350,1351"
-MATH 247,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
+MATH 247,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,MC 4064
 MATH 249,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,MC 4042
 ME 115,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,"PAC 11,12"
-ME 201,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
-ME 202,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,See Prof
-ME 219,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-ME 230,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-ME 269,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,See Prof
-ME 303,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,See Prof
-ME 321,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
-ME 322,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-ME 340,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
-ME 351,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
-ME 351,002,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-ME 353,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-ME 354,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,See Prof
-ME 360,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-ME 362,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-ME 452,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
-ME 524,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,See Prof
-ME 526,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,See Prof
-ME 535,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,See Prof
-ME 538,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,See Prof
-ME 547,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,See Prof
-ME 555,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
-ME 557,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-ME 563,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
-ME 564,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-ME 567,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-ME 571,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,See Prof
-ME 596,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,See Prof
-ME 598,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,See Prof
-ME 599,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
-ME 760,002,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
-ME 765,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-MNS 102,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-MSCI 121,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-MSCI 131,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+ME 201,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 202,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 219,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 230,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 269,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 303,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 321,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,"DWE 1501,2402"
+ME 322,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,"DWE 2402,2527"
+ME 340,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 351,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,"E5 3101,3102"
+ME 351,002,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"DWE 2527,3516,3522"
+ME 353,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"DWE 2402,2527"
+ME 354,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 360,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 362,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 452,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,CPH 3679
+ME 524,001,Saturday,"April 12, 2014",9:00 AM,11:30 AM,CPH 3679
+ME 526,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 535,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,CPH 3679
+ME 538,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,CPH 3679
+ME 547,001,Thursday,"April 17, 2014",9:00 AM,11:30 AM,DWE 2402
+ME 555,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,CPH 3679
+ME 557,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,CPH 3679
+ME 563,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,CPH 3679
+ME 564,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 567,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,CPH 3679
+ME 571,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,DWE 2402
+ME 596,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,CPH 3679
+ME 598,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,"E5 3101,3102"
+ME 599,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,DWE 2402
+ME 760,002,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,DWE 2402
+ME 765,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,CPH 3679
+MNS 102,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,RCH 207
+MSCI 121,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"RCH 103,105"
+MSCI 131,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,"RCH 103,105"
 MSCI 211,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 MSCI 261,"002,003",Wednesday,"April 16, 2014",9:00 AM,11:30 AM,"DC 1350,1351"
 MSCI 311,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,DC 1351
-MSCI 331,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,See Prof
+MSCI 331,001,Wednesday,"April 23, 2014",7:30 PM,10:00 PM,E2 1303A
 MSCI 334,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 112
 MSCI 431,"001,002",Monday,"April 14, 2014",7:30 PM,10:00 PM,"PAC 9,10"
 MSCI 432,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,MC 4061
-MSCI 435,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,See Prof
+MSCI 435,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,E2 1303A
 MSCI 436,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 302
-MSCI 541,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-MSCI 555,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
+MSCI 541,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,CPH 4333
+MSCI 555,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,E2 1303A
 MSCI 631,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,"PAC 9,10"
-MSCI 700,002,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,See Prof
-MSCI 703,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,See Prof
-MSCI 720,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-MTE 201,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,See Prof
-MTE 202,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-MTE 219,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-MTE 262,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-MTE 322,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
-MTE 360,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+MSCI 700,002,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,E2 1303A
+MSCI 703,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,E2 1303A
+MSCI 720,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,CPH 4333
+MTE 201,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,"DWE 1501,2402"
+MTE 202,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"DWE 1501,2402"
+MTE 219,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"DWE 1501,2402"
+MTE 262,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,"RCH 301,307"
+MTE 322,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,DC 1350
+MTE 360,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"DWE 1501,3522,3522A"
 MTHEL 131,001,Saturday,"April 12, 2014",9:00 AM,11:00 AM,"DC 1350,1351"
-MUSIC 100,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,See Prof
-MUSIC 100,002,Monday,"April 21, 2014",7:30 PM,10:00 PM,See Prof
-MUSIC 240,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,See Prof
-MUSIC 246,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-MUSIC 253,001,Thursday,"April 10, 2014",12:30 PM,2:30 PM,See Prof
-MUSIC 255,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,See Prof
-MUSIC 260,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,See Prof
-MUSIC 361,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-MUSIC 371,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
+MUSIC 100,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,"CGC 1111,2108"
+MUSIC 100,002,Monday,"April 21, 2014",7:30 PM,10:00 PM,DC 1350
+MUSIC 240,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,CGC 1111
+MUSIC 246,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,"CGC 1111,2108"
+MUSIC 253,001,Thursday,"April 10, 2014",12:30 PM,2:30 PM,CGC 1302
+MUSIC 255,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,CGC 1111
+MUSIC 260,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,CGC 1111
+MUSIC 361,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,CGC 1302
+MUSIC 371,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,CGC 1302
 NE 115,001,Wednesday,"April 23, 2014",12:30 PM,3:00 PM,PAC 1
 NE 122,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,PAC 7
 NE 125,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"PAC 11,12"
@@ -729,28 +729,28 @@ OPTOM 365,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,REV 200
 OPTOM 367,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,REV 200
 OPTOM 377,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,REV 200
 PACS 201,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PACS 202,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-PACS 320,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-PHIL 110A,002,Saturday,"April 12, 2014",12:30 PM,3:00 PM,See Prof
-PHIL 110B,002,Thursday,"April 24, 2014",4:00 PM,6:30 PM,See Prof
+PACS 202,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,"RCH 301,302"
+PACS 320,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,CGC 1111
+PHIL 110A,002,Saturday,"April 12, 2014",12:30 PM,3:00 PM,RCH 306
+PHIL 110B,002,Thursday,"April 24, 2014",4:00 PM,6:30 PM,"AL 105,124"
 PHIL 110B,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 145,001,Monday,"April 21, 2014",4:00 PM,6:30 PM,See Prof
+PHIL 145,001,Monday,"April 21, 2014",4:00 PM,6:30 PM,DC 1350
 PHIL 145,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 209,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
-PHIL 215,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-PHIL 215,002,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-PHIL 215,003,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-PHIL 215,004,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-PHIL 215,005,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,See Prof
-PHIL 216,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
+PHIL 209,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,STJ 3012
+PHIL 215,001,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 103,105,106"
+PHIL 215,002,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,STJ 2017
+PHIL 215,003,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 109,110,112"
+PHIL 215,004,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 307,308,309"
+PHIL 215,005,Wednesday,"April 16, 2014",12:30 PM,3:00 PM,"RCH 301,302"
+PHIL 216,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,AL 105
 PHIL 221,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 224,001,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,See Prof
+PHIL 224,001,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,AL 208
 PHIL 250A,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 250B,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,See Prof
+PHIL 250B,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,AL 105
 PHIL 256,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 265,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 380,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 404,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+PHIL 404,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,STJ 3015
 PHYS 111,"001,002",Tuesday,"April 22, 2014",12:30 PM,3:00 PM,"PAC 1,2,3,4,5"
 PHYS 112,001 to 003,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6"
 PHYS 112L,001 to 023,Tuesday,"April 22, 2014",7:30 PM,8:30 PM,"PAC 1,2,3,4,5"
@@ -763,32 +763,32 @@ PHYS 132L,001 to 006,Tuesday,"April 22, 2014",7:30 PM,8:30 PM,"PAC 6,7"
 PHYS 175,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"PAC 9,10"
 PHYS 233,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,RCH 204
 PHYS 234,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,"PAC 9,10"
-PHYS 239,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,See Prof
+PHYS 239,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,PHY 313
 PHYS 242,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,RCH 307
-PHYS 256,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+PHYS 256,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,PHY 235
 PHYS 263,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,MC 4061
-PHYS 270,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+PHYS 270,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,PHY 308
 PHYS 280,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,MC 2038
 PHYS 335,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,PAC 4
 PHYS 342,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,RCH 301
 PHYS 359,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,"MC 2034,2035"
-PHYS 365,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,See Prof
+PHYS 365,001,Saturday,"April 12, 2014",4:00 PM,6:30 PM,RCH 306
 PHYS 375,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,PAC 8
-PHYS 391,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
-PHYS 393,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
-PHYS 395,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-PHYS 435,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
+PHYS 391,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,PHY 313
+PHYS 393,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,PHY 308
+PHYS 395,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,PHY 313
+PHYS 435,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,PHY 308
 PHYS 441B,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,RCH 112
 PHYS 444,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,PAC 2
 PHYS 476,001,Wednesday,"April 16, 2014",4:00 PM,6:30 PM,PAC 11
-PLAN 203,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-PLAN 261,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+PLAN 203,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,HH 1101
+PLAN 261,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"AL 208,211"
 PLAN 281,001,Thursday,"April 10, 2014",4:00 PM,6:30 PM,"DC 1350,1351"
 PLAN 341,001,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 2,3"
 PLAN 353,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,PAC 9
 PLAN 432,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"PAC 9,10"
 PLAN 471,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,"RCH 307,308"
-PLAN 478,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,See Prof
+PLAN 478,001,Friday,"April 11, 2014",4:00 PM,6:30 PM,CPH 3607
 PLAN 630,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,"RCH 307,308"
 PLAN 639,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"PAC 9,10"
 PMATH 331,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,PAC 3
@@ -802,7 +802,7 @@ PMATH 370,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,RCH 211
 PMATH 432,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,PAC 12
 PMATH 446,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,RCH 204
 PMATH 450,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,RCH 305
-PMATH 464,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
+PMATH 464,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,MC 5136B
 PMATH 467,001,Thursday,"April 17, 2014",4:00 PM,6:30 PM,PAC 10
 PMATH 632,001,Tuesday,"April 22, 2014",4:00 PM,6:30 PM,PAC 12
 PMATH 646,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,RCH 204
@@ -824,34 +824,34 @@ PSYCH 257,001,Tuesday,"April 15, 2014",4:00 PM,5:30 PM,"DC 1350,1351,MC 1085"
 PSYCH 292,001,Wednesday,"April 9, 2014",4:00 PM,6:30 PM,"PAC 1,2"
 PSYCH 312,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 317,001,Friday,"April 11, 2014",7:30 PM,10:00 PM,PAC 8
-PSYCH 318,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
-PSYCH 322R,001,Thursday,"April 17, 2014",12:30 PM,2:30 PM,See Prof
-PSYCH 323R,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,See Prof
-PSYCH 334R,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
+PSYCH 318,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,STJ 2017
+PSYCH 322R,001,Thursday,"April 17, 2014",12:30 PM,2:30 PM,REN 2106
+PSYCH 323R,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,REN 2106
+PSYCH 334R,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,REN 2106
 PSYCH 340,001,Thursday,"April 17, 2014",7:30 PM,9:30 PM,PAC 8
 PSYCH 356,001,Wednesday,"April 16, 2014",9:00 AM,11:00 AM,"RCH 103,105"
 PSYCH 372,001,Thursday,"April 10, 2014",9:00 AM,11:00 AM,"RCH 307,308"
-REC 306,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
+REC 306,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,EV1 132
 REC 362,001,Monday,"April 14, 2014",4:00 PM,6:00 PM,M3 1006
 REC 383,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"PAC 9,10"
-REES 180,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-REES 274,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+REES 180,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,EV3 1408
+REES 274,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,ML 212
 RS 100,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 RS 110,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 RS 170,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-RS 203,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,See Prof
-RS 235,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
+RS 203,001,Monday,"April 21, 2014",9:00 AM,11:30 AM,PAS 1241
+RS 235,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,CGC 1302
 RS 254,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,MC 4041
-RS 256,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-RS 258,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-RS 262,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,See Prof
-RS 275,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-RS 315,001,Tuesday,"April 8, 2014",4:00 PM,6:00 PM,See Prof
-RS 344,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,See Prof
-RUSS 101,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,See Prof
-RUSS 102,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-RUSS 202,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-RUSS 302,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+RS 256,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,CGC 1111
+RS 258,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,CGC 1300
+RS 262,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,PAS 1229
+RS 275,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,REN 2106
+RS 315,001,Tuesday,"April 8, 2014",4:00 PM,6:00 PM,AL 208
+RS 344,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,CGC 1300
+RUSS 101,001,Thursday,"April 24, 2014",12:30 PM,3:00 PM,ML 246
+RUSS 102,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,ML 246
+RUSS 202,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,ML 246
+RUSS 302,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,ML 246
 SCI 200,001,Friday,"April 11, 2014",7:30 PM,10:00 PM,PAC 3
 SCI 201,001,Saturday,"April 12, 2014",12:30 PM,3:00 PM,"PAC 2,3"
 SCI 227,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,MC 1085
@@ -859,46 +859,47 @@ SCI 238,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,"PAC 4,5"
 SCI 250,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,"PAC 1,2"
 SDS 131R,001 to 003,Wednesday,"April 9, 2014",12:30 PM,3:00 PM,PAC 1
 SDS 131R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SDS 150R,001 to 003,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
+SDS 150R,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,STJ 1036
+SDS 150R,"002,003",Monday,"April 14, 2014",12:30 PM,3:00 PM,STJ 1036
 SDS 150R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SDS 220R,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
+SDS 220R,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,"REN 2102,2107"
 SDS 250R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SDS 350R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SE 350,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"RCH 302,305"
 SE 380,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,"PAC 11,12"
 SE 465,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,"PAC 7,8"
-SMF 204,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
-SMF 318,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+SMF 204,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,STJ 1036
+SMF 318,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,STJ 3015
 SOC 101,001,Wednesday,"April 16, 2014",7:30 PM,10:00 PM,"PAC 1,2,3,4,5"
 SOC 101,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SOC 102,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,DC 1351
-SOC 202,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,See Prof
-SOC 222,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,See Prof
+SOC 202,001,Thursday,"April 17, 2014",7:30 PM,10:00 PM,AL 208
+SOC 222,001,Wednesday,"April 9, 2014",9:00 AM,11:30 AM,HH 1101
 SOC 224R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SOC 227,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,DC 1350
 SOC 228,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,"PAC 4,5"
 SOC 229,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SOC 243,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,"PAC 9,10"
-SOC 253,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-SOC 260,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,See Prof
-SOC 280,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,See Prof
-SOC 302,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-SOC 321,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,See Prof
-SOC 325,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,See Prof
-SOC 326,001,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,See Prof
+SOC 253,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,EV3 1408
+SOC 260,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,PAS 1229
+SOC 280,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,CPH 1346
+SOC 302,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,STJ 2011
+SOC 321,001,Thursday,"April 24, 2014",4:00 PM,6:30 PM,HH 1101
+SOC 325,001,Monday,"April 21, 2014",12:30 PM,3:00 PM,DC 1350
+SOC 326,001,Tuesday,"April 22, 2014",12:30 PM,3:00 PM,PAS 1229
 SOC 340,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 204
 SOC 352,001,Monday,"April 14, 2014",4:00 PM,6:00 PM,M3 1006
 SOC 370,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SOC 415,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,See Prof
-SOC 760,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,See Prof
-SOCWK 120R,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,See Prof
+SOC 415,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,PAS 1229
+SOC 760,001,Tuesday,"April 8, 2014",4:00 PM,6:30 PM,PAS 1229
+SOCWK 120R,001,Tuesday,"April 22, 2014",7:30 PM,10:00 PM,REN 2106
 SOCWK 120R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SOCWK 220R,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-SOCWK 221R,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
+SOCWK 220R,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,REN 2106
+SOCWK 221R,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,REN 2106
 SOCWK 221R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SOCWK 222R,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,See Prof
+SOCWK 222R,001,Monday,"April 14, 2014",7:30 PM,10:00 PM,"REN 0104,0106"
 SOCWK 222R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SOCWK 300R,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+SOCWK 300R,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,REN 2106
 SOCWK 300R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SOCWK 320R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SOCWK 357R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -907,7 +908,7 @@ SPAN 102,"001,002",Monday,"April 14, 2014",9:00 AM,11:00 AM,RCH 302
 SPAN 102,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SPAN 201A,001,Saturday,"April 12, 2014",9:00 AM,11:00 AM,MC 4042
 SPAN 201B,"001,002",Tuesday,"April 22, 2014",9:00 AM,11:00 AM,MC 4041
-SPCOM 430,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
+SPCOM 430,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,ML 349
 STAT 202,"001,002",Monday,"April 21, 2014",4:00 PM,6:30 PM,"PAC 1,2,3"
 STAT 211,"001,002",Tuesday,"April 22, 2014",4:00 PM,6:30 PM,"PAC 4,5,6,7"
 STAT 220,001,Thursday,"April 10, 2014",7:30 PM,10:00 PM,PAC 10
@@ -935,31 +936,31 @@ STAT 836,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,RCH 204
 STAT 837,001,Exam removed from the schedule. Contact instructor for further information,,,,
 STAT 844,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,RCH 307
 SWREN 120R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SWREN 220R,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,See Prof
-SWREN 221R,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,See Prof
+SWREN 220R,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,REN 2106
+SWREN 221R,001,Thursday,"April 10, 2014",12:30 PM,3:00 PM,REN 2106
 SWREN 221R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SWREN 222R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SWREN 224R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SWREN 300R,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
+SWREN 300R,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,REN 2106
 SWREN 300R,081 On Line,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SYDE 182,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,See Prof
-SYDE 211,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-SYDE 223,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
-SYDE 261,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,See Prof
-SYDE 283,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,See Prof
-SYDE 285,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,See Prof
-SYDE 312,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-SYDE 322,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,See Prof
-SYDE 332,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,See Prof
+SYDE 182,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,DC 1351
+SYDE 211,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 223,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 261,001,Wednesday,"April 16, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 283,001,Friday,"April 11, 2014",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 285,001,Monday,"April 14, 2014",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 312,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 322,001,Friday,"April 11, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 332,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
 SYDE 334,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,DC 1351
-SYDE 352,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,See Prof
-SYDE 372,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,See Prof
-SYDE 384,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,See Prof
-SYDE 544,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-TS 636,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,See Prof
-TS 642,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,See Prof
-WS 206,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,See Prof
-WS 208E,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,See Prof
+SYDE 352,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 372,001,Wednesday,"April 23, 2014",4:00 PM,6:30 PM,"E5 6006,6008"
+SYDE 384,001,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 544,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"E5 6006,6008"
+TS 636,001,Tuesday,"April 22, 2014",9:00 AM,11:30 AM,CGC 1111
+TS 642,001,Tuesday,"April 8, 2014",7:30 PM,9:30 PM,CGC 1300
+WS 206,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,HH 1101
+WS 208E,001,Wednesday,"April 9, 2014",7:30 PM,10:00 PM,REN 2107
 WS 262,001,Saturday,"April 12, 2014",7:30 PM,10:00 PM,MC 2038
-WS 306,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,See Prof
-WS 325,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,See Prof
+WS 306,001,Tuesday,"April 8, 2014",12:30 PM,3:00 PM,EV1 132
+WS 325,001,Tuesday,"April 8, 2014",9:00 AM,11:30 AM,STJ 2009
