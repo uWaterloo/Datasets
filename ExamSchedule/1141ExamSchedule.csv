@@ -508,7 +508,7 @@ FR 452,001,Tuesday,"April 15, 2014",7:30 PM,10:00 PM,AL 208
 FR 473,001,Tuesday,"April 15, 2014",9:00 AM,11:30 AM,AL 105
 FR 484,001,Tuesday,"April 8, 2014",7:30 PM,10:00 PM,AL 208
 GBDA 102,"001,002",Wednesday,"April 9, 2014",12:30 PM,3:00 PM,"PAC 11,12"
-GBDA 204,002,Tuesday,"April 15, 2014",12:30 PM,2:30 PM,RCH 306
+GBDA 204,002,Exam removed from the schedule. Contact instructor for further information,,,,
 GBDA 205,"001,002",Wednesday,"April 9, 2014",4:00 PM,6:30 PM,PAC 3
 GENE 121,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,"PAC 2,3"
 GENE 123,001 to 004,Wednesday,"April 23, 2014",9:00 AM,11:30 AM,"PAC 4,5,6,7"
@@ -686,10 +686,10 @@ MTE 262,001,Tuesday,"April 15, 2014",12:30 PM,3:00 PM,"RCH 301,307"
 MTE 322,001,Thursday,"April 10, 2014",9:00 AM,11:30 AM,DC 1350
 MTE 360,001,Monday,"April 14, 2014",9:00 AM,11:30 AM,"DWE 1501,3522,3522A"
 MTHEL 131,001,Saturday,"April 12, 2014",9:00 AM,11:00 AM,"DC 1350,1351"
-MUSIC 100,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,"CGC 1111,2108"
-MUSIC 100,002,Monday,"April 21, 2014",7:30 PM,10:00 PM,DC 1350
+MUSIC 100,001,Monday,"April 21, 2014",7:30 PM,10:00 PM,"CGC 1111,1208"
+MUSIC 100,002,Exam removed from the schedule. Contact instructor for further information,,,,
 MUSIC 240,001,Thursday,"April 24, 2014",7:30 PM,10:00 PM,CGC 1111
-MUSIC 246,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,"CGC 1111,2108"
+MUSIC 246,001,Thursday,"April 17, 2014",12:30 PM,3:00 PM,"CGC 1111,1208"
 MUSIC 253,001,Thursday,"April 10, 2014",12:30 PM,2:30 PM,CGC 1302
 MUSIC 255,001,Tuesday,"April 15, 2014",4:00 PM,6:30 PM,CGC 1111
 MUSIC 260,001,Thursday,"April 24, 2014",9:00 AM,11:30 AM,CGC 1111
