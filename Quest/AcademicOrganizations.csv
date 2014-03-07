@@ -1,71 +1,71 @@
-organization,description
-ACC,"School of Accounting & Finance"
-AHS,Applied Health Sciences
-AHSDEAN,Dean of Applied Health Sciences
-AMATH,Applied Mathematics
-ANTH,Anthropology
-ARCH,School of Architecture
-ART,Arts
-ARTSDEAN,Dean of Arts
-BIOL,Biology
-CBET,"Conrad Business, Entrepreneurship & Technology"
-CECS,Coop Education & Career Action
-CGC,Conrad Grebel College
-CHE,Chemical Engineering
-CHEM,Chemistry
-CIVE,Civil & Environmental Engineering
-CLASSICS,Classical Studies
-CO,Combinatorics & Optimization
-CS,Computer Science - Cheriton School
-DANCE,Dance
-DRAMA,Drama & Speech Communication
-EARTH,Earth & Environmental Sciences
-ECE,Electrical & Computer Engineering
-ECON,Economics
-ENG,Engineering
-ENGDEAN,Dean of Engineering
-ENGL,English Language & Literature
-ENV,Environment
-ENVDEAN,Dean of Environment
-ERS,Environment & Resource Studies
-FINE,Fine Arts
-FR,French Studies
-GEOE,Geological Engineering
-GEOG,Geography & Environmental Management
-GERSLAV,Germanic & Slavic Studies
-GRAD,Graduate Studies
-GRADDEAN,Graduate Dean
-HIST,History
-HLTHGERON,School of Public Health Science
-ICR,Institute for Computer Research
-IS,Independent Studies
-KIN,Kinesiology
-MAT,Math
-MATHDEAN,Dean of Mathematics
-ME,Mechanical & Mechatronics Engineering
-MSCI,Management Sciences
-OPTOM,School of Optometry & Vision Science
-PHARM,School of Pharmacy
-PHIL,Philosophy
-PHYS,Physics & Astronomy
-PLAN,School of Planning
-PMATH,Pure Mathematics
-PSCI,Political Science
-PSYCH,Psychology
-REC,Recreation & Leisure Studies
-REN,Renison University College
-RS,Religious Studies
-SCI,Science
-SCIDEAN,Dean of Science Office
-SEED,"School of Environment, Enterprise & Development"
-SOC,Sociology & Legal Studies
-SPAN,Spanish & Latin American Studies
-STATACTSC,Statistics & Actuarial Science
-STJ,St Jerome's University
-STP,St Paul's University College
-STV,"Society, Technology & Values"
-SYDE,Systems Design Engineering
-THC,Theatre Centre
-UW,University of Waterloo
-VPA,Interdisciplinary Studies
-WS,Women's Studies
+unit_code,group_code,unit_short_name,unit_full_name
+"ACC","ART","Accounting&Finance - School of","Accounting & Finance - School of"
+"AHS","AHS","Applied Health Sciences","Applied Health Sciences"
+"AHSDEAN","AHS","Dean of Applied Hlth Sciences","Dean of Applied Health Sciences"
+"AMATH","MAT","Applied Mathematics","Applied Mathematics"
+"ANTH","ART","Anthropology","Anthropology"
+"ARCH","ENG","Architecture - School of","Architecture - School of"
+"ART","ART","Arts","Arts"
+"ARTSDEAN","ART","Dean of Arts","Dean of Arts"
+"BIOL","SCI","Biology","Biology"
+"CBET","ENG","Conrad Bus, Entrepren & Tech","Conrad Business, Entrepreneurship & Technology Ctr"
+"CECS",NULL,"Coop Educn & Career Action","Co-operative Education & Career Action"
+"CGC","CGC","Conrad Grebel College","Conrad Grebel College"
+"CHE","ENG","Chemical Engineering","Chemical Engineering"
+"CHEM","SCI","Chemistry","Chemistry"
+"CIVE","ENG","Civil & Environmental Engg","Civil and Environmental Engineering"
+"CLASSICS","ART","Classical Studies","Classical Studies"
+"CO","MAT","Combinatorics & Optimization","Combinatorics & Optimization"
+"CS","MAT","Computer Sci - Cheriton School","Computer Science - David R. Cheriton School of"
+"DANCE","ART","Dance","Dance"
+"DRAMA","ART","Drama & Speech Communication","Drama & Speech Communication"
+"EARTH","SCI","Earth & Environmental Sciences","Earth and Environmental Sciences"
+"ECE","ENG","Electrical & Computer Engg","Electrical & Computer Engineering"
+"ECON","ART","Economics","Economics"
+"ENG","ENG","Engineering","Engineering"
+"ENGDEAN","ENG","Dean of Engineering","Dean of Engineering"
+"ENGL","ART","English Language & Literature","English Language & Literature"
+"ENV","ENV","Environment","Environment"
+"ENVDEAN","ENV","Dean of Environment","Dean of Environment"
+"ERS","ENV","Environment & Resource Studies","Environment & Resource Studies"
+"FINE","ART","Fine Arts","Fine Arts"
+"FR","ART","French Studies","French Studies"
+"GEOE","ENG","Geological Engineering","Geological Engineering"
+"GEOG","ENV","Geography & Environmental Mgmt","Geography & Environmental Management"
+"GERSLAV","ART","Germanic & Slavic Studies","Germanic & Slavic Studies"
+"GRAD","GRAD","Graduate Studies","Graduate Studies"
+"GRADDEAN","GRAD","Graduate Dean","Graduate Dean"
+"HIST","ART","History","History"
+"HLTHGERON","AHS","Public Hlth&Hlth Sys-School of","Public Health and Health Systems - School of"
+"ICR","MAT","Inst for Computer Research","Institute for Computer Research"
+"IS","IS","Independent Studies","Independent Studies"
+"KIN","AHS","Kinesiology","Kinesiology"
+"MAT","MAT","Math","Math"
+"MATHDEAN","MAT","Dean of Mathematics","Dean of Mathematics"
+"ME","ENG","Mechanical & Mechatronics Engg","Mechanical and Mechatronics Engineering"
+"MSCI","ENG","Management Sciences","Management Sciences"
+"OPTOM","SCI","Optometry & Vision Sci-Sch of","Optometry & Vision Science - School of"
+"PHARM","SCI","Pharmacy - School of","Pharmacy - School of"
+"PHIL","ART","Philosophy","Philosophy"
+"PHYS","SCI","Physics & Astronomy","Physics & Astronomy"
+"PLAN","ENV","Planning - School of","Planning - School of"
+"PMATH","MAT","Pure Mathematics","Pure Mathematics"
+"PSCI","ART","Political Science","Political Science"
+"PSYCH","ART","Psychology","Psychology"
+"REC","AHS","Recreation & Leisure Studies","Recreation & Leisure Studies"
+"REN","REN","Renison University College","Renison University College"
+"RS","ART","Religious Studies","Religious Studies"
+"SCI","SCI","Science","Science"
+"SCIDEAN","SCI","Dean of Science Office","Dean of Science Office"
+"SEED","ENV","Env, Entr & Dev - School of","Environment, Enterprise & Development - School of"
+"SOC","ART","Sociology & Legal Studies","Sociology and Legal Studies"
+"SPAN","ART","Spanish & Latin American Stud.","Spanish & Latin American Studies"
+"STATACTSC","MAT","Statistics & Actuarial Science","Statistics & Actuarial Science"
+"STJ","STJ","St Jerome's University","St Jerome's University"
+"STP","STP","St Paul's University College","St Paul's University College"
+"STV","ENG","Society, Technology&Values Ctr","Society, Technology & Values Centre"
+"SYDE","ENG","Systems Design Engineering","Systems Design Engineering"
+"THC",NULL,"Theatre Centre","Theatre Centre"
+"UW",NULL,"University of Waterloo","University of Waterloo"
+"VPA","VPA","Interdisciplinary Studies","Interdisciplinary Studies"
+"WS","ART","Women's Studies","Women's Studies"
