@@ -42,7 +42,7 @@ subject,description,unit,group
 "COMPT","Computing (WLU)","VPA","VPA"
 "COMST","Communication Studies (WLU)","VPA","VPA"
 "CONST","Contemporary Studies (WLU)","VPA","VPA"
-"COOP","Co-op","CECS",""
+"COOP","Co-op","CECS",
 "CROAT","Croatian","GERSLAV","ART"
 "CS","Computer Science","CS","MAT"
 "CT","Catholic Thought","STJ","STJ"
@@ -200,6 +200,6 @@ subject,description,unit,group
 "VCULT","Visual Culture","FINE","ART"
 "WATER","Water","GRAD","GRAD"
 "WHMIS","Workplace Hazardous Materials Information Systems","SCIDEAN","SCI"
-"WKRPT","Work-term Report","CECS",""
+"WKRPT","Work-term Report","CECS",
 "WS","Women's Studies","WS","ART"
 "ZOOL","Zoology (WLU)","VPA","VPA"
