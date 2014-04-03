@@ -4,5 +4,4 @@ The data from this csv file is being used for the GooseWatch method:
 
 http://api.uwaterloo.ca/#!/goosewatch
 
-This data is manually updated by tallying https://uwaterloo.ca/student-success/goose-watch-2013
-
+These data are manually updated when submissions to http://goose-watch.uwaterloo.ca are approved by MAD and the Student Success Office
