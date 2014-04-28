@@ -11,8 +11,8 @@ SESSION_REGEX_INDICES = ["id", "date", "start_time", "end_time", "location", "we
 
 sessions = []
 year = 2014
-term = "winter"
-for month in [1, 2, 3, 4]:
+term = "spring"
+for month in [5, 6, 7, 8]:
 	html = urllib2.urlopen(CECA_URL%(month, year)).read()
 
 	for session_html in re.findall(HTML_REGEX, html):
