@@ -12,26 +12,31 @@ SESSION_REGEX_INDICES = ["id", "date", "start_time", "end_time", "location", "we
 sessions = []
 year = 2014
 term = "spring"
-for month in [5, 6, 7, 8]:
-	html = urllib2.urlopen(CECA_URL%(month, year)).read()
+file_name = "1145infosessions.csv"
+term_map = {"winter" : [1, 2, 3, 4], "spring" : [5, 6, 7, 8], "fall" : [9, 10, 11, 12]}
 
-	for session_html in re.findall(HTML_REGEX, html):
-		m = re.match(SESSION_REGEX, session_html)
-		if m:
-			session = {}
-			for i in range(0, len(SESSION_REGEX_INDICES)):
-				session[SESSION_REGEX_INDICES[i]] = re.sub(r"</?.+/?>", "", m.group(i+1))
-			sessions.append(session)
-		else:
-			print "Warning: found session html but could not parse (if the following is not a proper info session, please ignore this warning):"
-			print session_html
+for month in term_map[term]:
+  html = urllib2.urlopen(CECA_URL%(month, year)).read()
+
+  for session_html in re.findall(HTML_REGEX, html):
+    m = re.match(SESSION_REGEX, session_html)
+    if m:
+      session = {}
+      for i in range(0, len(SESSION_REGEX_INDICES)):
+        session[SESSION_REGEX_INDICES[i]] = re.sub(r"</?.+/?>", "", m.group(i+1))
+      sessions.append(session)
+    else:
+      print "Warning: found session html but could not parse (if the following is not a proper info session, please ignore this warning):"
+      print session_html
 
 # sessions object is complete here and can be exported as needed
 # import json
 # print json.dumps(sessions)
 
-with open('%d_%s_infosessions.csv'%(year, term), 'wb') as f:
-	writer = csv.writer(f)
-	writer.writerow(["id", "employer", "date", "start_time", "end_time", "location", "website", "audience", "programs", "description"])
-	for session in sessions:
-		writer.writerow([session["id"], session["employer"], session["date"], session["start_time"], session["end_time"], session["location"], session["website"], session["audience"], session["programs"], session["description"]])
+fhandle = open(file_name, 'wb')
+writer = csv.writer(fhandle)
+writer.writerow(["id", "employer", "date", "start_time", "end_time", "location", "website", "audience", "programs", "description"])
+
+for session in sessions:
+  writer.writerow([session["id"], session["employer"], session["date"], session["start_time"], session["end_time"], session["location"], session["website"], session["audience"], session["programs"], session["description"]])
+
