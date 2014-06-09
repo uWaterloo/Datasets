@@ -1,0 +1,926 @@
+Exam,Section(s),Day,Date,Start,End,Location(s)
+ACTSC 221,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"PAC  9,10"
+ACTSC 231,"001,002",Tuesday,"December 20, 2011",9:00 AM,11:30 AM,"PAC 4,5,6,7"
+ACTSC 232,001,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,"PAC 7,8"
+ACTSC 331,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,M3 1006
+ACTSC 371,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"MC 4020,4021,4059,4061"
+ACTSC 372,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"DC 1350,1351"
+ACTSC 431,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,M3 1006
+ACTSC 432,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,PAC 3
+ACTSC 445,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,"PAC 7,8"
+ACTSC 446,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,M3 1006
+ACTSC 463,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 103
+ACTSC 471,"001,002",Monday,"December 19, 2011",4:00 PM,6:30 PM,"MC 4059,4061"
+ACTSC 831,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,M3 1006
+ACTSC 832,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,PAC 3
+ACTSC 845,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,"PAC 7,8"
+ACTSC 846,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,M3 1006
+ACTSC 863,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 103
+AFM 101,001 to 006,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,11,12"
+AFM 101,051 (UAE),Sunday,"December 11, 2011",9:00 AM,11:30 AM,Exam Hall
+AFM 102,051 (UAE),Wednesday,"December 7, 2011",9:00 AM,11:30 AM,Z-242
+AFM 123,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,DC 1350
+AFM 131,001 to 005,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+AFM 131,,,,View your exam schedule in Quest,,,,
+AFM 201,001 to 005,Tuesday,"December 13, 2011",9:00 AM,10:30 AM,"DC 1350,1351,MC 4059,4061"
+AFM 291,001 to 006,Friday,"December 9, 2011",12:30 PM,3:00 PM,"PAC 5,6,7,8"
+AFM 333,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"HH 1101,1102,1104"
+AFM 371,"001,002",Thursday,"December 15, 2011",9:00 AM,11:30 AM,"RCH 302,305"
+AFM 372,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,RCH 301
+AFM 391,001 to 003,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,"PAC 4,5"
+AFM 401,001 to 003,Thursday,"December 8, 2011",7:30 PM,10:00 PM,M3 1006
+AFM 415,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,RCH 306
+AFM 451,001 to 003,Saturday,"December 10, 2011",12:30 PM,3:00 PM,"E2 1310, CPH 1346"
+AFM 461,001 to 003,Monday,"December 12, 2011",12:30 PM,3:00 PM,M3 1006
+AFM 471,001 to 003,Saturday,"December 17, 2011",12:30 PM,3:00 PM,"PAC 9,11,12"
+AFM 472,001 to 003,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,M3 1006
+AFM 476,"001,002",Monday,"December 19, 2011",4:00 PM,6:30 PM,"MC 4059,4061"
+AFM 481,001 to 003,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,M3 1006
+AFM 482,001 to 003,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"E2 1310, CPH 1346"
+AFM 491,001 to 003,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+AHS 150,,,,View your exam schedule in Quest,,,,
+AMATH 231,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,RCH 110
+AMATH 250,001,Thursday,"December 22, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+AMATH 271,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,PAC 3
+AMATH 331,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,"MC 4059,4061"
+AMATH 350,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+AMATH 351,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,"PAC 9,10"
+AMATH 453,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,MC 4064
+AMATH 456,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,MC 1085
+AMATH 463,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,RCH 204
+AMATH 473,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,MC 4060
+AMATH 663,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,RCH 204
+ANTH 101,001,Friday,"December 9, 2011",7:30 PM,9:30 PM,"PAC 7,8"
+ANTH 102,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"PAC 5,6"
+ANTH 102,,,,View your exam schedule in Quest,,,,
+ANTH 201,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,RCH 301
+ANTH 260,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAS 1229
+ANTH 352,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,PAS 2086
+ANTH 355,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,PAS 2214
+ANTH 440,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,PAS 1229
+APPLS 205R,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REN 0201
+APPLS 301,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,ML 246
+ARBUS 101,"001,002",Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+ARBUS 202,,,,View your exam schedule in Quest,,,,
+ARBUS 301,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"HH 1101,1102,1104"
+ARTS 280,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,HH 1101
+BIOL 110,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,"PAC 1,2,4"
+BIOL 130,001 to 004,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+BIOL 130,,,"View your exam schedule in Quest",,,,
+BIOL 140,"001 to 003",Wednesday,"December 14, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
+BIOL 140,,,,View your exam schedule in Quest,,,,
+BIOL 140L,001 to 023,Wednesday,"December 21, 2011",9:00 AM,10:00 AM,"PAC 4,5,6,7,8,11,12"
+BIOL 208,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+BIOL 250,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"PAC 1,2,3,4"
+BIOL 273,,,,View your exam schedule in Quest,,,,
+BIOL 302,001,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,"DC 1350,1351,MC 2017,2054"
+BIOL 303,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,"PAC 7,8,9,10,11,12"
+BIOL 308,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,9,10"
+BIOL 323,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,RCH 205
+BIOL 325,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,B2 350
+BIOL 335L,"001,002",Tuesday,"December 13, 2011",7:30 PM,10:00 PM,MC 2035
+BIOL 342,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"RCH 301,302"
+BIOL 345,001,Wednesday,"December 21, 2011",7:30 PM,10:00 PM,"RCH 204,211"
+BIOL 350,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"PAC 11,12"
+BIOL 354,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+BIOL 359,001,Friday,"December 16, 2011",7:30 PM,10:00 PM,"PAC 1,2"
+BIOL 364,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+BIOL 370,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,MC 1085
+BIOL 373,,,,View your exam schedule in Quest,,,,
+BIOL 376,001,Tuesday,"December 20, 2011",7:30 PM,10:00 PM,PAC 1
+BIOL 434,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,M3 1006
+BIOL 439,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"DC 1350,1351"
+BIOL 443,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+BIOL 444,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,RCH 301
+BIOL 447,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,RCH 301
+BIOL 448,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,"PAC 9,10"
+BIOL 456,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 205
+BIOL 466,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,RCH 205
+BIOL 473,001,Monday,"December 12, 2011",7:30 PM,10:00 PM,"MC 2017,2054"
+BIOL 479,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,DC 1350
+BUS 111W,"001,003,004",See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 111W,"006,007,008,010,011",Friday,"December 9, 2011",7:30 PM,10:00 PM,"RCH 301,302,305,306,307"
+BUS 227W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 231W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 288W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 352W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 354W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 357W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 362W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 383W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 385W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 387W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 397W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 412W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 413W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 417W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 423W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 447W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 451W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 452W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 466W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 467W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 473W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 474W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 477W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 482W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+BUS 487W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+CHE 100,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,"PAC 4,5"
+CHE 100,051 (UAE),Tuesday,"December 13, 2011",9:00 AM,11:30 AM,Exam Hall
+CHE 102,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,"RCH 103,105,110"
+CHE 102,002 to 010,Friday,"December 16, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+CHE 102,011,Friday,"December 16, 2011",9:00 AM,11:30 AM,"RCH 302,305"
+CHE 102,051 (UAE),Wednesday,"December 7, 2011",9:00 AM,11:30 AM,Exam Hall
+CHE 200,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 200,051 (UAE),Thursday,"December 15, 2011",9:00 AM,11:30 AM,Z-238
+CHE 211,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 220,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,"DWE 2527,2529"
+CHE 220,051 (UAE),Thursday,"December 8, 2011",9:00 AM,11:30 AM,Exam Hall
+CHE 230,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 230,051 (UAE),Tuesday,"December 13, 2011",9:00 AM,11:30 AM,Z-238
+CHE 231,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 241,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 241,051 (UAE),Sunday,"December 18, 2011",9:00 AM,11:30 AM,Z-238
+CHE 311,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 313,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,DWE 1501
+CHE 325,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,DWE 1501
+CHE 331,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 420,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 480,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 541,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,DWE 2529
+CHEM 120,001 to 006,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+CHEM 120L,001 to 014,Monday,"December 12, 2011",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+CHEM 123,,,,View your exam schedule in Quest,,,,
+CHEM 209,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"RCH 301,302,306"
+CHEM 217,,,,View your exam schedule in Quest,,,,
+CHEM 220,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"PAC 7,8"
+CHEM 237,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,M3 1006
+CHEM 240,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAC 2
+CHEM 262,001,Monday,"December 12, 2011",7:30 PM,10:00 PM,"MC 2034,2035"
+CHEM 264,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,"PAC 8,9,10"
+CHEM 266,"001,002",Thursday,"December 8, 2011",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7"
+CHEM 266,,,,View your exam schedule in Quest,,,,
+CHEM 310,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,RCH 307
+CHEM 323,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 305
+CHEM 331,001,Thursday,"December 22, 2011",9:00 AM,11:30 AM,PAC 4
+CHEM 333,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"RCH 103,105"
+CHEM 356,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,RCH 305
+CHEM 370,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,MC 4041
+CHEM 404,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,"PAC 9,10"
+CHEM 430,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,MC 4042
+CHEM 432,001,Tuesday,"December 20, 2011",7:30 PM,9:30 PM,PAC 11
+CHEM 464,001,Thursday,"December 15, 2011",4:00 PM,6:30 PM,MC 4058
+CHINA 101R,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,REN 2107
+CHINA 102R,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,REN 2102
+CHINA 120R,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,"REN 0104,0106"
+CHINA 200R,001,Thursday,"December 8, 2011",9:00 AM,10:30 AM,REN 2104
+CHINA 201R,001,Wednesday,"December 21, 2011",7:30 PM,10:00 PM,REN 2107
+CHINA 202R,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,REN 2102
+CHINA 301R,001,Monday,"December 19, 2011",9:00 AM,10:30 AM,REN 2102
+CIVE 204,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,"CPH 3602,3604,3607"
+CIVE 204,051 (UAE),Tuesday,"December 13, 2011",9:00 AM,11:30 AM,Z-239
+CIVE 221,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 221,051 (UAE),Sunday,"December 11, 2011",9:00 AM,11:30 AM,Z-238
+CIVE 224,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 224,051 (UAE),Thursday,"December 8, 2011",9:00 AM,11:30 AM,Exam Hall
+CIVE 265,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 265,051 (UAE),Sunday,"December 18, 2011",9:00 AM,11:30 AM,Z-238
+CIVE 292,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"RCH 103,105,110"
+CIVE 306,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,"RCH 305,306"
+CIVE 313,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"MC 4059,4061"
+CIVE 332,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"DWE 3516,3518,3522"
+CIVE 343,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"DWE 3516,3522"
+CIVE 354,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,"CPH 3602,3604,3607"
+CIVE 381,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,CPH 3604
+CIVE 486,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,RCH 306
+CIVE 497,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+CLAS 100,001,Wednesday,"December 21, 2011",12:30 PM,2:30 PM,"RCH 103,105"
+CLAS 104,001,Tuesday,"December 20, 2011",4:00 PM,6:00 PM,"PAC 6,7,8"
+CLAS 221,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,RCH 301
+CLAS 231,001,Friday,"December 9, 2011",9:00 AM,11:00 AM,MC 4040
+CLAS 241,001,Monday,"December 12, 2011",9:00 AM,11:00 AM,AL 208
+CLAS 361,,,,View your exam schedule in Quest,,,,
+CLAS 486,001,Saturday,"December 10, 2011",4:00 PM,6:00 PM,ML 246
+CM 339,001 to 003,Friday,"December 16, 2011",12:30 PM,3:00 PM,"MC 4020,4021,4059,4061"
+CM 340,"001,002",Thursday,"December 8, 2011",12:30 PM,3:00 PM,"DC 1350,1351"
+CM 361,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 211
+CM 375,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,PAC 3
+CM 443,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,"PAC 11,12"
+CM 462,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 211
+CM 762,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 211
+CMW 363,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,CGC 1300
+CO 227,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,RCH 309
+CO 250,"001,002",Thursday,"December 8, 2011",12:30 PM,3:00 PM,"DC 1350,1351"
+CO 330,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,RCH 204
+CO 342,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 1
+CO 351,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,MC 2034
+CO 355,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,PAC 8
+CO 370,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,"PAC 11,12"
+CO 430,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 205
+CO 442,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,RCH 306
+CO 450,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,RCH 204
+CO 456,001,Friday,"December 9, 2011",4:00 PM,6:30 PM,RCH 307
+CO 463,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,MC 4060
+CO 485,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 2
+CO 630,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 205
+CO 642,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,RCH 306
+CO 650,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,RCH 204
+CO 663,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,MC 4060
+CO 685,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 2
+COMM 231,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,"PAC 1,2"
+COMM 421,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 206
+COMM 431,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,PAC 10
+CROAT 101,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,ML 212
+CROAT 101,,,,View your exam schedule in Quest,,,,
+CROAT 201,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,ML 212
+CS 100,,,,View your exam schedule in Quest,,,,
+CS 115,001 to 009,Saturday,"December 17, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8"
+CS 115,051 (UAE),Tuesday,"December 13, 2011",9:00 AM,11:30 AM,Exam Hall
+CS 116,"001,002",Saturday,"December 17, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+CS 116,051 (UAE),Sunday,"December 18, 2011",9:00 AM,11:30 AM,Z-242
+CS 135,001 to 007,Saturday,"December 17, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6"
+CS 136,"001,002",Saturday,"December 17, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+CS 137,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,DC 1350
+CS 145,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 3
+CS 200,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,RCH 211
+CS 200L,,Thursday,"December 15, 2011",12:30 PM,3:00 PM,"MC 2062,2063"
+CS 230,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+CS 234,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,PAC 5
+CS 240,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,"RCH 103,105"
+CS 241,001 to 003,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,"PAC 1,2"
+CS 245,001 to 003,Saturday,"December 17, 2011",4:00 PM,6:30 PM,"PAC 4,5,6,11,12"
+CS 246,001 to 003,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+CS 251,"001,002",Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"MC 4020,4021"
+CS 330,"001,002",Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"RCH 301,302,305,309"
+CS 335,001,Friday,"December 9, 2011",4:00 PM,6:30 PM,RCH 301
+CS 338,001,Wednesday,"December 21, 2011",9:00 AM,11:00 AM,RCH 301
+CS 341,001 to 003,Friday,"December 16, 2011",12:30 PM,3:00 PM,"MC 4020,4021,4059,4061"
+CS 343,"001,002",Tuesday,"December 13, 2011",12:30 PM,3:00 PM,M3 1006
+CS 348,001 to 003,Monday,"December 19, 2011",4:00 PM,6:30 PM,"DC 1350,1351"
+CS 350,001 to 003,Monday,"December 12, 2011",7:30 PM,10:00 PM,M3 1006
+CS 360,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 301
+CS 370,"001,002",Wednesday,"December 21, 2011",9:00 AM,11:30 AM,M3 1006
+CS 430,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,RCH 211
+CS 432,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,PAC 11
+CS 445,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,RCH 305
+CS 446,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,MC 2034
+CS 452,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,RCH 204
+CS 454,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,MC 4059
+CS 456,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"PAC 9,10"
+CS 458,"001,002",Tuesday,"December 20, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+CS 466,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,MC 4059
+CS 475,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,PAC 3
+CS 486,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 301
+CS 488,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,PAC 9
+CS 489,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,RCH 306
+CS 489,002,Friday,"December 9, 2011",9:00 AM,11:30 AM,MC 4041
+CS 645,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,RCH 305
+CS 646,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,MC 2034
+CS 654,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,MC 4059
+CS 656,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"PAC 9,10"
+CS 658,"001,002",Tuesday,"December 20, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+CS 666,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,MC 4059
+CS 686,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 301
+CS 688,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,PAC 9
+CS 698,002,Friday,"December 9, 2011",9:00 AM,11:30 AM,MC 4041
+CS 698,003,Monday,"December 12, 2011",9:00 AM,11:30 AM,"RCH 306 DC 1350,1351"
+DRAMA 101A,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,DC 1350
+DRAMA 386,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,STJ 2011
+DRAMA 386,,,,View your exam schedule in Quest,,,,
+DUTCH 101,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,AL 105
+DUTCH 101,,,,View your exam schedule in Quest,,,,
+DUTCH 201,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,AL 209
+EARTH 121,001,Thursday,"December 22, 2011",9:00 AM,11:00 AM,"PAC 7,8"
+EARTH 121,,,,View your exam schedule in Quest,,,,
+EARTH 121L,001 to 005,Tuesday,"December 20, 2011",7:30 PM,9:00 PM,"PAC 2,3"
+EARTH 123,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+EARTH 205,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,MC 4060
+EARTH 231,001,Friday,"December 9, 2011",4:00 PM,6:30 PM,RCH 302
+EARTH 235,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAC 4
+EARTH 260,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 301
+EARTH 332,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,RCH 305
+EARTH 342,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,MC 1085
+EARTH 359,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 105
+EARTH 421,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,PAC 9
+EARTH 440,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 204
+EARTH 458,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,RCH 204
+EARTH 461,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,RCH 205
+EARTH 668,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,RCH 205
+EASIA 210R,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,REN 2106
+ECE 105,001 to 004,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"RCH 103,105,110,112,301,302,305"
+ECE 140,001 to 004,Saturday,"December 10, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5"
+ECE 150,001 to 003,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,"PAC 1,2,3,9,10"
+ECE 207,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"RCH 103,105"
+ECE 207,002,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"RCH 110,112"
+ECE 209,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+ECE 222,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"RCH 301,307"
+ECE 222,002,Monday,"December 12, 2011",9:00 AM,11:30 AM,"RCH 103,105,110"
+ECE 224,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+ECE 240,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"MC 2034,2035,2038"
+ECE 242,"001,002",Thursday,"December 15, 2011",4:00 PM,6:30 PM,"PAC 9,10,11,12"
+ECE 250,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"RCH 301,302"
+ECE 254,001,Monday,"December 19, 2011",4:00 PM,6:30 PM,"MC 4020,4021"
+ECE 290,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,"RCH 301,302"
+ECE 318,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+ECE 332,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+ECE 362,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,PAC 1
+ECE 380,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"RCH 110,112"
+ECE 451,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,RCH 305
+ECE 452,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,MC 2034
+ECE 463,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,RCH 205
+ECE 484,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"RCH 307,308"
+ECE 493,001,Monday,"December 12, 2011",7:30 PM,10:00 PM,MC 2038
+ECON 101,"002,004",Thursday,"December 8, 2011",4:00 PM,6:00 PM,"DC 1350,1351,MC 4020,4021"
+ECON 101,"007,008",Thursday,"December 8, 2011",4:00 PM,6:30 PM,"PAC 5,6,7"
+ECON 101,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"PAC 8,11,12"
+ECON 101,003,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,4"
+ECON 101,005,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"RCH 301,302,305,307"
+ECON 101,006,Thursday,"December 8, 2011",4:00 PM,6:30 PM,"RCH 103,105,110,112,211"
+ECON 101,051 (UAE),Wednesday,"December 7, 2011",9:00 AM,11:30 AM,Exam Hall
+ECON 102,"003,004",Wednesday,"December 14, 2011",12:30 PM,2:30 PM,"M3 1006,DC 1350,1351"
+ECON 102,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,"MC 4020,4021,4059"
+ECON 102,002,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+ECON 102,051 (UAE),Thursday,"December 15, 2011",9:00 AM,11:30 AM,Z-242
+ECON 120W,,See http://www.wlu.ca/page.php?grp_id=1366&p=14566,,,,WLU
+ECON 201,"001,004",Friday,"December 16, 2011",4:00 PM,6:30 PM,"PAC 1,2"
+ECON 201,002,Friday,"December 16, 2011",4:00 PM,6:30 PM,PAC 7
+ECON 201,003,Friday,"December 16, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+ECON 202,"002,003",Friday,"December 9, 2011",9:00 AM,11:30 AM,"PAC 4,5"
+ECON 202,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ECON 211,"001,002",Thursday,"December 15, 2011",4:00 PM,6:00 PM,"MC 2017,2054"
+ECON 221,"001,002",Monday,"December 19, 2011",7:30 PM,10:00 PM,"RCH 301,302"
+ECON 231,001,Wednesday,"December 14, 2011",4:00 PM,6:00 PM,"RCH 302,305"
+ECON 231,002,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+ECON 231,003,Wednesday,"December 14, 2011",4:00 PM,6:00 PM,RCH 301
+ECON 301,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,PAC 3
+ECON 301,002,Friday,"December 16, 2011",4:00 PM,6:30 PM,PAC 8
+ECON 301,003,Friday,"December 16, 2011",4:00 PM,6:30 PM,PAC 12
+ECON 302,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+ECON 302,002,Wednesday,"December 14, 2011",12:30 PM,2:00 PM,"MC 4045,4061"
+ECON 304,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"RCH 204,211"
+ECON 311,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 307
+ECON 321,001,Monday,"December 12, 2011",7:30 PM,10:00 PM,MC 4020
+ECON 321,002,Monday,"December 12, 2011",7:30 PM,10:00 PM,MC 1085
+ECON 341,001,Tuesday,"December 20, 2011",12:30 PM,2:30 PM,RCH 307
+ECON 351,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+ECON 355,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 6
+ECON 361,,,,View your exam schedule in Quest,,,,
+ECON 383,001,Wednesday,"December 21, 2011",7:30 PM,10:00 PM,RCH 301
+ECON 401,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+ECON 421,001,Friday,"December 9, 2011",7:30 PM,9:30 PM,RCH 204
+ECON 436,001,Saturday,"December 17, 2011",7:30 PM,9:30 PM,MC 4061
+ECON 484,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 205
+ECON 673,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 205
+ELPE 100,,,,View your exam schedule in Quest,,,,
+ENBUS 202,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,"HH 1101,1102"
+ENBUS 204,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"HH 1101,1102,1104"
+ENBUS 602,,,,View your exam schedule in Quest,,,,
+ENGL 100A,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,REN 2106
+ENGL 101A,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,PAC 9
+ENGL 101A,002,Friday,"December 9, 2011",4:00 PM,6:30 PM,STJ 2011
+ENGL 101A,003,Friday,"December 9, 2011",12:30 PM,3:00 PM,STJ 2009
+ENGL 101B,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,RCH 306
+ENGL 102B,,,,View your exam schedule in Quest,,,,
+ENGL 108A,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,STJ 2017
+ENGL 108B,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,RCH 205
+ENGL 108F,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,STJ 2009
+ENGL 108F,002,Monday,"December 19, 2011",7:30 PM,10:00 PM,STJ 2017
+ENGL 108H,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,PAC 6
+ENGL 109,,,,View your exam schedule in Quest,,,,
+ENGL 129R,001,Saturday,"December 10, 2011",9:00 AM,11:30 AM,REN 2107
+ENGL 190,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,MC 2035
+ENGL 190,,,,View your exam schedule in Quest,,,,
+ENGL 200A,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+ENGL 200A,002,Thursday,"December 15, 2011",9:00 AM,11:30 AM,STJ 3014
+ENGL 200A,,,,View your exam schedule in Quest,,,,
+ENGL 201,001,Thursday,"December 22, 2011",9:00 AM,11:00 AM,PAC 9
+ENGL 208A,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,STJ 2017
+ENGL 208C,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,MC 2035
+ENGL 208C,,,,View your exam schedule in Quest,,,,
+ENGL 208H,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAC 3
+ENGL 208K,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+ENGL 210F,,,,View your exam schedule in Quest,,,,
+ENGL 210I,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,STJ 2017
+ENGL 214,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,AL 209
+ENGL 247,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,PAC 12
+ENGL 251A,003,Monday,"December 12, 2011",7:30 PM,10:00 PM,MC 4042
+ENGL 251A,004,Monday,"December 12, 2011",12:30 PM,2:30 PM,STJ 3015
+ENGL 251A,005,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,RCH 306
+ENGL 251A,008,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,STJ 3013
+ENGL 251A,,,,View your exam schedule in Quest,,,,
+ENGL 292,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,RCH 301
+ENGL 306A,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,MC 2034
+ENGL 306F,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+ENGL 309A,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 305
+ENGL 315,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,MC 4042
+ENGL 318,001,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,STJ 2011
+ENGL 330A,001,Wednesday,"December 14, 2011",4:00 PM,6:00 PM,RCH 306
+ENGL 344,,,,View your exam schedule in Quest,,,,
+ENGL 350B,,,,View your exam schedule in Quest,,,,
+ENGL 362,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,STJ 2011
+ENGL 362,,,,View your exam schedule in Quest,,,,
+ENGL 376R,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,REN 2106
+ENGL 430A,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,HH 2107
+ENGL 451A,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,AL 209
+ENGL 460A,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,RCH 205
+ENVE 214,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,CPH 3607
+ENVE 223,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,RCH 302
+ENVE 276,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,DWE 1501
+ENVE 292,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"RCH 103,105,110"
+ENVE 472,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,CPH 3604
+ENVS 200,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+ENVS 201,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,"PAC 1,2,3"
+ENVS 278,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ENVS 334,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,RCH 307
+ENVS 444,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,PAC 12
+ERS 210,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,HH 1101
+ERS 211,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,"RCH 301,307"
+ERS 234,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,EV3 1408
+ERS 484,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,EV3 1408
+ERS 675,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,EV3 1408
+ESL 102R,"003,004",Thursday,"December 8, 2011",9:00 AM,11:30 AM,"REN 0104,0106"
+ESL 102R,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REN 2107
+ESL 102R,002,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REN 1303
+ESL 129R,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,REN 2106
+ESL 129R,,,,View your exam schedule in Quest,,,,
+FINE 241,001,Monday,"December 12, 2011",9:00 AM,11:00 AM,AL 208
+FINE 362,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,ECH 1220
+FR 151,001 to 004,Friday,"December 16, 2011",7:30 PM,9:30 PM,"PAC 6,7,8"
+FR 151,,,,View your exam schedule in Quest,,,,
+FR 152,001 to 004,Saturday,"December 10, 2011",12:30 PM,2:30 PM,"PAC 11,12"
+FR 152,,,,View your exam schedule in Quest,,,,
+FR 192A,"001,002,004 to 006",Saturday,"December 10, 2011",12:30 PM,2:30 PM,"PAC 7,8"
+FR 192A,003,Saturday,"December 10, 2011",12:30 PM,2:30 PM,STJ 3016
+FR 192A,,,,View your exam schedule in Quest,,,,
+FR 192B,"001,002",Thursday,"December 22, 2011",12:30 PM,2:30 PM,RCH 301
+FR 192B,003,Thursday,"December 22, 2011",12:30 PM,2:30 PM,STJ 3014
+FR 192B,,,,View your exam schedule in Quest,,,,
+FR 197,001,Tuesday,"December 20, 2011",9:00 AM,11:00 AM,AL 105
+FR 251,"001,002",Monday,"December 12, 2011",4:00 PM,6:00 PM,"AL 105,124"
+FR 251,,,,View your exam schedule in Quest,,,,
+FR 252,001,Friday,"December 16, 2011",12:30 PM,2:30 PM,AL 105
+FR 276,001,Monday,"December 19, 2011",12:30 PM,2:30 PM,AL 105
+FR 291,,,,View your exam schedule in Quest,,,,
+FR 297,,,,View your exam schedule in Quest,,,,
+FR 486,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,ML 246
+FR 487,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,ML 246
+GENE 121,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,"RCH 301,302"
+GEOG 102,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+GEOG 201,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,M3 1006
+GEOG 202,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,"RCH 301,302,305"
+GEOG 210,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+GEOG 281,001,Thursday,"December 15, 2011",4:00 PM,6:30 PM,M3 1006
+GEOG 309,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+GEOG 310,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,MC 4045
+GEOG 311,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,PAC 3
+GEOG 316,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 305
+GEOG 353,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,RCH 307
+GEOG 393,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,RCH 301
+GEOG 404,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,EV3 1408
+GEOG 459,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,PAC 2
+GER 100,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"AL 105,124"
+GER 101,001 to 007,Tuesday,"December 20, 2011",7:30 PM,10:00 PM,"HH 1101,1102"
+GER 101,,,,View your exam schedule in Quest,,,,
+GER 102,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,ML 246
+GER 102,,,,View your exam schedule in Quest,,,,
+GER 201,001,Thursday,"December 22, 2011",9:00 AM,11:30 AM,ML 246
+GER 201,,,,View your exam schedule in Quest,,,,
+GER 203,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,ML 246
+GER 303,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,ML 349
+GER 334,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,ML 212
+GER 362,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,ECH 1220
+GERON 201,001,Friday,"December 16, 2011",9:00 AM,10:30 AM,M3 1006
+GERON 220,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,M3 1006
+GERON 245,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"RCH 302,305"
+GERON 255,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,"PAC 4,5"
+GRK 331,001,Thursday,"December 8, 2011",9:00 AM,11:00 AM,RCH 206
+HIST 103,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,STJ 3014
+HIST 104,001,Friday,"December 16, 2011",9:00 AM,11:00 AM,PAS 2083
+HIST 105,001,Monday,"December 19, 2011",4:00 PM,6:30 PM,"HH 1101,1102"
+HIST 110,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,CGC 1111
+HIST 113,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,STJ 1036
+HIST 221,001,Thursday,"December 15, 2011",9:00 AM,11:00 AM,AL 105
+HIST 223,001,Friday,"December 9, 2011",9:00 AM,11:00 AM,MC 4021
+HIST 226,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,RCH 301
+HIST 232,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,HH 1101
+HIST 250,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,RCH 302
+HIST 253,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,AL 208
+HIST 257,001,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,AL 208
+HIST 265,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,HH 1102
+HIST 291,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,HH 1102
+HIST 348,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,CGC 1300
+HIST 356,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,HH 1102
+HIST 358,001,Saturday,"December 17, 2011",9:00 AM,11:00 AM,AL 208
+HIST 389,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,STJ 3014
+HLTH 101,"001,002",Friday,"December 9, 2011",9:00 AM,11:30 AM,"PAC 6,7,8"
+HLTH 201,001,Friday,"December 16, 2011",9:00 AM,10:30 AM,M3 1006
+HLTH 220,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,M3 1006
+HLTH 245,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"RCH 302,305"
+HLTH 333,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 211
+HLTH 344,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,RCH 211
+HLTH 346,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"PAC 7,8,9,10"
+HLTH 407,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"RCH 110,112"
+HLTH 433,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,PAC 4
+HLTH 442,001,Thursday,"December 22, 2011",9:00 AM,11:00 AM,"PAC 11,12"
+HRM 200,001,Tuesday,"December 20, 2011",7:30 PM,9:30 PM,"PAC 4,5,6,7"
+HRM 301,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 302
+HRM 303,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"RCH 307,308"
+HUMSC 101,002,Thursday,"December 22, 2011",9:00 AM,11:30 AM,STJ 3012
+HUMSC 101,003,Thursday,"December 8, 2011",9:00 AM,11:30 AM,STJ 3013
+HUMSC 201,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,STJ 3013
+INTEG 120,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,AL 105
+INTST 101,"001,002", "Exam removed from the schedule. Contact the instructor for further information",,,,
+INTST 101,,,,View your exam schedule in Quest,,,,
+ISS 131R,,,,View your exam schedule in Quest,,,,
+ISS 150R,001,Tuesday,"December 20, 2011",7:30 PM,10:00 PM,REN 2106
+ISS 150R,,,,View your exam schedule in Quest,,,,
+ISS 205R,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,REN 2102
+ISS 215R,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,REN 2102
+ISS 250R,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,REN 2106
+ISS 250R,002,Thursday,"December 8, 2011",12:30 PM,3:00 PM,REN 2107
+ISS 250R,003,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"REN 2102,2104"
+ISS 251R,,,,View your exam schedule in Quest,,,,
+ISS 350H,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,REN 2106
+ISS 355R,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,REN 2102
+JAPAN 101R,"001,002",Saturday,"December 10, 2011",12:30 PM,3:00 PM,STJ 1036
+JAPAN 102R,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,REN 2106
+JAPAN 111R,001,Thursday,"December 22, 2011",9:00 AM,11:00 AM,REN 2102
+JAPAN 201R,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,REN 2107
+JAPAN 202R,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REN 2102
+KIN 104,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,"DC 1350,1351"
+KIN 105,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,"DC 1350,1351"
+KIN 217,001,Monday,"December 19, 2011",4:00 PM,6:30 PM,"PAC 5,6,7,8"
+KIN 242,001,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,"RCH 302,305"
+KIN 255,001,Friday,"December 16, 2011",12:30 PM,2:30 PM,"RCH 301,302,306,307"
+KIN 301,001,Thursday,"December 22, 2011",7:30 PM,9:30 PM,"PAC 9,10"
+KIN 346,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"PAC 7,8,9,10"
+KIN 354,001,Friday,"December 16, 2011",4:00 PM,6:00 PM,"DC 1350,1351"
+KIN 405,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,MC 1085
+KIN 406,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,"RCH 110,112"
+KIN 407,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"RCH 110,112"
+KIN 422,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 307
+KIN 456,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 112
+KOREA 101R,"001,002",Tuesday,"December 20, 2011",7:30 PM,10:00 PM,"REN 2102,2107"
+LAT 101,001 to 003,Thursday,"December 15, 2011",9:00 AM,11:00 AM,"RCH 110,112"
+LAT 201,001,Thursday,"December 15, 2011",7:30 PM,9:30 PM,MC 4060
+LS 101,,,,View your exam schedule in Quest,,,,
+LS 280,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,AL 208
+LS 321,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,RCH 307
+MATBUS 470,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAC 5
+MATBUS 471,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,RCH 307
+MATH 103,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 110
+MATH 103,,,,View your exam schedule in Quest,,,,
+MATH 104,001,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,RCH 301
+MATH 106,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAC 6
+MATH 106,,,,View your exam schedule in Quest,,,,
+MATH 109,"001,002",Wednesday,"December 21, 2011",12:30 PM,3:00 PM,"PAC 6,7,8"
+MATH 114,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 7
+MATH 115,001 to 008,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10"
+MATH 115,051 (UAE),Thursday,"December 15, 2011",9:00 AM,11:30 AM,Exam Hall
+MATH 116,001 to 007,Monday,"December 12, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8"
+MATH 116,051 (UAE),Sunday,"December 18, 2011",9:00 AM,11:30 AM,Exam Hall
+MATH 117,001 to 005,Monday,"December 12, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6"
+MATH 124,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,"PAC 7,8"
+MATH 127,001 to 009,Friday,"December 16, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8"
+MATH 127,,,,View your exam schedule in Quest,,,,
+MATH 128,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+MATH 128,,,,View your exam schedule in Quest,,,,
+MATH 135,"001 to 003, 006 to 010",Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+MATH 135,"004,005",Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"M3 1006,MC 4020,4021,4045"
+MATH 136,001 to 003,Monday,"December 19, 2011",9:00 AM,11:30 AM,"PAC 7,8,9,10"
+MATH 136,051 (UAE),Thursday,"December 15, 2011",9:00 AM,11:30 AM,Exam Hall
+MATH 137,"001,002,004 to 007,009,011",Monday,"December 12, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11"
+MATH 137,"003,010",Monday,"December 12, 2011",9:00 AM,11:30 AM,"DC 1350,1351,MC 1056"
+MATH 137,008,Monday,"December 12, 2011",9:00 AM,11:30 AM,M3 1006
+MATH 137,051 (UAE),Sunday,"December 18, 2011",9:00 AM,11:30 AM,Exam Hall
+MATH 138,001 to 003,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+MATH 145,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,MC 2038
+MATH 147,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,MC 1085
+MATH 207,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,PAC 10
+MATH 211,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,M3 1006
+MATH 212,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,PAC 4
+MATH 215,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,"PAC 11,12"
+MATH 217,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,PAC 8
+MATH 217,051 (UAE),Sunday,"December 11, 2011",9:00 AM,11:30 AM,Z-238
+MATH 218,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"PAC 9,10"
+MATH 225,001,Thursday,"December 22, 2011",12:30 PM,3:00 PM,PAC 4
+MATH 227,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+MATH 228,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,MC 1085
+MATH 229,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,RCH 306
+MATH 235,001 to 007,Monday,"December 19, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6"
+MATH 235,051 (UAE),Tuesday,"December 13, 2011",9:00 AM,11:30 AM,Z-242
+MATH 237,001 to 007,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6"
+MATH 237,051 (UAE),Sunday,"December 11, 2011",9:00 AM,11:30 AM,Z-242
+MATH 239,001 to 003,Friday,"December 16, 2011",12:30 PM,3:00 PM,"DC 1350,1351"
+MATH 245,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,MC 2038
+MATH 247,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 307
+MATH 249,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"RCH 306 MC 1085,2017,2054,4020,4021,4045, MC 4059,4060,4061"
+ME 201,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,"E5 3101,3102"
+ME 202,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 203,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 212,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 219,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 220,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 230,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 235,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,PAC 11
+ME 250,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 250,002,Friday,"December 16, 2011",9:00 AM,11:30 AM,RCH 301
+ME 262,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 269,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 322,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 353,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 360,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,"E5 3101,3102"
+ME 362,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 423,001,Friday,"December 16, 2011",7:30 PM,10:00 PM,CPH 3679
+ME 435,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 456,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,CPH 3679
+ME 459,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,"E5 3101,3102"
+ME 548,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,CPH 3679
+ME 559,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,"E5 3101,3102"
+ME 561,001,Monday,"December 12, 2011",7:30 PM,10:00 PM,CPH 3679
+ME 566,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,CPH 3679
+ME 599,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 760,003,Friday,"December 9, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+MSCI 211,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,"DC 1350,1351"
+MSCI 211,,,,View your exam schedule in Quest,,,,
+MSCI 240,001,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,RCH 301
+MSCI 261,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,PAC 4
+MSCI 262,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,MC 1085
+MSCI 271,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,MC 1085
+MSCI 311,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,"DC 1350,1351"
+MSCI 331,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,MC 4045
+MSCI 332,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,"PAC 9,10"
+MSCI 333,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,MC 2034
+MSCI 342,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,RCH 211
+MSCI 343,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,CPH 3602
+MSCI 422,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,PAC 6
+MSCI 432,001,Thursday,"December 22, 2011",9:00 AM,11:30 AM,PAC 5
+MSCI 446,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,CPH 3602
+MTE 203,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,"RCH 109,110,112"
+MTE 204,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"MC 4020,4021"
+MTE 220,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,"RCH 305,307,308"
+MTE 241,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,"RCH 302,305"
+MTHEL 131,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,PAC 6
+MUSIC 100,001,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,"CGC 1111,1302"
+MUSIC 100,002,Wednesday,"December 21, 2011",4:00 PM,6:30 PM,DC 1350
+MUSIC 111,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+MUSIC 140,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,"AL 116,124"
+MUSIC 231,001,Friday,"December 16, 2011",7:30 PM,10:00 PM,CGC 1111
+MUSIC 245,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,CGC 1111
+MUSIC 256,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,CGC 1111
+MUSIC 275,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,CGC 1302
+MUSIC 334,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,CGC 1302
+MUSIC 363,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,CGC 1300
+MUSIC 370,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,CGC 1302
+NE 100,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"RCH 103,105,110"
+NE 112,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,DC 1351
+NE 113,001,Saturday,"December 10, 2011",9:00 AM,11:30 AM,"RCH 301,302"
+NE 121,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,DC 1351
+NE 216,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+NE 224,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,DC 1351
+NE 225,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"MC 4020,4021"
+NE 241,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+NE 335,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,"RCH 103,105"
+NE 336,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,"PAC 11,12"
+NE 352,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"RCH 103,105"
+NE 353,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,"RCH 204,211"
+NE 401,001,Tuesday,"December 13, 2011",9:00 AM,11:00 AM,RCH 301
+NE 445,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,"PAC 9,10"
+NE 461,001,Friday,"December 16, 2011",7:30 PM,10:00 PM,PAC 5
+NE 471,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,PAC 9
+NE 481,001,Wednesday,"December 21, 2011",7:30 PM,10:00 PM,RCH 307
+NE 491,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,RCH 305
+OPTOM 104,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,REV 200
+OPTOM 105,001,Friday,"December 16, 2011",9:00 AM,10:30 AM,REV 200
+OPTOM 106,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REV 200
+OPTOM 108,001,Wednesday,"December 14, 2011",9:00 AM,11:00 AM,REV 200
+OPTOM 109,001,Saturday,"December 10, 2011",9:00 AM,11:00 AM,REV 200
+OPTOM 124,001,Monday,"December 19, 2011",9:00 AM,11:00 AM,REV 200
+OPTOM 215,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,REV 200
+OPTOM 216,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,REV 200
+OPTOM 231,001,Monday,"December 12, 2011",12:30 PM,2:30 PM,REV 200
+OPTOM 243,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,REV 200
+OPTOM 245,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,REV 200
+OPTOM 252,001,Monday,"December 19, 2011",12:30 PM,2:30 PM,REV 200
+OPTOM 339,001,Friday,"December 16, 2011",4:00 PM,6:00 PM,REV 200
+OPTOM 342A,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,REV 200
+OPTOM 347,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,REV 200
+OPTOM 375,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,REV 200
+OPTOM 387,001,Saturday,"December 10, 2011",4:00 PM,6:30 PM,REV 200
+PACS 201,,,,View your exam schedule in Quest,,,,
+PACS 202,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,AL 116
+PACS 203,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,HH 1101
+PHIL 100J,"001,002",Monday,"December 12, 2011",12:30 PM,3:00 PM,STJ 3014
+PHIL 100J,003,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,STJ 2017
+PHIL 110A,002,Saturday,"December 10, 2011",7:30 PM,10:00 PM,AL 105
+PHIL 110A,,,,View your exam schedule in Quest,,,,
+PHIL 118J,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,STJ 3016
+PHIL 145,001,Friday,"December 9, 2011",12:30 PM,3:00 PM,DC 1350
+PHIL 145,,,,View your exam schedule in Quest,,,,
+PHIL 202,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,HH 1108
+PHIL 208,001,Saturday,"December 10, 2011",9:00 AM,11:30 AM,AL 105
+PHIL 210J,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,STJ 3012
+PHIL 215,,,,View your exam schedule in Quest,,,,
+PHIL 219J,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,STJ 2009
+PHIL 220,,,,View your exam schedule in Quest,,,,
+PHIL 221,,,,View your exam schedule in Quest,,,,
+PHIL 256,,,,View your exam schedule in Quest,,,,
+PHIL 355,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,HH 1102
+PHIL 380,,,,View your exam schedule in Quest,,,,
+PHIL 382,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,AL 209
+PHYS 111,001 to 005,Monday,"December 19, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+PHYS 111L,001 to 024,Wednesday,"December 21, 2011",7:30 PM,8:30 PM,"PAC 1,2,3,4,5,6"
+PHYS 115,001 to 006,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,11"
+PHYS 115,051 (UAE),Sunday,"December 11, 2011",9:00 AM,11:30 AM,Exam Hall
+PHYS 121,001 to 003,Monday,"December 19, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,4"
+PHYS 121,,,,View your exam schedule in Quest,,,,
+PHYS 121L,001 to 005,Wednesday,"December 21, 2011",7:30 PM,8:30 PM,"PAC 11,12"
+PHYS 131L,001 to 004,Wednesday,"December 21, 2011",7:30 PM,8:30 PM,PAC 7
+PHYS 222,,,,View your exam schedule in Quest,,,,
+PHYS 226,,,,View your exam schedule in Quest,,,,
+PHYS 234,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,M3 1006
+PHYS 239,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,RCH 308
+PHYS 241,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,"MC 4020,4021"
+PHYS 334,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 305
+PHYS 352,,,,View your exam schedule in Quest,,,,
+PHYS 353,001,Thursday,"December 22, 2011",9:00 AM,11:30 AM,PAC 6
+PHYS 363,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,PAC 5
+PHYS 364,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,PHY 308
+PHYS 434,001,Tuesday,"December 20, 2011",4:00 PM,6:30 PM,PHY 235
+PHYS 435,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,PHY 308
+PHYS 441A,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,"PAC 9,10"
+PHYS 454,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,MC 4060
+PHYS 475,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,PHY 235
+PHYS 480,001,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,PAC 11
+PLAN 100,001,Wednesday,"December 14, 2011",4:00 PM,6:00 PM,M3 1006
+PLAN 105,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"MC 2017,2054"
+PLAN 281,001,Thursday,"December 15, 2011",4:00 PM,6:30 PM,M3 1006
+PLAN 351,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 305
+PLAN 362,001,Thursday,"December 8, 2011",9:00 AM,10:30 AM,RCH 302
+PLAN 440,001,Tuesday,"December 13, 2011",7:30 PM,9:30 PM,EV3 1408
+PLAN 674,001,Thursday,"December 8, 2011",9:00 AM,10:30 AM,RCH 302
+PMATH 330,001,Saturday,"December 17, 2011",7:30 PM,10:00 PM,MC 4045
+PMATH 331,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,"MC 4059,4061"
+PMATH 334,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,RCH 206
+PMATH 340,001,Thursday,"December 8, 2011",4:00 PM,6:30 PM,MC 1085
+PMATH 345,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,PAC 10
+PMATH 351,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,MC 4020
+PMATH 441,001,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,RCH 204
+PMATH 442,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,MC 4041
+PMATH 451,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,RCH 306
+PMATH 465,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,MC 4045
+PMATH 641,001,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,RCH 204
+PMATH 642,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,MC 4041
+PMATH 651,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,RCH 306
+PMATH 665,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,MC 4045
+POLSH 101,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,ML 246
+PORT 101,001,Thursday,"December 8, 2011",12:30 PM,2:30 PM,MC 4042
+PSCI 101,001,Wednesday,"December 14, 2011",7:30 PM,9:30 PM,"M3 1006,MC 2034,2035,2038"
+PSCI 250,001,Tuesday,"December 20, 2011",12:30 PM,2:30 PM,RCH 302
+PSCI 253,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,RCH 308
+PSCI 260,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+PSCI 281,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,PAC 1
+PSCI 283,001,Thursday,"December 22, 2011",12:30 PM,2:30 PM,"PAC 11,12"
+PSCI 291,001,Thursday,"December 15, 2011",7:30 PM,9:30 PM,M3 1006
+PSCI 334,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,MC 4041
+PSCI 350,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,MC 4061
+PSCI 358,001,Saturday,"December 10, 2011",7:30 PM,9:30 PM,RCH 306
+PSCI 387,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,RCH 309
+PSYCH 101,"001,002",Saturday,"December 17, 2011",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11,12"
+PSYCH 101,,,,View your exam schedule in Quest,,,,
+PSYCH 121R,001,Saturday,"December 17, 2011",9:00 AM,11:30 AM,REN 2106
+PSYCH 121R,002,Saturday,"December 17, 2011",9:00 AM,11:30 AM,"REN 2102,2107"
+PSYCH 211,001,Thursday,"December 15, 2011",12:30 PM,2:30 PM,"M3 1006,DC 1350,1351"
+PSYCH 253,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,"PAC 1,2,3"
+PSYCH 253,,,,View your exam schedule in Quest,,,,
+PSYCH 256,,,,View your exam schedule in Quest,,,,
+PSYCH 257,001,Thursday,"December 22, 2011",4:00 PM,6:00 PM,"DC 1350,1351"
+PSYCH 261,,,,View your exam schedule in Quest,,,,
+PSYCH 291,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"PAC 4,5,6"
+PSYCH 320,001,Wednesday,"December 14, 2011",4:00 PM,6:00 PM,"RCH 110,112"
+PSYCH 336,001,Friday,"December 9, 2011",7:30 PM,10:00 PM,"RCH 103,105"
+PSYCH 340,001,Tuesday,"December 13, 2011",4:00 PM,5:30 PM,"RCH 103,105"
+PSYCH 350,001,Thursday,"December 8, 2011",12:30 PM,2:30 PM,"MC 2017,2054"
+PSYCH 380,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 309
+PSYCH 391,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"DC 1350,1351 RCH 307,309"
+REC 205,001,Monday,"December 12, 2011",7:30 PM,9:00 PM,"MC 4059,4060,4061"
+REC 251,,,,View your exam schedule in Quest,,,,
+REC 306,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,PAS 1229
+REC 334,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,RCH 307
+REC 437,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,PAC 12
+REES 100,001,Wednesday,"December 14, 2011",12:30 PM,3:00 PM,AL 105
+REES 271,,,,View your exam schedule in Quest,,,,
+RS 150,001,Monday,"December 19, 2011",12:30 PM,2:30 PM,STJ 3014
+RS 152,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,CGC 1111
+RS 216,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,HH 1102
+RS 235,,,,View your exam schedule in Quest,,,,
+RS 237,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,CGC 1300
+RS 280,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,RCH 302
+RS 344,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,CGC 1300
+RS 357,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,CGC 1300
+RS 385,,,,View your exam schedule in Quest,,,,
+RUSS 101,"001,002",Monday,"December 12, 2011",12:30 PM,3:00 PM,AL 105
+RUSS 201,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,ML 246
+SCI 205,,,,View your exam schedule in Quest,,,,
+SCI 206,001,Thursday,"December 22, 2011",7:30 PM,9:30 PM,"PAC 7,8"
+SCI 237,001,Monday,"December 19, 2011",4:00 PM,6:30 PM,"PAC 9,10"
+SCI 238,,,,View your exam schedule in Quest,,,,
+SCI 255,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,"PAC 4,5"
+SE 212,001,Saturday,"December 17, 2011",4:00 PM,6:30 PM,"PAC 4,5,6,11,12"
+SE 463,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+SMF 204,001,Monday,"December 12, 2011",12:30 PM,3:00 PM,STJ 1036
+SOC 101,001,Tuesday,"December 13, 2011",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7"
+SOC 101,002,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,"RCH 302,305"
+SOC 101,003,Thursday,"December 22, 2011",4:00 PM,6:30 PM,STJ 1036
+SOC 101,,,,View your exam schedule in Quest,,,,
+SOC 120R,001,Thursday,"December 22, 2011",7:30 PM,10:00 PM,REN 2106
+SOC 120R,002,Thursday,"December 22, 2011",7:30 PM,10:00 PM,"REN 2102,2107"
+SOC 201,001,Monday,"December 12, 2011",7:30 PM,9:00 PM,"HH 1101,1102"
+SOC 202,001,Thursday,"December 15, 2011",9:00 AM,11:00 AM,AL 124
+SOC 222,001,Wednesday,"December 14, 2011",12:30 PM,2:30 PM,HH 1101
+SOC 227,001,Tuesday,"December 13, 2011",7:30 PM,8:30 PM,"HH 1101,1102"
+SOC 228,001,Saturday,"December 17, 2011",12:30 PM,3:00 PM,HH 1101
+SOC 232,,,,View your exam schedule in Quest,,,,
+SOC 234,001,Wednesday,"December 21, 2011",12:30 PM,3:00 PM,AL 208
+SOC 246,001,Monday,"December 12, 2011",12:30 PM,2:30 PM,PAS 1229
+SOC 248,001,Wednesday,"December 21, 2011",7:30 PM,9:30 PM,RCH 302
+SOC 262,001,Thursday,"December 22, 2011",4:00 PM,6:30 PM,RCH 302
+SOC 280,001,Friday,"December 16, 2011",4:00 PM,6:30 PM,AL 208
+SOC 321,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,RCH 307
+SOC 370,,,,View your exam schedule in Quest,,,,
+SOCWK 120R,001,Monday,"December 12, 2011",7:30 PM,10:00 PM,"REN 0104,0106"
+SOCWK 120R,002,Monday,"December 12, 2011",7:30 PM,10:00 PM,REN 2106
+SOCWK 120R,003,Monday,"December 12, 2011",7:30 PM,10:00 PM,"REN 2102,2107"
+SOCWK 120R,,,,View your exam schedule in Quest,,,,
+SOCWK 220R,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,REN 2106
+SOCWK 222R,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REN 2106
+SOCWK 222R,,,,View your exam schedule in Quest,,,,
+SOCWK 300R,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,"REN 2102,2107"
+SOCWK 300R,,,,View your exam schedule in Quest,,,,
+SOCWK 357R,,,,View your exam schedule in Quest,,,,
+SPAN 101,001 to 005,Thursday,"December 15, 2011",4:00 PM,6:00 PM,"DC 1350,1351"
+SPAN 101,,,,View your exam schedule in Quest,,,,
+SPAN 102,001,Saturday,"December 10, 2011",12:30 PM,2:30 PM,RCH 204
+SPAN 102,,,,View your exam schedule in Quest,,,,
+SPAN 201A,"001,002",Monday,"December 12, 2011",12:30 PM,2:30 PM,MC 4045
+SPAN 210,001,Monday,"December 19, 2011",12:30 PM,2:30 PM,RCH 206
+SPAN 301A,001,Tuesday,"December 20, 2011",4:00 PM,6:00 PM,PAC 9
+SPD 378,,,,View your exam schedule in Quest,,,,
+STAT 202,001,Tuesday,"December 13, 2011",4:00 PM,6:30 PM,"PAC 7,8,9,10,11,12"
+STAT 206,001,Monday,"December 19, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+STAT 211,001,Wednesday,"December 14, 2011",7:30 PM,10:00 PM,"PAC 4,5,6"
+STAT 220,001,Tuesday,"December 20, 2011",12:30 PM,3:00 PM,RCH 308
+STAT 221,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,PAC 12
+STAT 230,001 to 003,Thursday,"December 15, 2011",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
+STAT 231,001,Thursday,"December 15, 2011",12:30 PM,3:00 PM,"PAC 4,5,6,7"
+STAT 232,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,RCH 205
+STAT 240,001,Saturday,"December 10, 2011",9:00 AM,11:30 AM,RCH 211
+STAT 322,001,Monday,"December 19, 2011",12:30 PM,3:00 PM,RCH 309
+STAT 330,"001,002",Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"DC 1350,1351"
+STAT 331,001,Monday,"December 19, 2011",7:30 PM,10:00 PM,"PAC 7,8"
+STAT 332,001,Friday,"December 16, 2011",7:30 PM,10:00 PM,PAC 4
+STAT 333,"001,002",Thursday,"December 22, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+STAT 334,001,Thursday,"December 22, 2011",12:30 PM,3:00 PM,"PAC 5,6"
+STAT 341,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 211
+STAT 371,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,M3 1006
+STAT 372,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"MC 4059,4061"
+STAT 373,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"MC 2017,2054"
+STAT 430,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 308
+STAT 431,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+STAT 433,001,Saturday,"December 10, 2011",9:00 AM,11:30 AM,"RCH 103,105"
+STAT 442,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 211
+STAT 443,001,Thursday,"December 15, 2011",7:30 PM,10:00 PM,MC 1085
+STAT 446,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,M3 1006
+STAT 830,001,Saturday,"December 10, 2011",7:30 PM,10:00 PM,RCH 308
+STAT 831,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"RCH 103,105"
+STAT 833,001,Saturday,"December 10, 2011",9:00 AM,11:30 AM,"RCH 103,105"
+STAT 842,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,RCH 211
+STAT 846,001,Monday,"December 12, 2011",4:00 PM,6:30 PM,M3 1006
+SWREN 120R,002,Monday,"December 12, 2011",7:30 PM,10:00 PM,REN 2106
+SWREN 120R,,,,View your exam schedule in Quest,,,,
+SWREN 220R,001,Saturday,"December 10, 2011",12:30 PM,3:00 PM,REN 2106
+SWREN 222R,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,REN 2106
+SWREN 222R,,,,View your exam schedule in Quest,,,,
+SWREN 250R,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,REN 2106
+SWREN 251R,,,,View your exam schedule in Quest,,,,
+SWREN 300R,001,Tuesday,"December 13, 2011",7:30 PM,10:00 PM,"REN 2102,2107"
+SWREN 300R,,,,View your exam schedule in Quest,,,,
+SYDE 101L,001,Friday,"December 16, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 111,001,Wednesday,"December 14, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 113,001,Monday,"December 19, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 121,001,Wednesday,"December 21, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 161,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 181,001,Tuesday,"December 13, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 212,001,Tuesday,"December 20, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 252,001,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 252,002,Thursday,"December 8, 2011",12:30 PM,3:00 PM,"MC 4020,4021"
+SYDE 262,001,Monday,"December 12, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 286,001,Friday,"December 16, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 292,001,Tuesday,"December 13, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 475,001,Thursday,"December 15, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 553,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+TS 642,001,Thursday,"December 8, 2011",9:00 AM,11:30 AM,CGC 1300
+TS 652,001,Friday,"December 9, 2011",9:00 AM,11:30 AM,CGC 1300
+WS 205,001,Exam removed from the schedule.  Contact the instructor for further information.,,,,
+WS 222,001,Wednesday,"December 14, 2011",4:00 PM,6:30 PM,HH 1108
+WS 306,001,Thursday,"December 8, 2011",7:30 PM,10:00 PM,PAS 1229
