@@ -1,0 +1,393 @@
+Exam,Section,Day,Date,Start,End,Location
+ACTSC 221,001,Thursday,"August 4, 2011",4:00 PM,6:30 PM,PAC 4
+ACTSC 231,"001,002",Friday,"August 12, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ACTSC 232,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,"PAC 1,2"
+ACTSC 331,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,"PAC 5,6"
+ACTSC 371,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+ACTSC 372,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"MC 2034,2035,2038"
+ACTSC 431,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,"PAC 7,8"
+ACTSC 432,001,Friday,"August 5, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+ACTSC 445,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,"PAC 1,2"
+ACTSC 831,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,"PAC 7,8"
+ACTSC 832,001,Friday,"August 5, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+ACTSC 845,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,"PAC 1,2"
+AFM 101,001,Tuesday,"August 2, 2011",7:30 PM,10:00 PM,"PAC 1,2"
+AFM 102,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,"PAC 1,2,3"
+AFM 231,001 to 006,Thursday,"August 4, 2011",12:30 PM,2:30 PM,"DC 1350,1351,MC 4020,4021"
+AFM 241,001 to 004,Tuesday,"August 2, 2011",7:30 PM,10:00 PM,"PAC 4,5,6"
+AFM 271,001 to 005,Wednesday,"August 10, 2011",7:30 PM,10:00 PM,"PAC 1,2,3"
+AFM 272,"001,002",Wednesday,"August 10, 2011",7:30 PM,10:00 PM,PAC 4
+AFM 331,001 to 004,Monday,"August 8, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+AFM 341,001 to 004,Friday,"August 12, 2011",9:00 AM,11:00 AM,"PAC 7,8"
+AFM 361,001 to 004,Friday,"August 5, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+AFM 431,001 to 004,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,"PAC 4,5"
+AFM 474,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+AMATH 231,001,Friday,"August 5, 2011",4:00 PM,6:30 PM,MC 2017
+AMATH 242,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 5
+AMATH 250,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+AMATH 261,001,Tuesday,"August 9, 2011",7:30 PM,10:00 PM,MC 4061
+AMATH 332,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+AMATH 351,001,Thursday,"August 4, 2011",7:30 PM,10:00 PM,PAC 1
+AMATH 353,001,Friday,"August 5, 2011",4:00 PM,6:30 PM,MC 4058
+ANTH 102,001,Wednesday,"August 3, 2011",12:30 PM,3:00 PM,"PAC 2,3"
+ARBUS 202,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,DC 1350
+ARCH 276,002,Tuesday,"August 9, 2011",4:00 PM,6:30 PM,CPH 3607
+BIOL 120,001,Saturday,"August 13, 2011",4:00 PM,6:30 PM,PAC 8
+BIOL 130,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+BIOL 139,001,Thursday,"August 11, 2011",4:00 PM,6:30 PM,PAC 3
+BIOL 140,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+BIOL 208,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,PAC 8
+BIOL 241,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+BIOL 273,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,"PAC 7,8"
+BIOL 273L,"001,003,004",Wednesday,"August 3, 2011",4:00 PM,5:00 PM,"PAC 11,12"
+BIOL 303,001,Friday,"August 5, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+BIOL 308,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,"PAC 7,8"
+BIOL 342,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,PAC 8
+BIOL 354,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+BUS 111W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 121W ,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 231W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 247W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 352W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 353W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 357W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 362W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 393W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 395W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 397W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 398W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 413W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 417W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 423W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 443W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 447W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 456W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 463W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 466W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 467W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 473W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 477W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 481W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 486W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+BUS 487W,See https://www.wlu.ca/page.php?grp_id=1366&amp;p=14749,,,,,WLU
+CHE 101,001,Friday,"August 12, 2011",4:00 PM,6:30 PM,PAC 1
+CHE 102,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 8
+CHE 121,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 9,10"
+CHE 161,001,Tuesday,"August 9, 2011",4:00 PM,6:30 PM,PAC 2
+CHE 211,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,"DWE 2527,2529"
+CHE 231,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"DWE 3522,3522A"
+CHE 241,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 312,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 322,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 330,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHE 360,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,"DWE 2527,2529"
+CHE 420,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,"DWE 2527,2529"
+CHE 480,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,"DWE 2527,2529"
+CHEM 123,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,"PAC 4,5"
+CHEM 212,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,PAC 1
+CHEM 221,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,PAC 6
+CHEM 228,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,PAC 5
+CHEM 233,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+CHEM 237,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+CHEM 254,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,MC 1085
+CHEM 265,001,Thursday,"August 4, 2011",7:30 PM,10:00 PM,MC 1056
+CHINA 101R,001,Tuesday,"August 2, 2011",7:30 PM,10:00 PM,REN 2106
+CHINA 102R,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,STJ 3027
+CHINA 120R,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,STJ 3027
+CHINA 201R,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,REN 2106
+CIVE 121,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 2
+CIVE 205,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 222,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 240,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 280,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
+CIVE 353,001,Tuesday,"August 2, 2011",7:30 PM,10:00 PM,EIT 1015
+CIVE 403,001,Exam removed from the schedule.  Contact instructor for further information.,,,,
+CIVE 413,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"CPH 3604,3607"
+CIVE 414,001,Wednesday,"August 3, 2011",4:00 PM,6:30 PM,CPH 3607
+CIVE 444,001,Friday,"August 12, 2011",7:30 PM,10:00 PM,DWE 2527
+CIVE 486,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,CPH 3604
+CIVE 491,001,Friday,"August 5, 2011",7:30 PM,10:00 PM,DC 1351
+CIVE 512,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,CPH 3607
+CIVE 640,001,Friday,"August 12, 2011",7:30 PM,10:00 PM,DWE 2527
+CM 271,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 5
+CM 339,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+CM 340,"001,002",Saturday,"August 6, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+CM 361,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,PAC 5
+CO 250,"001,002",Saturday,"August 6, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+CO 327,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,PAC 6
+CO 342,001,Thursday,"August 4, 2011",4:00 PM,6:30 PM,PAC 5
+CO 351,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,PAC 8
+CO 446,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,MC 4044
+CO 454,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,PAC 9
+CO 471,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 9
+CO 646,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,MC 4044
+CO 671,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 9
+CS 115,001,Thursday,"August 11, 2011",9:00 AM,11:30 AM,"PAC 2,3"
+CS 116,"001,002",Thursday,"August 11, 2011",9:00 AM,11:30 AM,"PAC 4,5"
+CS 136,001,Thursday,"August 11, 2011",9:00 AM,11:30 AM,"PAC 7,8"
+CS 234,001,Wednesday,"August 3, 2011",7:30 PM,10:00 PM,PAC 5
+CS 240,001 to 003,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,"PAC 4,5"
+CS 241,001 to 003,Friday,"August 5, 2011",9:00 AM,11:30 AM,"PAC 1,2"
+CS 245,"001,002",Friday,"August 12, 2011",12:30 PM,3:00 PM,"PAC 1,2"
+CS 246,"001,002",Friday,"August 5, 2011",12:30 PM,3:00 PM,"PAC 5,6"
+CS 246,003,Friday,"August 5, 2011",12:30 PM,3:00 PM,PAC 4
+CS 251,"001,002",Saturday,"August 13, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+CS 330,"001,002",Friday,"August 12, 2011",12:30 PM,3:00 PM,"PAC 4,5"
+CS 338,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,DC 1350
+CS 341,"001,002",Tuesday,"August 9, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+CS 348,"001,002",Friday,"August 5, 2011",9:00 AM,11:30 AM,PAC 4
+CS 349,"001,002",Saturday,"August 13, 2011",9:00 AM,11:30 AM,"PAC 1,2"
+CS 350,001,Friday,"August 12, 2011",12:30 PM,3:00 PM,PAC 6
+CS 360,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,PAC 3
+CS 370,001,Tuesday,"August 9, 2011",7:30 PM,10:00 PM,PAC 1
+CS 371,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 5
+CS 432,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+CS 446,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+CS 452,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,DC 2111
+CS 454,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 3
+CS 456,"001,002",Wednesday,"August 10, 2011",4:00 PM,6:30 PM,PAC 4
+CS 466,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,PAC 6
+CS 482,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 10
+CS 486,001,Wednesday,"August 3, 2011",4:00 PM,6:30 PM,PAC 1
+CS 488,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 3
+CS 646,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+CS 652,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,DC 2111
+CS 654,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 3
+CS 656,"001,002",Wednesday,"August 10, 2011",4:00 PM,6:30 PM,PAC 4
+CS 666,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,PAC 6
+CS 682,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 10
+CS 686,001,Wednesday,"August 3, 2011",4:00 PM,6:30 PM,PAC 1
+CS 688,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 3
+EARTH 221,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,MC 4045
+EARTH 232,001,Exam removed from the schedule.  Contact instructor for further information.,,,,
+ECE 103,"001,002",Thursday,"August 4, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ECE 106,"001,002",Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ECE 124,"001,002",Saturday,"August 6, 2011",12:30 PM,3:00 PM,"PAC 4,5,6"
+ECE 150,001,Friday,"August 5, 2011",12:30 PM,3:00 PM,PAC 9
+ECE 155,"001,002",Monday,"August 8, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+ECE 207,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"MC 2034,2035"
+ECE 209,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 6
+ECE 222,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"MC 4020,4021"
+ECE 224,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ECE 242,001,Saturday,"August 6, 2011",12:30 PM,3:00 PM,DC 1350
+ECE 254,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,MC 4044
+ECE 309,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,"PAC 4,5"
+ECE 309,002,Saturday,"August 6, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ECE 316,"001,002",Saturday,"August 6, 2011",4:00 PM,6:30 PM,"DC 1350,1351"
+ECE 324,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ECE 325,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 1,2,3"
+ECE 332,001,Thursday,"August 4, 2011",4:00 PM,6:30 PM,PAC 3
+ECE 342,"001,002",Wednesday,"August 10, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+ECE 354,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+ECE 370,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+ECE 411,001,Tuesday,"August 9, 2011",7:30 PM,10:00 PM,PAC 4
+ECE 413,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,PAC 5
+ECE 418,001,Wednesday,"August 10, 2011",7:30 PM,10:00 PM,PAC 5
+ECE 419,001,Friday,"August 5, 2011",4:00 PM,6:30 PM,MC 4041
+ECE 428,001,Thursday,"August 4, 2011",4:00 PM,6:30 PM,PAC 1
+ECE 429,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,PAC 6
+ECE 432,001,Saturday,"August 13, 2011",4:00 PM,6:30 PM,PAC 6
+ECE 445,001,Friday,"August 5, 2011",7:30 PM,10:00 PM,PAC 4
+ECE 452,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+ECE 454,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 5
+ECE 455,001,Friday,"August 12, 2011",4:00 PM,6:30 PM,PAC 2
+ECE 457A,001,Saturday,"August 13, 2011",7:30 PM,10:00 PM,PAC 4
+ECE 463,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,MC 1085
+ECE 471,"001,002",Wednesday,"August 3, 2011",9:00 AM,11:30 AM,"PAC 1,2"
+ECE 473,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,PAC 5
+ECE 481,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 1
+ECE 486,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,PAC 7
+ECE 750,004,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 5
+ECON 101,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+ECON 101,002,Tuesday,"August 9, 2011",12:30 PM,2:30 PM,"MC 4020,4021"
+ECON 102,001,Monday,"August 8, 2011",4:00 PM,6:00 PM,"PAC 4,5"
+ECON 102,002,Monday,"August 8, 2011",4:00 PM,6:30 PM,"PAC 1,2,3"
+ECON 102,003,Monday,"August 8, 2011",4:00 PM,6:00 PM,"PAC 7,8"
+ECON 201,001,Tuesday,"August 9, 2011",12:30 PM,2:00 PM,DC 1350
+ECON 201,002,Tuesday,"August 9, 2011",12:30 PM,2:00 PM,DC 1351
+ECON 201,003,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 3
+ECON 202,001,Thursday,"August 11, 2011",4:00 PM,6:00 PM,PAC 7
+ECON 202,002,Thursday,"August 11, 2011",4:00 PM,6:30 PM,"PAC 1,2"
+ECON 202,003,Thursday,"August 11, 2011",4:00 PM,6:30 PM,"PAC 5,6"
+ECON 202,004,Thursday,"August 11, 2011",4:00 PM,6:30 PM,PAC 4
+ECON 211,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 4
+ECON 221,001,Friday,"August 12, 2011",4:00 PM,6:30 PM,PAC 4
+ECON 221,002,Friday,"August 12, 2011",4:00 PM,6:30 PM,PAC 5
+ECON 231,"001,002",Friday,"August 5, 2011",7:30 PM,10:00 PM,"PAC 1,2,3"
+ECON 301,001,Tuesday,"August 9, 2011",4:00 PM,6:30 PM,PAC 1
+ECON 301,002,Tuesday,"August 9, 2011",4:00 PM,6:30 PM,PAC 4
+ECON 311,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 4
+ECON 321,001,Thursday,"August 4, 2011",7:30 PM,9:00 PM,PAC 8
+ECON 357,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,MC 1085
+ECON 363,001,Friday,"August 12, 2011",4:00 PM,6:00 PM,"PAC 9,10"
+ECON 365,001,Saturday,"August 13, 2011",12:30 PM,2:00 PM,"PAC 9,10"
+ECON 371,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 4
+ECON 372,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,PAC 4
+ECON 381,001,Saturday,"August 13, 2011",7:30 PM,9:30 PM,PAC 8
+ECON 402,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,PAC 4
+ECON 442,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,PAC 3
+ENGL 101A,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,PAC 10
+ENGL 104,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,PAC 4
+ENGL 200B,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 2
+ENGL 201,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,MC 2017
+ENGL 251B,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,PAC 5
+ENGL 306A,001,Friday,"August 5, 2011",7:30 PM,10:00 PM,PAC 5
+ENGL 309C,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,PAC 2
+ENGL 310C,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 11
+ENGL 346,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,PAC 6
+ENVE 127,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,PAC 3
+ENVE 320,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,DWE 3522
+ENVE 321,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,CPH 3607
+ENVE 330,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,DWE 2527
+ENVS 200,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 5,6"
+FR 151,001,Thursday,"August 11, 2011",12:30 PM,2:30 PM,AL 208
+FR 192A,001,Wednesday,"August 3, 2011",4:00 PM,6:00 PM,AL 124
+FR 192B,001,Saturday,"August 13, 2011",9:00 AM,11:00 AM,ML 354
+FR 353,001,Exam removed from the schedule.  Contact instructor for further information.,,,,
+GENE 121,001,Saturday,"August 6, 2011",12:30 PM,3:00 PM,"PAC 11,12"
+GENE 123,"001,002",Thursday,"August 4, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+GEOG 281,001,Thursday,"August 4, 2011",7:30 PM,10:00 PM,PAC 4
+GERON 210,001,Friday,"August 12, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+HIST 264,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,AL 211
+HLTH 210,001,Friday,"August 12, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+HRM 200,001,Wednesday,"August 3, 2011",7:30 PM,10:00 PM,"PAC 1,2,3,4"
+INTEG 275,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,EV1 350
+ISS 220R,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,STJ 3027
+KIN 205,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,PAC 4
+KIN 210,001,Friday,"August 12, 2011",4:00 PM,6:30 PM,"PAC 11,12"
+KIN 222,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 1,2"
+MATH 115,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,MC 2054
+MATH 118,001 to 004,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4"
+MATH 119,"001,002",Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"PAC 5,6,7"
+MATH 127,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,PAC 3
+MATH 128,001,Wednesday,"August 10, 2011",4:00 PM,6:30 PM,PAC 5
+MATH 135,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,DC 1350
+MATH 136,"001,002",Thursday,"August 4, 2011",9:00 AM,11:30 AM,"PAC 6,7,8"
+MATH 137,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,MC 4041
+MATH 138,"001,002",Wednesday,"August 10, 2011",4:00 PM,6:30 PM,"PAC 7,8"
+MATH 207,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,PAC 3
+MATH 212,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 1
+MATH 213,001,Thursday,"August 11, 2011",9:00 AM,11:30 AM,PAC 1
+MATH 218,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,PAC 5
+MATH 225,001,Friday,"August 5, 2011",4:00 PM,6:30 PM,MC 2054
+MATH 235,001 to 003,Saturday,"August 13, 2011",4:00 PM,6:30 PM,"PAC 1,2,3"
+MATH 237,001 to 003,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 4,5,6"
+MATH 239,001 to 004,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,"PAC 1,2,3,4"
+MATH 245,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,PAC 4
+ME 123,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,"PAC 1,2,3"
+ME 203,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 212,001,Saturday,"August 6, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 215,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,DC 1350
+ME 219,001,Thursday,"August 11, 2011",4:00 PM,6:30 PM,DWE 3522
+ME 220,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 250,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 262,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 303,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 321,001,Wednesday,"August 3, 2011",7:30 PM,10:00 PM,"E5 3101,3102"
+ME 321,002,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 340,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"CPH 3602,3604"
+ME 351,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 354,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"CPH 3602,3604"
+ME 423,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,CPH 3679
+ME 435,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,DWE 2527
+ME 456,001,Wednesday,"August 3, 2011",12:30 PM,3:00 PM,CPH 3679
+ME 459,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 548,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,CPH 3679
+ME 559,001,Thursday,"August 11, 2011",12:30 PM,3:00 PM,CPH 3679
+ME 561,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,CPH 3679
+MSCI 211,002,Friday,"August 12, 2011",7:30 PM,10:00 PM,PAC 4
+MSCI 252,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 6
+MSCI 261,"001,002",Friday,"August 12, 2011",12:30 PM,3:00 PM,"CPH 1346, E2 1310"
+MSCI 261,003,Friday,"August 12, 2011",12:30 PM,3:00 PM,PAC 3
+MSCI 263,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 5
+MSCI 331,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,PAC 3
+MSCI 331,002,Friday,"August 5, 2011",9:00 AM,11:30 AM,PAC 6
+MSCI 346,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,DWE 3522
+MSCI 421,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,PAC 4
+MSCI 432,001,Wednesday,"August 3, 2011",4:00 PM,6:30 PM,PAC 4
+MSCI 434,001,Thursday,"August 4, 2011",4:00 PM,6:30 PM,PAC 2
+MSCI 445,001,Wednesday,"August 3, 2011",12:30 PM,3:00 PM,PAC 1
+MSCI 452,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,PAC 7
+MSCI 531,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,MC 4064
+MSCI 551,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,PAC 9
+MTE 111,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,DC 1351
+MTE 119,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+MTE 120,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,DC 1351
+MTE 140,001,Saturday,"August 6, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+MTE 320,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+MUSIC 100,001,Friday,"August 12, 2011",12:30 PM,3:00 PM,MC 1085
+MUSIC 140,001,Thursday,"August 11, 2011",9:00 AM,11:30 AM,"DC 1350,1351"
+MUSIC 245,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,MC 1085
+MUSIC 270,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,CGC 1302
+NE 217,001,Wednesday,"August 10, 2011",7:30 PM,10:00 PM,PAC 6
+NE 226,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,PAC 6
+NE 232,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"MC 2017,2054"
+NE 242,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,PAC 4
+NE 318,001,Friday,"August 12, 2011",9:00 AM,11:30 AM,PAC 6
+NE 333,001,Wednesday,"August 3, 2011",9:00 AM,11:30 AM,PAC 7
+NE 334,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,PAC 8
+NE 343,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,PAC 7
+NE 344,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 4
+PACS 314,001,Thursday,"August 4, 2011",4:00 PM,6:00 PM,CGC 1111
+PHIL 145,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,STJ 2017
+PHIL 145,002,Monday,"August 8, 2011",9:00 AM,11:30 AM,MC 4059
+PHIL 215,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,DC 1350
+PHIL 220,001,Tuesday,"August 9, 2011",7:30 PM,10:00 PM,MC 4059
+PHYS 112,001,Saturday,"August 13, 2011",7:30 PM,10:00 PM,PAC 1
+PHYS 122,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 6
+PHYS 125,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,PAC 8
+PHYS 256,001,Saturday,"August 6, 2011",12:30 PM,3:00 PM,"PAC 9,10"
+PHYS 258,001,Saturday,"August 13, 2011",7:30 PM,10:00 PM,MC 1056
+PHYS 263,001,Tuesday,"August 9, 2011",7:30 PM,10:00 PM,MC 4061
+PHYS 275,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,PAC 6
+PHYS 334,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,PHY 313
+PHYS 352,001,Tuesday,"August 2, 2011",7:30 PM,10:00 PM,PHY 308
+PHYS 353,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,PHY 308
+PHYS 363,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,PHY 313
+PHYS 364,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,PHY 308
+PLAN 281,001,Thursday,"August 4, 2011",7:30 PM,10:00 PM,PAC 4
+PLAN 484,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,MC 4061
+PLAN 684,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,MC 4061
+PMATH 330,001,Wednesday,"August 10, 2011",7:30 PM,10:00 PM,PAC 8
+PMATH 332,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+PMATH 334,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,PAC 10
+PMATH 336,001,Thursday,"August 11, 2011",7:30 PM,10:00 PM,PAC 5
+PMATH 345,001,Monday,"August 8, 2011",12:30 PM,3:00 PM,PAC 12
+PMATH 351,001,Saturday,"August 6, 2011",7:30 PM,10:00 PM,PAC 3
+PMATH 352,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,PAC 8
+PMATH 360,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,PAC 8
+PSCI 260,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+PSCI 292,001,Wednesday,"August 3, 2011",4:00 PM,6:00 PM,"PAC 7,8"
+PSYCH 101,001,Thursday,"August 4, 2011",7:30 PM,10:00 PM,"MC 2017,2054,2065,2066"
+PSYCH 339,001,Thursday,"August 11, 2011",4:00 PM,6:00 PM,"PAC 11,12"
+PSYCH 353,001,Saturday,"August 13, 2011",4:00 PM,6:30 PM,"PAC 4,5"
+REC 203,001,Friday,"August 5, 2011",9:00 AM,11:00 AM,"PAC 11,12"
+REC 280,001,Wednesday,"August 3, 2011",12:30 PM,3:00 PM,PAC 8
+SCI 238,001,Friday,"August 12, 2011",7:30 PM,10:00 PM,PAC 1
+SE 240,001,Wednesday,"August 3, 2011",7:30 PM,10:00 PM,PAC 6
+SE 464,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+SOC 101,001,Tuesday,"August 2, 2011",12:30 PM,2:30 PM,DC 1350
+SOC 210,001,Friday,"August 5, 2011",9:00 AM,11:00 AM,"PAC 11,12"
+SOC 256,001,Wednesday,"August 10, 2011",4:00 PM,6:00 PM,HH 1101
+STAT 230,"001,002",Wednesday,"August 3, 2011",12:30 PM,3:00 PM,"PAC 4,5,6,7"
+STAT 231,001 to 004,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"PAC 4,5,6,7,8"
+STAT 330,001,Monday,"August 8, 2011",7:30 PM,10:00 PM,"PAC 1,2,3"
+STAT 331,001,Friday,"August 12, 2011",12:30 PM,3:00 PM,"PAC 7,8"
+STAT 332,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"PAC 11,12"
+STAT 333,001,Saturday,"August 13, 2011",9:00 AM,11:30 AM,PAC 5
+STAT 334,001,Tuesday,"August 9, 2011",12:30 PM,3:00 PM,PAC 6
+STAT 341,001,Tuesday,"August 9, 2011",9:00 AM,11:30 AM,PAC 5
+STAT 371,001,Saturday,"August 13, 2011",12:30 PM,3:00 PM,"PAC 1,2"
+STAT 430,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+STAT 443,001,Saturday,"August 13, 2011",4:00 PM,6:30 PM,"CPH 1346, E2 1310"
+STAT 830,001,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"PAC 9,10"
+SYDE 112,001,Friday,"August 12, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 114,001,Wednesday,"August 10, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 162,001,Friday,"August 5, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 182,001,Tuesday,"August 2, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 192,001,Thursday,"August 4, 2011",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 282,001,Thursday,"August 4, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 311,001,Wednesday,"August 10, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
+SYDE 351,001,Tuesday,"August 2, 2011",4:00 PM,6:30 PM,"E5 6006,6008"
+SYDE 351,002,Tuesday,"August 2, 2011",9:00 AM,11:30 AM,"E5 3101,3102"
+SYDE 381,001,Monday,"August 8, 2011",9:00 AM,11:30 AM,"E5 6006,6008"
