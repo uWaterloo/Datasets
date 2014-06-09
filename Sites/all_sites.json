@@ -1,3601 +1,3603 @@
 [
-   {
-      "wcms_path":"3d-print-centre",
-      "site_name":"3D Print Centre",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"579",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"about",
-      "site_name":"About Waterloo",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"3"
-   },
-   {
-      "wcms_path":"academic-integrity",
-      "site_name":"Academic Integrity Office",
-      "unit_code":"AP-RESO",
-      "unit_short_name":"Associate Provost, Resources",
-      "status":"done",
-      "id":"354",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"academic-reviews",
-      "site_name":"Academic Reviews",
-      "unit_code":"AVP-AS",
-      "unit_short_name":"Associate Vice-President, Academic &amp; Strategic",
-      "unit_full_name":"Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
-      "status":"done",
-      "id":"355"
-   },
-   {
-      "wcms_path":"academic-support-computing-representatives-group",
-      "site_name":"Academic Support Computing Representatives Group",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"752"
-   },
-   {
-      "wcms_path":"adobe-connect-help",
-      "site_name":"Adobe Connect Help",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"594",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"advanced-interface-design-lab",
-      "site_name":"Advanced Interface Design Lab",
-      "group_code":"ENG",
-      "unit_code":"SYDE",
-      "unit_short_name":"Systems Design Engineering",
-      "status":"done",
-      "id":"664",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"advancement",
-      "site_name":"Office of Advancement",
-      "unit_code":"VP-AD",
-      "unit_short_name":"Vice-President Advancement",
-      "status":"done",
-      "id":"453"
-   },
-   {
-      "wcms_path":"alumni",
-      "site_name":"Alumni",
-      "unit_code":"VP-AD",
-      "unit_short_name":"Vice-President Advancement",
-      "status":"done",
-      "id":"358"
-   },
-   {
-      "wcms_path":"anthropology",
-      "site_name":"Anthropology",
-      "group_code":"ART",
-      "unit_code":"ANTH",
-      "unit_short_name":"Anthropology",
-      "status":"done",
-      "id":"41",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"anxiety-studies",
-      "site_name":"Anxiety Studies",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"90"
-   },
-   {
-      "wcms_path":"applied-health-sciences",
-      "site_name":"Applied Health Sciences",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"11",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"applied-health-sciences-computing",
-      "site_name":"AHS Computing",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"18",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"applied-health-sciences-undergraduate-members",
-      "site_name":"Applied Health Sciences Undergraduate Members",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"37",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"architecture",
-      "site_name":"Waterloo Architecture",
-      "group_code":"ENG",
-      "unit_code":"ARCH",
-      "unit_short_name":"Architecture - School of",
-      "status":"done",
-      "id":"235",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"arts",
-      "site_name":"Arts",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"39",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"arts-computing",
-      "site_name":"Arts Computing Office",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"45",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"arts-endowment-fund",
-      "site_name":"Arts Endowment Fund",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"46"
-   },
-   {
-      "wcms_path":"arts/current-undergraduates/majors-and-minors/liberal-studies",
-      "site_name":"Liberal Studies",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"81",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"assessment-planning-project",
-      "site_name":"Assessment and Planning Project",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"249"
-   },
-   {
-      "wcms_path":"associate-provost-students",
-      "site_name":"Associate Provost, Students",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"357"
-   },
-   {
-      "wcms_path":"associate-vice-president-academic",
-      "site_name":"Associate Vice-President, Academic",
-      "unit_code":"AVP-AS",
-      "unit_short_name":"Associate Vice-President, Academic &amp; Strategic",
-      "unit_full_name":"Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
-      "status":"done",
-      "id":"588"
-   },
-   {
-      "wcms_path":"astereae-lab ",
-      "site_name":"Astereae Lab",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"288"
-   },
-   {
-      "wcms_path":"audio-research-group",
-      "site_name":"Audio Research Group",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"290",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"aviation",
-      "site_name":"Aviation",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"361",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"behavioural-decision-research",
-      "site_name":"Centre for Behavioural Decision Research",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"91",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"besner-lab",
-      "site_name":"Besner Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"779",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"biochemistry-molecular-biology-institute",
-      "site_name":"Institute of Biochemistry &amp; Molecular Biology",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"314",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"bioengineering-biotechnology",
-      "site_name":"Centre for Bioengineering and Biotechnology",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"148"
-   },
-   {
-      "wcms_path":"biology",
-      "site_name":"Biology",
-      "group_code":"SCI",
-      "unit_code":"BIOL",
-      "unit_short_name":"Biology",
-      "status":"done",
-      "id":"291",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"biology-graduate-student-association",
-      "site_name":"Biology Graduate Student Association",
-      "unit_code":"GSA",
-      "unit_short_name":"Graduate Student Association",
-      "status":"done",
-      "id":"292"
-   },
-   {
-      "wcms_path":"biomedical-engineering",
-      "site_name":"Biomedical Engineering",
-      "group_code":"ENG",
-      "unit_code":"SYDE",
-      "unit_short_name":"Systems Design Engineering",
-      "status":"done",
-      "id":"762"
-   },
-   {
-      "wcms_path":"biomedical-sciences",
-      "site_name":"Biomedical Sciences",
-      "group_code":"SCI",
-      "unit_code":"BIOL",
-      "unit_short_name":"Biology",
-      "status":"done",
-      "id":"293"
-   },
-   {
-      "wcms_path":"biosphere-sustainability-project",
-      "site_name":"Biosphere Sustainability Project",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"253"
-   },
-   {
-      "wcms_path":"brand-guidelines",
-      "site_name":"Brand Guidelines",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"576"
-   },
-   {
-      "wcms_path":"campbell-labs",
-      "site_name":"Campbell Labs",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"294",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"campus-network-services-committee",
-      "site_name":"Campus Network Services Committee",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"754"
-   },
-   {
-      "wcms_path":"canada-china-actuarial-qualification-examination-centre",
-      "site_name":"Canada-China Actuarial Qualification Examination Centre",
-      "group_code":"MAT",
-      "unit_code":"STATACTSC",
-      "unit_short_name":"Statistics &amp; Actuarial Science",
-      "status":"done",
-      "id":"792"
-   },
-   {
-      "wcms_path":"canada-day",
-      "site_name":"Canada Day Celebration",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"364"
-   },
-   {
-      "wcms_path":"canadian-centre-of-arts-and-technology",
-      "site_name":"Canadian Centre of Arts and Technology (CCAT)",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"48",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"canadian-index-wellbeing",
-      "site_name":"Canadian Index of Wellbeing",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"15",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"canadian-phycological-culture-centre",
-      "site_name":"Canadian Phycological Culture Centre",
-      "group_code":"SCI",
-      "unit_code":"BIOL",
-      "unit_short_name":"Biology",
-      "status":"done",
-      "id":"591",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"canadian-society-for-biomechanics-2014",
-      "site_name":"Canadian Society for Biomechanics (CSB-SCB) 2014",
-      "group_code":"AHS",
-      "unit_code":"KIN",
-      "unit_short_name":"Kinesiology",
-      "status":"done",
-      "id":"692"
-   },
-   {
-      "wcms_path":"canadian-student-tobacco-alcohol-drugs-survey",
-      "site_name":"Canadian Student Tobacco, Alcohol and Drug Survey",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"31"
-   },
-   {
-      "wcms_path":"career-action",
-      "site_name":"Centre for Career Action",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"368",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"catalyst",
-      "site_name":"Catalyst",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"147"
-   },
-   {
-      "wcms_path":"catering",
-      "site_name":"UW Catering",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"505",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"central-stores",
-      "site_name":"Central Stores",
-      "unit_code":"VP-AF",
-      "unit_short_name":"Vice-President Administration and Finance",
-      "status":"done",
-      "id":"367"
-   },
-   {
-      "wcms_path":"centre-advanced-materials-joining",
-      "site_name":"Centre for Advanced Materials Joining",
-      "group_code":"ENG",
-      "unit_code":"ME",
-      "unit_short_name":"Mechanical &amp; Mechatronics Engg",
-      "unit_full_name":"Mechanical and Mechatronics Engineering",
-      "status":"done",
-      "id":"203",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"centre-advancement-co-operative-education",
-      "site_name":"WATCACE - Centre for the Advancement of Co-operative Education",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"511",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"centre-automotive-research",
-      "site_name":"Waterloo Centre for Automotive Research (WatCAR)",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"240",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"centre-for-german-studies",
-      "site_name":"Waterloo Centre for German Studies (WCGS)",
-      "group_code":"ART",
-      "unit_code":"GERSLAV",
-      "unit_short_name":"Germanic &amp; Slavic Studies",
-      "status":"done",
-      "id":"74",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"centre-for-teaching-excellence",
-      "site_name":"Centre for Teaching Excellence",
-      "unit_code":"AVP-AS",
-      "unit_short_name":"Associate Vice-President, Academic &amp; Strategic",
-      "unit_full_name":"Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
-      "status":"done",
-      "id":"373",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"centre-for-theoretical-neuroscience",
-      "site_name":"Centre for Theoretical Neuroscience",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"50",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"centre-integrated-rf-engineering",
-      "site_name":"Center for Integrated RF Engineering (CIRFE)",
-      "group_code":"ENG",
-      "unit_code":"ECE",
-      "unit_short_name":"Electrical &amp; Computer Engg",
-      "unit_full_name":"Electrical &amp; Computer Engineering",
-      "status":"done",
-      "id":"162",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"centre-pattern-analysis-machine-intelligence",
-      "site_name":"Centre for Pattern Analysis and Machine Intelligence",
-      "group_code":"ENG",
-      "unit_code":"ECE",
-      "unit_short_name":"Electrical &amp; Computer Engg",
-      "unit_full_name":"Electrical &amp; Computer Engineering",
-      "status":"done",
-      "id":"372",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"centre-pavement-transportation-technology",
-      "site_name":"Centre for Pavement and Transportation Technology",
-      "group_code":"ENG",
-      "unit_code":"CIVE",
-      "unit_short_name":"Civil &amp; Environmental Engg",
-      "unit_full_name":"Civil and Environmental Engineering",
-      "status":"done",
-      "id":"151",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"chairs",
-      "site_name":"Waterloo Chairs",
-      "unit_code":"AP-RESO",
-      "unit_short_name":"Associate Provost, Resources",
-      "status":"done",
-      "id":"514"
-   },
-   {
-      "wcms_path":"chaplains",
-      "site_name":"Chaplains",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"375",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"charles-research-group",
-      "site_name":"Charles Research Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"295",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"chem13news",
-      "site_name":"Chem13 News",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"300"
-   },
-   {
-      "wcms_path":"chemed2013",
-      "site_name":"ChemEd 2013 Conference",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"299"
-   },
-   {
-      "wcms_path":"chemical-engineering",
-      "site_name":"Chemical Engineering",
-      "group_code":"ENG",
-      "unit_code":"CHE",
-      "unit_short_name":"Chemical Engineering",
-      "status":"done",
-      "id":"152",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"chemistry",
-      "site_name":"Chemistry",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"298",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"chemstores",
-      "site_name":"Chemstores",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"301"
-   },
-   {
-      "wcms_path":"child-adolescent-neuropsychology-lab",
-      "site_name":"Child and Adolescent Neuropsychology Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"95",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"child-clinical-studies",
-      "site_name":"Child and Adolescent Clinical Research Group",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"96",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"chong-research-group",
-      "site_name":"Chong Research Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"302",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"civil-environmental-engineering",
-      "site_name":"Civil and Environmental Engineering",
-      "group_code":"ENG",
-      "unit_code":"CIVE",
-      "unit_short_name":"Civil &amp; Environmental Engg",
-      "unit_full_name":"Civil and Environmental Engineering",
-      "status":"done",
-      "id":"153",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"classical-studies",
-      "site_name":"Classical Studies",
-      "group_code":"ART",
-      "unit_code":"CLASSICS",
-      "unit_short_name":"Classical Studies",
-      "status":"done",
-      "id":"53",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"climate-centre",
-      "site_name":"Interdisciplinary Centre on Climate Change (IC3)",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"275",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"co-operative-education",
-      "site_name":"Co-operative Education",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"392",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"co-operative-education-career-action",
-      "site_name":"Co-operative Education and Career Action",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"393",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"co-operative-education-career-action-systems",
-      "site_name":"Co-operative Education and Career Action Systems",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"395"
-   },
-   {
-      "wcms_path":"co-operative-education-stakeholder-research",
-      "site_name":"Co-operative Education and Career Action Stakeholder Research",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"hold",
-      "id":"394"
-   },
-   {
-      "wcms_path":"cognition-and-natural-behaviour-laboratory",
-      "site_name":"Cognition and Natural Behaviour Laboratory",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"781",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"cognitive-development-lab",
-      "site_name":"Cognitive Development Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"94",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"cognitive-neuroscience-lab",
-      "site_name":"Cognitive Neuroscience Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"537",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"communications-public-affairs",
-      "site_name":"Communications &amp; Public Affairs",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"376",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"community-relations",
-      "site_name":"Community Relations",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"741",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"computing-financial-management",
-      "site_name":"Computing and Financial Management",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"391",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"computing-technology-services-committee",
-      "site_name":"Computing Technology and Services Committee ",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"755"
-   },
-   {
-      "wcms_path":"conference-centre",
-      "site_name":"Conference Centre",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"381"
-   },
-   {
-      "wcms_path":"conflict-analysis-group",
-      "site_name":"Conflict Analysis Group",
-      "group_code":"ENG",
-      "unit_code":"SYDE",
-      "unit_short_name":"Systems Design Engineering",
-      "status":"done",
-      "id":"551",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"conflict-management",
-      "site_name":"Certificate in Conflict Management",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"388",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"conflict-management-human-rights",
-      "site_name":"Conflict Management and Human Rights Office",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"380",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"conrad-business-entrepreneurship-technology",
-      "site_name":"Conrad Business, Entrepreneurship, and Technology Centre",
-      "group_code":"ENG",
-      "unit_code":"CBET",
-      "unit_short_name":"Conrad Bus, Entrepren &amp; Tech",
-      "unit_full_name":"Conrad Business, Entrepreneurship &amp; Technology Ctr",
-      "status":"done",
-      "id":"156",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"copyright-guidelines",
-      "site_name":"Copyright Guidelines",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"659"
-   },
-   {
-      "wcms_path":"counselling-services",
-      "site_name":"Counselling Services",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"396",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"creative-services",
-      "site_name":"Creative Services",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"397",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"culture-at-work-lab",
-      "site_name":"Culture at Work Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"97",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"danckert-attention-action-group",
-      "site_name":"Danckert Attention and Action Group",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"99",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"developmental-learning-lab",
-      "site_name":"Developmental Learning Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"100",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"disability-services",
-      "site_name":"AccessAbility Services",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"356",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"diversity-intergroup-relations-lab",
-      "site_name":"Diversity Intergroup Relations Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"102",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"dixon-research-group",
-      "site_name":"Dixon Research Group",
-      "group_code":"SCI",
-      "unit_code":"BIOL",
-      "unit_short_name":"Biology",
-      "status":"done",
-      "id":"589",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"document-management",
-      "site_name":"Document Management",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"400"
-   },
-   {
-      "wcms_path":"earth-environmental-sciences",
-      "site_name":"Earth and Environmental Sciences",
-      "group_code":"SCI",
-      "unit_code":"EARTH",
-      "unit_short_name":"Earth &amp; Environmental Sciences",
-      "unit_full_name":"Earth and Environmental Sciences",
-      "status":"done",
-      "id":"303",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"earth-sciences-museum",
-      "site_name":"Earth Sciences Museum",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"304",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"east-asian-studies",
-      "site_name":"East Asian Studies",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"477",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"ecohydrology",
-      "site_name":"Ecohydrology Research Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"305",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"ecology-lab",
-      "site_name":"Ecology Lab",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"263",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"economics",
-      "site_name":"Economics",
-      "group_code":"ART",
-      "unit_code":"ECON",
-      "unit_short_name":"Economics",
-      "status":"done",
-      "id":"55",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"education-program-for-photonics-professionals",
-      "site_name":"Education Program for Phototonics Professionals",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"307"
-   },
-   {
-      "wcms_path":"efficiency-working-group",
-      "site_name":"Efficiency Working Group",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"401"
-   },
-   {
-      "wcms_path":"electrical-computer-engineering",
-      "site_name":"Electrical and Computer Engineering",
-      "group_code":"ENG",
-      "unit_code":"ECE",
-      "unit_short_name":"Electrical &amp; Computer Engg",
-      "unit_full_name":"Electrical &amp; Computer Engineering",
-      "status":"done",
-      "id":"157",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"embedded-software-group",
-      "site_name":"Real-time Embedded Software Group",
-      "group_code":"ENG",
-      "unit_code":"ECE",
-      "unit_short_name":"Electrical &amp; Computer Engg",
-      "unit_full_name":"Electrical &amp; Computer Engineering",
-      "status":"done",
-      "id":"221"
-   },
-   {
-      "wcms_path":"embedded-systems-lab",
-      "site_name":"Real-time Embedded Systems Lab (RESL)",
-      "group_code":"ENG",
-      "unit_code":"ECE",
-      "unit_short_name":"Electrical &amp; Computer Engg",
-      "unit_full_name":"Electrical &amp; Computer Engineering",
-      "status":"done",
-      "id":"222",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"employee-assistance-program",
-      "site_name":"Employee Assistance Program",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"402"
-   },
-   {
-      "wcms_path":"employer-community",
-      "site_name":"Employer Community",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"810",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"engineering",
-      "site_name":"Engineering",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"142",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"engineering-cases",
-      "site_name":"Engineering Cases",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"181",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"engineering-computing",
-      "site_name":"Engineering Computing",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"182",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"engineering-machine-shop",
-      "site_name":"Engineering Machine Shop",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"66"
-   },
-   {
-      "wcms_path":"engineering-science-quest",
-      "site_name":"Engineering Science Quest",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"185"
-   },
-   {
-      "wcms_path":"engineering-student-ambassadors",
-      "site_name":"Engineering Student Ambassadors",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"186",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"english",
-      "site_name":"English Language and Literature",
-      "group_code":"ART",
-      "unit_code":"ENGL",
-      "unit_short_name":"English Language &amp; Literature",
-      "status":"done",
-      "id":"56",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"english-language-institute",
-      "site_name":"English Language Institute",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"542",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"enquete-canadienne-sur-le-tabac-alcool-et-les-drogues-chez-les-eleves",
-      "site_name":"Enqu\u00eate canadienne sur le tabac, l\u2019alcool et les drogues chez les \u00e9l\u00e8ve",
-      "group_code":"AHS",
-      "unit_code":"HLTHGERON",
-      "unit_short_name":"Public Hlth&amp;Hlth Sys-School of",
-      "unit_full_name":"Public Health and Health Systems - School of",
-      "status":"done",
-      "id":"782"
-   },
-   {
-      "wcms_path":"environment",
-      "site_name":"Environment",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"245",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"environment-computing",
-      "site_name":"Environment Computing (MAD)",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"262",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"environment-resource-studies",
-      "site_name":"Environment and Resource Studies",
-      "group_code":"ENV",
-      "unit_code":"ERS",
-      "unit_short_name":"Environment &amp; Resource Studies",
-      "status":"done",
-      "id":"268",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"event-related-potential-lab",
-      "site_name":"Event Related Potential Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"103",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"events",
-      "site_name":"Waterloo Events",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"8"
-   },
-   {
-      "wcms_path":"excellence-canada",
-      "site_name":"Excellence Canada",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"migrating",
-      "id":"794",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"face-processing-social-cognition-lab",
-      "site_name":"Face Processing and Social Cognition",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"105"
-   },
-   {
-      "wcms_path":"faculties-academics",
-      "site_name":"Faculties &amp; Academics",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"4"
-   },
-   {
-      "wcms_path":"faculty-association",
-      "site_name":"Faculty Association",
-      "unit_code":"NONUW",
-      "unit_short_name":"Non-University of Waterloo",
-      "status":"done",
-      "id":"404"
-   },
-   {
-      "wcms_path":"faculty-computing-user-support-group",
-      "site_name":"Faculty Computing User Support Group ",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"750"
-   },
-   {
-      "wcms_path":"faculty-science-foundation",
-      "site_name":"Faculty of Science Foundation",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"308"
-   },
-   {
-      "wcms_path":"fatigue-stress-analysis-lab",
-      "site_name":"Fatigue and Stress Analysis Lab",
-      "group_code":"ENG",
-      "unit_code":"ME",
-      "unit_short_name":"Mechanical &amp; Mechatronics Engg",
-      "unit_full_name":"Mechanical and Mechatronics Engineering",
-      "status":"done",
-      "id":"188",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"finance",
-      "site_name":"Finance",
-      "unit_code":"VP-AF",
-      "unit_short_name":"Vice-President Administration and Finance",
-      "status":"done",
-      "id":"414"
-   },
-   {
-      "wcms_path":"find-out-more",
-      "site_name":"Find Out More",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"415",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"fine-arts",
-      "site_name":"Fine Arts",
-      "group_code":"ART",
-      "unit_code":"FINE",
-      "unit_short_name":"Fine Arts",
-      "status":"done",
-      "id":"60",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"flanagan-lab",
-      "site_name":"Flanagan Lab",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"348",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"foldvari-group",
-      "site_name":"Foldvari Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"310",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"food-services",
-      "site_name":"UW Food Services",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"503",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"french-studies",
-      "site_name":"French Studies",
-      "group_code":"ART",
-      "unit_code":"FR",
-      "unit_short_name":"French Studies",
-      "status":"done",
-      "id":"64",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"fuel-cell-green-energy-lab",
-      "site_name":"Fuel Cell and Green Energy Lab",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"531",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"gambling-research-lab",
-      "site_name":"Gambling Research Lab",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"70",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"games-institute",
-      "site_name":"(The) Games Institute",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"71",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"gamification",
-      "site_name":"Gamification",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"136"
-   },
-   {
-      "wcms_path":"geography-environmental-management",
-      "site_name":"Geography and Environmental Management",
-      "group_code":"ENV",
-      "unit_code":"GEOG",
-      "unit_short_name":"Geography &amp; Environmental Mgmt",
-      "unit_full_name":"Geography &amp; Environmental Management",
-      "status":"done",
-      "id":"272",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"geomechanics-group",
-      "site_name":"Geomechanics Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"311",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"geriatric-health-systems-research-group",
-      "site_name":"Geriatric Health Systems Research Group ",
-      "group_code":"AHS",
-      "unit_code":"HLTHGERON",
-      "unit_short_name":"Public Hlth&amp;Hlth Sys-School of",
-      "unit_full_name":"Public Health and Health Systems - School of",
-      "status":"done",
-      "id":"703",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"germanic-slavic-studies",
-      "site_name":"Germanic and Slavic Studies",
-      "group_code":"ART",
-      "unit_code":"GERSLAV",
-      "unit_short_name":"Germanic &amp; Slavic Studies",
-      "status":"done",
-      "id":"72",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"graduate-association-psychology",
-      "site_name":"Graduate Association of Students in Psychology",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"107",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"graduate-house",
-      "site_name":"Graduate House",
-      "unit_code":"GSA",
-      "unit_short_name":"Graduate Student Association",
-      "status":"done",
-      "id":"417",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"graduate-student-association",
-      "site_name":"Graduate Student Association",
-      "unit_code":"GSA",
-      "unit_short_name":"Graduate Student Association",
-      "status":"done",
-      "id":"418",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"graduate-studies",
-      "site_name":"Graduate Studies",
-      "group_code":"GRAD",
-      "unit_code":"GRAD",
-      "unit_short_name":"Graduate Studies",
-      "status":"done",
-      "id":"419",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"grebel",
-      "site_name":"Conrad Grebel University College",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"383",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"green-it",
-      "site_name":"GreenIT Advisory Group",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"422"
-   },
-   {
-      "wcms_path":"groundwater-geochemistry-remediation",
-      "site_name":"Groundwater Geochemistry and Remediation Group",
-      "group_code":"SCI",
-      "unit_code":"EARTH",
-      "unit_short_name":"Earth &amp; Environmental Sciences",
-      "unit_full_name":"Earth and Environmental Sciences",
-      "status":"done",
-      "id":"543",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"groundwater-research",
-      "site_name":"Centre for Groundwater Research",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"296"
-   },
-   {
-      "wcms_path":"guelph-waterloo-physics-institute",
-      "site_name":"Guelph-Waterloo Physics Institute",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"312",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"hagey-lectures",
-      "site_name":"Hagey Lectures",
-      "group_code":"VPA",
-      "unit_code":"UW",
-      "unit_short_name":"University of Waterloo",
-      "status":"done",
-      "id":"423",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"health-informatics",
-      "site_name":"Health Informatics",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"424",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"health-services",
-      "site_name":"Health Services",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"425",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"heritage-resources-centre",
-      "site_name":"Heritage Resources Centre",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"274",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"hire",
-      "site_name":"Hire Waterloo (Co-op)",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"426",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"history",
-      "site_name":"History",
-      "group_code":"ART",
-      "unit_code":"HIST",
-      "unit_short_name":"History",
-      "status":"done",
-      "id":"75",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"hong-kong-office",
-      "site_name":"Hong Kong Office",
-      "unit_code":"AVP-INT",
-      "unit_short_name":"Associate Vice-President International",
-      "status":"done",
-      "id":"516"
-   },
-   {
-      "wcms_path":"hopkins-lab",
-      "site_name":"Hopkins Laboratory",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"313",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"housing",
-      "site_name":"Waterloo Residences",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"518",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"human-resources",
-      "site_name":"Human Resources",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"427",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"human-resources-management-system",
-      "site_name":"Human Resources Management System",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"428",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"humans-complex-systems-lab",
-      "site_name":"Humans in Complex Systems Lab",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"544",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"i3-challenge",
-      "site_name":"i3 Challenge",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"264"
-   },
-   {
-      "wcms_path":"ideas-summer-experience",
-      "site_name":"IDEAS Summer Experience",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"768"
-   },
-   {
-      "wcms_path":"independent-studies",
-      "site_name":"Independent Studies",
-      "group_code":"IS",
-      "unit_code":"IS",
-      "unit_short_name":"Independent Studies",
-      "status":"done",
-      "id":"76",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"indice-canadien-du-mieux-etre",
-      "site_name":"Canadian Index of Wellbeing (FR)",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"535",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"industrial-organizational-psychology-student-conference",
-      "site_name":"Industrial Organizational Psychology Student Conference",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"migrating",
-      "id":"581"
-   },
-   {
-      "wcms_path":"infant-studies-group",
-      "site_name":"Infant Studies Group",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"109",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"information-systems-technology",
-      "site_name":"Information Systems &amp; Technology",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"432"
-   },
-   {
-      "wcms_path":"institute-computer-research",
-      "site_name":"Institute for Computer Research (ICR)",
-      "group_code":"VPA",
-      "unit_code":"ICR",
-      "unit_short_name":"Inst for Computer Research",
-      "unit_full_name":"Institute for Computer Research",
-      "status":"done",
-      "id":"438",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"institute-for-quantum-computing",
-      "site_name":"Institute for Quantum Computing",
-      "group_code":"VPA",
-      "unit_code":"UW",
-      "unit_short_name":"University of Waterloo",
-      "status":"done",
-      "id":"439",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"institute-nanotechnology",
-      "site_name":"Waterloo Institute of Nanotechnology",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"341",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"institute-polymer-research",
-      "site_name":"Institute for Polymer Research",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"570"
-   },
-   {
-      "wcms_path":"institutional-analysis-planning",
-      "site_name":"Institutional Analysis and Planning",
-      "unit_code":"AVP-AS",
-      "unit_short_name":"Associate Vice-President, Academic &amp; Strategic",
-      "unit_full_name":"Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
-      "status":"done",
-      "id":"442",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"international",
-      "site_name":"Waterloo International",
-      "unit_code":"AVP-INT",
-      "unit_short_name":"Associate Vice-President International",
-      "status":"done",
-      "id":"515",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"international-development",
-      "site_name":"International Development",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"276",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"international-optometric-bridging-program",
-      "site_name":"International Optometric Bridging Program",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"349"
-   },
-   {
-      "wcms_path":"international-shoulder-group-2014",
-      "site_name":"International Shoulder Group 2014",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"740"
-   },
-   {
-      "wcms_path":"international-society-for-gravitational-physiology-2014",
-      "site_name":"International Society for Gravitational Physiology 2014",
-      "group_code":"AHS",
-      "unit_code":"KIN",
-      "unit_short_name":"Kinesiology",
-      "status":"migrating",
-      "id":"580"
-   },
-   {
-      "wcms_path":"international-students",
-      "site_name":"International Student Experience",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"443",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"irving-lab",
-      "site_name":"Irving Lab",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"350",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"ist-windows-advancement-group",
-      "site_name":"IST Windows Advancement Group",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"753"
-   },
-   {
-      "wcms_path":"it-professional-development-advisory-group",
-      "site_name":"IT Professional Development Advisory Group",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"751"
-   },
-   {
-      "wcms_path":"it-service-asset-management",
-      "site_name":"IT Service and Asset Management Program",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"436"
-   },
-   {
-      "wcms_path":"it-strategic-plan",
-      "site_name":"IT Strategic Plan",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"437"
-   },
-   {
-      "wcms_path":"jobmine",
-      "site_name":"JobMine",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"444",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"kinesiology",
-      "site_name":"Kinesiology",
-      "group_code":"AHS",
-      "unit_code":"KIN",
-      "unit_short_name":"Kinesiology",
-      "status":"done",
-      "id":"22",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"knowledge-integration",
-      "site_name":"Knowledge Integration (Centre for)",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"265",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"knowledge-integration-exhibition",
-      "site_name":"Knowledge Integration eXhibition",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"266"
-   },
-   {
-      "wcms_path":"lab-infant-development-language",
-      "site_name":"Lab for Infant Development and Language",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"111",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"learn-help",
-      "site_name":"LEARN Help",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"446",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"leonenko-research-group",
-      "site_name":"Leonenko Research Group",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"315",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"library",
-      "site_name":"Library",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"migrating",
-      "id":"448",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/accessibility",
-      "site_name":"Library Accessibility Services",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"742",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/aoda-toolkit",
-      "site_name":"Accessibility for Ontarian&#039;s with Disabilities Act Toolkit",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"744",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/library-lens",
-      "site_name":"Library Lens",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"767",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/musagetes",
-      "site_name":"Musagetes Architecture Library",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"745",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/news",
-      "site_name":"Library News",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"766",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/support",
-      "site_name":"Support the Library",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"763",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/technology-services",
-      "site_name":"Library Technology Services",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"775",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"library/web-redesign",
-      "site_name":"Library Web Redesign",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"770"
-   },
-   {
-      "wcms_path":"lock-it-down",
-      "site_name":"Lock It Down",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"787"
-   },
-   {
-      "wcms_path":"macintosh-technical-user-group",
-      "site_name":"Macintosh Technical User Group",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"784"
-   },
-   {
-      "wcms_path":"management-sciences",
-      "site_name":"Management Sciences",
-      "group_code":"ENG",
-      "unit_code":"MSCI",
-      "unit_short_name":"Management Sciences",
-      "status":"done",
-      "id":"198",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"map-library-assistants-workshop",
-      "site_name":"Map Library Assistants&#039; Workshop",
-      "unit_code":"LIB",
-      "unit_short_name":"Library",
-      "status":"done",
-      "id":"455"
-   },
-   {
-      "wcms_path":"marketing-strategic-communications",
-      "site_name":"Marketing and Strategic Communications",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"586",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"mass-spectrometry-facility",
-      "site_name":"Mass Spectrometry Facility",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"316",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"master-of-public-service",
-      "site_name":"Master of Public Service",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"82",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"master-peace-conflict-studies",
-      "site_name":"Master of Peace &amp; Conflict Studies",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"386",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"mcmahon-lab",
-      "site_name":"McMahon Lab",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"590",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"mechanical-mechatronics-engineering",
-      "site_name":"Mechanical and Mechatronics Engineering",
-      "group_code":"ENG",
-      "unit_code":"ME",
-      "unit_short_name":"Mechanical &amp; Mechatronics Engg",
-      "unit_full_name":"Mechanical and Mechatronics Engineering",
-      "status":"done",
-      "id":"200",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"medicinal-bioorganic-chemistry-lab",
-      "site_name":"Medicinal and Bioorganic Chemistry Lab",
-      "group_code":"SCI",
-      "unit_code":"PHARM",
-      "unit_short_name":"Pharmacy - School of",
-      "status":"done",
-      "id":"749",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"medieval-studies",
-      "site_name":"Medieval Studies",
-      "group_code":"ART",
-      "unit_code":"CLASSICS",
-      "unit_short_name":"Classical Studies",
-      "status":"done",
-      "id":"83",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"mennonite-archives-ontario",
-      "site_name":"Mennonite Archives of Ontario",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"389"
-   },
-   {
-      "wcms_path":"mental-health-research",
-      "site_name":"Centre for Mental Health Research",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"93",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"mental-health-wellness",
-      "site_name":"Mental Health and Wellness",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"449",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"mid-cycle-review",
-      "site_name":"Mid-cycle Review",
-      "group_code":"VPA",
-      "unit_code":"UW",
-      "unit_short_name":"University of Waterloo",
-      "status":"done",
-      "id":"451"
-   },
-   {
-      "wcms_path":"mike-ophelia-lazaridis-quantum-nano-centre",
-      "site_name":"Mike &amp; Ophelia Lazaridis Quantum-Nano Centre",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"450"
-   },
-   {
-      "wcms_path":"murphy-lab",
-      "site_name":"Murphy Lab",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"317",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"murray-alzheimer-research-and-education-program",
-      "site_name":"Murray Alzheimer Research &amp; Education Program",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"26",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"museum-vision-science",
-      "site_name":"Museum of Vision Science (OPT)",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"318",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"music",
-      "site_name":"Music",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"384",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"my-career",
-      "site_name":"My Career at Waterloo",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"430",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"myhrinfo",
-      "site_name":"myHRinfo",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"429",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"nanotechnology",
-      "site_name":"Nanotechnology Engineering",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"214",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"neufeld-research-group",
-      "site_name":"Neufeld Research Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"532",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"neurological-patient-database",
-      "site_name":"Neurological Patient Database",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"113"
-   },
-   {
-      "wcms_path":"news",
-      "site_name":"Waterloo News",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"9",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"next-generation-environmental-assessment",
-      "site_name":"Next Generation Environmental Assessment Project",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"257"
-   },
-   {
-      "wcms_path":"nuclear-magnetic-resonance-facility",
-      "site_name":"Nuclear Magnetic Resonance Facility",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"319",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"off-campus-housing",
-      "site_name":"Off-Campus Housing",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"519",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"offices-services",
-      "site_name":"Offices &amp; Services",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"5",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"online-expense-claims",
-      "site_name":"Online Expense Claims",
-      "unit_code":"VP-AF",
-      "unit_short_name":"Vice-President Administration and Finance",
-      "status":"done",
-      "id":"454"
-   },
-   {
-      "wcms_path":"ontario-biomechanics-conference-2013",
-      "site_name":"Ontario Biomechanics Conference 2013",
-      "group_code":"AHS",
-      "unit_code":"KIN",
-      "unit_short_name":"Kinesiology",
-      "status":"done",
-      "id":"24"
-   },
-   {
-      "wcms_path":"open-data",
-      "site_name":"Open Data Initiative",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"456",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"optometry-clinics",
-      "site_name":"Optometry Clinics",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"347",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"optometry-student-society",
-      "site_name":"Optometry Student Society",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"351",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"optometry-vision-science",
-      "site_name":"Optometry &amp; Vision Science (OPT)",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"346",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"organizational-human-development",
-      "site_name":"Organizational and Human Development",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"458",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"orientation",
-      "site_name":"Orientation",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"457",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"parking",
-      "site_name":"Parking",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"459",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"partnerships-in-dementia-care",
-      "site_name":"Partnerships in Dementia Care",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"28"
-   },
-   {
-      "wcms_path":"pawliszyn-group",
-      "site_name":"Pawliszyn Research Group",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"320",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"peace-conflict-studies",
-      "site_name":"Peace &amp; Conflict Studies",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"385",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"performance-indicators",
-      "site_name":"Performance Indicators",
-      "unit_code":"AVP-AS",
-      "unit_short_name":"Associate Vice-President, Academic &amp; Strategic",
-      "unit_full_name":"Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
-      "status":"done",
-      "id":"577",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"peter-russell-rock-garden",
-      "site_name":"Peter Russell Rock Garden",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"321",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"pharmacokinetics-research-group",
-      "site_name":"Pharmacokinetics Research Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"322",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"pharmacy",
-      "site_name":"School of Pharmacy",
-      "group_code":"SCI",
-      "unit_code":"PHARM",
-      "unit_short_name":"Pharmacy - School of",
-      "status":"done",
-      "id":"328",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"philosophy",
-      "site_name":"Philosophy",
-      "group_code":"ART",
-      "unit_code":"PHIL",
-      "unit_short_name":"Philosophy",
-      "status":"done",
-      "id":"84",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"phys13news",
-      "site_name":"Phys13News",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"323",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"physics-astronomy",
-      "site_name":"Physics and Astronomy",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"324"
-   },
-   {
-      "wcms_path":"planning",
-      "site_name":"School of Planning",
-      "group_code":"ENV",
-      "unit_code":"PLAN",
-      "unit_short_name":"Planning - School of",
-      "status":"done",
-      "id":"279",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"police",
-      "site_name":"Police",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"462",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"political-science",
-      "site_name":"Political Science",
-      "group_code":"ART",
-      "unit_code":"PSCI",
-      "unit_short_name":"Political Science",
-      "status":"done",
-      "id":"87",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"polymer-physics",
-      "site_name":"Polymer Physics Group",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"325",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"polymer-supramolecular-functional-nanomaterials",
-      "site_name":"Polymer and Supramolecular Functional Nanomaterials",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"761",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"postdoctoral",
-      "site_name":"Postdoctoral Office",
-      "group_code":"GRAD",
-      "unit_code":"GRAD",
-      "unit_short_name":"Graduate Studies",
-      "status":"done",
-      "id":"463",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"president",
-      "site_name":"President&#039;s Office",
-      "group_code":"VPA",
-      "unit_code":"UW",
-      "unit_short_name":"University of Waterloo",
-      "status":"done",
-      "id":"464"
-   },
-   {
-      "wcms_path":"privacy",
-      "site_name":"Information &amp; Privacy",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"431"
-   },
-   {
-      "wcms_path":"procurement",
-      "site_name":"Procurement and Contract Services (formerly Purchasing)",
-      "unit_code":"VP-AF",
-      "unit_short_name":"Vice-President Administration and Finance",
-      "status":"done",
-      "id":"465",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"professional-development-program",
-      "site_name":"Professional Development Program",
-      "unit_code":"AP-RESO",
-      "unit_short_name":"Associate Provost, Resources",
-      "status":"done",
-      "id":"466",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"propel",
-      "site_name":"Propel Centre for Population Health Impact",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"30",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"provost",
-      "site_name":"Provost&#039;s Office",
-      "unit_code":"AVP-AS",
-      "unit_short_name":"Associate Vice-President, Academic &amp; Strategic",
-      "unit_full_name":"Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
-      "status":"done",
-      "id":"467",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"psychological-health",
-      "site_name":"Psychological Health and Safety in the Workplace",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"585",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"psychology",
-      "site_name":"Psychology",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"89",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"public-health-and-health-systems",
-      "site_name":"School of Public Health and Health Systems",
-      "group_code":"AHS",
-      "unit_code":"HLTHGERON",
-      "unit_short_name":"Public Hlth&amp;Hlth Sys-School of",
-      "unit_full_name":"Public Health and Health Systems - School of",
-      "status":"done",
-      "id":"36",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"quantum-cryptography-school-young-students",
-      "site_name":"Quantum Cryptography School for Young Students",
-      "group_code":"VPA",
-      "unit_code":"UW",
-      "unit_short_name":"University of Waterloo",
-      "status":"done",
-      "id":"587"
-   },
-   {
-      "wcms_path":"quantum-innovators",
-      "site_name":"Quantum Innovators (culled)",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"440"
-   },
-   {
-      "wcms_path":"quantum-matters",
-      "site_name":"Quantum Matters Group",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"326",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"quest",
-      "site_name":"Quest Student Information System",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"468",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"quintessence",
-      "site_name":"Quintessence",
-      "group_code":"ART",
-      "unit_code":"FR",
-      "unit_short_name":"French Studies",
-      "status":"done",
-      "id":"68"
-   },
-   {
-      "wcms_path":"reasoning-decision-making-lab",
-      "site_name":"Reasoning and Decision Making Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"116",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"records-management",
-      "site_name":"Records Management",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"470"
-   },
-   {
-      "wcms_path":"recreation-and-leisure-studies",
-      "site_name":"Recreation and Leisure Studies",
-      "group_code":"AHS",
-      "unit_code":"REC",
-      "unit_short_name":"Recreation &amp; Leisure Studies",
-      "status":"done",
-      "id":"32",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"recreation-and-leisure-studies/research/centres-groups/campus-athletics-research-network",
-      "site_name":"Campus Athletics Research Network (CARN)",
-      "group_code":"AHS",
-      "unit_code":"REC",
-      "unit_short_name":"Recreation &amp; Leisure Studies",
-      "id":"13",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"recreation-committee",
-      "site_name":"University of Waterloo Recreation Committee",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"506",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"refer-employer",
-      "site_name":"Refer your Employer (CECA)",
-      "group_code":"VPA",
-      "unit_code":"CECS",
-      "unit_short_name":"Coop Educn &amp; Career Action",
-      "unit_full_name":"Co-operative Education &amp; Career Action",
-      "status":"done",
-      "id":"472",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"refer-students",
-      "site_name":"Refer a Student",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"471",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"registrar",
-      "site_name":"Registrar&#039;s Office",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"473",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"relationship-lab",
-      "site_name":"The Relationship Research Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"119",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"religious-studies",
-      "site_name":"Religious Studies",
-      "group_code":"ART",
-      "unit_code":"RS",
-      "unit_short_name":"Religious Studies",
-      "status":"done",
-      "id":"126",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"renison",
-      "site_name":"Renison University College",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"474",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"renison-ministry-centre",
-      "site_name":"Renison Ministry Centre",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"479",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"request-tracking-system",
-      "site_name":"Request Tracking System",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"786",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"research",
-      "site_name":"Research",
-      "unit_code":"VP-URES",
-      "unit_short_name":"Vice-President University Research",
-      "status":"done",
-      "id":"469"
-   },
-   {
-      "wcms_path":"research-experiences-group",
-      "site_name":"Research Experiences Group",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"578",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"research-technology-park",
-      "site_name":"David Johnston Research + Technology Park",
-      "unit_code":"VP-URES",
-      "unit_short_name":"Vice-President University Research",
-      "status":"done",
-      "id":"399",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"retirees-association",
-      "site_name":"Retirees Association",
-      "unit_code":"NONUW",
-      "unit_short_name":"Non-University of Waterloo",
-      "status":"done",
-      "id":"545",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"rome-program",
-      "site_name":"Waterloo Architecture | Rome",
-      "group_code":"ENG",
-      "unit_code":"ARCH",
-      "unit_short_name":"Architecture - School of",
-      "status":"done",
-      "id":"236"
-   },
-   {
-      "wcms_path":"rooney-lab",
-      "site_name":"Rooney Lab",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"327",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"sandford-fleming-foundation",
-      "site_name":"Sandford Fleming Foundation",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"224"
-   },
-   {
-      "wcms_path":"sbsa",
-      "site_name":"Science and Business Students Association",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"hold",
-      "id":"332",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"scheduling-timetabling-examinations-project",
-      "site_name":"Scheduling, Timetabling, and Examinations Project (STEP)",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"485",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"school-environment-enterprise-development",
-      "site_name":"School of Environment, Enterprise and Development (SEED)",
-      "group_code":"ENV",
-      "unit_code":"SEED",
-      "unit_short_name":"Env, Entr &amp; Dev - School of",
-      "unit_full_name":"Environment, Enterprise &amp; Development - School of",
-      "status":"done",
-      "id":"269"
-   },
-   {
-      "wcms_path":"school-environment-enterprise-development/professional-development-and-training",
-      "site_name":"Local Economic Development",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"hold",
-      "id":"277",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"school-of-accounting-and-finance",
-      "site_name":"School of Accounting and Finance",
-      "group_code":"ART",
-      "unit_code":"ACC",
-      "unit_short_name":"Accounting&amp;Finance - School of",
-      "unit_full_name":"Accounting &amp; Finance - School of",
-      "status":"done",
-      "id":"128",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"school-of-public-health-and-health-systems-graduate-students-association",
-      "site_name":"School of Public Health and Health Systems Graduate Student Association",
-      "group_code":"AHS",
-      "unit_code":"HLTHGERON",
-      "unit_short_name":"Public Hlth&amp;Hlth Sys-School of",
-      "unit_full_name":"Public Health and Health Systems - School of",
-      "status":"done",
-      "id":"773",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"school-of-social-work",
-      "site_name":"School of Social Work",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"476",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"science",
-      "site_name":"Science",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"287",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"science-2-plus-2",
-      "site_name":"Science 2+2",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"330",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"science-and-business",
-      "site_name":"Science and Business",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"331",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"science-computing",
-      "site_name":"Science Computing",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"333",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"science-endowment-fund",
-      "site_name":"Waterloo Science Endowment Fund",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"343"
-   },
-   {
-      "wcms_path":"science-student-help-team",
-      "site_name":"Science Student Help Team",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"334",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"science-technical-services",
-      "site_name":"Science Technical Services",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"335",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"science-technology-society",
-      "site_name":"Science and Technology in Society",
-      "group_code":"ART",
-      "unit_code":"PHIL",
-      "unit_short_name":"Philosophy",
-      "status":"done",
-      "id":"86",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"secretariat",
-      "site_name":"Secretariat",
-      "unit_code":"SECRE",
-      "unit_short_name":"Secretary of the University",
-      "status":"done",
-      "id":"486"
-   },
-   {
-      "wcms_path":"sedra-student-design-centre",
-      "site_name":"Sedra Student Design Centre",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"228",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"self-attitudes-lab",
-      "site_name":"Self-Attitudes Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"546",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"self-regulation-motivation-lab",
-      "site_name":"Self-Regulation and Motivation Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"120",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"servos-group",
-      "site_name":"Servos Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"337",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"shad-valley-waterloo",
-      "site_name":"Shad Valley Waterloo",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"667"
-   },
-   {
-      "wcms_path":"sight-enhancement",
-      "site_name":"Centre for Sight Enhancement",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"297",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"social-development-studies",
-      "site_name":"Social Development Studies",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"475",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"social-media",
-      "site_name":"Social Media",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"6",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"social-media-committee",
-      "site_name":"Social Media Committee",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"487"
-   },
-   {
-      "wcms_path":"social-work-action-network-canada",
-      "site_name":"Social Work Action Network Canada",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"480"
-   },
-   {
-      "wcms_path":"sociology-and-legal-studies",
-      "site_name":"Sociology and Legal Studies",
-      "group_code":"ART",
-      "unit_code":"SOC",
-      "unit_short_name":"Sociology &amp; Legal Studies",
-      "unit_full_name":"Sociology and Legal Studies",
-      "status":"done",
-      "id":"132",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"software-engineering",
-      "site_name":"Software Engineering",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"226",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"spanish",
-      "site_name":"Spanish and Latin American Studies",
-      "group_code":"ART",
-      "unit_code":"SPAN",
-      "unit_short_name":"Spanish &amp; Latin American Stud.",
-      "unit_full_name":"Spanish &amp; Latin American Studies",
-      "status":"done",
-      "id":"134",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"staff-association",
-      "site_name":"Staff Association",
-      "unit_code":"NONUW",
-      "unit_short_name":"Non-University of Waterloo",
-      "status":"done",
-      "id":"488",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"stories",
-      "site_name":"Waterloo Stories",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"7",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"stpauls",
-      "site_name":"St. Paul&#039;s University College",
-      "group_code":"STP",
-      "unit_code":"STP",
-      "unit_short_name":"St Paul&#039;s University College",
-      "status":"done",
-      "id":"484",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"strategic-plan",
-      "site_name":"Strategic Plan",
-      "group_code":"VPA",
-      "unit_code":"VPA",
-      "unit_short_name":"Interdisciplinary Studies",
-      "status":"done",
-      "id":"10"
-   },
-   {
-      "wcms_path":"stratford-campus",
-      "site_name":"Stratford Campus",
-      "group_code":"ART",
-      "unit_code":"ART",
-      "unit_short_name":"Arts",
-      "status":"done",
-      "id":"135",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"student-awards-financial-aid",
-      "site_name":"Student Awards &amp; Financial Aid",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"490",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"student-information-systems-project",
-      "site_name":"Student Information Systems Project (SISP)",
-      "unit_code":"REGIS",
-      "unit_short_name":"Registrar",
-      "status":"done",
-      "id":"491"
-   },
-   {
-      "wcms_path":"student-life-centre",
-      "site_name":"Student Life Centre",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"492",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"student-portal",
-      "site_name":"Student Portal",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"765",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"student-success",
-      "site_name":"Student Success Office",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"493",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"student-technology",
-      "site_name":"Student Technology Services",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"433"
-   },
-   {
-      "wcms_path":"studies-in-islam",
-      "site_name":"Studies in Islam",
-      "group_code":"REN",
-      "unit_code":"REN",
-      "unit_short_name":"Renison University College",
-      "status":"done",
-      "id":"478",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"study-abroad-programs",
-      "site_name":"Study Abroad Programs",
-      "unit_code":"AVP-INT",
-      "unit_short_name":"Associate Vice-President International",
-      "status":"done",
-      "id":"495",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"support",
-      "site_name":"Support Waterloo",
-      "unit_code":"VP-AD",
-      "unit_short_name":"Vice-President Advancement",
-      "status":"done",
-      "id":"496",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"sustainability",
-      "site_name":"Sustainability",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"379",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"sustainability-assessment-project",
-      "site_name":"Sustainability Assessment Project",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"260",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"sustainable-energy-policy",
-      "site_name":"Sustainable Energy Policy",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"281"
-   },
-   {
-      "wcms_path":"systems-design-engineering",
-      "site_name":"Systems Design Engineering",
-      "group_code":"ENG",
-      "unit_code":"SYDE",
-      "unit_short_name":"Systems Design Engineering",
-      "status":"done",
-      "id":"230",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"taylor-research-group",
-      "site_name":"Taylor Research Group",
-      "group_code":"SCI",
-      "unit_code":"CHEM",
-      "unit_short_name":"Chemistry",
-      "status":"done",
-      "id":"756",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"telecommunications",
-      "site_name":"Telecommunications Services",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"434",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"theatre-centre",
-      "site_name":"Theatre Centre",
-      "group_code":"VPA",
-      "unit_code":"THC",
-      "unit_short_name":"Theatre Centre",
-      "status":"done",
-      "id":"500"
-   },
-   {
-      "wcms_path":"theological-studies",
-      "site_name":"Theological Studies",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"387",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"three-minute-thesis",
-      "site_name":"Three Minute Thesis (3MT) Competition",
-      "group_code":"GRAD",
-      "unit_code":"GRAD",
-      "unit_short_name":"Graduate Studies",
-      "status":"done",
-      "id":"421"
-   },
-   {
-      "wcms_path":"toronto-mennonite-theological-centre",
-      "site_name":"Toronto Mennonite Theological Centre",
-      "group_code":"CGC",
-      "unit_code":"CGC",
-      "unit_short_name":"Conrad Grebel College",
-      "status":"done",
-      "id":"390",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"ultrafast-laser-group",
-      "site_name":"Ultrafast Laser Group",
-      "group_code":"SCI",
-      "unit_code":"PHYS",
-      "unit_short_name":"Physics &amp; Astronomy",
-      "status":"done",
-      "id":"339",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"united-arab-emirates",
-      "site_name":"United Arab Emirates",
-      "unit_code":"AVP-INT",
-      "unit_short_name":"Associate Vice-President International",
-      "status":"done",
-      "id":"501"
-   },
-   {
-      "wcms_path":"united-way",
-      "site_name":"United Way Campaign",
-      "group_code":"VPA",
-      "unit_code":"UW",
-      "unit_short_name":"University of Waterloo",
-      "status":"done",
-      "id":"502",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"university-club",
-      "site_name":"University Club",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"504",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"university-committee-information-systems-technology",
-      "site_name":"University Committee on Information Systems &amp; Technology ",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"748"
-   },
-   {
-      "wcms_path":"university-relations",
-      "site_name":"University Relations",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"507",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"unlimited",
-      "site_name":"Waterloo Unlimited",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"267"
-   },
-   {
-      "wcms_path":"uw-fitness",
-      "site_name":"UW Fitness",
-      "group_code":"AHS",
-      "unit_code":"AHS",
-      "unit_short_name":"Applied Health Sciences",
-      "status":"done",
-      "id":"38",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"vision-attention-lab",
-      "site_name":"Vision and Attention Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"121",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"wat-on-earth",
-      "site_name":"Wat On Earth",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"344"
-   },
-   {
-      "wcms_path":"water-under-the-bridge",
-      "site_name":"Water Under The Bridge",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"513"
-   },
-   {
-      "wcms_path":"waterloo-innovation-summit",
-      "site_name":"Waterloo Innovation Summit",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"445"
-   },
-   {
-      "wcms_path":"waterloo-institute-for-hellenistic-studies",
-      "site_name":"Waterloo Institute for Hellenistic Studies",
-      "group_code":"ART",
-      "unit_code":"CLASSICS",
-      "unit_short_name":"Classical Studies",
-      "status":"done",
-      "id":"139",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"waterloo-microfluidics-laboratory",
-      "site_name":"Waterloo Microfluidics Laboratory",
-      "group_code":"ENG",
-      "unit_code":"ME",
-      "unit_short_name":"Mechanical &amp; Mechatronics Engg",
-      "unit_full_name":"Mechanical and Mechatronics Engineering",
-      "status":"done",
-      "id":"242",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"waterloo-nexus-advisory-group",
-      "site_name":"Waterloo Nexus Advisory Group",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"517"
-   },
-   {
-      "wcms_path":"waterloo-research-in-aging-participants",
-      "site_name":"Waterloo Research in Aging Participant Pool",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"123"
-   },
-   {
-      "wcms_path":"waterloo-summit-centre",
-      "site_name":"Waterloo Summit Centre",
-      "group_code":"ENV",
-      "unit_code":"ENV",
-      "unit_short_name":"Environment",
-      "status":"done",
-      "id":"285"
-   },
-   {
-      "wcms_path":"watport",
-      "site_name":"WatPort",
-      "unit_code":"AP-HR",
-      "unit_short_name":"Associate Provost, Human Resources",
-      "status":"done",
-      "id":"521"
-   },
-   {
-      "wcms_path":"web-advisory-committee",
-      "site_name":"Web Advisory Committee",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"523"
-   },
-   {
-      "wcms_path":"web-resources",
-      "site_name":"Web Resources",
-      "unit_code":"IST",
-      "unit_short_name":"Information Systems and Technology",
-      "status":"done",
-      "id":"522",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"wettig-research-group",
-      "site_name":"Wettig Research Group",
-      "group_code":"SCI",
-      "unit_code":"PHARM",
-      "unit_short_name":"Pharmacy - School of",
-      "status":"done",
-      "id":"329",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"wisdom-and-culture-lab",
-      "site_name":"Wisdom and Culture Lab",
-      "group_code":"ART",
-      "unit_code":"PSYCH",
-      "unit_short_name":"Psychology",
-      "status":"done",
-      "id":"124",
-      "owner_type":"research"
-   },
-   {
-      "wcms_path":"witer-learning-resource-centre",
-      "site_name":"Witer Learning Resource Centre",
-      "group_code":"SCI",
-      "unit_code":"OPTOM",
-      "unit_short_name":"Optometry &amp; Vision Sci-Sch of",
-      "unit_full_name":"Optometry &amp; Vision Science - School of",
-      "status":"done",
-      "id":"352",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"women-in-engineering",
-      "site_name":"Women in Engineering",
-      "group_code":"ENG",
-      "unit_code":"ENG",
-      "unit_short_name":"Engineering",
-      "status":"done",
-      "id":"244"
-   },
-   {
-      "wcms_path":"womens-studies",
-      "site_name":"Women&#039;s Studies",
-      "group_code":"ART",
-      "unit_code":"WS",
-      "unit_short_name":"Women&#039;s Studies",
-      "status":"done",
-      "id":"141",
-      "owner_type":"academic"
-   },
-   {
-      "wcms_path":"writing-centre",
-      "site_name":"Writing Centre",
-      "unit_code":"AP-STUD",
-      "unit_short_name":"Associate Provost, Students",
-      "status":"done",
-      "id":"524",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"wu-research-group",
-      "site_name":"Wu Research Group",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"345"
-   },
-   {
-      "wcms_path":"youth-programs-and-camps",
-      "site_name":"Youth Programs and Camps",
-      "unit_code":"VP-UREL",
-      "unit_short_name":"Vice-President University Relations",
-      "status":"done",
-      "id":"771",
-      "owner_type":"service"
-   },
-   {
-      "wcms_path":"\u7406\u5b66\u96622\u52a02\u6559\u80b2\u5408\u4f5c\u4e3b\u9875",
-      "site_name":"Science 2+2 (chinese) \u7406\u5b66\u96622\u52a02\u6559\u80b2\u5408\u4f5c\u4e3b\u9875",
-      "group_code":"SCI",
-      "unit_code":"SCI",
-      "unit_short_name":"Science",
-      "status":"done",
-      "id":"534"
-   },
-   {
-      "wcms_path":"\u9999\u6e2f\u529e\u516c\u5ba4",
-      "site_name":"Hong Kong Office (Chinese)",
-      "unit_code":"AVP-INT",
-      "unit_short_name":"Associate Vice-President International",
-      "status":"done",
-      "id":"536"
-   }
+{
+wcms_path: "3d-print-centre",
+site_name: "3D Print Centre",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "579",
+owner_type: "service"
+},
+{
+wcms_path: "about",
+site_name: "About Waterloo",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "3"
+},
+{
+wcms_path: "academic-integrity",
+site_name: "Academic Integrity Office",
+unit_code: "AP-RESO",
+unit_short_name: "Associate Provost, Resources",
+status: "done",
+id: "354",
+owner_type: "service"
+},
+{
+wcms_path: "academic-reviews",
+site_name: "Academic Reviews",
+unit_code: "AVP-AS",
+unit_short_name: "Associate Vice-President, Academic &amp; Strategic",
+unit_full_name: "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
+status: "done",
+id: "355"
+},
+{
+wcms_path: "academic-support-computing-representatives-group",
+site_name: "Academic Support Computing Representatives Group",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "752"
+},
+{
+wcms_path: "adobe-connect-help",
+site_name: "Adobe Connect Help",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "594",
+owner_type: "service"
+},
+{
+wcms_path: "advanced-interface-design-lab",
+site_name: "Advanced Interface Design Lab",
+group_code: "ENG",
+unit_code: "SYDE",
+unit_short_name: "Systems Design Engineering",
+status: "done",
+id: "664",
+owner_type: "research"
+},
+{
+wcms_path: "advancement",
+site_name: "Office of Advancement",
+unit_code: "VP-AD",
+unit_short_name: "Vice-President Advancement",
+status: "done",
+id: "453"
+},
+{
+wcms_path: "alumni",
+site_name: "Alumni",
+unit_code: "VP-AD",
+unit_short_name: "Vice-President Advancement",
+status: "done",
+id: "358"
+},
+{
+wcms_path: "anthropology",
+site_name: "Anthropology",
+group_code: "ART",
+unit_code: "ANTH",
+unit_short_name: "Anthropology",
+status: "done",
+id: "41",
+owner_type: "academic"
+},
+{
+wcms_path: "anxiety-studies",
+site_name: "Anxiety Studies",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "90"
+},
+{
+wcms_path: "applied-health-sciences",
+site_name: "Applied Health Sciences",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "11",
+owner_type: "academic"
+},
+{
+wcms_path: "applied-health-sciences-computing",
+site_name: "AHS Computing",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "18",
+owner_type: "service"
+},
+{
+wcms_path: "applied-health-sciences-undergraduate-members",
+site_name: "Applied Health Sciences Undergraduate Members",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "37",
+owner_type: "service"
+},
+{
+wcms_path: "architecture",
+site_name: "Waterloo Architecture",
+group_code: "ENG",
+unit_code: "ARCH",
+unit_short_name: "Architecture - School of",
+status: "done",
+id: "235",
+owner_type: "academic"
+},
+{
+wcms_path: "arts",
+site_name: "Arts",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "39",
+owner_type: "academic"
+},
+{
+wcms_path: "arts-computing",
+site_name: "Arts Computing Office",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "45",
+owner_type: "service"
+},
+{
+wcms_path: "arts-endowment-fund",
+site_name: "Arts Endowment Fund",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "46"
+},
+{
+wcms_path: "arts/current-undergraduates/majors-and-minors/liberal-studies",
+site_name: "Liberal Studies",
+group_code: "ART",
+unit_code: "ARTSDEAN",
+unit_short_name: "Dean of Arts",
+status: "done",
+id: "81",
+owner_type: "academic"
+},
+{
+wcms_path: "assessment-planning-project",
+site_name: "Assessment and Planning Project",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "249"
+},
+{
+wcms_path: "associate-provost-students",
+site_name: "Associate Provost, Students",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "357"
+},
+{
+wcms_path: "associate-vice-president-academic",
+site_name: "Associate Vice-President, Academic",
+unit_code: "AVP-AS",
+unit_short_name: "Associate Vice-President, Academic &amp; Strategic",
+unit_full_name: "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
+status: "done",
+id: "588"
+},
+{
+wcms_path: "astereae-lab ",
+site_name: "Astereae Lab",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "288"
+},
+{
+wcms_path: "audio-research-group",
+site_name: "Audio Research Group",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "290",
+owner_type: "research"
+},
+{
+wcms_path: "aviation",
+site_name: "Aviation",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "361",
+owner_type: "academic"
+},
+{
+wcms_path: "behavioural-decision-research",
+site_name: "Centre for Behavioural Decision Research",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "91",
+owner_type: "research"
+},
+{
+wcms_path: "besner-lab",
+site_name: "Besner Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "779",
+owner_type: "research"
+},
+{
+wcms_path: "biochemistry-molecular-biology-institute",
+site_name: "Institute of Biochemistry &amp; Molecular Biology",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "314",
+owner_type: "research"
+},
+{
+wcms_path: "bioengineering-biotechnology",
+site_name: "Centre for Bioengineering and Biotechnology",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "148"
+},
+{
+wcms_path: "biology",
+site_name: "Biology",
+group_code: "SCI",
+unit_code: "BIOL",
+unit_short_name: "Biology",
+status: "done",
+id: "291",
+owner_type: "academic"
+},
+{
+wcms_path: "biology-graduate-student-association",
+site_name: "Biology Graduate Student Association",
+unit_code: "GSA",
+unit_short_name: "Graduate Student Association",
+status: "done",
+id: "292"
+},
+{
+wcms_path: "biomedical-engineering",
+site_name: "Biomedical Engineering",
+group_code: "ENG",
+unit_code: "SYDE",
+unit_short_name: "Systems Design Engineering",
+status: "done",
+id: "762"
+},
+{
+wcms_path: "biomedical-sciences",
+site_name: "Biomedical Sciences",
+group_code: "SCI",
+unit_code: "BIOL",
+unit_short_name: "Biology",
+status: "done",
+id: "293"
+},
+{
+wcms_path: "biosphere-sustainability-project",
+site_name: "Biosphere Sustainability Project",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "253"
+},
+{
+wcms_path: "brand-guidelines",
+site_name: "Brand Guidelines",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "576"
+},
+{
+wcms_path: "campbell-labs",
+site_name: "Campbell Labs",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "294",
+owner_type: "research"
+},
+{
+wcms_path: "campus-network-services-committee",
+site_name: "Campus Network Services Committee",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "754"
+},
+{
+wcms_path: "canada-china-actuarial-qualification-examination-centre",
+site_name: "Canada-China Actuarial Qualification Examination Centre",
+group_code: "MAT",
+unit_code: "STATACTSC",
+unit_short_name: "Statistics &amp; Actuarial Science",
+status: "done",
+id: "792"
+},
+{
+wcms_path: "canada-day",
+site_name: "Canada Day Celebration",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "364"
+},
+{
+wcms_path: "canadian-centre-of-arts-and-technology",
+site_name: "Canadian Centre of Arts and Technology (CCAT)",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "48",
+owner_type: "research"
+},
+{
+wcms_path: "canadian-index-wellbeing",
+site_name: "Canadian Index of Wellbeing",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "15",
+owner_type: "research"
+},
+{
+wcms_path: "canadian-phycological-culture-centre",
+site_name: "Canadian Phycological Culture Centre",
+group_code: "SCI",
+unit_code: "BIOL",
+unit_short_name: "Biology",
+status: "done",
+id: "591",
+owner_type: "research"
+},
+{
+wcms_path: "canadian-society-for-biomechanics-2014",
+site_name: "Canadian Society for Biomechanics (CSB-SCB) 2014",
+group_code: "AHS",
+unit_code: "KIN",
+unit_short_name: "Kinesiology",
+status: "done",
+id: "692"
+},
+{
+wcms_path: "canadian-student-tobacco-alcohol-drugs-survey",
+site_name: "Canadian Student Tobacco, Alcohol and Drug Survey",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "31"
+},
+{
+wcms_path: "career-action",
+site_name: "Centre for Career Action",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "368",
+owner_type: "service"
+},
+{
+wcms_path: "catalyst",
+site_name: "Catalyst",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "147"
+},
+{
+wcms_path: "catering",
+site_name: "UW Catering",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "505",
+owner_type: "service"
+},
+{
+wcms_path: "central-stores",
+site_name: "Central Stores",
+unit_code: "VP-AF",
+unit_short_name: "Vice-President Administration and Finance",
+status: "done",
+id: "367"
+},
+{
+wcms_path: "centre-advanced-materials-joining",
+site_name: "Centre for Advanced Materials Joining",
+group_code: "ENG",
+unit_code: "ME",
+unit_short_name: "Mechanical &amp; Mechatronics Engg",
+unit_full_name: "Mechanical and Mechatronics Engineering",
+status: "done",
+id: "203",
+owner_type: "research"
+},
+{
+wcms_path: "centre-advancement-co-operative-education",
+site_name: "WATCACE - Centre for the Advancement of Co-operative Education",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "511",
+owner_type: "service"
+},
+{
+wcms_path: "centre-automotive-research",
+site_name: "Waterloo Centre for Automotive Research (WatCAR)",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "240",
+owner_type: "research"
+},
+{
+wcms_path: "centre-for-german-studies",
+site_name: "Waterloo Centre for German Studies (WCGS)",
+group_code: "ART",
+unit_code: "GERSLAV",
+unit_short_name: "Germanic &amp; Slavic Studies",
+status: "done",
+id: "74",
+owner_type: "research"
+},
+{
+wcms_path: "centre-for-teaching-excellence",
+site_name: "Centre for Teaching Excellence",
+unit_code: "AVP-AS",
+unit_short_name: "Associate Vice-President, Academic &amp; Strategic",
+unit_full_name: "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
+status: "done",
+id: "373",
+owner_type: "service"
+},
+{
+wcms_path: "centre-for-theoretical-neuroscience",
+site_name: "Centre for Theoretical Neuroscience",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "50",
+owner_type: "research"
+},
+{
+wcms_path: "centre-integrated-rf-engineering",
+site_name: "Center for Integrated RF Engineering (CIRFE)",
+group_code: "ENG",
+unit_code: "ECE",
+unit_short_name: "Electrical &amp; Computer Engg",
+unit_full_name: "Electrical &amp; Computer Engineering",
+status: "done",
+id: "162",
+owner_type: "research"
+},
+{
+wcms_path: "centre-pattern-analysis-machine-intelligence",
+site_name: "Centre for Pattern Analysis and Machine Intelligence",
+group_code: "ENG",
+unit_code: "ECE",
+unit_short_name: "Electrical &amp; Computer Engg",
+unit_full_name: "Electrical &amp; Computer Engineering",
+status: "done",
+id: "372",
+owner_type: "research"
+},
+{
+wcms_path: "centre-pavement-transportation-technology",
+site_name: "Centre for Pavement and Transportation Technology",
+group_code: "ENG",
+unit_code: "CIVE",
+unit_short_name: "Civil &amp; Environmental Engg",
+unit_full_name: "Civil and Environmental Engineering",
+status: "done",
+id: "151",
+owner_type: "research"
+},
+{
+wcms_path: "chairs",
+site_name: "Waterloo Chairs",
+unit_code: "AP-RESO",
+unit_short_name: "Associate Provost, Resources",
+status: "done",
+id: "514"
+},
+{
+wcms_path: "chaplains",
+site_name: "Chaplains",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "375",
+owner_type: "service"
+},
+{
+wcms_path: "charles-research-group",
+site_name: "Charles Research Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "295",
+owner_type: "research"
+},
+{
+wcms_path: "chem13news",
+site_name: "Chem13 News",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "300"
+},
+{
+wcms_path: "chemed2013",
+site_name: "ChemEd 2013 Conference",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "299"
+},
+{
+wcms_path: "chemical-engineering",
+site_name: "Chemical Engineering",
+group_code: "ENG",
+unit_code: "CHE",
+unit_short_name: "Chemical Engineering",
+status: "done",
+id: "152",
+owner_type: "academic"
+},
+{
+wcms_path: "chemistry",
+site_name: "Chemistry",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "298",
+owner_type: "academic"
+},
+{
+wcms_path: "chemstores",
+site_name: "Chemstores",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "301"
+},
+{
+wcms_path: "child-adolescent-neuropsychology-lab",
+site_name: "Child and Adolescent Neuropsychology Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "95",
+owner_type: "research"
+},
+{
+wcms_path: "child-clinical-studies",
+site_name: "Child and Adolescent Clinical Research Group",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "96",
+owner_type: "research"
+},
+{
+wcms_path: "chong-research-group",
+site_name: "Chong Research Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "302",
+owner_type: "research"
+},
+{
+wcms_path: "civil-environmental-engineering",
+site_name: "Civil and Environmental Engineering",
+group_code: "ENG",
+unit_code: "CIVE",
+unit_short_name: "Civil &amp; Environmental Engg",
+unit_full_name: "Civil and Environmental Engineering",
+status: "done",
+id: "153",
+owner_type: "academic"
+},
+{
+wcms_path: "classical-studies",
+site_name: "Classical Studies",
+group_code: "ART",
+unit_code: "CLASSICS",
+unit_short_name: "Classical Studies",
+status: "done",
+id: "53",
+owner_type: "academic"
+},
+{
+wcms_path: "climate-centre",
+site_name: "Interdisciplinary Centre on Climate Change (IC3)",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "275",
+owner_type: "research"
+},
+{
+wcms_path: "co-operative-education",
+site_name: "Co-operative Education",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "392",
+owner_type: "service"
+},
+{
+wcms_path: "co-operative-education-career-action",
+site_name: "Co-operative Education and Career Action",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "393",
+owner_type: "service"
+},
+{
+wcms_path: "co-operative-education-career-action-systems",
+site_name: "Co-operative Education and Career Action Systems",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "395"
+},
+{
+wcms_path: "co-operative-education-stakeholder-research",
+site_name: "Co-operative Education and Career Action Stakeholder Research",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "hold",
+id: "394"
+},
+{
+wcms_path: "cognition-and-natural-behaviour-laboratory",
+site_name: "Cognition and Natural Behaviour Laboratory",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "781",
+owner_type: "research"
+},
+{
+wcms_path: "cognitive-development-lab",
+site_name: "Cognitive Development Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "94",
+owner_type: "research"
+},
+{
+wcms_path: "cognitive-neuroscience-lab",
+site_name: "Cognitive Neuroscience Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "537",
+owner_type: "research"
+},
+{
+wcms_path: "communications-public-affairs",
+site_name: "Communications &amp; Public Affairs",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "376",
+owner_type: "service"
+},
+{
+wcms_path: "community-relations",
+site_name: "Community Relations",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "741",
+owner_type: "service"
+},
+{
+wcms_path: "computing-financial-management",
+site_name: "Computing and Financial Management",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "391",
+owner_type: "academic"
+},
+{
+wcms_path: "computing-technology-services-committee",
+site_name: "Computing Technology and Services Committee ",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "755"
+},
+{
+wcms_path: "conference-centre",
+site_name: "Conference Centre",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "381"
+},
+{
+wcms_path: "conflict-analysis-group",
+site_name: "Conflict Analysis Group",
+group_code: "ENG",
+unit_code: "SYDE",
+unit_short_name: "Systems Design Engineering",
+status: "done",
+id: "551",
+owner_type: "research"
+},
+{
+wcms_path: "conflict-management",
+site_name: "Certificate in Conflict Management",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "388",
+owner_type: "academic"
+},
+{
+wcms_path: "conflict-management-human-rights",
+site_name: "Conflict Management and Human Rights Office",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "380",
+owner_type: "service"
+},
+{
+wcms_path: "conrad-business-entrepreneurship-technology",
+site_name: "Conrad Business, Entrepreneurship, and Technology Centre",
+group_code: "ENG",
+unit_code: "CBET",
+unit_short_name: "Conrad Bus, Entrepren &amp; Tech",
+unit_full_name: "Conrad Business, Entrepreneurship &amp; Technology Ctr",
+status: "done",
+id: "156",
+owner_type: "academic"
+},
+{
+wcms_path: "copyright-guidelines",
+site_name: "Copyright Guidelines",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "659"
+},
+{
+wcms_path: "counselling-services",
+site_name: "Counselling Services",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "396",
+owner_type: "service"
+},
+{
+wcms_path: "creative-services",
+site_name: "Creative Services",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "397",
+owner_type: "service"
+},
+{
+wcms_path: "culture-at-work-lab",
+site_name: "Culture at Work Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "97",
+owner_type: "research"
+},
+{
+wcms_path: "danckert-attention-action-group",
+site_name: "Danckert Attention and Action Group",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "99",
+owner_type: "research"
+},
+{
+wcms_path: "developmental-learning-lab",
+site_name: "Developmental Learning Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "100",
+owner_type: "research"
+},
+{
+wcms_path: "disability-services",
+site_name: "AccessAbility Services",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "356",
+owner_type: "service"
+},
+{
+wcms_path: "diversity-intergroup-relations-lab",
+site_name: "Diversity Intergroup Relations Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "102",
+owner_type: "research"
+},
+{
+wcms_path: "dixon-research-group",
+site_name: "Dixon Research Group",
+group_code: "SCI",
+unit_code: "BIOL",
+unit_short_name: "Biology",
+status: "done",
+id: "589",
+owner_type: "research"
+},
+{
+wcms_path: "document-management",
+site_name: "Document Management",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "400"
+},
+{
+wcms_path: "earth-environmental-sciences",
+site_name: "Earth and Environmental Sciences",
+group_code: "SCI",
+unit_code: "EARTH",
+unit_short_name: "Earth &amp; Environmental Sciences",
+unit_full_name: "Earth and Environmental Sciences",
+status: "done",
+id: "303",
+owner_type: "academic"
+},
+{
+wcms_path: "earth-sciences-museum",
+site_name: "Earth Sciences Museum",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "304",
+owner_type: "service"
+},
+{
+wcms_path: "east-asian-studies",
+site_name: "East Asian Studies",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "477",
+owner_type: "academic"
+},
+{
+wcms_path: "ecohydrology",
+site_name: "Ecohydrology Research Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "305",
+owner_type: "research"
+},
+{
+wcms_path: "ecology-lab",
+site_name: "Ecology Lab",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "263",
+owner_type: "research"
+},
+{
+wcms_path: "economics",
+site_name: "Economics",
+group_code: "ART",
+unit_code: "ECON",
+unit_short_name: "Economics",
+status: "done",
+id: "55",
+owner_type: "academic"
+},
+{
+wcms_path: "education-program-for-photonics-professionals",
+site_name: "Education Program for Phototonics Professionals",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "307"
+},
+{
+wcms_path: "efficiency-working-group",
+site_name: "Efficiency Working Group",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "401"
+},
+{
+wcms_path: "electrical-computer-engineering",
+site_name: "Electrical and Computer Engineering",
+group_code: "ENG",
+unit_code: "ECE",
+unit_short_name: "Electrical &amp; Computer Engg",
+unit_full_name: "Electrical &amp; Computer Engineering",
+status: "done",
+id: "157",
+owner_type: "academic"
+},
+{
+wcms_path: "embedded-software-group",
+site_name: "Real-time Embedded Software Group",
+group_code: "ENG",
+unit_code: "ECE",
+unit_short_name: "Electrical &amp; Computer Engg",
+unit_full_name: "Electrical &amp; Computer Engineering",
+status: "done",
+id: "221"
+},
+{
+wcms_path: "embedded-systems-lab",
+site_name: "Real-time Embedded Systems Lab (RESL)",
+group_code: "ENG",
+unit_code: "ECE",
+unit_short_name: "Electrical &amp; Computer Engg",
+unit_full_name: "Electrical &amp; Computer Engineering",
+status: "done",
+id: "222",
+owner_type: "research"
+},
+{
+wcms_path: "employee-assistance-program",
+site_name: "Employee Assistance Program",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "402"
+},
+{
+wcms_path: "employer-community",
+site_name: "Employer Community",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "810",
+owner_type: "service"
+},
+{
+wcms_path: "engineering",
+site_name: "Engineering",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "142",
+owner_type: "academic"
+},
+{
+wcms_path: "engineering-cases",
+site_name: "Engineering Cases",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "181",
+owner_type: "research"
+},
+{
+wcms_path: "engineering-computing",
+site_name: "Engineering Computing",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "182",
+owner_type: "service"
+},
+{
+wcms_path: "engineering-machine-shop",
+site_name: "Engineering Machine Shop",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "66"
+},
+{
+wcms_path: "engineering-science-quest",
+site_name: "Engineering Science Quest",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "185"
+},
+{
+wcms_path: "engineering-student-ambassadors",
+site_name: "Engineering Student Ambassadors",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "186",
+owner_type: "service"
+},
+{
+wcms_path: "english",
+site_name: "English Language and Literature",
+group_code: "ART",
+unit_code: "ENGL",
+unit_short_name: "English Language &amp; Literature",
+status: "done",
+id: "56",
+owner_type: "academic"
+},
+{
+wcms_path: "english-language-institute",
+site_name: "English Language Institute",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "542",
+owner_type: "academic"
+},
+{
+wcms_path: "enquete-canadienne-sur-le-tabac-alcool-et-les-drogues-chez-les-eleves",
+site_name: "Enquête canadienne sur le tabac, l’alcool et les drogues chez les élève",
+group_code: "AHS",
+unit_code: "HLTHGERON",
+unit_short_name: "Public Hlth&amp;Hlth Sys-School of",
+unit_full_name: "Public Health and Health Systems - School of",
+status: "done",
+id: "782"
+},
+{
+wcms_path: "environment",
+site_name: "Environment",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "245",
+owner_type: "academic"
+},
+{
+wcms_path: "environment-computing",
+site_name: "Environment Computing (MAD)",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "262",
+owner_type: "service"
+},
+{
+wcms_path: "environment-resource-studies",
+site_name: "Environment and Resource Studies",
+group_code: "ENV",
+unit_code: "ERS",
+unit_short_name: "Environment &amp; Resource Studies",
+status: "done",
+id: "268",
+owner_type: "academic"
+},
+{
+wcms_path: "event-related-potential-lab",
+site_name: "Event Related Potential Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "103",
+owner_type: "research"
+},
+{
+wcms_path: "events",
+site_name: "Waterloo Events",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "8"
+},
+{
+wcms_path: "excellence-canada",
+site_name: "Excellence Canada",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "migrating",
+id: "794",
+owner_type: "service"
+},
+{
+wcms_path: "face-processing-social-cognition-lab",
+site_name: "Face Processing and Social Cognition",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "105"
+},
+{
+wcms_path: "faculties-academics",
+site_name: "Faculties &amp; Academics",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "4"
+},
+{
+wcms_path: "faculty-association",
+site_name: "Faculty Association",
+unit_code: "NONUW",
+unit_short_name: "Non-University of Waterloo",
+status: "done",
+id: "404"
+},
+{
+wcms_path: "faculty-computing-user-support-group",
+site_name: "Faculty Computing User Support Group ",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "750"
+},
+{
+wcms_path: "faculty-science-foundation",
+site_name: "Faculty of Science Foundation",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "308"
+},
+{
+wcms_path: "fatigue-stress-analysis-lab",
+site_name: "Fatigue and Stress Analysis Lab",
+group_code: "ENG",
+unit_code: "ME",
+unit_short_name: "Mechanical &amp; Mechatronics Engg",
+unit_full_name: "Mechanical and Mechatronics Engineering",
+status: "done",
+id: "188",
+owner_type: "research"
+},
+{
+wcms_path: "finance",
+site_name: "Finance",
+unit_code: "VP-AF",
+unit_short_name: "Vice-President Administration and Finance",
+status: "done",
+id: "414"
+},
+{
+wcms_path: "find-out-more",
+site_name: "Find Out More",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "415",
+owner_type: "service"
+},
+{
+wcms_path: "fine-arts",
+site_name: "Fine Arts",
+group_code: "ART",
+unit_code: "FINE",
+unit_short_name: "Fine Arts",
+status: "done",
+id: "60",
+owner_type: "academic"
+},
+{
+wcms_path: "flanagan-lab",
+site_name: "Flanagan Lab",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "348",
+owner_type: "research"
+},
+{
+wcms_path: "foldvari-group",
+site_name: "Foldvari Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "310",
+owner_type: "research"
+},
+{
+wcms_path: "food-services",
+site_name: "UW Food Services",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "503",
+owner_type: "service"
+},
+{
+wcms_path: "french-studies",
+site_name: "French Studies",
+group_code: "ART",
+unit_code: "FR",
+unit_short_name: "French Studies",
+status: "done",
+id: "64",
+owner_type: "academic"
+},
+{
+wcms_path: "fuel-cell-green-energy-lab",
+site_name: "Fuel Cell and Green Energy Lab",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "531",
+owner_type: "research"
+},
+{
+wcms_path: "gambling-research-lab",
+site_name: "Gambling Research Lab",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "70",
+owner_type: "research"
+},
+{
+wcms_path: "games-institute",
+site_name: "(The) Games Institute",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "71",
+owner_type: "research"
+},
+{
+wcms_path: "gamification",
+site_name: "Gamification",
+group_code: "ART",
+unit_code: "ART",
+unit_short_name: "Arts",
+status: "done",
+id: "136"
+},
+{
+wcms_path: "geography-environmental-management",
+site_name: "Geography and Environmental Management",
+group_code: "ENV",
+unit_code: "GEOG",
+unit_short_name: "Geography &amp; Environmental Mgmt",
+unit_full_name: "Geography &amp; Environmental Management",
+status: "done",
+id: "272",
+owner_type: "academic"
+},
+{
+wcms_path: "geomechanics-group",
+site_name: "Geomechanics Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "311",
+owner_type: "research"
+},
+{
+wcms_path: "geriatric-health-systems-research-group",
+site_name: "Geriatric Health Systems Research Group ",
+group_code: "AHS",
+unit_code: "HLTHGERON",
+unit_short_name: "Public Hlth&amp;Hlth Sys-School of",
+unit_full_name: "Public Health and Health Systems - School of",
+status: "done",
+id: "703",
+owner_type: "research"
+},
+{
+wcms_path: "germanic-slavic-studies",
+site_name: "Germanic and Slavic Studies",
+group_code: "ART",
+unit_code: "GERSLAV",
+unit_short_name: "Germanic &amp; Slavic Studies",
+status: "done",
+id: "72",
+owner_type: "academic"
+},
+{
+wcms_path: "graduate-association-psychology",
+site_name: "Graduate Association of Students in Psychology",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "107",
+owner_type: "service"
+},
+{
+wcms_path: "graduate-house",
+site_name: "Graduate House",
+unit_code: "GSA",
+unit_short_name: "Graduate Student Association",
+status: "done",
+id: "417",
+owner_type: "service"
+},
+{
+wcms_path: "graduate-student-association",
+site_name: "Graduate Student Association",
+unit_code: "GSA",
+unit_short_name: "Graduate Student Association",
+status: "done",
+id: "418",
+owner_type: "service"
+},
+{
+wcms_path: "graduate-studies",
+site_name: "Graduate Studies",
+group_code: "GRAD",
+unit_code: "GRAD",
+unit_short_name: "Graduate Studies",
+status: "done",
+id: "419",
+owner_type: "service"
+},
+{
+wcms_path: "grebel",
+site_name: "Conrad Grebel University College",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "383",
+owner_type: "academic"
+},
+{
+wcms_path: "green-it",
+site_name: "GreenIT Advisory Group",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "422"
+},
+{
+wcms_path: "groundwater-geochemistry-remediation",
+site_name: "Groundwater Geochemistry and Remediation Group",
+group_code: "SCI",
+unit_code: "EARTH",
+unit_short_name: "Earth &amp; Environmental Sciences",
+unit_full_name: "Earth and Environmental Sciences",
+status: "done",
+id: "543",
+owner_type: "research"
+},
+{
+wcms_path: "groundwater-research",
+site_name: "Centre for Groundwater Research",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "296"
+},
+{
+wcms_path: "guelph-waterloo-physics-institute",
+site_name: "Guelph-Waterloo Physics Institute",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "312",
+owner_type: "research"
+},
+{
+wcms_path: "hagey-lectures",
+site_name: "Hagey Lectures",
+group_code: "VPA",
+unit_code: "UW",
+unit_short_name: "University of Waterloo",
+status: "done",
+id: "423",
+owner_type: "service"
+},
+{
+wcms_path: "health-informatics",
+site_name: "Health Informatics",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "424",
+owner_type: "academic"
+},
+{
+wcms_path: "health-services",
+site_name: "Health Services",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "425",
+owner_type: "service"
+},
+{
+wcms_path: "heritage-resources-centre",
+site_name: "Heritage Resources Centre",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "274",
+owner_type: "research"
+},
+{
+wcms_path: "hire",
+site_name: "Hire Waterloo (Co-op)",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "426",
+owner_type: "service"
+},
+{
+wcms_path: "history",
+site_name: "History",
+group_code: "ART",
+unit_code: "HIST",
+unit_short_name: "History",
+status: "done",
+id: "75",
+owner_type: "academic"
+},
+{
+wcms_path: "hong-kong-office",
+site_name: "Hong Kong Office",
+unit_code: "AVP-INT",
+unit_short_name: "Associate Vice-President International",
+status: "done",
+id: "516"
+},
+{
+wcms_path: "hopkins-lab",
+site_name: "Hopkins Laboratory",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "313",
+owner_type: "research"
+},
+{
+wcms_path: "housing",
+site_name: "Waterloo Residences",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "518",
+owner_type: "service"
+},
+{
+wcms_path: "human-resources",
+site_name: "Human Resources",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "427",
+owner_type: "service"
+},
+{
+wcms_path: "human-resources-management-system",
+site_name: "Human Resources Management System",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "428",
+owner_type: "service"
+},
+{
+wcms_path: "humans-complex-systems-lab",
+site_name: "Humans in Complex Systems Lab",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "544",
+owner_type: "research"
+},
+{
+wcms_path: "i3-challenge",
+site_name: "i3 Challenge",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "264"
+},
+{
+wcms_path: "ideas-summer-experience",
+site_name: "IDEAS Summer Experience",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "768"
+},
+{
+wcms_path: "independent-studies",
+site_name: "Independent Studies",
+group_code: "IS",
+unit_code: "IS",
+unit_short_name: "Independent Studies",
+status: "done",
+id: "76",
+owner_type: "academic"
+},
+{
+wcms_path: "indice-canadien-du-mieux-etre",
+site_name: "Canadian Index of Wellbeing (FR)",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "535",
+owner_type: "research"
+},
+{
+wcms_path: "industrial-organizational-psychology-student-conference",
+site_name: "Industrial Organizational Psychology Student Conference",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "migrating",
+id: "581"
+},
+{
+wcms_path: "infant-studies-group",
+site_name: "Infant Studies Group",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "109",
+owner_type: "research"
+},
+{
+wcms_path: "information-systems-technology",
+site_name: "Information Systems &amp; Technology",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "432"
+},
+{
+wcms_path: "institute-computer-research",
+site_name: "Institute for Computer Research (ICR)",
+group_code: "VPA",
+unit_code: "ICR",
+unit_short_name: "Inst for Computer Research",
+unit_full_name: "Institute for Computer Research",
+status: "done",
+id: "438",
+owner_type: "research"
+},
+{
+wcms_path: "institute-for-quantum-computing",
+site_name: "Institute for Quantum Computing",
+group_code: "VPA",
+unit_code: "UW",
+unit_short_name: "University of Waterloo",
+status: "done",
+id: "439",
+owner_type: "academic"
+},
+{
+wcms_path: "institute-nanotechnology",
+site_name: "Waterloo Institute of Nanotechnology",
+group_code: "SCI",
+unit_code: "SCIDEAN",
+unit_short_name: "Dean of Science Office",
+status: "done",
+id: "341",
+owner_type: "academic"
+},
+{
+wcms_path: "institute-polymer-research",
+site_name: "Institute for Polymer Research",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "570"
+},
+{
+wcms_path: "institutional-analysis-planning",
+site_name: "Institutional Analysis and Planning",
+unit_code: "AVP-AS",
+unit_short_name: "Associate Vice-President, Academic &amp; Strategic",
+unit_full_name: "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
+status: "done",
+id: "442",
+owner_type: "service"
+},
+{
+wcms_path: "international",
+site_name: "Waterloo International",
+unit_code: "AVP-INT",
+unit_short_name: "Associate Vice-President International",
+status: "done",
+id: "515",
+owner_type: "service"
+},
+{
+wcms_path: "international-development",
+site_name: "International Development",
+group_code: "ENV",
+unit_code: "ENVDEAN",
+unit_short_name: "Dean of Environment",
+status: "done",
+id: "276",
+owner_type: "academic"
+},
+{
+wcms_path: "international-optometric-bridging-program",
+site_name: "International Optometric Bridging Program",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "349"
+},
+{
+wcms_path: "international-shoulder-group-2014",
+site_name: "International Shoulder Group 2014",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "740"
+},
+{
+wcms_path: "international-society-for-gravitational-physiology-2014",
+site_name: "International Society for Gravitational Physiology 2014",
+group_code: "AHS",
+unit_code: "KIN",
+unit_short_name: "Kinesiology",
+status: "migrating",
+id: "580"
+},
+{
+wcms_path: "international-students",
+site_name: "International Student Experience",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "443",
+owner_type: "service"
+},
+{
+wcms_path: "irving-lab",
+site_name: "Irving Lab",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "350",
+owner_type: "research"
+},
+{
+wcms_path: "ist-windows-advancement-group",
+site_name: "IST Windows Advancement Group",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "753"
+},
+{
+wcms_path: "it-professional-development-advisory-group",
+site_name: "IT Professional Development Advisory Group",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "751"
+},
+{
+wcms_path: "it-service-asset-management",
+site_name: "IT Service and Asset Management Program",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "436"
+},
+{
+wcms_path: "it-strategic-plan",
+site_name: "IT Strategic Plan",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "437"
+},
+{
+wcms_path: "jobmine",
+site_name: "JobMine",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "444",
+owner_type: "service"
+},
+{
+wcms_path: "kinesiology",
+site_name: "Kinesiology",
+group_code: "AHS",
+unit_code: "KIN",
+unit_short_name: "Kinesiology",
+status: "done",
+id: "22",
+owner_type: "academic"
+},
+{
+wcms_path: "knowledge-integration",
+site_name: "Knowledge Integration (Centre for)",
+group_code: "ENV",
+unit_code: "ENVDEAN",
+unit_short_name: "Dean of Environment",
+status: "done",
+id: "265",
+owner_type: "academic"
+},
+{
+wcms_path: "knowledge-integration-exhibition",
+site_name: "Knowledge Integration eXhibition",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "266"
+},
+{
+wcms_path: "lab-infant-development-language",
+site_name: "Lab for Infant Development and Language",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "111",
+owner_type: "research"
+},
+{
+wcms_path: "learn-help",
+site_name: "LEARN Help",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "446",
+owner_type: "service"
+},
+{
+wcms_path: "leonenko-research-group",
+site_name: "Leonenko Research Group",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "315",
+owner_type: "research"
+},
+{
+wcms_path: "library",
+site_name: "Library",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "migrating",
+id: "448",
+owner_type: "service"
+},
+{
+wcms_path: "library/accessibility",
+site_name: "Library Accessibility Services",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "742",
+owner_type: "service"
+},
+{
+wcms_path: "library/aoda-toolkit",
+site_name: "Accessibility for Ontarian&#039;s with Disabilities Act Toolkit",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "744",
+owner_type: "service"
+},
+{
+wcms_path: "library/library-lens",
+site_name: "Library Lens",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "767",
+owner_type: "service"
+},
+{
+wcms_path: "library/musagetes",
+site_name: "Musagetes Architecture Library",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "745",
+owner_type: "service"
+},
+{
+wcms_path: "library/news",
+site_name: "Library News",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "766",
+owner_type: "service"
+},
+{
+wcms_path: "library/support",
+site_name: "Support the Library",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "763",
+owner_type: "service"
+},
+{
+wcms_path: "library/technology-services",
+site_name: "Library Technology Services",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "775",
+owner_type: "service"
+},
+{
+wcms_path: "library/web-redesign",
+site_name: "Library Web Redesign",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "770"
+},
+{
+wcms_path: "lock-it-down",
+site_name: "Lock It Down",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "787"
+},
+{
+wcms_path: "macintosh-technical-user-group",
+site_name: "Macintosh Technical User Group",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "784"
+},
+{
+wcms_path: "management-sciences",
+site_name: "Management Sciences",
+group_code: "ENG",
+unit_code: "MSCI",
+unit_short_name: "Management Sciences",
+status: "done",
+id: "198",
+owner_type: "academic"
+},
+{
+wcms_path: "map-library-assistants-workshop",
+site_name: "Map Library Assistants&#039; Workshop",
+unit_code: "LIB",
+unit_short_name: "Library",
+status: "done",
+id: "455"
+},
+{
+wcms_path: "marketing-strategic-communications",
+site_name: "Marketing and Strategic Communications",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "586",
+owner_type: "service"
+},
+{
+wcms_path: "mass-spectrometry-facility",
+site_name: "Mass Spectrometry Facility",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "316",
+owner_type: "research"
+},
+{
+wcms_path: "master-of-public-service",
+site_name: "Master of Public Service",
+group_code: "ART",
+unit_code: "ARTSDEAN",
+unit_short_name: "Dean of Arts",
+status: "done",
+id: "82",
+owner_type: "academic"
+},
+{
+wcms_path: "master-peace-conflict-studies",
+site_name: "Master of Peace &amp; Conflict Studies",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "386",
+owner_type: "academic"
+},
+{
+wcms_path: "mcmahon-lab",
+site_name: "McMahon Lab",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "590",
+owner_type: "research"
+},
+{
+wcms_path: "mechanical-mechatronics-engineering",
+site_name: "Mechanical and Mechatronics Engineering",
+group_code: "ENG",
+unit_code: "ME",
+unit_short_name: "Mechanical &amp; Mechatronics Engg",
+unit_full_name: "Mechanical and Mechatronics Engineering",
+status: "done",
+id: "200",
+owner_type: "academic"
+},
+{
+wcms_path: "medicinal-bioorganic-chemistry-lab",
+site_name: "Medicinal and Bioorganic Chemistry Lab",
+group_code: "SCI",
+unit_code: "PHARM",
+unit_short_name: "Pharmacy - School of",
+status: "done",
+id: "749",
+owner_type: "research"
+},
+{
+wcms_path: "medieval-studies",
+site_name: "Medieval Studies",
+group_code: "ART",
+unit_code: "CLASSICS",
+unit_short_name: "Classical Studies",
+status: "done",
+id: "83",
+owner_type: "academic"
+},
+{
+wcms_path: "mennonite-archives-ontario",
+site_name: "Mennonite Archives of Ontario",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "389"
+},
+{
+wcms_path: "mental-health-research",
+site_name: "Centre for Mental Health Research",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "93",
+owner_type: "research"
+},
+{
+wcms_path: "mental-health-wellness",
+site_name: "Mental Health and Wellness",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "449",
+owner_type: "service"
+},
+{
+wcms_path: "mid-cycle-review",
+site_name: "Mid-cycle Review",
+group_code: "VPA",
+unit_code: "UW",
+unit_short_name: "University of Waterloo",
+status: "done",
+id: "451"
+},
+{
+wcms_path: "mike-ophelia-lazaridis-quantum-nano-centre",
+site_name: "Mike &amp; Ophelia Lazaridis Quantum-Nano Centre",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "450"
+},
+{
+wcms_path: "murphy-lab",
+site_name: "Murphy Lab",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "317",
+owner_type: "research"
+},
+{
+wcms_path: "murray-alzheimer-research-and-education-program",
+site_name: "Murray Alzheimer Research &amp; Education Program",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "26",
+owner_type: "research"
+},
+{
+wcms_path: "museum-vision-science",
+site_name: "Museum of Vision Science (OPT)",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "318",
+owner_type: "service"
+},
+{
+wcms_path: "music",
+site_name: "Music",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "384",
+owner_type: "academic"
+},
+{
+wcms_path: "my-career",
+site_name: "My Career at Waterloo",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "430",
+owner_type: "service"
+},
+{
+wcms_path: "myhrinfo",
+site_name: "myHRinfo",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "429",
+owner_type: "service"
+},
+{
+wcms_path: "nanotechnology",
+site_name: "Nanotechnology Engineering",
+group_code: "ENG",
+unit_code: "ENGDEAN",
+unit_short_name: "Dean of Engineering",
+status: "done",
+id: "214",
+owner_type: "academic"
+},
+{
+wcms_path: "neufeld-research-group",
+site_name: "Neufeld Research Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "532",
+owner_type: "research"
+},
+{
+wcms_path: "neurological-patient-database",
+site_name: "Neurological Patient Database",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "113"
+},
+{
+wcms_path: "news",
+site_name: "Waterloo News",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "9",
+owner_type: "service"
+},
+{
+wcms_path: "next-generation-environmental-assessment",
+site_name: "Next Generation Environmental Assessment Project",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "257"
+},
+{
+wcms_path: "nuclear-magnetic-resonance-facility",
+site_name: "Nuclear Magnetic Resonance Facility",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "319",
+owner_type: "research"
+},
+{
+wcms_path: "off-campus-housing",
+site_name: "Off-Campus Housing",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "519",
+owner_type: "service"
+},
+{
+wcms_path: "offices-services",
+site_name: "Offices &amp; Services",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "5",
+owner_type: "service"
+},
+{
+wcms_path: "online-expense-claims",
+site_name: "Online Expense Claims",
+unit_code: "VP-AF",
+unit_short_name: "Vice-President Administration and Finance",
+status: "done",
+id: "454"
+},
+{
+wcms_path: "ontario-biomechanics-conference-2013",
+site_name: "Ontario Biomechanics Conference 2013",
+group_code: "AHS",
+unit_code: "KIN",
+unit_short_name: "Kinesiology",
+status: "done",
+id: "24"
+},
+{
+wcms_path: "open-data",
+site_name: "Open Data Initiative",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "456",
+owner_type: "service"
+},
+{
+wcms_path: "optometry-clinics",
+site_name: "Optometry Clinics",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "347",
+owner_type: "service"
+},
+{
+wcms_path: "optometry-student-society",
+site_name: "Optometry Student Society",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "351",
+owner_type: "service"
+},
+{
+wcms_path: "optometry-vision-science",
+site_name: "Optometry &amp; Vision Science (OPT)",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "346",
+owner_type: "academic"
+},
+{
+wcms_path: "organizational-human-development",
+site_name: "Organizational and Human Development",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "458",
+owner_type: "service"
+},
+{
+wcms_path: "orientation",
+site_name: "Orientation",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "457",
+owner_type: "service"
+},
+{
+wcms_path: "parking",
+site_name: "Parking",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "459",
+owner_type: "service"
+},
+{
+wcms_path: "partnerships-in-dementia-care",
+site_name: "Partnerships in Dementia Care",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "28"
+},
+{
+wcms_path: "pawliszyn-group",
+site_name: "Pawliszyn Research Group",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "320",
+owner_type: "research"
+},
+{
+wcms_path: "peace-conflict-studies",
+site_name: "Peace &amp; Conflict Studies",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "385",
+owner_type: "academic"
+},
+{
+wcms_path: "performance-indicators",
+site_name: "Performance Indicators",
+unit_code: "AVP-AS",
+unit_short_name: "Associate Vice-President, Academic &amp; Strategic",
+unit_full_name: "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
+status: "done",
+id: "577",
+owner_type: "service"
+},
+{
+wcms_path: "peter-russell-rock-garden",
+site_name: "Peter Russell Rock Garden",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "321",
+owner_type: "service"
+},
+{
+wcms_path: "pharmacokinetics-research-group",
+site_name: "Pharmacokinetics Research Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "322",
+owner_type: "research"
+},
+{
+wcms_path: "pharmacy",
+site_name: "School of Pharmacy",
+group_code: "SCI",
+unit_code: "PHARM",
+unit_short_name: "Pharmacy - School of",
+status: "done",
+id: "328",
+owner_type: "academic"
+},
+{
+wcms_path: "philosophy",
+site_name: "Philosophy",
+group_code: "ART",
+unit_code: "PHIL",
+unit_short_name: "Philosophy",
+status: "done",
+id: "84",
+owner_type: "academic"
+},
+{
+wcms_path: "phys13news",
+site_name: "Phys13News",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "323",
+owner_type: "service"
+},
+{
+wcms_path: "physics-astronomy",
+site_name: "Physics and Astronomy",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "324",
+owner_type: "academic"
+},
+{
+wcms_path: "planning",
+site_name: "School of Planning",
+group_code: "ENV",
+unit_code: "PLAN",
+unit_short_name: "Planning - School of",
+status: "done",
+id: "279",
+owner_type: "academic"
+},
+{
+wcms_path: "police",
+site_name: "Police",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "462",
+owner_type: "service"
+},
+{
+wcms_path: "political-science",
+site_name: "Political Science",
+group_code: "ART",
+unit_code: "PSCI",
+unit_short_name: "Political Science",
+status: "done",
+id: "87",
+owner_type: "academic"
+},
+{
+wcms_path: "polymer-physics",
+site_name: "Polymer Physics Group",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "325",
+owner_type: "research"
+},
+{
+wcms_path: "polymer-supramolecular-functional-nanomaterials",
+site_name: "Polymer and Supramolecular Functional Nanomaterials",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "761",
+owner_type: "research"
+},
+{
+wcms_path: "postdoctoral",
+site_name: "Postdoctoral Office",
+group_code: "GRAD",
+unit_code: "GRAD",
+unit_short_name: "Graduate Studies",
+status: "done",
+id: "463",
+owner_type: "service"
+},
+{
+wcms_path: "president",
+site_name: "President&#039;s Office",
+group_code: "VPA",
+unit_code: "UW",
+unit_short_name: "University of Waterloo",
+status: "done",
+id: "464"
+},
+{
+wcms_path: "privacy",
+site_name: "Information &amp; Privacy",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "431"
+},
+{
+wcms_path: "procurement",
+site_name: "Procurement and Contract Services (formerly Purchasing)",
+unit_code: "VP-AF",
+unit_short_name: "Vice-President Administration and Finance",
+status: "done",
+id: "465",
+owner_type: "service"
+},
+{
+wcms_path: "professional-development-program",
+site_name: "Professional Development Program",
+unit_code: "AP-RESO",
+unit_short_name: "Associate Provost, Resources",
+status: "done",
+id: "466",
+owner_type: "service"
+},
+{
+wcms_path: "propel",
+site_name: "Propel Centre for Population Health Impact",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "30",
+owner_type: "research"
+},
+{
+wcms_path: "provost",
+site_name: "Provost&#039;s Office",
+unit_code: "AVP-AS",
+unit_short_name: "Associate Vice-President, Academic &amp; Strategic",
+unit_full_name: "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
+status: "done",
+id: "467",
+owner_type: "service"
+},
+{
+wcms_path: "psychological-health",
+site_name: "Psychological Health and Safety in the Workplace",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "585",
+owner_type: "service"
+},
+{
+wcms_path: "psychology",
+site_name: "Psychology",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "89",
+owner_type: "academic"
+},
+{
+wcms_path: "public-health-and-health-systems",
+site_name: "School of Public Health and Health Systems",
+group_code: "AHS",
+unit_code: "HLTHGERON",
+unit_short_name: "Public Hlth&amp;Hlth Sys-School of",
+unit_full_name: "Public Health and Health Systems - School of",
+status: "done",
+id: "36",
+owner_type: "academic"
+},
+{
+wcms_path: "quantum-cryptography-school-young-students",
+site_name: "Quantum Cryptography School for Young Students",
+group_code: "VPA",
+unit_code: "UW",
+unit_short_name: "University of Waterloo",
+status: "done",
+id: "587"
+},
+{
+wcms_path: "quantum-innovators",
+site_name: "Quantum Innovators (culled)",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "440"
+},
+{
+wcms_path: "quantum-matters",
+site_name: "Quantum Matters Group",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "326",
+owner_type: "research"
+},
+{
+wcms_path: "quest",
+site_name: "Quest Student Information System",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "468",
+owner_type: "service"
+},
+{
+wcms_path: "quintessence",
+site_name: "Quintessence",
+group_code: "ART",
+unit_code: "FR",
+unit_short_name: "French Studies",
+status: "done",
+id: "68"
+},
+{
+wcms_path: "reasoning-decision-making-lab",
+site_name: "Reasoning and Decision Making Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "116",
+owner_type: "research"
+},
+{
+wcms_path: "records-management",
+site_name: "Records Management",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "470"
+},
+{
+wcms_path: "recreation-and-leisure-studies",
+site_name: "Recreation and Leisure Studies",
+group_code: "AHS",
+unit_code: "REC",
+unit_short_name: "Recreation &amp; Leisure Studies",
+status: "done",
+id: "32",
+owner_type: "academic"
+},
+{
+wcms_path: "recreation-and-leisure-studies/research/centres-groups/campus-athletics-research-network",
+site_name: "Campus Athletics Research Network (CARN)",
+group_code: "AHS",
+unit_code: "REC",
+unit_short_name: "Recreation &amp; Leisure Studies",
+id: "13",
+owner_type: "research"
+},
+{
+wcms_path: "recreation-committee",
+site_name: "University of Waterloo Recreation Committee",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "506",
+owner_type: "service"
+},
+{
+wcms_path: "refer-employer",
+site_name: "Refer your Employer (CECA)",
+group_code: "VPA",
+unit_code: "CECS",
+unit_short_name: "Coop Educn &amp; Career Action",
+unit_full_name: "Co-operative Education &amp; Career Action",
+status: "done",
+id: "472",
+owner_type: "service"
+},
+{
+wcms_path: "refer-students",
+site_name: "Refer a Student",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "471",
+owner_type: "service"
+},
+{
+wcms_path: "registrar",
+site_name: "Registrar&#039;s Office",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "473",
+owner_type: "service"
+},
+{
+wcms_path: "relationship-lab",
+site_name: "The Relationship Research Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "119",
+owner_type: "research"
+},
+{
+wcms_path: "religious-studies",
+site_name: "Religious Studies",
+group_code: "ART",
+unit_code: "RS",
+unit_short_name: "Religious Studies",
+status: "done",
+id: "126",
+owner_type: "academic"
+},
+{
+wcms_path: "renison",
+site_name: "Renison University College",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "474",
+owner_type: "academic"
+},
+{
+wcms_path: "renison-ministry-centre",
+site_name: "Renison Ministry Centre",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "479",
+owner_type: "service"
+},
+{
+wcms_path: "request-tracking-system",
+site_name: "Request Tracking System",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "786",
+owner_type: "service"
+},
+{
+wcms_path: "research",
+site_name: "Research",
+unit_code: "VP-URES",
+unit_short_name: "Vice-President University Research",
+status: "done",
+id: "469"
+},
+{
+wcms_path: "research-experiences-group",
+site_name: "Research Experiences Group",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "578",
+owner_type: "research"
+},
+{
+wcms_path: "research-technology-park",
+site_name: "David Johnston Research + Technology Park",
+unit_code: "VP-URES",
+unit_short_name: "Vice-President University Research",
+status: "done",
+id: "399",
+owner_type: "service"
+},
+{
+wcms_path: "retirees-association",
+site_name: "Retirees Association",
+unit_code: "NONUW",
+unit_short_name: "Non-University of Waterloo",
+status: "done",
+id: "545",
+owner_type: "service"
+},
+{
+wcms_path: "rome-program",
+site_name: "Waterloo Architecture | Rome",
+group_code: "ENG",
+unit_code: "ARCH",
+unit_short_name: "Architecture - School of",
+status: "done",
+id: "236"
+},
+{
+wcms_path: "rooney-lab",
+site_name: "Rooney Lab",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "327",
+owner_type: "research"
+},
+{
+wcms_path: "sandford-fleming-foundation",
+site_name: "Sandford Fleming Foundation",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "224"
+},
+{
+wcms_path: "sbsa",
+site_name: "Science and Business Students Association",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "hold",
+id: "332",
+owner_type: "service"
+},
+{
+wcms_path: "scheduling-timetabling-examinations-project",
+site_name: "Scheduling, Timetabling, and Examinations Project (STEP)",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "485",
+owner_type: "service"
+},
+{
+wcms_path: "school-environment-enterprise-development",
+site_name: "School of Environment, Enterprise and Development (SEED)",
+group_code: "ENV",
+unit_code: "SEED",
+unit_short_name: "Env, Entr &amp; Dev - School of",
+unit_full_name: "Environment, Enterprise &amp; Development - School of",
+status: "done",
+id: "269",
+owner_type: "academic"
+},
+{
+wcms_path: "school-environment-enterprise-development/professional-development-and-training",
+site_name: "Local Economic Development",
+group_code: "ENV",
+unit_code: "ENVDEAN",
+unit_short_name: "Dean of Environment",
+status: "hold",
+id: "277",
+owner_type: "academic"
+},
+{
+wcms_path: "school-of-accounting-and-finance",
+site_name: "School of Accounting and Finance",
+group_code: "ART",
+unit_code: "ACC",
+unit_short_name: "Accounting&amp;Finance - School of",
+unit_full_name: "Accounting &amp; Finance - School of",
+status: "done",
+id: "128",
+owner_type: "academic"
+},
+{
+wcms_path: "school-of-public-health-and-health-systems-graduate-students-association",
+site_name: "School of Public Health and Health Systems Graduate Student Association",
+group_code: "AHS",
+unit_code: "HLTHGERON",
+unit_short_name: "Public Hlth&amp;Hlth Sys-School of",
+unit_full_name: "Public Health and Health Systems - School of",
+status: "done",
+id: "773",
+owner_type: "academic"
+},
+{
+wcms_path: "school-of-social-work",
+site_name: "School of Social Work",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "476",
+owner_type: "academic"
+},
+{
+wcms_path: "science",
+site_name: "Science",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "287",
+owner_type: "academic"
+},
+{
+wcms_path: "science-2-plus-2",
+site_name: "Science 2+2",
+group_code: "SCI",
+unit_code: "SCIDEAN",
+unit_short_name: "Dean of Science Office",
+status: "done",
+id: "330",
+owner_type: "academic"
+},
+{
+wcms_path: "science-and-business",
+site_name: "Science and Business",
+group_code: "SCI",
+unit_code: "SCIDEAN",
+unit_short_name: "Dean of Science Office",
+status: "done",
+id: "331",
+owner_type: "academic"
+},
+{
+wcms_path: "science-computing",
+site_name: "Science Computing",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "333",
+owner_type: "service"
+},
+{
+wcms_path: "science-endowment-fund",
+site_name: "Waterloo Science Endowment Fund",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "343"
+},
+{
+wcms_path: "science-student-help-team",
+site_name: "Science Student Help Team",
+group_code: "SCI",
+unit_code: "SCIDEAN",
+unit_short_name: "Dean of Science Office",
+status: "done",
+id: "334",
+owner_type: "academic"
+},
+{
+wcms_path: "science-technical-services",
+site_name: "Science Technical Services",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "335",
+owner_type: "service"
+},
+{
+wcms_path: "science-technology-society",
+site_name: "Science and Technology in Society",
+group_code: "ART",
+unit_code: "PHIL",
+unit_short_name: "Philosophy",
+status: "done",
+id: "86",
+owner_type: "service"
+},
+{
+wcms_path: "secretariat",
+site_name: "Secretariat",
+unit_code: "SECRE",
+unit_short_name: "Secretary of the University",
+status: "done",
+id: "486"
+},
+{
+wcms_path: "sedra-student-design-centre",
+site_name: "Sedra Student Design Centre",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "228",
+owner_type: "service"
+},
+{
+wcms_path: "self-attitudes-lab",
+site_name: "Self-Attitudes Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "546",
+owner_type: "research"
+},
+{
+wcms_path: "self-regulation-motivation-lab",
+site_name: "Self-Regulation and Motivation Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "120",
+owner_type: "research"
+},
+{
+wcms_path: "servos-group",
+site_name: "Servos Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "337",
+owner_type: "research"
+},
+{
+wcms_path: "shad-valley-waterloo",
+site_name: "Shad Valley Waterloo",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "667"
+},
+{
+wcms_path: "sight-enhancement",
+site_name: "Centre for Sight Enhancement",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "297",
+owner_type: "research"
+},
+{
+wcms_path: "social-development-studies",
+site_name: "Social Development Studies",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "475",
+owner_type: "academic"
+},
+{
+wcms_path: "social-media",
+site_name: "Social Media",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "6",
+owner_type: "service"
+},
+{
+wcms_path: "social-media-committee",
+site_name: "Social Media Committee",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "487"
+},
+{
+wcms_path: "social-work-action-network-canada",
+site_name: "Social Work Action Network Canada",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "480"
+},
+{
+wcms_path: "sociology-and-legal-studies",
+site_name: "Sociology and Legal Studies",
+group_code: "ART",
+unit_code: "SOC",
+unit_short_name: "Sociology &amp; Legal Studies",
+unit_full_name: "Sociology and Legal Studies",
+status: "done",
+id: "132",
+owner_type: "academic"
+},
+{
+wcms_path: "software-engineering",
+site_name: "Software Engineering",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "226",
+owner_type: "academic"
+},
+{
+wcms_path: "spanish",
+site_name: "Spanish and Latin American Studies",
+group_code: "ART",
+unit_code: "SPAN",
+unit_short_name: "Spanish &amp; Latin American Stud.",
+unit_full_name: "Spanish &amp; Latin American Studies",
+status: "done",
+id: "134",
+owner_type: "academic"
+},
+{
+wcms_path: "staff-association",
+site_name: "Staff Association",
+unit_code: "NONUW",
+unit_short_name: "Non-University of Waterloo",
+status: "done",
+id: "488",
+owner_type: "service"
+},
+{
+wcms_path: "stories",
+site_name: "Waterloo Stories",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "7",
+owner_type: "service"
+},
+{
+wcms_path: "stpauls",
+site_name: "St. Paul&#039;s University College",
+group_code: "STP",
+unit_code: "STP",
+unit_short_name: "St Paul&#039;s University College",
+status: "done",
+id: "484",
+owner_type: "academic"
+},
+{
+wcms_path: "strategic-plan",
+site_name: "Strategic Plan",
+group_code: "VPA",
+unit_code: "VPA",
+unit_short_name: "Interdisciplinary Studies",
+status: "done",
+id: "10"
+},
+{
+wcms_path: "stratford-campus",
+site_name: "Stratford Campus",
+group_code: "ART",
+unit_code: "ARTSDEAN",
+unit_short_name: "Dean of Arts",
+status: "done",
+id: "135",
+owner_type: "academic"
+},
+{
+wcms_path: "student-awards-financial-aid",
+site_name: "Student Awards &amp; Financial Aid",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "490",
+owner_type: "service"
+},
+{
+wcms_path: "student-information-systems-project",
+site_name: "Student Information Systems Project (SISP)",
+unit_code: "REGIS",
+unit_short_name: "Registrar",
+status: "done",
+id: "491"
+},
+{
+wcms_path: "student-life-centre",
+site_name: "Student Life Centre",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "492",
+owner_type: "service"
+},
+{
+wcms_path: "student-portal",
+site_name: "Student Portal",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "765",
+owner_type: "service"
+},
+{
+wcms_path: "student-success",
+site_name: "Student Success Office",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "493",
+owner_type: "service"
+},
+{
+wcms_path: "student-technology",
+site_name: "Student Technology Services",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "433"
+},
+{
+wcms_path: "studies-in-islam",
+site_name: "Studies in Islam",
+group_code: "REN",
+unit_code: "REN",
+unit_short_name: "Renison University College",
+status: "done",
+id: "478",
+owner_type: "academic"
+},
+{
+wcms_path: "study-abroad-programs",
+site_name: "Study Abroad Programs",
+unit_code: "AVP-INT",
+unit_short_name: "Associate Vice-President International",
+status: "done",
+id: "495",
+owner_type: "service"
+},
+{
+wcms_path: "support",
+site_name: "Support Waterloo",
+unit_code: "VP-AD",
+unit_short_name: "Vice-President Advancement",
+status: "done",
+id: "496",
+owner_type: "service"
+},
+{
+wcms_path: "sustainability",
+site_name: "Sustainability",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "379",
+owner_type: "research"
+},
+{
+wcms_path: "sustainability-assessment-project",
+site_name: "Sustainability Assessment Project",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "260",
+owner_type: "research"
+},
+{
+wcms_path: "sustainable-energy-policy",
+site_name: "Sustainable Energy Policy",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "281"
+},
+{
+wcms_path: "systems-design-engineering",
+site_name: "Systems Design Engineering",
+group_code: "ENG",
+unit_code: "SYDE",
+unit_short_name: "Systems Design Engineering",
+status: "done",
+id: "230",
+owner_type: "academic"
+},
+{
+wcms_path: "taylor-research-group",
+site_name: "Taylor Research Group",
+group_code: "SCI",
+unit_code: "CHEM",
+unit_short_name: "Chemistry",
+status: "done",
+id: "756",
+owner_type: "research"
+},
+{
+wcms_path: "telecommunications",
+site_name: "Telecommunications Services",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "434",
+owner_type: "service"
+},
+{
+wcms_path: "theatre-centre",
+site_name: "Theatre Centre",
+group_code: "VPA",
+unit_code: "THC",
+unit_short_name: "Theatre Centre",
+status: "done",
+id: "500"
+},
+{
+wcms_path: "theological-studies",
+site_name: "Theological Studies",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "387",
+owner_type: "academic"
+},
+{
+wcms_path: "three-minute-thesis",
+site_name: "Three Minute Thesis (3MT) Competition",
+group_code: "GRAD",
+unit_code: "GRAD",
+unit_short_name: "Graduate Studies",
+status: "done",
+id: "421"
+},
+{
+wcms_path: "toronto-mennonite-theological-centre",
+site_name: "Toronto Mennonite Theological Centre",
+group_code: "CGC",
+unit_code: "CGC",
+unit_short_name: "Conrad Grebel College",
+status: "done",
+id: "390",
+owner_type: "service"
+},
+{
+wcms_path: "ultrafast-laser-group",
+site_name: "Ultrafast Laser Group",
+group_code: "SCI",
+unit_code: "PHYS",
+unit_short_name: "Physics &amp; Astronomy",
+status: "done",
+id: "339",
+owner_type: "research"
+},
+{
+wcms_path: "united-arab-emirates",
+site_name: "United Arab Emirates",
+unit_code: "AVP-INT",
+unit_short_name: "Associate Vice-President International",
+status: "done",
+id: "501"
+},
+{
+wcms_path: "united-way",
+site_name: "United Way Campaign",
+group_code: "VPA",
+unit_code: "UW",
+unit_short_name: "University of Waterloo",
+status: "done",
+id: "502",
+owner_type: "service"
+},
+{
+wcms_path: "university-club",
+site_name: "University Club",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "504",
+owner_type: "service"
+},
+{
+wcms_path: "university-committee-information-systems-technology",
+site_name: "University Committee on Information Systems &amp; Technology ",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "748"
+},
+{
+wcms_path: "university-relations",
+site_name: "University Relations",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "507",
+owner_type: "service"
+},
+{
+wcms_path: "unlimited",
+site_name: "Waterloo Unlimited",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "267"
+},
+{
+wcms_path: "uw-fitness",
+site_name: "UW Fitness",
+group_code: "AHS",
+unit_code: "AHS",
+unit_short_name: "Applied Health Sciences",
+status: "done",
+id: "38",
+owner_type: "service"
+},
+{
+wcms_path: "vision-attention-lab",
+site_name: "Vision and Attention Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "121",
+owner_type: "research"
+},
+{
+wcms_path: "wat-on-earth",
+site_name: "Wat On Earth",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "344"
+},
+{
+wcms_path: "water-under-the-bridge",
+site_name: "Water Under The Bridge",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "513"
+},
+{
+wcms_path: "waterloo-innovation-summit",
+site_name: "Waterloo Innovation Summit",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "445"
+},
+{
+wcms_path: "waterloo-institute-for-hellenistic-studies",
+site_name: "Waterloo Institute for Hellenistic Studies",
+group_code: "ART",
+unit_code: "CLASSICS",
+unit_short_name: "Classical Studies",
+status: "done",
+id: "139",
+owner_type: "research"
+},
+{
+wcms_path: "waterloo-microfluidics-laboratory",
+site_name: "Waterloo Microfluidics Laboratory",
+group_code: "ENG",
+unit_code: "ME",
+unit_short_name: "Mechanical &amp; Mechatronics Engg",
+unit_full_name: "Mechanical and Mechatronics Engineering",
+status: "done",
+id: "242",
+owner_type: "research"
+},
+{
+wcms_path: "waterloo-nexus-advisory-group",
+site_name: "Waterloo Nexus Advisory Group",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "517"
+},
+{
+wcms_path: "waterloo-research-in-aging-participants",
+site_name: "Waterloo Research in Aging Participant Pool",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "123"
+},
+{
+wcms_path: "waterloo-summit-centre",
+site_name: "Waterloo Summit Centre",
+group_code: "ENV",
+unit_code: "ENV",
+unit_short_name: "Environment",
+status: "done",
+id: "285"
+},
+{
+wcms_path: "watport",
+site_name: "WatPort",
+unit_code: "AP-HR",
+unit_short_name: "Associate Provost, Human Resources",
+status: "done",
+id: "521"
+},
+{
+wcms_path: "web-advisory-committee",
+site_name: "Web Advisory Committee",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "523"
+},
+{
+wcms_path: "web-resources",
+site_name: "Web Resources",
+unit_code: "IST",
+unit_short_name: "Information Systems and Technology",
+status: "done",
+id: "522",
+owner_type: "service"
+},
+{
+wcms_path: "wettig-research-group",
+site_name: "Wettig Research Group",
+group_code: "SCI",
+unit_code: "PHARM",
+unit_short_name: "Pharmacy - School of",
+status: "done",
+id: "329",
+owner_type: "research"
+},
+{
+wcms_path: "wisdom-and-culture-lab",
+site_name: "Wisdom and Culture Lab",
+group_code: "ART",
+unit_code: "PSYCH",
+unit_short_name: "Psychology",
+status: "done",
+id: "124",
+owner_type: "research"
+},
+{
+wcms_path: "witer-learning-resource-centre",
+site_name: "Witer Learning Resource Centre",
+group_code: "SCI",
+unit_code: "OPTOM",
+unit_short_name: "Optometry &amp; Vision Sci-Sch of",
+unit_full_name: "Optometry &amp; Vision Science - School of",
+status: "done",
+id: "352",
+owner_type: "service"
+},
+{
+wcms_path: "women-in-engineering",
+site_name: "Women in Engineering",
+group_code: "ENG",
+unit_code: "ENG",
+unit_short_name: "Engineering",
+status: "done",
+id: "244"
+},
+{
+wcms_path: "womens-studies",
+site_name: "Women&#039;s Studies",
+group_code: "ART",
+unit_code: "WS",
+unit_short_name: "Women&#039;s Studies",
+status: "done",
+id: "141",
+owner_type: "academic"
+},
+{
+wcms_path: "writing-centre",
+site_name: "Writing Centre",
+unit_code: "AP-STUD",
+unit_short_name: "Associate Provost, Students",
+status: "done",
+id: "524",
+owner_type: "service"
+},
+{
+wcms_path: "wu-research-group",
+site_name: "Wu Research Group",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "345"
+},
+{
+wcms_path: "youth-programs-and-camps",
+site_name: "Youth Programs and Camps",
+unit_code: "VP-UREL",
+unit_short_name: "Vice-President University Relations",
+status: "done",
+id: "771",
+owner_type: "service"
+},
+{
+wcms_path: "理学院2加2教育合作主页",
+site_name: "Science 2+2 (chinese) 理学院2加2教育合作主页",
+group_code: "SCI",
+unit_code: "SCI",
+unit_short_name: "Science",
+status: "done",
+id: "534"
+},
+{
+wcms_path: "香港办公室",
+site_name: "Hong Kong Office (Chinese)",
+unit_code: "AVP-INT",
+unit_short_name: "Associate Vice-President International",
+status: "done",
+id: "536"
+}
 ]
