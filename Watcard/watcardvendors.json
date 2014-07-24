@@ -20,13 +20,6 @@
            "phone_number" : "519-747-9888",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/campuspizza.gif"
          },
-  "17" : {
-           "latitude"     : 43.4718084,
-           "longitude"    : -80.5389249907953,
-           "address"      : "170 University Ave W, Waterloo, ON N2L 3E9, Canada",
-           "phone_number" : "519-888-0126",
-           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/curry.GIF"
-         },
   "29" : {
            "latitude"     : 43.4675986,
            "longitude"    : -80.5685925,
@@ -151,10 +144,22 @@
            "phone_number" : "519-886-5000",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/grabagreek.jpg"
          },
+  "53" : {
+           "vendor_id"    : 53,
+           "vendor_name"  : "Milestones",
+           "latitude"     : 43.4394943,
+           "longitude"    : -80.563286,
+           "address"      : "410 The Boardwalk, Waterloo, ON N2T 0A6, Canada",
+           "phone_number" : "519-579-4949",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/milestones.gif"
+         },
   "23" : {
            "vendor_id"    : null
          },
   "14" : {
+           "vendor_id"    : null
+         },
+  "17" : {
            "vendor_id"    : null
          }
 }
