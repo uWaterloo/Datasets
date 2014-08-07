@@ -120,7 +120,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 045,TC,"William M. Tatham Centre for Co-operative Education & Career Action","Tatham Centre",43.469,-80.541324
 048,ERC,"Energy Research Centre","",43.4736245,-80.54447847
 051,RAC,"Research Advancement Centre","",43.47884,-80.55498
-052,IHB,"Integrated Health Building 1","",43.450981,-80.499828
+052,IHB,"Integrated Health Building 1","",43.452311,-80.499208
 053,E5,"Engineering 5","",43.472953,-80.540085
 056,M3,"Mathematics 3","MC3",43.47302,-80.54448
 057,EV3,"Environment 3","",43.46745,-80.54319
@@ -173,7 +173,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 070,STP,"St. Paul's University College","St. Paul's",43.467762,-80.546404
 071,REN,"Renison University College","Renison",43.46881657,-80.54762202
 104,GH,"Graduate House","Grad House",43.4696575,-80.54103451
-110,PHR,"School of Pharmacy","10 Victoria Street S, Kitchener, ON",43.450985,-80.499763
+110,PHR,"School of Pharmacy","10 Victoria Street S, Kitchener, ON",43.452847,-80.499020
 111,ARC,"School of Architecture","7 Melville Street S, Cambridge, ON",43.358572,-80.31692
 132,GA,"Centre for Extended Learning","335 Gage Avenue, Kitchener, ON",43.44585,-80.5184
 133,HSC,"Huntsville Summit Center","87 Forbes Hill Drive, Huntsville, ON",45.32211,-79.20695
