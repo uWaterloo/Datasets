@@ -19,7 +19,7 @@
   },
   {
     "wcms_path": "academic-integrity",
-    "site_name": "Academic Integrity Office",
+    "site_name": "Academic Integrity",
     "unit_code": "AP-RESO",
     "unit_short_name": "Associate Provost, Resources",
     "status": "done",
@@ -109,7 +109,7 @@
   },
   {
     "wcms_path": "applied-health-sciences-computing",
-    "site_name": "AHS Computing",
+    "site_name": "Applied Health Sciences Computing",
     "group_code": "AHS",
     "unit_code": "AHS",
     "unit_short_name": "Applied Health Sciences",
@@ -167,12 +167,22 @@
     "id": "46"
   },
   {
+    "wcms_path": "arts-student-space-project",
+    "site_name": "Arts Student Space Project",
+    "group_code": "ART",
+    "unit_code": "ART",
+    "unit_short_name": "Arts",
+    "status": "done",
+    "id": "841",
+    "owner_type": "academic"
+  },
+  {
     "wcms_path": "arts\/current-undergraduates\/majors-and-minors\/liberal-studies",
     "site_name": "Liberal Studies",
     "group_code": "ART",
     "unit_code": "ARTSDEAN",
     "unit_short_name": "Dean of Arts",
-    "status": "done",
+    "status": "hold",
     "id": "81",
     "owner_type": "academic"
   },
@@ -191,7 +201,8 @@
     "unit_code": "AP-STUD",
     "unit_short_name": "Associate Provost, Students",
     "status": "done",
-    "id": "357"
+    "id": "357",
+    "owner_type": "service"
   },
   {
     "wcms_path": "associate-vice-president-academic",
@@ -212,6 +223,16 @@
     "id": "288"
   },
   {
+    "wcms_path": "astrophysics-and-gravitation",
+    "site_name": "Astrophysics &amp; Gravitation",
+    "group_code": "SCI",
+    "unit_code": "PHYS",
+    "unit_short_name": "Physics &amp; Astronomy",
+    "status": "done",
+    "id": "686",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "audio-research-group",
     "site_name": "Audio Research Group",
     "group_code": "SCI",
@@ -219,6 +240,17 @@
     "unit_short_name": "Physics &amp; Astronomy",
     "status": "done",
     "id": "290",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "automated-laser-fabrication-laboratory",
+    "site_name": "Automated Laser Fabrication Laboratory",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "202",
     "owner_type": "research"
   },
   {
@@ -321,7 +353,17 @@
     "unit_code": "VP-UREL",
     "unit_short_name": "Vice-President University Relations",
     "status": "done",
-    "id": "576"
+    "id": "576",
+    "owner_type": "service"
+  },
+  {
+    "wcms_path": "bridge-to-academic-success-in-english",
+    "site_name": "Bridge to Academic Success in English (BASE) ",
+    "unit_code": "REGIS",
+    "unit_short_name": "Registrar",
+    "status": "done",
+    "id": "833",
+    "owner_type": "service"
   },
   {
     "wcms_path": "campbell-labs",
@@ -456,7 +498,7 @@
   },
   {
     "wcms_path": "centre-advancement-co-operative-education",
-    "site_name": "WATCACE - Centre for the Advancement of Co-operative Education",
+    "site_name": "Centre for the Advancement of Co-operative Education (WatCACE)",
     "group_code": "VPA",
     "unit_code": "CECS",
     "unit_short_name": "Coop Educn &amp; Career Action",
@@ -473,6 +515,16 @@
     "unit_short_name": "Engineering",
     "status": "done",
     "id": "240",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "centre-for-child-studies",
+    "site_name": "Centre for Child Studies",
+    "group_code": "ART",
+    "unit_code": "PSYCH",
+    "unit_short_name": "Psychology",
+    "status": "done",
+    "id": "92",
     "owner_type": "research"
   },
   {
@@ -507,7 +559,7 @@
   },
   {
     "wcms_path": "centre-integrated-rf-engineering",
-    "site_name": "Center for Integrated RF Engineering (CIRFE)",
+    "site_name": "Centre for Integrated RF Engineering (CIRFE)",
     "group_code": "ENG",
     "unit_code": "ECE",
     "unit_short_name": "Electrical &amp; Computer Engg",
@@ -536,6 +588,17 @@
     "unit_full_name": "Civil and Environmental Engineering",
     "status": "done",
     "id": "151",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "centre-wireless-communications",
+    "site_name": "Centre for Wireless Communications",
+    "group_code": "ENG",
+    "unit_code": "ECE",
+    "unit_short_name": "Electrical &amp; Computer Engg",
+    "unit_full_name": "Electrical &amp; Computer Engineering",
+    "status": "done",
+    "id": "163",
     "owner_type": "research"
   },
   {
@@ -697,7 +760,7 @@
   },
   {
     "wcms_path": "co-operative-education-career-action-systems",
-    "site_name": "Co-operative Education and Career Action Systems",
+    "site_name": "Co-operative Education &amp; Career Action Systems",
     "group_code": "VPA",
     "unit_code": "CECS",
     "unit_short_name": "Coop Educn &amp; Career Action",
@@ -804,14 +867,15 @@
     "site_name": "Certificate in Conflict Management",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "388",
     "owner_type": "academic"
   },
   {
     "wcms_path": "conflict-management-human-rights",
-    "site_name": "Conflict Management and Human Rights Office",
+    "site_name": "Conflict Management &amp; Human Rights Office",
     "unit_code": "SECRE",
     "unit_short_name": "Secretary of the University",
     "status": "done",
@@ -828,6 +892,26 @@
     "status": "done",
     "id": "156",
     "owner_type": "academic"
+  },
+  {
+    "wcms_path": "control-systems-group",
+    "site_name": "Control Systems Group",
+    "group_code": "ENG",
+    "unit_code": "ECE",
+    "unit_short_name": "Electrical &amp; Computer Engg",
+    "unit_full_name": "Electrical &amp; Computer Engineering",
+    "status": "done",
+    "id": "166",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "copyright",
+    "site_name": "Copyright",
+    "unit_code": "VP-UREL",
+    "unit_short_name": "Vice-President University Relations",
+    "status": "done",
+    "id": "820",
+    "owner_type": "service"
   },
   {
     "wcms_path": "copyright-guidelines",
@@ -876,6 +960,17 @@
     "owner_type": "research"
   },
   {
+    "wcms_path": "data-science",
+    "site_name": "Data Science",
+    "group_code": "MAT",
+    "unit_code": "CS",
+    "unit_short_name": "Computer Sci - Cheriton School",
+    "unit_full_name": "Computer Science - David R. Cheriton School of",
+    "status": "done",
+    "id": "816",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "developmental-learning-lab",
     "site_name": "Developmental Learning Lab",
     "group_code": "ART",
@@ -892,6 +987,15 @@
     "unit_short_name": "Associate Provost, Students",
     "status": "done",
     "id": "356",
+    "owner_type": "service"
+  },
+  {
+    "wcms_path": "discover-graduate-studies",
+    "site_name": "Discover Graduate Studies",
+    "unit_code": "AP-GRAD",
+    "unit_short_name": "Associate Provost, Graduate Studies",
+    "status": "done",
+    "id": "799",
     "owner_type": "service"
   },
   {
@@ -920,7 +1024,8 @@
     "unit_code": "SECRE",
     "unit_short_name": "Secretary of the University",
     "status": "done",
-    "id": "400"
+    "id": "400",
+    "owner_type": "service"
   },
   {
     "wcms_path": "earth-environmental-sciences",
@@ -1013,6 +1118,15 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "email",
+    "site_name": "Email",
+    "unit_code": "VP-UREL",
+    "unit_short_name": "Vice-President University Relations",
+    "status": "done",
+    "id": "823",
+    "owner_type": "service"
+  },
+  {
     "wcms_path": "embedded-software-group",
     "site_name": "Real-time Embedded Software Group",
     "group_code": "ENG",
@@ -1039,7 +1153,8 @@
     "unit_code": "AP-HR",
     "unit_short_name": "Associate Provost, Human Resources",
     "status": "done",
-    "id": "402"
+    "id": "402",
+    "owner_type": "service"
   },
   {
     "wcms_path": "employer-community",
@@ -1051,6 +1166,17 @@
     "status": "done",
     "id": "810",
     "owner_type": "service"
+  },
+  {
+    "wcms_path": "energy-hub-management-system",
+    "site_name": "Energy Hub Management System Project (EHMS)",
+    "group_code": "ENG",
+    "unit_code": "ECE",
+    "unit_short_name": "Electrical &amp; Computer Engg",
+    "unit_full_name": "Electrical &amp; Computer Engineering",
+    "status": "done",
+    "id": "159",
+    "owner_type": "research"
   },
   {
     "wcms_path": "engineering",
@@ -1124,11 +1250,21 @@
     "wcms_path": "english-language-institute",
     "site_name": "English Language Institute",
     "group_code": "REN",
-    "unit_code": "RENDEAN",
+    "unit_code": "REN",
     "unit_short_name": "Renison University College",
     "status": "done",
     "id": "542",
     "owner_type": "academic"
+  },
+  {
+    "wcms_path": "english-teaching-portal",
+    "site_name": "English Teaching Portal",
+    "group_code": "ART",
+    "unit_code": "ENGL",
+    "unit_short_name": "English Language &amp; Literature",
+    "status": "done",
+    "id": "825",
+    "owner_type": "service"
   },
   {
     "wcms_path": "enquete-canadienne-sur-le-tabac-alcool-et-les-drogues-chez-les-eleves",
@@ -1190,16 +1326,16 @@
   },
   {
     "wcms_path": "excellence-canada",
-    "site_name": "Excellence Canada",
+    "site_name": "Excellence Canada at Waterloo",
     "unit_code": "LIB",
     "unit_short_name": "Library",
-    "status": "migrating",
+    "status": "done",
     "id": "794",
     "owner_type": "service"
   },
   {
     "wcms_path": "face-processing-social-cognition-lab",
-    "site_name": "Face Processing and Social Cognition",
+    "site_name": "Face Processing and Social Cognition Lab",
     "group_code": "ART",
     "unit_code": "PSYCH",
     "unit_short_name": "Psychology",
@@ -1208,7 +1344,7 @@
   },
   {
     "wcms_path": "faculties-academics",
-    "site_name": "Faculties &amp; Academics",
+    "site_name": "Faculties and Academics",
     "unit_code": "VP-UREL",
     "unit_short_name": "Vice-President University Relations",
     "status": "done",
@@ -1256,7 +1392,8 @@
     "unit_code": "VP-AF",
     "unit_short_name": "Vice-President Administration and Finance",
     "status": "done",
-    "id": "414"
+    "id": "414",
+    "owner_type": "service"
   },
   {
     "wcms_path": "find-out-more",
@@ -1390,13 +1527,32 @@
   },
   {
     "wcms_path": "germanic-slavic-studies",
-    "site_name": "Germanic and Slavic Studies",
+    "site_name": "Germanic &amp; Slavic Studies",
     "group_code": "ART",
     "unit_code": "GERSLAV",
     "unit_short_name": "Germanic &amp; Slavic Studies",
     "status": "done",
     "id": "72",
     "owner_type": "academic"
+  },
+  {
+    "wcms_path": "get-facts-knowledge-translation",
+    "site_name": "GET-FACTS: Knowledge Translation",
+    "group_code": "AHS",
+    "unit_code": "HLTHGERON",
+    "unit_short_name": "Public Hlth&amp;Hlth Sys-School of",
+    "unit_full_name": "Public Health and Health Systems - School of",
+    "status": "done",
+    "id": "817",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "government-relations",
+    "site_name": "Government Relations",
+    "unit_code": "VP-UREL",
+    "unit_short_name": "Vice-President University Relations",
+    "status": "done",
+    "id": "783"
   },
   {
     "wcms_path": "graduate-association-psychology",
@@ -1441,7 +1597,8 @@
     "site_name": "Conrad Grebel University College",
     "group_code": "CGC",
     "unit_code": "CGC",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "383",
     "owner_type": "academic"
@@ -1525,6 +1682,17 @@
     "owner_type": "research"
   },
   {
+    "wcms_path": "high-voltage-engineering-laboratory",
+    "site_name": "High Voltage Engineering Laboratory (HVEL)",
+    "group_code": "ENG",
+    "unit_code": "ECE",
+    "unit_short_name": "Electrical &amp; Computer Engg",
+    "unit_full_name": "Electrical &amp; Computer Engineering",
+    "status": "done",
+    "id": "819",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "hire",
     "site_name": "Hire Waterloo (Co-op)",
     "group_code": "VPA",
@@ -1546,10 +1714,10 @@
     "owner_type": "academic"
   },
   {
-    "wcms_path": "hong-kong-office",
-    "site_name": "Hong Kong Office",
-    "unit_code": "AVP-INT",
-    "unit_short_name": "Associate Vice-President International",
+    "wcms_path": "hong-kong-foundation",
+    "site_name": "Hong Kong Foundation",
+    "unit_code": "VP-AD",
+    "unit_short_name": "Vice-President Advancement",
     "status": "done",
     "id": "516"
   },
@@ -1643,7 +1811,7 @@
     "group_code": "ART",
     "unit_code": "PSYCH",
     "unit_short_name": "Psychology",
-    "status": "migrating",
+    "status": "done",
     "id": "581"
   },
   {
@@ -1662,7 +1830,8 @@
     "unit_code": "IST",
     "unit_short_name": "Information Systems and Technology",
     "status": "done",
-    "id": "432"
+    "id": "432",
+    "owner_type": "service"
   },
   {
     "wcms_path": "institute-computer-research",
@@ -1690,7 +1859,7 @@
     "site_name": "Waterloo Institute of Nanotechnology",
     "group_code": "SCI",
     "unit_code": "SCIDEAN",
-    "unit_short_name": "Dean of Science Office",
+    "unit_short_name": "Science",
     "status": "done",
     "id": "341",
     "owner_type": "academic"
@@ -1706,7 +1875,7 @@
   },
   {
     "wcms_path": "institutional-analysis-planning",
-    "site_name": "Institutional Analysis and Planning",
+    "site_name": "Institutional Analysis &amp; Planning",
     "unit_code": "AVP-AS",
     "unit_short_name": "Associate Vice-President, Academic &amp; Strategic",
     "unit_full_name": "Associate Vice-President, Academic Programs &amp; Strategic Initiatives",
@@ -1758,7 +1927,7 @@
     "group_code": "AHS",
     "unit_code": "KIN",
     "unit_short_name": "Kinesiology",
-    "status": "migrating",
+    "status": "done",
     "id": "580"
   },
   {
@@ -1836,7 +2005,7 @@
   },
   {
     "wcms_path": "knowledge-integration",
-    "site_name": "Knowledge Integration (Centre for)",
+    "site_name": "Department of Knowledge Integration",
     "group_code": "ENV",
     "unit_code": "ENVDEAN",
     "unit_short_name": "Dean of Environment",
@@ -1862,6 +2031,16 @@
     "status": "done",
     "id": "111",
     "owner_type": "research"
+  },
+  {
+    "wcms_path": "language-lab",
+    "site_name": "Language Lab",
+    "group_code": "ART",
+    "unit_code": "ART",
+    "unit_short_name": "Arts",
+    "status": "done",
+    "id": "79",
+    "owner_type": "academic"
   },
   {
     "wcms_path": "learn-help",
@@ -1902,11 +2081,20 @@
   },
   {
     "wcms_path": "library\/aoda-toolkit",
-    "site_name": "Accessibility for Ontarian&#039;s with Disabilities Act Toolkit",
+    "site_name": "Accessibility for Ontarians with Disabilities Act Toolkit",
     "unit_code": "LIB",
     "unit_short_name": "Library",
     "status": "done",
     "id": "744",
+    "owner_type": "service"
+  },
+  {
+    "wcms_path": "library\/geospatial",
+    "site_name": "Geospatial Centre",
+    "unit_code": "LIB",
+    "unit_short_name": "Library",
+    "status": "done",
+    "id": "743",
     "owner_type": "service"
   },
   {
@@ -1934,6 +2122,15 @@
     "unit_short_name": "Library",
     "status": "done",
     "id": "766",
+    "owner_type": "service"
+  },
+  {
+    "wcms_path": "library\/staff",
+    "site_name": "Library Staff",
+    "unit_code": "LIB",
+    "unit_short_name": "Library",
+    "status": "done",
+    "id": "789",
     "owner_type": "service"
   },
   {
@@ -1979,6 +2176,17 @@
     "id": "784"
   },
   {
+    "wcms_path": "maglev-microrobotics-laboratory",
+    "site_name": "Maglev Microrobotics Laboratory",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "798",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "management-sciences",
     "site_name": "Management Sciences",
     "group_code": "ENG",
@@ -1989,12 +2197,40 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "map",
+    "site_name": "Campus Map",
+    "unit_code": "VP-UREL",
+    "unit_short_name": "Vice-President University Relations",
+    "id": "821",
+    "owner_type": "service"
+  },
+  {
     "wcms_path": "map-library-assistants-workshop",
-    "site_name": "Map Library Assistants&#039; Workshop",
+    "site_name": "Ontario Council of University Libraries - Map Library Assistants&#039; Workshop",
     "unit_code": "LIB",
     "unit_short_name": "Library",
     "status": "done",
     "id": "455"
+  },
+  {
+    "wcms_path": "margot",
+    "site_name": "MARGOT",
+    "group_code": "ART",
+    "unit_code": "FR",
+    "unit_short_name": "French Studies",
+    "status": "done",
+    "id": "67",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "margot-francais",
+    "site_name": "MARGOT (French site)",
+    "group_code": "ART",
+    "unit_code": "FR",
+    "unit_short_name": "French Studies",
+    "status": "done",
+    "id": "811",
+    "owner_type": "research"
   },
   {
     "wcms_path": "marketing-strategic-communications",
@@ -2019,7 +2255,7 @@
     "wcms_path": "master-of-public-service",
     "site_name": "Master of Public Service",
     "group_code": "ART",
-    "unit_code": "ARTSDEAN",
+    "unit_code": "ARTDEAN",
     "unit_short_name": "Dean of Arts",
     "status": "done",
     "id": "82",
@@ -2027,10 +2263,11 @@
   },
   {
     "wcms_path": "master-peace-conflict-studies",
-    "site_name": "Master of Peace &amp; Conflict Studies",
+    "site_name": "Master of Peace and Conflict Studies",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "386",
     "owner_type": "academic"
@@ -2057,6 +2294,16 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "mechanical-mechatronics-engineering-health-safety-environment",
+    "site_name": "Mechanical and Mechatronics Engineering Health, Safety, and Environment",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "777"
+  },
+  {
     "wcms_path": "medicinal-bioorganic-chemistry-lab",
     "site_name": "Medicinal and Bioorganic Chemistry Lab",
     "group_code": "SCI",
@@ -2077,11 +2324,22 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "memory-attention-cognition-lab",
+    "site_name": "Memory, Attention and Cognition Lab (MACL)",
+    "group_code": "ART",
+    "unit_code": "PSYCH",
+    "unit_short_name": "Psychology",
+    "status": "done",
+    "id": "830",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "mennonite-archives-ontario",
     "site_name": "Mennonite Archives of Ontario",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "389"
   },
@@ -2143,10 +2401,12 @@
   },
   {
     "wcms_path": "museum-vision-science",
-    "site_name": "Museum of Vision Science (OPT)",
+    "site_name": "Museum of Vision Science",
     "group_code": "SCI",
-    "unit_code": "SCI",
-    "unit_short_name": "Science",
+    "unit_code": "OPTOM",
+    "unit_short_name": "Optometry &amp; Vision Sci-Sch of",
+    "unit_full_name": "Optometry &amp; Vision Science - School of",
+
     "status": "done",
     "id": "318",
     "owner_type": "service"
@@ -2156,7 +2416,8 @@
     "site_name": "Music",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "384",
     "owner_type": "academic"
@@ -2178,6 +2439,27 @@
     "status": "done",
     "id": "429",
     "owner_type": "service"
+  },
+  {
+    "wcms_path": "nano-micro-systems-lab",
+    "site_name": "Nano and Micro Systems Lab",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "812",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "nanomri",
+    "site_name": "NanoMRI Conference",
+    "group_code": "VPA",
+    "unit_code": "UW",
+    "unit_short_name": "University of Waterloo",
+    "status": "done",
+    "id": "828",
+    "owner_type": "research"
   },
   {
     "wcms_path": "nanotechnology",
@@ -2247,7 +2529,7 @@
   },
   {
     "wcms_path": "offices-services",
-    "site_name": "Offices &amp; Services",
+    "site_name": "Offices and Services",
     "unit_code": "VP-UREL",
     "unit_short_name": "Vice-President University Relations",
     "status": "done",
@@ -2304,7 +2586,7 @@
   },
   {
     "wcms_path": "optometry-vision-science",
-    "site_name": "Optometry &amp; Vision Science (OPT)",
+    "site_name": "Optometry &amp; Vision Science",
     "group_code": "SCI",
     "unit_code": "OPTOM",
     "unit_short_name": "Optometry &amp; Vision Sci-Sch of",
@@ -2315,7 +2597,7 @@
   },
   {
     "wcms_path": "organizational-human-development",
-    "site_name": "Organizational and Human Development",
+    "site_name": "Organizational &amp; Human Development",
     "unit_code": "AP-HR",
     "unit_short_name": "Associate Provost, Human Resources",
     "status": "done",
@@ -2361,10 +2643,11 @@
   },
   {
     "wcms_path": "peace-conflict-studies",
-    "site_name": "Peace &amp; Conflict Studies",
+    "site_name": "Peace and Conflict Studies",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "385",
     "owner_type": "academic"
@@ -2499,13 +2782,56 @@
     "owner_type": "service"
   },
   {
+    "wcms_path": "poulin-research-group",
+    "site_name": "Poulin Research Group",
+    "group_code": "MAT",
+    "unit_code": "AMATH",
+    "unit_short_name": "Applied Mathematics",
+    "status": "done",
+    "id": "795",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "power-energy-systems-group",
+    "site_name": "Power and Energy Systems Group",
+    "group_code": "ENG",
+    "unit_code": "ECE",
+    "unit_short_name": "Electrical &amp; Computer Engg",
+    "unit_full_name": "Electrical &amp; Computer Engineering",
+    "status": "done",
+    "id": "177",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "precision-controls-laboratory",
+    "site_name": "Precision Controls Laboratory",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "220",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "premiers-textes",
+    "site_name": "L&#039;Ontario Fran\u00e7aises et ses Premiers Textes",
+    "group_code": "ART",
+    "unit_code": "FR",
+    "unit_short_name": "French Studies",
+    "status": "done",
+    "id": "583",
+    "owner_type": "academic"
+  },
+  {
     "wcms_path": "president",
     "site_name": "President&#039;s Office",
     "group_code": "VPA",
     "unit_code": "UW",
     "unit_short_name": "University of Waterloo",
     "status": "done",
-    "id": "464"
+    "id": "464",
+    "owner_type": "service"
   },
   {
     "wcms_path": "privacy",
@@ -2513,7 +2839,8 @@
     "unit_code": "SECRE",
     "unit_short_name": "Secretary of the University",
     "status": "done",
-    "id": "431"
+    "id": "431",
+    "owner_type": "service"
   },
   {
     "wcms_path": "procurement",
@@ -2561,6 +2888,16 @@
     "status": "done",
     "id": "585",
     "owner_type": "service"
+  },
+  {
+    "wcms_path": "psychological-intervention-research-team",
+    "site_name": "Psychological Intervention Research Team ",
+    "group_code": "ART",
+    "unit_code": "PSYCH",
+    "unit_short_name": "Psychology",
+    "status": "done",
+    "id": "774",
+    "owner_type": "research"
   },
   {
     "wcms_path": "psychology",
@@ -2613,7 +2950,7 @@
   },
   {
     "wcms_path": "quest",
-    "site_name": "Quest Student Information System",
+    "site_name": "Quest - Student Information System",
     "unit_code": "REGIS",
     "unit_short_name": "Registrar",
     "status": "done",
@@ -2628,6 +2965,16 @@
     "unit_short_name": "French Studies",
     "status": "done",
     "id": "68"
+  },
+  {
+    "wcms_path": "rbc-retirement-research-centre",
+    "site_name": "RBC Retirement Research Centre",
+    "group_code": "AHS",
+    "unit_code": "AHS",
+    "unit_short_name": "Applied Health Sciences",
+    "status": "done",
+    "id": "788",
+    "owner_type": "research"
   },
   {
     "wcms_path": "reasoning-decision-making-lab",
@@ -2645,7 +2992,8 @@
     "unit_code": "SECRE",
     "unit_short_name": "Secretary of the University",
     "status": "done",
-    "id": "470"
+    "id": "470",
+    "owner_type": "service"
   },
   {
     "wcms_path": "recreation-and-leisure-studies",
@@ -2677,7 +3025,7 @@
   },
   {
     "wcms_path": "refer-employer",
-    "site_name": "Refer your Employer (CECA)",
+    "site_name": "Refer Your Employer",
     "group_code": "VPA",
     "unit_code": "CECS",
     "unit_short_name": "Coop Educn &amp; Career Action",
@@ -2706,7 +3054,7 @@
   },
   {
     "wcms_path": "relationship-lab",
-    "site_name": "The Relationship Research Lab",
+    "site_name": "Relationship Research Lab",
     "group_code": "ART",
     "unit_code": "PSYCH",
     "unit_short_name": "Psychology",
@@ -2759,7 +3107,8 @@
     "unit_code": "VP-URES",
     "unit_short_name": "Vice-President University Research",
     "status": "done",
-    "id": "469"
+    "id": "469",
+    "owner_type": "service"
   },
   {
     "wcms_path": "research-experiences-group",
@@ -2786,8 +3135,8 @@
     "unit_code": "NONUW",
     "unit_short_name": "Non-University of Waterloo",
     "status": "done",
-    "id": "545",
-    "owner_type": "service"
+    "id": "545"
+
   },
   {
     "wcms_path": "rome-program",
@@ -2851,8 +3200,9 @@
     "wcms_path": "school-environment-enterprise-development\/professional-development-and-training",
     "site_name": "Local Economic Development",
     "group_code": "ENV",
-    "unit_code": "ENVDEAN",
-    "unit_short_name": "Dean of Environment",
+    "unit_code": "SEED",
+    "unit_short_name": "Env, Entr &amp; Dev - School of",
+    "unit_full_name": "Environment, Enterprise &amp; Development - School of",
     "status": "hold",
     "id": "277",
     "owner_type": "academic"
@@ -2904,7 +3254,7 @@
     "site_name": "Science 2+2",
     "group_code": "SCI",
     "unit_code": "SCIDEAN",
-    "unit_short_name": "Dean of Science Office",
+    "unit_short_name": "Science",
     "status": "done",
     "id": "330",
     "owner_type": "academic"
@@ -2914,7 +3264,7 @@
     "site_name": "Science and Business",
     "group_code": "SCI",
     "unit_code": "SCIDEAN",
-    "unit_short_name": "Dean of Science Office",
+    "unit_short_name": "Science",
     "status": "done",
     "id": "331",
     "owner_type": "academic"
@@ -2969,12 +3319,13 @@
     "owner_type": "service"
   },
   {
-    "wcms_path": "secretariat",
+    "wcms_path": "secretariat-general-counsel",
     "site_name": "Secretariat",
     "unit_code": "SECRE",
     "unit_short_name": "Secretary of the University",
     "status": "done",
-    "id": "486"
+    "id": "486",
+    "owner_type": "service"
   },
   {
     "wcms_path": "sedra-student-design-centre",
@@ -3037,6 +3388,26 @@
     "owner_type": "research"
   },
   {
+    "wcms_path": "silicon-thin-film-applied-research",
+    "site_name": "Silicon Thin-film Applied Research",
+    "group_code": "ENG",
+    "unit_code": "ECE",
+    "unit_short_name": "Electrical &amp; Computer Engg",
+    "unit_full_name": "Electrical &amp; Computer Engineering",
+    "status": "done",
+    "id": "178",
+    "owner_type": "research"
+  },
+  {
+    "wcms_path": "sir-isaac-newton-exam",
+    "site_name": "Sir Isaac Newton Exam",
+    "group_code": "SCI",
+    "unit_code": "PHYS",
+    "unit_short_name": "Physics &amp; Astronomy",
+    "status": "done",
+    "id": "338"
+  },
+  {
     "wcms_path": "social-development-studies",
     "site_name": "Social Development Studies",
     "group_code": "REN",
@@ -3094,6 +3465,17 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "solar-thermal-research-laboratory",
+    "site_name": "Solar Thermal Research Laboratory (STRL)",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "814",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "spanish",
     "site_name": "Spanish and Latin American Studies",
     "group_code": "ART",
@@ -3110,8 +3492,8 @@
     "unit_code": "NONUW",
     "unit_short_name": "Non-University of Waterloo",
     "status": "done",
-    "id": "488",
-    "owner_type": "service"
+    "id": "488"
+
   },
   {
     "wcms_path": "stories",
@@ -3145,8 +3527,8 @@
     "wcms_path": "stratford-campus",
     "site_name": "Stratford Campus",
     "group_code": "ART",
-    "unit_code": "ARTSDEAN",
-    "unit_short_name": "Dean of Arts",
+    "unit_code": "ARTDEAN",
+    "unit_short_name": "Arts",
     "status": "done",
     "id": "135",
     "owner_type": "academic"
@@ -3238,7 +3620,7 @@
     "unit_short_name": "Vice-President University Relations",
     "status": "done",
     "id": "379",
-    "owner_type": "research"
+    "owner_type": "service"
   },
   {
     "wcms_path": "sustainability-assessment-project",
@@ -3270,6 +3652,16 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "tang-nanotechnology-lab",
+    "site_name": "Tang Nanotechnology Lab",
+    "group_code": "SCI",
+    "unit_code": "CHEM",
+    "unit_short_name": "Chemistry",
+    "status": "done",
+    "id": "808",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "taylor-research-group",
     "site_name": "Taylor Research Group",
     "group_code": "SCI",
@@ -3295,14 +3687,16 @@
     "unit_code": "THC",
     "unit_short_name": "Theatre Centre",
     "status": "done",
-    "id": "500"
+    "id": "500",
+    "owner_type": "service"
   },
   {
     "wcms_path": "theological-studies",
     "site_name": "Theological Studies",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "387",
     "owner_type": "academic"
@@ -3321,10 +3715,22 @@
     "site_name": "Toronto Mennonite Theological Centre",
     "group_code": "CGC",
     "unit_code": "CGCDEAN",
-    "unit_short_name": "Conrad Grebel College",
+    "unit_short_name": "Conrad Grebel Univ College",
+    "unit_full_name": "Conrad Grebel University College",
     "status": "done",
     "id": "390",
     "owner_type": "service"
+  },
+  {
+    "wcms_path": "transportation-research",
+    "site_name": "Waterloo Transportation Research for Improving Performance and Safety",
+    "group_code": "ENG",
+    "unit_code": "ME",
+    "unit_short_name": "Mechanical &amp; Mechatronics Engg",
+    "unit_full_name": "Mechanical and Mechatronics Engineering",
+    "status": "done",
+    "id": "791",
+    "owner_type": "research"
   },
   {
     "wcms_path": "ultrafast-laser-group",
@@ -3338,7 +3744,7 @@
   },
   {
     "wcms_path": "united-arab-emirates",
-    "site_name": "United Arab Emirates",
+    "site_name": "United Arab Emirates (culled)",
     "unit_code": "AVP-INT",
     "unit_short_name": "Associate Vice-President International",
     "status": "done",
@@ -3390,6 +3796,16 @@
     "id": "267"
   },
   {
+    "wcms_path": "urban-realities-laboratory",
+    "site_name": "Urban Realities Laboratory",
+    "group_code": "ART",
+    "unit_code": "PSYCH",
+    "unit_short_name": "Psychology",
+    "status": "done",
+    "id": "117",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "uw-fitness",
     "site_name": "UW Fitness",
     "group_code": "AHS",
@@ -3427,6 +3843,17 @@
     "id": "513"
   },
   {
+    "wcms_path": "waterloo-environmental-biotechnology-lab",
+    "site_name": "Waterloo Environmental Biotechnology (WEB) Lab",
+    "group_code": "ENG",
+    "unit_code": "CIVE",
+    "unit_short_name": "Civil &amp; Environmental Engg",
+    "unit_full_name": "Civil and Environmental Engineering",
+    "status": "done",
+    "id": "815",
+    "owner_type": "research"
+  },
+  {
     "wcms_path": "waterloo-innovation-summit",
     "site_name": "Waterloo Innovation Summit",
     "unit_code": "VP-UREL",
@@ -3443,6 +3870,15 @@
     "status": "done",
     "id": "139",
     "owner_type": "research"
+  },
+  {
+    "wcms_path": "waterloo-institute-for-social-innovation-and-resilience",
+    "site_name": "Waterloo Institute for Social Innovation and Resilience",
+    "group_code": "ENV",
+    "unit_code": "ENV",
+    "unit_short_name": "Environment",
+    "status": "done",
+    "id": "270"
   },
   {
     "wcms_path": "waterloo-microfluidics-laboratory",
@@ -3487,7 +3923,17 @@
     "unit_code": "AP-HR",
     "unit_short_name": "Associate Provost, Human Resources",
     "status": "done",
-    "id": "521"
+    "id": "521",
+    "owner_type": "service"
+  },
+  {
+    "wcms_path": "web-accessibility",
+    "site_name": "Web Accessibility",
+    "unit_code": "IST",
+    "unit_short_name": "Information Systems and Technology",
+    "status": "done",
+    "id": "785",
+    "owner_type": "service"
   },
   {
     "wcms_path": "web-advisory-committee",
@@ -3557,6 +4003,17 @@
     "owner_type": "academic"
   },
   {
+    "wcms_path": "work-search-resources",
+    "site_name": "Work Search Resources",
+    "group_code": "VPA",
+    "unit_code": "CECS",
+    "unit_short_name": "Coop Educn &amp; Career Action",
+    "unit_full_name": "Co-operative Education &amp; Career Action",
+    "status": "done",
+    "id": "813",
+    "owner_type": "service"
+  },
+  {
     "wcms_path": "writing-centre",
     "site_name": "Writing Centre",
     "unit_code": "AP-STUD",
@@ -3594,7 +4051,7 @@
   },
   {
     "wcms_path": "\u9999\u6e2f\u529e\u516c\u5ba4",
-    "site_name": "Hong Kong Office (Chinese)",
+    "site_name": "Hong Kong Foundation (Chinese)",
     "unit_code": "AVP-INT",
     "unit_short_name": "Associate Vice-President International",
     "status": "done",
