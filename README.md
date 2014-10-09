@@ -1,6 +1,7 @@
 ## API Datasets
 
-This repository contains the data powering uWaterloo API
+This repository contains the data powering uWaterloo API.
+THIS IS A TESTING BRANCH. DO NOT USE THE DATA IN THIS BRANCH FOR ANYTHING BUT DEV USE.
 
 **Contributing**
 
