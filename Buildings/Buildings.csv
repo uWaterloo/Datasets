@@ -6,73 +6,73 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 5,ML,Modern Languages,,43.46909688,-80.54287987
 6,ESC,Earth Sciences & Chemistry,,43.47134906,-80.54270285
 7,B1,Biology 1,,43.47066971,-80.54305153
-8,LIB,Dana Porter Arts Library,DP,43.46984437,-80.54242926
+8,LIB,Dana Porter Arts Library,DP|Dana Porter,43.46984437,-80.54242926
 9,AL,Arts Lecture Hall,,43.46894115,-80.54187136
 10,EV1,Environment 1,,43.4683961,-80.54262238
-11,RCH,J.R. Coutts Engineering Lecture Hall,,43.47031155,-80.54084139
+11,RCH,J.R. Coutts Engineering Lecture Hall,Engineering Lecture Hall,43.47031155,-80.54084139
 12,CSB,Central Services Building,,43.47378801,-80.54366308
 13,B2,Biology 2,,43.47076315,-80.54381328
-14,GSC,General Services Complex,,43.47342207,-80.54308372
+14,GSC,General Services Complex,Plant Operations,43.47342207,-80.54308372
 15,COM,Commissary,Police & Parking Services,43.47406051,-80.54290133
 16,SCH,South Campus Hall,,43.46915917,-80.5405839
 17,MC,Mathematics & Computer Building,,43.47207511,-80.54394739
 18,PAC,Physical Activities Complex,,43.47242353,-80.54613339
 19,SLC,Student Life Centre,,43.471601,-80.545455
-20CC,V1C,Student Village 1 Central Complex,,43.4716,-80.54996
-20E1,VE1,Student Village 1 House East 1,,43.471745,-80.549317
-20E2,VE2,Student Village 1 House East 2,,43.471821,-80.549017
-20E3,VE3,Student Village 1 House East 3,,43.47176,-80.548612
-20E4,VE4,Student Village 1 House East 4,,43.471568,-80.548526
-20E5,VE5,Student Village 1 House East 5,,43.471499,-80.548917
-20E6,VE6,Student Village 1 House East 6,,43.471443,-80.549304
-20N1,VN1,Student Village 1 House North 1,,43.47209,-80.55003
-20N2,VN2,Student Village 1 House North 2,,43.472284,-80.55023
-20N3,VN3,Student Village 1 House North 3,,43.47242,-80.54994
-20N4,VN4,Student Village 1 House North 4,,43.4725,-80.5496
-20N5,VN5,Student Village 1 House North 5,,43.47224,-80.54931
-20N6,VN6,Student Village 1 House North 6,,43.47205,-80.54956
-20S1,VS1,Student Village 1 House South 1,,43.471112,-80.549937
-20S2,VS2,Student Village 1 House South 2,,43.470865,-80.549891
-20S3,VS3,Student Village 1 House South 3,,43.470715,-80.550178
-20S4,VS4,Student Village 1 House South 4,,43.470614,-80.550481
-20S5,VS5,Student Village 1 House South 5,,43.470904,-80.550733
-20S6,VS6,Student Village 1 House South 6,,43.471087,-80.550478
-20S7,VS7,Student Village 1 House South 7,,43.47073,-80.55131
-20S8,VS8,Student Village 1 House South 8,,43.470919,-80.551554
-20W1,VW1,Student Village 1 House West 1,,43.471513,-80.550677
-20W2,VW2,Student Village 1 House West 2,,43.471457,-80.551063
-20W3,VW3,Student Village 1 House West 3,,43.471725,-80.551431
-20W4,VW4,Student Village 1 House West 4,,43.471902,-80.551192
-20W5,VW5,Student Village 1 House West 5,,43.472031,-80.550897
-20W6,VW6,Student Village 1 House West 6,,43.47183,-80.550647
+20CC,V1C,Student Village 1 Central Complex,V1|Village 1,43.4716,-80.54996
+20E1,VE1,Student Village 1 House East 1,V1 E1,43.471745,-80.549317
+20E2,VE2,Student Village 1 House East 2,V1 E2,43.471821,-80.549017
+20E3,VE3,Student Village 1 House East 3,V1 E3,43.47176,-80.548612
+20E4,VE4,Student Village 1 House East 4,V1 E4,43.471568,-80.548526
+20E5,VE5,Student Village 1 House East 5,V1 E5,43.471499,-80.548917
+20E6,VE6,Student Village 1 House East 6,V1 E6,43.471443,-80.549304
+20N1,VN1,Student Village 1 House North 1,V1 N1,43.47209,-80.55003
+20N2,VN2,Student Village 1 House North 2,V1 N2,43.472284,-80.55023
+20N3,VN3,Student Village 1 House North 3,V1 N3,43.47242,-80.54994
+20N4,VN4,Student Village 1 House North 4,V1 N4,43.4725,-80.5496
+20N5,VN5,Student Village 1 House North 5,V1 N5,43.47224,-80.54931
+20N6,VN6,Student Village 1 House North 6,V1 N6,43.47205,-80.54956
+20S1,VS1,Student Village 1 House South 1,V1 S1,43.471112,-80.549937
+20S2,VS2,Student Village 1 House South 2,V1 S2,43.470865,-80.549891
+20S3,VS3,Student Village 1 House South 3,V1 S3,43.470715,-80.550178
+20S4,VS4,Student Village 1 House South 4,V1 S4,43.470614,-80.550481
+20S5,VS5,Student Village 1 House South 5,V1 S5,43.470904,-80.550733
+20S6,VS6,Student Village 1 House South 6,V1 S6,43.471087,-80.550478
+20S7,VS7,Student Village 1 House South 7,V1 S7,43.47073,-80.55131
+20S8,VS8,Student Village 1 House South 8,V1 S8,43.470919,-80.551554
+20W1,VW1,Student Village 1 House West 1,V1 W1,43.471513,-80.550677
+20W2,VW2,Student Village 1 House West 2,V1 W2,43.471457,-80.551063
+20W3,VW3,Student Village 1 House West 3,V1 W3,43.471725,-80.551431
+20W4,VW4,Student Village 1 House West 4,V1 W4,43.471902,-80.551192
+20W5,VW5,Student Village 1 House West 5,V1 W5,43.472031,-80.550897
+20W6,VW6,Student Village 1 House West 6,V1 W6,43.47183,-80.550647
 21,TH,Tutors' Houses,,43.470546,-80.552748
 22,HS,Health Services,,43.47058601,-80.54611194
 23,MHR,Minota Hagey Residence,Velocity,43.46579535,-80.54275113
 24,HH,J.G. Hagey Hall of the Humanities,Hagey Hall,43.46792891,-80.54165679
-25CC,REC,Ron Eydt Village Central Complex,,43.47015582,-80.55412369
-25EA,VEA,Ron Eydt Village East A,,43.469348,-80.553464
-25EB,VEB,Ron Eydt Village East B,,43.469348,-80.553464
-25EC,VEC,Ron Eydt Village East C,,43.469547,-80.552989
-25ED,VED,Ron Eydt Village East D,,43.469547,-80.552989
-25EE,VEE,Ron Eydt Village East E,,43.469547,-80.552989
+25CC,REC,Ron Eydt Village Central Complex,REV|Ron Eydt Village,43.47015582,-80.55412369
+25EA,VEA,Ron Eydt Village East A,REV EA,43.469348,-80.553464
+25EB,VEB,Ron Eydt Village East B,REV EB,43.469348,-80.553464
+25EC,VEC,Ron Eydt Village East C,REV EC,43.469547,-80.552989
+25ED,VED,Ron Eydt Village East D,REV ED,43.469547,-80.552989
+25EE,VEE,Ron Eydt Village East E,REV EE,43.469547,-80.552989
 25EL,VEL,Ron Eydt Village East L,,,
-25NA,VNA,Ron Eydt Village North A,,43.470777,-80.554
-25NB,VNB,Ron Eydt Village North B,,43.470777,-80.554
-25NC,VNC,Ron Eydt Village North C,,43.470526,-80.553539
-25ND,VND,Ron Eydt Village North D,,43.470526,-80.553539
-25NE,VNE,Ron Eydt Village North E,,43.470526,-80.553539
+25NA,VNA,Ron Eydt Village North A,REV NA,43.470777,-80.554
+25NB,VNB,Ron Eydt Village North B,REV NB,43.470777,-80.554
+25NC,VNC,Ron Eydt Village North C,REV NC,43.470526,-80.553539
+25ND,VND,Ron Eydt Village North D,REV ND,43.470526,-80.553539
+25NE,VNE,Ron Eydt Village North E,REV NE,43.470526,-80.553539
 25NL,VNL,Ron Eydt Village North L,,,
-25SA,VSA,Ron Eydt Village South A,,43.469385,-80.554086
-25SB,VSB,Ron Eydt Village South B,,43.469385,-80.554086
-25SC,VSC,Ron Eydt Village South C,,43.469679,-80.554716
-25SD,VSD,Ron Eydt Village South D,,43.469679,-80.554716
-25SE,VSE,Ron Eydt Village South E,,43.469679,-80.554716
+25SA,VSA,Ron Eydt Village South A,REV SA,43.469385,-80.554086
+25SB,VSB,Ron Eydt Village South B,REV SB,43.469385,-80.554086
+25SC,VSC,Ron Eydt Village South C,REV SC,43.469679,-80.554716
+25SD,VSD,Ron Eydt Village South D,REV SD,43.469679,-80.554716
+25SE,VSE,Ron Eydt Village South E,REV SE,43.469679,-80.554716
 25SL,VSL,Ron Eydt Village South L,,,
-25WA,VWA,Ron Eydt Village West A,,43.470806,-80.554609
-25WB,VWB,Ron Eydt Village West B,,43.470806,-80.554609
-25WC,VWC,Ron Eydt Village West C,,43.470579,-80.555062
-25WD,VWD,Ron Eydt Village West D,,43.470579,-80.555062
-25WE,VWE,Ron Eydt Village West E,,43.470579,-80.555062
+25WA,VWA,Ron Eydt Village West A,REV WA,43.470806,-80.554609
+25WB,VWB,Ron Eydt Village West B,REV WB,43.470806,-80.554609
+25WC,VWC,Ron Eydt Village West C,REV WC,43.470579,-80.555062
+25WD,VWD,Ron Eydt Village West D,REV WD,43.470579,-80.555062
+25WE,VWE,Ron Eydt Village West E,REV WE,43.470579,-80.555062
 25WL,VWL,Ron Eydt Village West L,,,
 26CC,UCC,UW Place Community Centre,,43.4704,-80.53553
 26EC,UEC,UW Place Woolwich Court,,43.47064,-80.53354
@@ -111,22 +111,22 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 43N,CTN,Columbia Lake Village South Block N,,43.469598,-80.563256
 43P,CTP,Columbia Lake Village South Block P,,,
 43Q,CTQ,Columbia Lake Village South Laundry,,,
-44,MKV,William Lyon Mackenzie King Village,Mackenzie King Village,43.471509,-80.552729
+44,MKV,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729
 44E,MKE,William Lyon Mackenzie King Village East,,43.47132,-80.551983
 44W,MKW,William Lyon Mackenzie King Village West,,43.471161,-80.553056
 45,TC,William M. Tatham Centre for Co-operative Education & Career Services,Tatham Centre,43.469,-80.541324
 47,ARC,School of Architecture,,43.358572,-80.31692
 48,ERC,Energy Research Centre,,43.4736245,-80.54447847
 49,PHR,Pharmacy,,43.452847,-80.49902
-50,QNC,Mike & Ophelia Lazaridis Quantum-Nano Centre,,43.471174,-80.544476
-51,RAC,Research Advancement Centre,,43.47884,-80.55498
+50,QNC,Mike & Ophelia Lazaridis Quantum-Nano Centre,IQC|Institute for Quantum Computing,43.471174,-80.544476
+51,RAC,Research Advancement Centre,RAC1|IQC|Institute for Quantum Computing,43.47884,-80.55498
 52,IHB,Integrated Health Building,,43.452311,-80.499208
 53,E5,Engineering 5,,43.472953,-80.540085
 54,STC,Science Teaching Complex,,,
 55,DMS,Digital Media Stratford,,,
 56,M3,Mathematics 3,,43.47302,-80.54448
 57,EV3,Environment 3,,43.46745,-80.54319
-58,RA2,Research Advancement Centre 2,,43.47863,-80.55553
+58,RA2,Research Advancement Centre 2,RAC2|IQC|Institute for Quantum Computing,43.47863,-80.55553
 59,ART,Arts Building,,,
 60,E6,Engineering 6,,43.47301,-80.5389
 61,TT,Tech Town,,,
