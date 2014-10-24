@@ -168,6 +168,8 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 140,AAR,Architecture Annex Rome,,41.889615,12.470925
 144,ACW,Accelerator Centre Waterloo,,43.47731,-80.54896
 145,WFF,Warrior Football Field,,43.4747,-80.55014
+146,MRS,Medical & Related Sciences,,,
+148,SCO,Shanghai China Office,,,
 149,KSW,195 King Street West,,,
 150,HSC,Huntsville Summit Centre,,45.32211,-79.20695
 151,UAE,United Arab Emirates Dubai,,,
