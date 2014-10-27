@@ -222,11 +222,11 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 823,REN,Renison University College Addition 2 - Chapel,,43.46881657,-80.54762202,1
 824,REN,Renison University College Addition 3 - Link,,43.46881657,-80.54762202,1
 825,REN,Renison University College Addition 4 - Academic Centre,,43.46881657,-80.54762202,1
-831,STP,St. Paul's United College Main Building,St. Paul's,43.467762,-80.546404,1
-832,STP,St. Paul's United College West Wing,,43.467762,-80.546404,1
-833,STP,St. Paul's United College East Wing,,43.467762,-80.546404,1
-834,STP,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1
-835,STP,St. Paul's United College North Wing,,43.467762,-80.546404,1
+831,STPADMIN,St. Paul's United College Main Building,St. Paul's,43.467762,-80.546404,1
+832,STPWW,St. Paul's United College West Wing,,43.467762,-80.546404,1
+833,STPEW,St. Paul's United College East Wing,,43.467762,-80.546404,1
+834,STPGRAD,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1
+835,STPNW,St. Paul's United College North Wing,,43.467762,-80.546404,1
 841,CGR,Conrad Grebel University College Residence,Conrad Grebel,43.46666747,-80.54541188,1
 842,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1
 843,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1
