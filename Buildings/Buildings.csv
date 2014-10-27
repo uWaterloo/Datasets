@@ -92,6 +92,7 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 35,FED,Federation Hall,,43.47324689,-80.54864126,1
 36,ECH,East Campus Hall,,43.47366343,-80.53864735,1
 37,DC,William G. Davis Computer Research Centre,Davis Centre,43.472761,-80.542164,1
+38,,B.F. Goodrich Building,,,,0
 39,EIT,Centre for Environmental and Information Technology,CEIT,43.47149504,-80.54206448,1
 40,BAU,Bauer Warehouse,,43.483354,-80.545715,1
 41,COG,Columbia Greenhouses,,43.473218,-80.559405,1
@@ -147,18 +148,39 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 94,PT,Pedestrian Tunnels,,,,1
 95,TEN,Tennis Courts,,,,1
 100,SGR,Schmidt Greenhouse,,,,1
+101,,415 Phillip Street,,,,0
+102,,Annex 2,,,,0
+103,,Engineering 4,,,,0
 104,GH,Graduate House,Grad House,43.4696575,-80.54103451,1
+105,,385 Phillip Street,,,,0
 106,DB,Dearborn Pumphouse,,,,1
+107,,President's Residence,,,,0
+108,,Kiosk 2 Columbia Street,,,,0
+109,,School of Architecture Original,,,,0
+110,,15A King Street,,,,0
+111,,Schreiber House,,,,0
 112,BRH,Brubacher House,,43.475571,-80.552348,1
+113,,Shantz Farm,,,,0
+114,,Westside Farm,,,,0
 115,KDC,Klemmer Farmhouse Cooperative Nursery Inc.,,43.476023,-80.549178,1
+116,,Merv Martin Farm,,,,0
+117,,Maur Martin Farm,,,,0
+118,,Air Pollution Station,,,,0
+119,,Fire Test Station,,,,0
+120,,University Business Park,,,,0
+121,,440 Phillip Street,,,,0
+122,,Portables,,,,0
 123,HMN,Hildegard-Marsden Co-operative Day Nursery,,43.476478,-80.549349,1
 124,BEG,BEG Test Building,,,,1
 125,AN3,145 Columbia,,,,1
+126,,Unipark 3,,,,0
+127,,158 University Avenue,,,,0
 128,TUL,Tri-University Library,,,,1
 129,AB,Aberfoyle Building,,,,1
 130,AH,Aberfoyle House,,,,1
 131,AS,Aberfoyle Storage,,,,1
 132,GA,335 Gage Avenue,,43.44585,-80.5184,1
+133,,Bauer Storage,,,,0
 134,KGC,KW Garden Club,,,,1
 135,FRF,Fire Research Facility,,,,1
 136,PTB,Pavement & Transportation Technology Building,,,,1
@@ -166,17 +188,23 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 138,VS,Victoria School,,,,1
 139,VSS,68 Victoria Street South,,,,1
 140,AAR,Architecture Annex Rome,,41.889615,12.470925,1
+141,,Architecture Annex Cambridge,,,,0
+142,,Artery Gallery Kitchener,,,,0
+143,,"Broad Street, New York, NY, USA",,,,0
 144,ACW,Accelerator Centre Waterloo,,43.47731,-80.54896,1
 145,WFF,Warrior Football Field,,43.4747,-80.55014,1
 146,MRS,Medical & Related Sciences,,,,1
+147,,50 Queen Street North,,,,0
 148,SCO,Shanghai China Office,,,,1
 149,KSW,195 King Street West,,,,1
 150,HSC,Huntsville Summit Centre,,45.32211,-79.20695,1
 151,UAE,United Arab Emirates Dubai,,,,1
 152,WSS,"6 Wellington Street, Stratford",,43.370474,-80.982231,1
 153,UWD,University of Waterloo Daycare,,,,1
+154,,"Children's Museum, Kitchener",,,,0
 155,ASA,Allen Square Arts,,,,1
 156,CIG,Centre for International Governance & Innovation (BSIA),,,,1
+157,,"Malahon Centre, Hong Kong",,,,0
 158,CHB,Communitech Hub Building,,,,1
 159,GSK,"44 Gaukel Street, Kitchener",,,,1
 160,WCP,Waterloo Central Place,,,,1
