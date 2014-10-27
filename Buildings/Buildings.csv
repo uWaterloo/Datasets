@@ -267,3 +267,17 @@ building_id,building_code,building_name,alternate_building_names,latitude,longit
 4633,L33,Columbia Lake Village North Block 33,,43.471606,-80.563895,1
 4634,L34,Columbia Lake Village North Block 34,,43.471439,-80.564705,1
 4635,L35,Columbia Lake Village North Block 35,,43.47185,-80.564235,1
+A,SCS,South Campus - South Grounds,,,,1
+B,SCN,South Campus - North Grounds,,,,1
+C,,Seagram Stadium Grounds,,,,0
+CGB,CGB,Campus General Buildings,,,,1
+D,VLG,Village 1 & 2 Grounds,,,,1
+E,MHG,Minota Hagey Grounds,,,,1
+F,FCG,Faculty Club Grounds,,,,1
+G,GAG,Garage & Garbage,,,,1
+H,MSG,Married Student Grounds,,,,1
+J,GRH,Greenhouse,,,,1
+K,NCG,North Campus Grounds,,,,1
+L,BAG,Bauer Grounds,,,,1
+M,LL,Laurel Lake,,,,1
+SCG,SCG,South Campus General,,,,1
