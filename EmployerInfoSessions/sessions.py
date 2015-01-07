@@ -10,9 +10,9 @@ SESSION_REGEX = "<p><a href=\"sessions_details\.php\?id=(\d+?)\" onmouseover=\"r
 SESSION_REGEX_INDICES = ["id", "date", "start_time", "end_time", "location", "website", "audience", "programs", "description", "employer"]
 
 sessions = []
-year = 2014
-term = "spring"
-file_name = "1145infosessions.csv"
+year = 2015
+term = "winter"
+file_name = "1151infosessions.csv"
 term_map = {"winter" : [1, 2, 3, 4], "spring" : [5, 6, 7, 8], "fall" : [9, 10, 11, 12]}
 
 for month in term_map[term]:
