@@ -153,6 +153,15 @@
            "phone_number" : "519-579-4949",
            "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/milestones.gif"
          },
+  "54" : {
+           "vendor_id"    : 54,
+           "vendor_name"  : "Healthy Foods and More",
+           "latitude"     : 43.4686756,
+           "longitude"    : -80.5156218,
+           "address"      : "75 Bridgeport Road East, Unit 2, Waterloo, ON N2J 2K1, Canada",
+           "phone_number" : "519-880-0700",
+           "logo"         : "http://www.watcard.uwaterloo.ca/images/logos/milestones.gif"
+         },
   "23" : {
            "vendor_id"    : null
          },
