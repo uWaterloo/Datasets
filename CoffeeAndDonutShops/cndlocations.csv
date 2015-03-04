@@ -1,6 +1,6 @@
 name,owner,building,room,hours
-Right Angle Cafe,Math Society,MC,3002A,M-Th 8-7 F 8-3
-Science CnD,Science Society,B1,160,M-Th 9:30-4:30 F 9:30-2:30
+Right Angle Cafe,Math Society,MC,3002A,M-Th|8:00-19:00 F|8:00-15:00
+Science CnD,Science Society,B1,160,M-Th|9:30-17:30 F|9:30-14:30
 Tuck Shop,Arts Student Union,AL,120,
-ES Coffee Shop,Environment Students' Society,EV1,138,M-Th 8:30-5 F 8:30-3:30
-Engineering C&D,Engineering Society,CPH,1338,M-Th 8-7 F 8-5
+ES Coffee Shop,Environment Students' Society,EV1,138,M-Th|8:00-17:00 F|8:00-16:00
+Engineering C&D,Engineering Society,CPH,1338,M-Th|8:00-19:00 F|8:00-17:00
