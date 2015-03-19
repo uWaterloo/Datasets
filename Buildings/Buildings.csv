@@ -19,12 +19,18 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 18,PAC,,Physical Activities Complex,,43.47242353,-80.54613339,1,,,,,,,
 19,SLC,,Student Life Centre,,43.471601,-80.545455,1,,,,,,,
 20CC,V1C,V1,Student Village 1 Central Complex,V1|Village 1,43.4716,-80.54996,1,,,,,,,
-200,VE1,V1,Student Village 1 House East 1,V1 E1,43.471745,-80.549317,1,,,,,,,
-2000,VE2,V1,Student Village 1 House East 2,V1 E2,43.471821,-80.549017,1,,,,,,,
-20000,VE3,V1,Student Village 1 House East 3,V1 E3,43.47176,-80.548612,1,,,,,,,
-200000,VE4,V1,Student Village 1 House East 4,V1 E4,43.471568,-80.548526,1,,,,,,,
-2000000,VE5,V1,Student Village 1 House East 5,V1 E5,43.471499,-80.548917,1,,,,,,,
-20000000,VE6,V1,Student Village 1 House East 6,V1 E6,43.471443,-80.549304,1,,,,,,,
+20E1,VE1,V1,Student Village 1 House East 1,V1 
+E1,43.471745,-80.549317,1,,,,,,,
+20E2,VE2,V1,Student Village 1 House East 2,V1 
+E2,43.471821,-80.549017,1,,,,,,,
+20E3,VE3,V1,Student Village 1 House East 3,V1 
+E3,43.47176,-80.548612,1,,,,,,,
+20E4,VE4,V1,Student Village 1 House East 4,V1 
+E4,43.471568,-80.548526,1,,,,,,,
+20E5,VE5,V1,Student Village 1 House East 5,V1 
+E5,43.471499,-80.548917,1,,,,,,,
+20E6,VE6,V1,Student Village 1 House East 6,V1 
+E6,43.471443,-80.549304,1,,,,,,,
 20N1,VN1,V1,Student Village 1 House North 1,V1 N1,43.47209,-80.55003,1,,,,,,,
 20N2,VN2,V1,Student Village 1 House North 2,V1 N2,43.472284,-80.55023,1,,,,,,,
 20N3,VN3,V1,Student Village 1 House North 3,V1 N3,43.47242,-80.54994,1,,,,,,,
