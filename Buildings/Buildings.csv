@@ -18,7 +18,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 17,MC,,Mathematics & Computer Building,,43.47207511,-80.54394739,1
 18,PAC,,Physical Activities Complex,,43.47242353,-80.54613339,1
 19,SLC,,Student Life Centre,,43.471601,-80.545455,1
-20CC,V1C,V1,Student Village 1 Central Complex,V1|Village 1,43.4716,-80.54996,1
+20CC,V1C,,Student Village 1 Central Complex,V1|Village 1,43.4716,-80.54996,1
 20E1,VE1,V1,Student Village 1 House East 1,V1 E1,43.471745,-80.549317,1
 20E2,VE2,V1,Student Village 1 House East 2,V1 E2,43.471821,-80.549017,1
 20E3,VE3,V1,Student Village 1 House East 3,V1 E3,43.47176,-80.548612,1
@@ -49,7 +49,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 22,HS,,Health Services,,43.47058601,-80.54611194,1
 23,MHR,,Minota Hagey Residence,Velocity,43.46579535,-80.54275113,1
 24,HH,,J.G. Hagey Hall of the Humanities,Hagey Hall,43.46792891,-80.54165679,1
-25CC,REC,REV,Ron Eydt Village Central Complex,REV|Ron Eydt Village,43.47015582,-80.55412369,1
+25CC,REC,,Ron Eydt Village Central Complex,REV|Ron Eydt Village,43.47015582,-80.55412369,1
 25EA,VEA,REV,Ron Eydt Village East A,REV EA,43.469348,-80.553464,1
 25EB,VEB,REV,Ron Eydt Village East B,REV EB,43.469348,-80.553464,1
 25EC,VEC,REV,Ron Eydt Village East C,REV EC,43.469547,-80.552989,1
@@ -74,7 +74,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 25WD,VWD,REV,Ron Eydt Village West D,REV WD,43.470579,-80.555062,1
 25WE,VWE,REV,Ron Eydt Village West E,REV WE,43.470579,-80.555062,1
 25WL,VWL,REV,Ron Eydt Village West L,,,,1
-26CC,UCC,UWP,UW Place Community Centre,,43.4704,-80.53553,1
+26CC,UCC,,UW Place Community Centre,,43.4704,-80.53553,1
 26EC,UEC,UWP,UW Place Woolwich Court,,43.47064,-80.53354,1
 26ET,UET,UWP,UW Place Beck Hall,,43.470573,-80.534699,1
 26NC,UNC,UWP,UW Place Wellesley Court,,43.47155,-80.53564,1
@@ -111,7 +111,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 43M,CTM,CLV,Columbia Lake Village South Block M,,43.469331,-80.56371,1
 43N,CTN,CLV,Columbia Lake Village South Block N,,43.469598,-80.563256,1
 43P,CTP,CLV,Columbia Lake Village South Block P,,,,1
-43Q,CTQ,CLV,Columbia Lake Village South Laundry,,,,1
+43Q,CTQ,,Columbia Lake Village South Laundry,CLV Community Centre,,,1
 44,MKV,MKV,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1
 44E,MKE,MKV,William Lyon Mackenzie King Village East,,43.47132,-80.551983,1
 44W,MKW,MKV,William Lyon Mackenzie King Village West,,43.471161,-80.553056,1
@@ -212,61 +212,62 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 162,MTT,,Master of Taxation Toronto,,,,1
 801,SHO,STJ,St. Jerome's University Sweeney Hall,,43.46926818,-80.54588395,1
 802,SHA,STJ,St. Jerome's University Sweeney Hall Addition,,43.46926818,-80.54588395,1
-811,STJ,STJ,St. Jerome's University Finn Residence,St. Jerome's,43.46926818,-80.54588395,1
+811,STJ,,St. Jerome's University Finn Residence,STJ|St. 
+Jerome's,43.46926818,-80.54588395,1
 812,STJ,STJ,St. Jerome's University Louis Hall,,43.46926818,-80.54588395,1
 813,STJ,STJ,St. Jerome's University Classroom Building,,43.46926818,-80.54588395,1
 814,STJ,STJ,St. Jerome's University Library Addition,,43.46926818,-80.54588395,1
 815,STJ,STJ,St. Jerome's University Siegfried Hall,,43.46926818,-80.54588395,1
-821,REN,REN,Renison University College Original Building,Renison,43.46881657,-80.54762202,1
+821,,REN,Renison University College Original Building,REN|Renison,43.46881657,-80.54762202,1
 822,REN,REN,Renison University College Addition,,43.46881657,-80.54762202,1
 823,REN,REN,Renison University College Addition 2 - Chapel,,43.46881657,-80.54762202,1
 824,REN,REN,Renison University College Addition 3 - Link,,43.46881657,-80.54762202,1
 825,REN,REN,Renison University College Addition 4 - Academic Centre,,43.46881657,-80.54762202,1
-831,STPADMIN,STP,St. Paul's United College Main Building,St. Paul's,43.467762,-80.546404,1
+831,STPADMIN,,St. Paul's United College Main Building,STP|St. Paul's,43.467762,-80.546404,1
 832,STPWW,STP,St. Paul's United College West Wing,,43.467762,-80.546404,1
 833,STPEW,STP,St. Paul's United College East Wing,,43.467762,-80.546404,1
 834,STPGRAD,STP,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1
 835,STPNW,STP,St. Paul's United College North Wing,,43.467762,-80.546404,1
-841,CGR,CGR,Conrad Grebel University College Residence,Conrad Grebel,43.46666747,-80.54541188,1
+841,,CGR,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1
 842,CGR,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1
 843,CGR,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1
 844,CGR,CGR,Conrad Grebel University College Administration Addition,,43.46666747,-80.54541188,1
 845,CGR,CGR,Conrad Grebel University College Apartments,,43.46666747,-80.54541188,1
-4601,L01,CLV,Columbia Lake Village North Block 1,,43.473547,-80.562819,1
-4602,L02,CLV,Columbia Lake Village North Block 2,,43.473173,-80.562532,1
-4603,L03,CLV,Columbia Lake Village North Block 3,,43.472739,-80.562125,1
-4604,L04,CLV,Columbia Lake Village North Block 4,,43.472426,-80.561728,1
-4605,L05,CLV,Columbia Lake Village North Block 5,,43.472194,-80.561368,1
-4606,L06,CLV,Columbia Lake Village North Block 6,,43.471896,-80.561191,1
-4607,L07,CLV,Columbia Lake Village North Block 7,,43.471723,-80.561706,1
-4608,L08,CLV,Columbia Lake Village North Block 8,,43.471536,-80.562194,1
-4609,L09,CLV,Columbia Lake Village North Block 9,,43.471895,-80.562642,1
-4610,L10,CLV,Columbia Lake Village North Block 10,,43.472243,-80.562618,1
-4611,L11,CLV,Columbia Lake Village North Block 11,,43.472568,-80.562495,1
-4612,L12,CLV,Columbia Lake Village North Block 12,,43.472251,-80.56213,1
-4613,L13,CLV,Columbia Lake Village North Block 13,,43.472885,-80.562699,1
-4614,L14,CLV,Columbia Lake Village North Block 14,,43.472447,-80.562964,1
-4615,L15,CLV,Columbia Lake Village North Block 15,,43.472148,-80.563334,1
-4616,L16,CLV,Columbia Lake Village North Block 16,,43.472081,-80.56405,1
-4617,L17,CLV,Columbia Lake Village North Block 17,,43.472451,-80.56364,1
-4618,L18,CLV,Columbia Lake Village North Block 18,,43.472652,-80.563315,1
-4619,L19,CLV,Columbia Lake Village North Block 19,,43.473284,-80.563176,1
-4620,L20,CLV,Columbia Lake Village North Block 20,,43.473,-80.56349,1
-4621,L21,CLV,Columbia Lake Village North Block 21,,43.472673,-80.563852,1
-4622,L22,CLV,Columbia Lake Village North Block 22,,43.472356,-80.564235,1
-4623,L23,CLV,Columbia Lake Village North Block 23,,43.471898,-80.564713,1
-4624,L24,CLV,Columbia Lake Village North Block 24,,43.471659,-80.565011,1
-4625,L25,CLV,Columbia Lake Village North Block 25,,43.471377,-80.565327,1
-4626,L26,CLV,Columbia Lake Village North Block 26,,43.471194,-80.564995,1
-4627,L27,CLV,Columbia Lake Village North Block 27,,43.471153,-80.564517,1
-4628,L28,CLV,Columbia Lake Village North Block 28,,43.471268,-80.56405,1
-4629,L29,CLV,Columbia Lake Village North Block 29,,43.471359,-80.563578,1
-4630,L30,CLV,Columbia Lake Village North Block 30,,43.471414,-80.562943,1
-4631,L31,CLV,Columbia Lake Village North Block 31,,43.471719,-80.562948,1
-4632,L32,CLV,Columbia Lake Village North Block 32,,43.471793,-80.56345,1
-4633,L33,CLV,Columbia Lake Village North Block 33,,43.471606,-80.563895,1
-4634,L34,CLV,Columbia Lake Village North Block 34,,43.471439,-80.564705,1
-4635,L35,CLV,Columbia Lake Village North Block 35,,43.47185,-80.564235,1
+4601,L01,,Columbia Lake Village North Block 1,CLN|CLV North,43.473547,-80.562819,1
+4602,L02,CLN,Columbia Lake Village North Block 2,,43.473173,-80.562532,1
+4603,L03,CLN,Columbia Lake Village North Block 3,,43.472739,-80.562125,1
+4604,L04,CLN,Columbia Lake Village North Block 4,,43.472426,-80.561728,1
+4605,L05,CLN,Columbia Lake Village North Block 5,,43.472194,-80.561368,1
+4606,L06,CLN,Columbia Lake Village North Block 6,,43.471896,-80.561191,1
+4607,L07,CLN,Columbia Lake Village North Block 7,,43.471723,-80.561706,1
+4608,L08,CLN,Columbia Lake Village North Block 8,,43.471536,-80.562194,1
+4609,L09,CLN,Columbia Lake Village North Block 9,,43.471895,-80.562642,1
+4610,L10,CLN,Columbia Lake Village North Block 10,,43.472243,-80.562618,1
+4611,L11,CLN,Columbia Lake Village North Block 11,,43.472568,-80.562495,1
+4612,L12,CLN,Columbia Lake Village North Block 12,,43.472251,-80.56213,1
+4613,L13,CLN,Columbia Lake Village North Block 13,,43.472885,-80.562699,1
+4614,L14,CLN,Columbia Lake Village North Block 14,,43.472447,-80.562964,1
+4615,L15,CLN,Columbia Lake Village North Block 15,,43.472148,-80.563334,1
+4616,L16,CLN,Columbia Lake Village North Block 16,,43.472081,-80.56405,1
+4617,L17,CLN,Columbia Lake Village North Block 17,,43.472451,-80.56364,1
+4618,L18,CLN,Columbia Lake Village North Block 18,,43.472652,-80.563315,1
+4619,L19,CLN,Columbia Lake Village North Block 19,,43.473284,-80.563176,1
+4620,L20,CLN,Columbia Lake Village North Block 20,,43.473,-80.56349,1
+4621,L21,CLN,Columbia Lake Village North Block 21,,43.472673,-80.563852,1
+4622,L22,CLN,Columbia Lake Village North Block 22,,43.472356,-80.564235,1
+4623,L23,CLN,Columbia Lake Village North Block 23,,43.471898,-80.564713,1
+4624,L24,CLN,Columbia Lake Village North Block 24,,43.471659,-80.565011,1
+4625,L25,CLN,Columbia Lake Village North Block 25,,43.471377,-80.565327,1
+4626,L26,CLN,Columbia Lake Village North Block 26,,43.471194,-80.564995,1
+4627,L27,CLN,Columbia Lake Village North Block 27,,43.471153,-80.564517,1
+4628,L28,CLN,Columbia Lake Village North Block 28,,43.471268,-80.56405,1
+4629,L29,CLN,Columbia Lake Village North Block 29,,43.471359,-80.563578,1
+4630,L30,CLN,Columbia Lake Village North Block 30,,43.471414,-80.562943,1
+4631,L31,CLN,Columbia Lake Village North Block 31,,43.471719,-80.562948,1
+4632,L32,CLN,Columbia Lake Village North Block 32,,43.471793,-80.56345,1
+4633,L33,CLN,Columbia Lake Village North Block 33,,43.471606,-80.563895,1
+4634,L34,CLN,Columbia Lake Village North Block 34,,43.471439,-80.564705,1
+4635,L35,CLN,Columbia Lake Village North Block 35,,43.47185,-80.564235,1
 A,SCS,,South Campus - South Grounds,,,,1
 B,SCN,,South Campus - North Grounds,,,,1
 C,,,Seagram Stadium Grounds,,,,0
