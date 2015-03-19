@@ -217,7 +217,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 813,STJ,STJ,St. Jerome's University Classroom Building,,43.46926818,-80.54588395,1
 814,STJ,STJ,St. Jerome's University Library Addition,,43.46926818,-80.54588395,1
 815,STJ,STJ,St. Jerome's University Siegfried Hall,,43.46926818,-80.54588395,1
-",",REN,REN,Renison University College Original Building,Renison,43.46881657,-80.54762202,1
+821,REN,REN,Renison University College Original Building,Renison,43.46881657,-80.54762202,1
 822,REN,REN,Renison University College Addition,,43.46881657,-80.54762202,1
 823,REN,REN,Renison University College Addition 2 - Chapel,,43.46881657,-80.54762202,1
 824,REN,REN,Renison University College Addition 3 - Link,,43.46881657,-80.54762202,1
