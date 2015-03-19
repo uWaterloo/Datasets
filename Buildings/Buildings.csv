@@ -1,6 +1,6 @@
 building_id,building_code,parent_code,building_name,alternate_building_names,latitude,longitude,current
 1,DWE,,Douglas Wright Engineering Building,,43.469981,-80.540042,1
-2,E2,,Engineering 2,,43.47104345,-80.54041224,1P2
+2,E2,,Engineering 2,,43.47104345,-80.54041224,1
 3,E3,,Engineering 3,,43.4717442,-80.54086285,1
 4,PHY,,Physics,,43.47071643,-80.54167824,1
 5,ML,,Modern Languages,,43.46909688,-80.54287987,1
