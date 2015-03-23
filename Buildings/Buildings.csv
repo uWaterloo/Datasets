@@ -212,8 +212,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 162,MTT,,Master of Taxation Toronto,,,,1
 801,SHO,STJ,St. Jerome's University Sweeney Hall,,43.46926818,-80.54588395,1
 802,SHA,STJ,St. Jerome's University Sweeney Hall Addition,,43.46926818,-80.54588395,1
-811,STJ,,St. Jerome's University Finn Residence,STJ|St. 
-Jerome's,43.46926818,-80.54588395,1
+811,STJ,,St. Jerome's University Finn Residence,STJ|St. Jerome's,43.46926818,-80.54588395,1
 812,STJ,STJ,St. Jerome's University Louis Hall,,43.46926818,-80.54588395,1
 813,STJ,STJ,St. Jerome's University Classroom Building,,43.46926818,-80.54588395,1
 814,STJ,STJ,St. Jerome's University Library Addition,,43.46926818,-80.54588395,1
