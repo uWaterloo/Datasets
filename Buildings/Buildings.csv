@@ -112,7 +112,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 43N,CTN,CLV,Columbia Lake Village South Block N,,43.469598,-80.563256,1
 43P,CTP,CLV,Columbia Lake Village South Block P,,,,1
 43Q,CTQ,,Columbia Lake Village South Laundry,CLV|CLV Community Centre,,,1
-44,MKV,MKV,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1
+44,MKV,,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1
 44E,MKE,MKV,William Lyon Mackenzie King Village East,,43.47132,-80.551983,1
 44W,MKW,MKV,William Lyon Mackenzie King Village West,,43.471161,-80.553056,1
 45,TC,,William M. Tatham Centre for Co-operative Education & Career Services,Tatham Centre,43.469,-80.541324,1
