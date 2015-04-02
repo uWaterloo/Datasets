@@ -80,7 +80,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 26NC,UNC,UWP,UW Place Wellesley Court,,43.47155,-80.53564,1
 26SC,USC,UWP,UW Place Waterloo Court,,43.47007,-80.53492,1
 26WC,UWC,UWP,UW Place Wilmot Court,,43.47111,-80.53666,1
-26WT,UWT,UWP,UW Place Eby Hall,,43.47067,-80.53512,1
+26WT,UWT,,UW Place Eby Hall,UWP,43.47067,-80.53512,1
 27,UC,,University Club,,43.472334,-80.547378,1
 28,C2,,Chemistry 2,,43.47209068,-80.54287451,1
 29,CPH,,Carl A. Pollock Hall,,43.47095002,-80.53933936,1
