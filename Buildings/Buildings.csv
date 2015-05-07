@@ -1,20 +1,20 @@
 building_id,building_code,parent_code,building_name,alternate_building_names,latitude,longitude,current
-1,DWE,,Douglas Wright Engineering Building,,43.469981,-80.540042,1
+1,DWE,,Douglas Wright Engineering Building,,43.47007105,-80.5397063758774,1
 2,E2,,Engineering 2,,43.47104345,-80.54041224,1
 3,E3,,Engineering 3,,43.4717442,-80.54086285,1
-4,PHY,,Physics,,43.47071643,-80.54167824,1
+4,PHY,,Physics,,43.47084805,-80.541538064259,1
 5,ML,,Modern Languages,,43.46909688,-80.54287987,1
 6,ESC,,Earth Sciences & Chemistry,,43.47134906,-80.54270285,1
-7,B1,,Biology 1,,43.47066971,-80.54305153,1
+7,B1,,Biology 1,,43.4707354,-80.5429846140468,1
 8,LIB,,Dana Porter Arts Library,DP|Dana Porter,43.46984437,-80.54242926,1
 9,AL,,Arts Lecture Hall,,43.46894115,-80.54187136,1
 10,EV1,,Environment 1,,43.4683961,-80.54262238,1
 11,RCH,,J.R. Coutts Engineering Lecture Hall,Engineering Lecture Hall,43.47031155,-80.54084139,1
-12,CSB,,Central Services Building,,43.47378801,-80.54366308,1
-13,B2,,Biology 2,,43.47076315,-80.54381328,1
+12,CSB,,Central Services Building,,43.4737628,-80.5437889849733,1
+13,B2,,Biology 2,,43.4708179,-80.5437287379759,1
 14,GSC,,General Services Complex,Plant Operations,43.47342207,-80.54308372,1
-15,COM,,Commissary,Police & Parking Services,43.47406051,-80.54290133,1
-16,SCH,,South Campus Hall,,43.46915917,-80.5405839,1
+15,COM,,Commissary,Police & Parking Services,43.47412795,-80.5429211785508,1
+16,SCH,,South Campus Hall,,43.4692188,-80.5402133845484,1
 17,MC,,Mathematics & Computer Building,,43.47207511,-80.54394739,1
 18,PAC,,Physical Activities Complex,,43.47242353,-80.54613339,1
 19,SLC,,Student Life Centre,,43.471601,-80.545455,1
@@ -82,9 +82,9 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 26WC,UWC,UWP,UW Place Wilmot Court,,43.47111,-80.53666,1
 26WT,UWT,,UW Place Eby Hall,UWP,43.47067,-80.53512,1
 27,UC,,University Club,,43.472334,-80.547378,1
-28,C2,,Chemistry 2,,43.47209068,-80.54287451,1
+28,C2,,Chemistry 2,,43.4720703,-80.5429048718492,1
 29,CPH,,Carl A. Pollock Hall,,43.47095002,-80.53933936,1
-30,PAS,,"Psychology, Anthropology, Sociology",,43.46699451,-80.54251509,1
+30,PAS,,"Psychology, Anthropology, Sociology",,43.46726305,-80.5424609717872,1
 31,NH,,Ira G. Needles Hall,Needles Hall,43.46962635,-80.54363089,1
 32,BMH,,B.C. Matthews Hall,,43.47386586,-80.54517584,1
 33,OPT,,Optometry,,43.47592517,-80.5455299,1
@@ -115,25 +115,25 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 44,MKV,,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1
 44E,MKE,MKV,William Lyon Mackenzie King Village East,,43.47132,-80.551983,1
 44W,MKW,MKV,William Lyon Mackenzie King Village West,,43.471161,-80.553056,1
-45,TC,,William M. Tatham Centre for Co-operative Education & Career Services,Tatham Centre,43.469,-80.541324,1
+45,TC,,William M. Tatham Centre for Co-operative Education & Career Services,Tatham Centre,43.46904735,-80.5412835002667,1
 47,ARC,,School of Architecture,,43.358572,-80.31692,1
 48,ERC,,Energy Research Centre,,43.4736245,-80.54447847,1
 49,PHR,,Pharmacy,,43.452847,-80.49902,1
-50,QNC,,Mike & Ophelia Lazaridis Quantum-Nano Centre,IQC|Institute for Quantum Computing,43.471174,-80.544476,1
+50,QNC,,Mike & Ophelia Lazaridis Quantum-Nano Centre,IQC|Institute for Quantum Computing,43.4712484,-80.5441924471757,1
 51,RAC,,Research Advancement Centre,RAC1|IQC|Institute for Quantum Computing,43.47884,-80.55498,1
 52,IHB,,Integrated Health Building,,43.452311,-80.499208,1
 53,E5,,Engineering 5,,43.472953,-80.540085,1
 54,STC,,Science Teaching Complex,,,,1
 55,DMS,,Digital Media Stratford,,,,1
-56,M3,,Mathematics 3,,43.47302,-80.54448,1
+56,M3,,Mathematics 3,,43.47320425,-80.5440498295589,1
 57,EV3,,Environment 3,,43.46745,-80.54319,1
 58,RA2,,Research Advancement Centre 2,RAC2|IQC|Institute for Quantum Computing,43.47863,-80.55553,1
 59,ART,,Arts Building,,,,1
-60,E6,,Engineering 6,,43.47301,-80.5389,1
+60,E6,,Engineering 6,,43.47295805,-80.5386818102242,1
 61,TT,,Tech Town,,,,1
 62,EC1,,East Campus 1,,43.47612645,-80.54004246,1
 63,EC2,,East Campus 2,,43.47456525,-80.54134834,1
-64,EC3,,East Campus 3,,43.47563655,-80.54219408,1
+64,EC3,,East Campus 3,,43.47563655,-80.542194082643,1
 65,EC4,,East Campus 4,,,,1
 66,EC5,,East Campus 5,,,,1
 67,E7,,Engineering 7,,,,1
@@ -151,7 +151,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 101,,,415 Phillip Street,,,,0
 102,,,Annex 2,,,,0
 103,,,Engineering 4,,,,0
-104,GH,,Graduate House,Grad House,43.4696575,-80.54103451,1
+104,GH,,Graduate House,Grad House,43.46973295,-80.5409180605325,1
 105,,,385 Phillip Street,,,,0
 106,DB,,Dearborn Pumphouse,,,,1
 107,,,President's Residence,,,,0
@@ -191,7 +191,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 141,,,Architecture Annex Cambridge,,,,0
 142,,,Artery Gallery Kitchener,,,,0
 143,,,"Broad Street, New York, NY, USA",,,,0
-144,ACW,,Accelerator Centre Waterloo,,43.47731,-80.54896,1
+144,ACW,,Accelerator Centre Waterloo,,43.47738445,-80.5490990988843,1
 145,WFF,,Warrior Football Field,,43.4747,-80.55014,1
 146,MRS,,Medical & Related Sciences,,,,1
 147,,,50 Queen Street North,,,,0
