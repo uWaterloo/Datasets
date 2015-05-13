@@ -198,7 +198,8 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 148,SCO,,Shanghai China Office,,,,1
 149,KSW,,195 King Street West,,,,1
 150,HSC,,Huntsville Summit Centre,,45.32211,-79.20695,1
-151,UAE,,United Arab Emirates Dubai,,,,1
+151,UAE,,United Arab Emirates Dubai,,,,0
+152,WSS,,"6 Wellington Street, Stratford",,43.370474,-80.982231,0
 153,UWD,,University of Waterloo Daycare,,,,1
 154,,,"Children's Museum, Kitchener",,,,0
 155,ASA,,Allen Square Arts,,,,1
