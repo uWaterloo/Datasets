@@ -124,7 +124,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 52,IHB,,Integrated Health Building,,43.452311,-80.499208,1
 53,E5,,Engineering 5,,43.472953,-80.540085,1
 54,STC,,Science Teaching Complex,,,,1
-55,DMS,,Digital Media Stratford,,,,1
+55,DMS,,Digital Media Stratford,,43.367830,-80.982100,1
 56,M3,,Mathematics 3,,43.47320425,-80.5440498295589,1
 57,EV3,,Environment 3,,43.468159,-80.543376,1
 58,RA2,,Research Advancement Centre 2,RAC2|IQC|Institute for Quantum Computing,43.47863,-80.55553,1
@@ -199,7 +199,6 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 149,KSW,,195 King Street West,,,,1
 150,HSC,,Huntsville Summit Centre,,45.32211,-79.20695,1
 151,UAE,,United Arab Emirates Dubai,,,,1
-152,WSS,,"6 Wellington Street, Stratford",,43.370474,-80.982231,1
 153,UWD,,University of Waterloo Daycare,,,,1
 154,,,"Children's Museum, Kitchener",,,,0
 155,ASA,,Allen Square Arts,,,,1
