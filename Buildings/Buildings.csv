@@ -210,6 +210,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 160,WCP,,Waterloo Central Place,,,,1
 161,MWS,,Manulife Water Street,,,,1
 162,MTT,,Master of Taxation Toronto,,,,1
+167,LHI,,Lyle S. Hallman Institute for Health Promotion,,43.473256,-80.546066,1
 801,SHO,STJ,St. Jerome's University Sweeney Hall,,43.46926818,-80.54588395,1
 802,SHA,STJ,St. Jerome's University Sweeney Hall Addition,,43.46926818,-80.54588395,1
 811,STJ,,St. Jerome's University Finn Residence,STJ|St. Jerome's,43.46926818,-80.54588395,1
