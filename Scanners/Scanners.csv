@@ -1,5 +1,8 @@
-building,room,model,faculty,comment
-E2,1308,,Engineering,"Engineering Computing IT Service Desk"
-E5,2108,,Engineering,"Gear Lab"
-RCH,108,,Engineering,"Helix Lab"
-E2,2367,,Engineering,"Pulley Lab"
+building,room,faculty,comment
+E2,1308,ENG,""
+E5,2108,ENG,""
+RCH,108,ENG,""
+E2,2367,ENG,""
+PAS,1099,Arts,""
+BMH,1034,AHS,""
+EC2,Foyer,IST,""
