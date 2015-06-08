@@ -1,4 +1,5 @@
-building,room,floor,number of microwaves,alternative names of location,contact url,comment,last audit timestamp
+building,room,floor,number of microwaves,alternative names of location,contact url,comment,last audit 
+timestamp
 QNC,,3,1,staff lounge,,,
 QNC,,4,1,staff lounge,,,
 QNC,,5,1,staff lounge,,,
@@ -6,8 +7,8 @@ CPH,,4,1,staff lounge,,,
 CPH,,1,2,P.O.E.T.S.,http://www.feds.ca/campus-life/student-societies/engsoc/,,
 CPH,,1,1,Engineering Coffee & Donuts | C&D | Eng 
 C&D,http://www.feds.ca/campus-life/student-societies/engsoc/,,
-DWE,2528,1,1,University of Waterloo Chemical Engineering Student Society office | CESS office | UW CESS | 
-CESS,http://chemsoc.uwaterloo.ca/,,
+DWE,2528,1,1,University of Waterloo Chemical Engineering Student Society office | CESS office | UW CESS 
+| CESS,http://chemsoc.uwaterloo.ca/,,
 E5,,3,1,lounge,,,
 PHYS,,1,1,Physics Undergraduate Club | PhysClub,https://www.facebook.com/groups/physclub/,,
 PHYS,345A,3,1,Science Society | SciSoc,http://www.feds.ca/campus-life/student-societies/scisoc/,,
