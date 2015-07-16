@@ -76,7 +76,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 25WL,VWL,REV,Ron Eydt Village West L,,,,1
 26CC,UCC,,UW Place Community Centre,,43.4704,-80.53553,1
 26EC,UEC,UWP,UW Place Woolwich Court,,43.47064,-80.53354,1
-26ET,UET,UWP,UW Place Beck Hall,,43.470573,-80.534699,1
+26ET,UET,UWP,UW Place Beck Hall,UWP,43.470573,-80.534699,1
 26NC,UNC,UWP,UW Place Wellesley Court,,43.47155,-80.53564,1
 26SC,USC,UWP,UW Place Waterloo Court,,43.47007,-80.53492,1
 26WC,UWC,UWP,UW Place Wilmot Court,,43.47111,-80.53666,1
