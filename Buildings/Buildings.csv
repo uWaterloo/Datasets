@@ -76,7 +76,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 25WL,VWL,REV,Ron Eydt Village West L,,,,1
 26CC,UCC,,UW Place Community Centre,,43.4704,-80.53553,1
 26EC,UEC,UWP,UW Place Woolwich Court,,43.47064,-80.53354,1
-26ET,UET,UWP,UW Place Beck Hall,,43.470573,-80.534699,1
+26ET,UET,UWP,UW Place Beck Hall,UWP,43.470573,-80.534699,1
 26NC,UNC,UWP,UW Place Wellesley Court,,43.47155,-80.53564,1
 26SC,USC,UWP,UW Place Waterloo Court,,43.47007,-80.53492,1
 26WC,UWC,UWP,UW Place Wilmot Court,,43.47111,-80.53666,1
@@ -111,7 +111,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 43M,CTM,CLV,Columbia Lake Village South Block M,,43.469331,-80.56371,1
 43N,CTN,CLV,Columbia Lake Village South Block N,,43.469598,-80.563256,1
 43P,CTP,CLV,Columbia Lake Village South Block P,,,,1
-43Q,CTQ,,Columbia Lake Village South Laundry,CLV|CLV Community Centre,,,1
+43Q,CTQ,,Columbia Lake Village South Laundry,CLV|CLV Community Centre,43.4708188,-80.5625084,1
 44,MKV,,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1
 44E,MKE,MKV,William Lyon Mackenzie King Village East,,43.47132,-80.551983,1
 44W,MKW,MKV,William Lyon Mackenzie King Village West,,43.471161,-80.553056,1
@@ -208,7 +208,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 158,CHB,,Communitech Hub Building,,,,1
 159,GSK,,"44 Gaukel Street, Kitchener",,43.449945,-80.4933625,1
 160,WCP,,Waterloo Central Place,,,,1
-161,MWS,,Manulife Water Street,,,,1
+161,MWS,,Manulife Water Street,Velocity Foundry,43.450469,-80.494966,1
 162,MTT,,Master of Taxation Toronto,,,,1
 167,LHI,,Lyle S. Hallman Institute for Health Promotion,,43.473256,-80.546066,1
 801,SHO,STJ,St. Jerome's University Sweeney Hall,,43.46926818,-80.54588395,1
