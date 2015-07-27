@@ -243,7 +243,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 844,CGR,CGR,Conrad Grebel University College Administration Addition,,43.46666747,-80.54541188,1,,
 845,CGR,CGR,Conrad Grebel University College Apartments,,43.46666747,-80.54541188,1,,
 4600,,CLN,Columbia Lake Village North,CLN|CLV North,,,,43.4721,-80.56299
-4601,L01,,Columbia Lake Village North Block 1,CLN|CLV North,43.473547,-80.562819,1,43.47358,-80.5628
+4601,L01,CLN,Columbia Lake Village North Block 1,,43.473547,-80.562819,1,43.47358,-80.5628
 4602,L02,CLN,Columbia Lake Village North Block 2,,43.473173,-80.562532,1,43.47326,-80.56257
 4603,L03,CLN,Columbia Lake Village North Block 3,,43.472739,-80.562125,1,43.47282,-80.56215
 4604,L04,CLN,Columbia Lake Village North Block 4,,43.472426,-80.561728,1,43.47252,-80.56178
