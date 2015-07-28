@@ -18,6 +18,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 17,MC,,Mathematics & Computer Building,,43.47207511,-80.54394739,1,43.47214,-80.54387
 18,PAC,,Physical Activities Complex,,43.47242353,-80.54613339,1,43.4723,-80.54618
 19,SLC,,Student Life Centre,,43.471601,-80.545455,1,43.47165,-80.5453
+20,V1,,Student Village 1,V1|Village 1,,,1,43.47164,-80.54994
 20CC,V1C,V1,Student Village 1 Central Complex,V1|Village 1,43.4716,-80.54996,1,43.47164,-80.54994
 20E1,VE1,V1,Student Village 1 House East 1,V1 E1,43.471745,-80.549317,1,43.47183,-80.54935
 20E2,VE2,V1,Student Village 1 House East 2,V1 E2,43.471821,-80.549017,1,43.47186,-80.54901
@@ -49,6 +50,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 22,HS,,Health Services,,43.47058601,-80.54611194,1,43.4705,-80.54619
 23,MHR,,Minota Hagey Residence,Velocity,43.46579535,-80.54275113,1,43.46584,-80.54257
 24,HH,,J.G. Hagey Hall of the Humanities,Hagey Hall,43.46792891,-80.54165679,1,43.4679,-80.54143
+25,REV,,Ron Eydt Village,REV|Ron Eydt Village,,,1,43.47034,-80.55424
 25CC,REC,REV,Ron Eydt Village Central Complex,REV|Ron Eydt Village,43.47015582,-80.55412369,1,43.47034,-80.55424
 25E,VE,REV,Ron Eydt Village East,REV E,,,1,43.4695,-80.55327
 25EA,VEA,REV,Ron Eydt Village East A,REV EA,43.469348,-80.553464,1,,
@@ -78,6 +80,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 25WD,VWD,REV,Ron Eydt Village West D,REV WD,43.470579,-80.555062,1,,
 25WE,VWE,REV,Ron Eydt Village West E,REV WE,43.470579,-80.555062,1,,
 25WL,VWL,REV,Ron Eydt Village West L,,,,1,,
+26,UWP,,University of Waterloo Place,UWP|UW Place,,,1,43.47074,-80.53515
 26CC,UCC,UWP,UW Place Community Centre,,43.4704,-80.53553,1,,
 26EC,UEC,UWP,UW Place Woolwich Court,,43.47064,-80.53354,1,43.47062,-80.53352
 26ET,UET,UWP,UW Place Beck Hall,UWP,43.470573,-80.534699,1,43.47078,-80.5347
@@ -101,7 +104,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 40,BAU,,Bauer Warehouse,,43.483354,-80.545715,1,43.48341,-80.54571
 41,COG,,Columbia Greenhouses,,43.473218,-80.559405,1,43.47327,-80.55938
 42,CIF,,Columbia Icefield,,43.47535682,-80.54852324,1,43.47541,-80.54843
-43,,CLV,Columbia Lake Village,CLV|CLV South,,,1,43.47028,-80.56176
+43,CLV,,Columbia Lake Village,CLV|CLV South,,,1,43.47028,-80.56176
 43A,CTA,CLV,Columbia Lake Village South Block A,,43.470456,-80.5597,1,43.47053,-80.5596
 43B,CTB,CLV,Columbia Lake Village South Block B,,43.470754,-80.560116,1,43.47076,-80.5601
 43C,CTC,CLV,Columbia Lake Village South Block C,,43.47088,-80.559638,1,43.47086,-80.55956
@@ -116,8 +119,9 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 43M,CTM,CLV,Columbia Lake Village South Block M,,43.469331,-80.56371,1,43.46937,-80.56369
 43N,CTN,CLV,Columbia Lake Village South Block N,,43.469598,-80.563256,1,43.46962,-80.56326
 43P,CTP,CLV,Columbia Lake Village South Block P,,,,1,43.46987,-80.56247
-43Q,CTQ,,Columbia Lake Village South Laundry,CLV|CLV Community Centre,43.4708188,-80.5625084,1,43.47083,-80.56246
-44,MKV,,William Lyon Mackenzie King Village,Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1,43.47158,-80.55268
+43Q,CTQ,CLV,Columbia Lake Village South Laundry,CLV|CLV Community Centre,43.4708188,-80.5625084,1,43.47083,-80.56246
+44A,MKV,,William Lyon Mackenzie King Village,MKV|Mackenzie King Village|Mackenzie King,,,1,43.47135,-80.55254
+44,MKV,MKV,William Lyon Mackenzie King Village,MKV|Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1,43.47158,-80.55268
 44E,MKE,MKV,William Lyon Mackenzie King Village East,,43.47132,-80.551983,1,43.47147,-80.55207
 44W,MKW,MKV,William Lyon Mackenzie King Village West,,43.471161,-80.553056,1,43.47122,-80.55303
 45,TC,,William M. Tatham Centre for Co-operative Education & Career Services,Tatham Centre,43.46904735,-80.5412835002667,1,43.46902,-80.54123
@@ -167,7 +171,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 112,BRH,,Brubacher House,,43.475571,-80.552348,1,43.4756,-80.55232
 113,,,Shantz Farm,,,,0,,
 114,,,Westside Farm,,,,0,,
-115,KDC,,Klemmer Farmhouse Cooperative Nursery Inc.,,43.476023,-80.549178,1,43.47601,-80.54921
+115,KDC,,Klemmer Farmhouse Cooperative Nursery Inc.,,43.476023,-80.549178,0,,
 116,,,Merv Martin Farm,,,,0,,
 117,,,Maur Martin Farm,,,,0,,
 118,,,Air Pollution Station,,,,0,,
@@ -175,7 +179,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 120,,,University Business Park,,,,0,,
 121,,,440 Phillip Street,,,,0,,
 122,,,Portables,,,,0,,
-123,HMN,,Hildegard-Marsden Co-operative Day Nursery,,43.476478,-80.549349,1,43.47651,-80.5493
+123,HMN,,Hildegard-Marsden Co-operative Day Nursery,,43.476478,-80.549349,0,,
 124,BEG,,BEG Test Building,,,,1,,
 125,AN3,,145 Columbia,,,,0,,
 126,,,Unipark 3,,,,0,,
@@ -216,33 +220,33 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 161,MWS,,Manulife Water Street,Velocity Foundry,43.450469,-80.494966,1,43.45053,-80.49496
 162,MTT,,Master of Taxation Toronto,,,,1,,
 167,LHI,,Lyle S. Hallman Institute for Health Promotion,,43.473256,-80.546066,1,43.47322,-80.54616
-800,,STJ,St. Jerome's University,STJ|St. Jerome's,,,1,43.46916,-80.54581
+800,STJ,,St. Jerome's University,STJ|St. Jerome's,,,1,43.46916,-80.54581
 801,SHO,STJ,St. Jerome's University Sweeney Hall,,43.46926818,-80.54588395,1,,
 802,SHA,STJ,St. Jerome's University Sweeney Hall Addition,,43.46926818,-80.54588395,1,,
-811,STJ,,St. Jerome's University Finn Residence,STJ|St. Jerome's,43.46926818,-80.54588395,1,,
+811,STJ,STJ,St. Jerome's University Finn Residence,STJ|St. Jerome's,43.46926818,-80.54588395,1,,
 812,STJ,STJ,St. Jerome's University Louis Hall,,43.46926818,-80.54588395,1,,
 813,STJ,STJ,St. Jerome's University Classroom Building,,43.46926818,-80.54588395,1,,
 814,STJ,STJ,St. Jerome's University Library Addition,,43.46926818,-80.54588395,1,,
 815,STJ,STJ,St. Jerome's University Siegfried Hall,,43.46926818,-80.54588395,1,,
-820,,REN,Renison University College,REN|Renison,,,1,43.46884,-80.5474
-821,REN,,Renison University College Original Building,REN|Renison,43.46881657,-80.54762202,1,,
+820,REN,,Renison University College,REN|Renison,,,1,43.46884,-80.5474
+821,REN,REN,Renison University College Original Building,REN|Renison,43.46881657,-80.54762202,1,,
 822,REN,REN,Renison University College Addition,,43.46881657,-80.54762202,1,,
 823,REN,REN,Renison University College Addition 2 - Chapel,,43.46881657,-80.54762202,1,,
 824,REN,REN,Renison University College Addition 3 - Link,,43.46881657,-80.54762202,1,,
 825,REN,REN,Renison University College Addition 4 - Academic Centre,,43.46881657,-80.54762202,1,,
-830,,STP,St. Paul's University College,STP|St. Paul's,,,1,43.46783,-80.54637
-831,STPADMIN,,St. Paul's United College Main Building,STP|St. Paul's,43.467762,-80.546404,1,,
+830,STP,,St. Paul's University College,STP|St. Paul's,,,1,43.46783,-80.54637
+831,STPADMIN,STP,St. Paul's United College Main Building,STP|St. Paul's,43.467762,-80.546404,1,,
 832,STPWW,STP,St. Paul's United College West Wing,,43.467762,-80.546404,1,,
 833,STPEW,STP,St. Paul's United College East Wing,,43.467762,-80.546404,1,,
 834,STPGRAD,STP,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1,,
 835,STPNW,STP,St. Paul's United College North Wing,,43.467762,-80.546404,1,,
-840,,CGR,Conrad Grebel Unviersity College,CGR|Conrad Grebel,,,1,43.46656,-80.54525
-841,CGR,,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1,,
+840,CGR,,Conrad Grebel Unviersity College,CGR|Conrad Grebel,,,1,43.46656,-80.54525
+841,CGR,CGR,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1,,
 842,CGR,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1,,
 843,CGR,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1,,
 844,CGR,CGR,Conrad Grebel University College Administration Addition,,43.46666747,-80.54541188,1,,
 845,CGR,CGR,Conrad Grebel University College Apartments,,43.46666747,-80.54541188,1,,
-4600,,CLN,Columbia Lake Village North,CLN|CLV North,,,,43.4721,-80.56299
+4600,CLN,,Columbia Lake Village North,CLN|CLV North,,,1,43.4721,-80.56299
 4601,L01,CLN,Columbia Lake Village North Block 1,,43.473547,-80.562819,1,43.47358,-80.5628
 4602,L02,CLN,Columbia Lake Village North Block 2,,43.473173,-80.562532,1,43.47326,-80.56257
 4603,L03,CLN,Columbia Lake Village North Block 3,,43.472739,-80.562125,1,43.47282,-80.56215
