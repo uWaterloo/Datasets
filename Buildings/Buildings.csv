@@ -1,4 +1,4 @@
-building_id,building_code,parent_code,building_name,alternate_building_names,latitude,longitude,current,osm_latitude,osm_longitude
+building_id,building_code,parent_code,building_name,alternate_building_names,latitude,longitude,current,latitude_osm,longitude_osm
 1,DWE,,Douglas Wright Engineering Building,,43.47007105,-80.5397063758774,1,43.47013,-80.53953
 2,E2,,Engineering 2,,43.47104345,-80.54041224,1,43.47095,-80.54029
 3,E3,,Engineering 3,,43.4717442,-80.54086285,1,43.47167,-80.5408
@@ -209,7 +209,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 150,HSC,,Huntsville Summit Centre,,45.32211,-79.20695,1,,
 151,UAE,,United Arab Emirates Dubai,,,,0,,
 152,WSS,,"6 Wellington Street, Stratford",,43.370474,-80.982231,0,43.37048,-80.98234
-153,UWD,,University of Waterloo Daycare,,,,1,,
+153,UWD,,University of Waterloo Daycare,,,,1,43.47696,-80.54523
 154,,,"Children's Museum, Kitchener",,,,0,,
 155,ASA,,Allen Square Arts,,,,1,,
 156,CIGI,,Centre for International Governance Innovation (BSIA),,,,1,,
