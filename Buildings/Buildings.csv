@@ -240,7 +240,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 833,STPEW,STP,St. Paul's United College East Wing,,43.467762,-80.546404,1,,
 834,STPGRAD,STP,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1,,
 835,STPNW,STP,St. Paul's United College North Wing,,43.467762,-80.546404,1,,
-840,CGR,,Conrad Grebel Unviersity College,CGR|Conrad Grebel,,,1,43.46656,-80.54525
+840,CGR,,Conrad Grebel University College,CGR|Conrad Grebel,,,1,43.46656,-80.54525
 841,CGR,CGR,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1,,
 842,CGR,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1,,
 843,CGR,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1,,
