@@ -124,7 +124,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 44,MKV,MKV,William Lyon Mackenzie King Village,MKV|Mackenzie King Village|Mackenzie King,43.471509,-80.552729,1,43.47158,-80.55268
 44E,MKE,MKV,William Lyon Mackenzie King Village East,,43.47132,-80.551983,1,43.47147,-80.55207
 44W,MKW,MKV,William Lyon Mackenzie King Village West,,43.471161,-80.553056,1,43.47122,-80.55303
-45,TC,,William M. Tatham Centre for Co-operative Education & Career Services,Tatham Centre,43.46904735,-80.5412835002667,1,43.46902,-80.54123
+45,TC,,William M. Tatham Centre for Co-operative Education & Career Action,Tatham Centre,43.46904735,-80.5412835002667,1,43.46902,-80.54123
 47,ARC,,School of Architecture,,43.358572,-80.31692,1,43.35813,-80.3167
 48,ERC,,Energy Research Centre,,43.4736245,-80.54447847,1,43.47368,-80.54438
 49,PHR,,Pharmacy,,43.452847,-80.49902,1,43.45286,-80.49905
@@ -240,7 +240,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 833,STPEW,STP,St. Paul's United College East Wing,,43.467762,-80.546404,1,,
 834,STPGRAD,STP,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1,,
 835,STPNW,STP,St. Paul's United College North Wing,,43.467762,-80.546404,1,,
-840,CGR,,Conrad Grebel Unviersity College,CGR|Conrad Grebel,,,1,43.46656,-80.54525
+840,CGR,,Conrad Grebel University College,CGR|Conrad Grebel,,,1,43.46656,-80.54525
 841,CGR,CGR,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1,,
 842,CGR,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1,,
 843,CGR,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1,,
