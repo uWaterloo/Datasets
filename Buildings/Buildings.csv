@@ -143,8 +143,8 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 62,EC1,,East Campus 1,,43.47612645,-80.54004246,1,43.47623,-80.5403
 63,EC2,,East Campus 2,,43.47456525,-80.54134834,1,43.47461,-80.54135
 64,EC3,,East Campus 3,,43.47563655,-80.542194082643,1,43.47572,-80.54217
-65,EC4,,East Campus 4,,,,1,,
-66,EC5,,East Campus 5,,,,1,,
+65,EC4,,East Campus 4,,,,1,43.47485,-80.53977
+66,EC5,,East Campus 5,,,,1,43.47548,-80.54064
 67,E7,,Engineering 7,,,,1,,
 68,NRB,,New Residence Building,,,,1,,
 69,ST2,,Science Teaching 2,,,,1,,
