@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "Mathematics 3 (M3)",
+		    "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54419,
+          43.47287,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "Ira G. Needles Hall (NH)",
+		    "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54309,
+          43.46973,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "J.R. Coutts Engineering Lecture Hall (RCH)",
+		    "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54111,
+          43.47029,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "Environment 1 (EV1)",
+		    "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54249,
+          43.468,
+          0
+        ]
+      }
+    }
+  ]
+}
