@@ -1,0 +1,87 @@
+ID,Name,Incidents
+900,Bomb Threat,1
+902,Sudden Death,1
+903,Attempt Suicide,5
+904,Sex Offence,3
+905,Indecent Act,2
+906,Threatening,5
+907,Assault,9
+908,Abduction,0
+909,Robbery,0
+910,Extortion,1
+911,Break and Enter,13
+912,Theft Over,3
+913,Theft of Motor Vehicle,0
+915,Fraud,8
+916,Counterfeit Money,0
+917,Offensive Weapons,1
+918,Property Damage,75
+921,Drugs,39
+922,Missing Persons,2
+924,Fire,7
+925,Alarm,548
+927,Assist Other Police Force,21
+928,Compassionate to Locate,43
+929,Unwanted Contact,27
+930,Disturbance,22
+931,Dispute,13
+932,Neighbour Dispute,0
+933,Domestic Dispute,6
+935,Intoxicated Person,60
+936,Unwanted Person,43
+937,Mentally Ill Person,31
+938,Public Mischief,0
+939,Dangerous Condition,11
+940,Workplace Accident,0
+942,Insecure Premise,3
+943,Lost and Found Property,1989
+947,Suspicious Person,64
+948,Suspicious Vehicle,2
+949,Arrest,12
+950,MVC,45
+951,MVC - PI,1
+952,MVC - H & R,15
+954,Traffic Enforcement,240
+955,Driving Complaint,6
+956,Traffic Control,190
+957,Impaired Driving,0
+960,Abandoned Vehicle,0
+961,Liquor Offence,44
+962,Dog / Animal Complaint,1
+963,Noise Complaint,10
+964,Escort,3
+969,Injured / Sick Person,213
+971,Privately Towed Vehicle,535
+973,By Law Complaint,5
+975,Paid Duty,18
+976,Follow Up,402
+979,Theft Under,229
+980,Routine Detail,819
+981,Alert,1
+982,Person Stop,35
+983,Vehicle Stop,155
+987,Recovered Vehicle,0
+990,Criminal Harassment,7
+991,Technology Crime,0
+992,Graffiti,36
+993,Family Dispute,2
+996,911 Hang-up,52
+997,Pornography,0
+,Bookings,286
+,Brinks Cash Pick up,22
+,Private Security,2090
+,Door Openings/Closures,932
+,Foot Patrol,7166
+,General Vehicle Patrol,1747
+,Help Line Testing,56
+,Help Line Activation,26
+,Bike Patrol,176
+,Interview,66
+,Money pick-up,175
+,Other,1002
+,Parking Duties,436
+,Presentations,37
+,Safety Hazard,27
+,Security Observation,4
+,Suspicious Package,1
+,Vehicle Maintenance Detail,1084
