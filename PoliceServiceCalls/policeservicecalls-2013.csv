@@ -71,10 +71,10 @@ ID,Name,Incidents
 ,Assist Outside Agency,68
 ,Bookings,326
 ,Brinks Cash Pick up,76
-,Commissionaires/G4S,"2,526"
-,Door Openings/Closures,"1,098"
-,Foot Patrol,"5,362"
-,General Vehicle Patrol,"2,542"
+,Commissionaires/G4S,2526
+,Door Openings/Closures,1098
+,Foot Patrol,5362
+,General Vehicle Patrol,2542
 ,Help Line Testing,54
 ,Help Line Activation,28
 ,Bike Patrol,32
@@ -86,4 +86,4 @@ ID,Name,Incidents
 ,Safety Hazard,46
 ,Security Observation,7
 ,Suspicious Package,3
-,Vehicle Maintenance Detail,"1,484"
+,Vehicle Maintenance Detail,1484
