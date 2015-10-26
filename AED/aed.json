@@ -12,7 +12,7 @@
       "properties": {
         "name": "Columbia Lake Village (CLV)",
         "alt_name": null,
-        "building_id": "43Q",
+        "building_code": "43Q",
         "note": "Residence",
         "description": "Between the male and female washrooms (across from the front desk)",
         "level": "0",
@@ -40,7 +40,7 @@
       "properties": {
         "name": "MacKenzie King Village (MKV)",
         "alt_name": null,
-        "building_id": "044",
+        "building_code": "044",
         "note": "Residence",
         "description": "Across from the front desk",
         "level": "0",
@@ -68,7 +68,7 @@
       "properties": {
         "name": "Ron Eydt Village (REV)",
         "alt_name": null,
-        "building_id": "25CC",
+        "building_code": "25CC",
         "note": "Residence",
         "description": "By cafeteria computers",
         "level": "0",
@@ -96,7 +96,7 @@
       "properties": {
         "name": "UW Place Community Centre (UCC)",
         "alt_name": null,
-        "building_id": "26CC",
+        "building_code": "26CC",
         "note": "Residence",
         "description": "By cafeteria computers (across from the front desk)",
         "level": "0",
@@ -124,7 +124,7 @@
       "properties": {
         "name": "Student Village 1 (V1)",
         "alt_name": null,
-        "building_id": "20CC",
+        "building_code": "20CC",
         "note": "Residence",
         "description": "By cafeteria computers near the front desk",
         "level": "0",
@@ -152,7 +152,7 @@
       "properties": {
         "name": "Allen Square Arts (ASA)",
         "alt_name": null,
-        "building_id": "155",
+        "building_code": "155",
         "note": "Off-campus",
         "description": "Off the main entrance to the department",
         "level": "6",
@@ -180,7 +180,7 @@
       "properties": {
         "name": "Pharmacy (PHR)",
         "alt_name": null,
-        "building_id": "049",
+        "building_code": "049",
         "note": "Off-campus",
         "description": "First floor outside the security office",
         "level": "0",
@@ -208,7 +208,7 @@
       "properties": {
         "name": "Digital Media Stratford (DMS)",
         "alt_name": null,
-        "building_id": "055",
+        "building_code": "055",
         "note": "Off-campus",
         "description": "1st floor between the two washrooms - across from main reception",
         "level": "0",
@@ -236,7 +236,7 @@
       "properties": {
         "name": "School of Architecture (ARC)",
         "alt_name": null,
-        "building_id": "047",
+        "building_code": "047",
         "note": "Off-campus",
         "description": "1st floor by room 1110",
         "level": "0",
@@ -264,7 +264,7 @@
       "properties": {
         "name": "Fire Research Facility (FRF)",
         "alt_name": null,
-        "building_id": "135",
+        "building_code": "135",
         "note": "Off-campus",
         "description": "1st floor hallway outside room 106",
         "level": "0",
@@ -292,7 +292,7 @@
       "properties": {
         "name": "Renison University College (REN)",
         "alt_name": null,
-        "building_id": "",
+        "building_code": "",
         "note": "College",
         "description": "1st floor hallway main link area/reception office",
         "level": "0",
@@ -320,7 +320,7 @@
       "properties": {
         "name": "Biology 1 (B1)",
         "alt_name": null,
-        "building_id": "007",
+        "building_code": "007",
         "note": "On-campus",
         "description": "2nd floor hallway near entrance to the Amphitheatre (room 271)",
         "level": "1",
@@ -348,7 +348,7 @@
       "properties": {
         "name": "Lyle S. Hallman Institute for Health Promotion (LHI)",
         "alt_name": null,
-        "building_id": "",
+        "building_code": "",
         "note": "On-campus",
         "description": "In the black cabinet by the sink, Physical Assessment Lab",
         "level": "0",
@@ -376,7 +376,7 @@
       "properties": {
         "name": "Chemistry 2 (C2)",
         "alt_name": null,
-        "building_id": "028",
+        "building_code": "028",
         "note": "On-campus",
         "description": "Outside Chemistry Office (room 280), near the fire hose",
         "level": "1",
@@ -404,7 +404,7 @@
       "properties": {
         "name": "Columbia Icefield (CIF)",
         "alt_name": null,
-        "building_id": "042",
+        "building_code": "042",
         "note": "On-campus",
         "description": "Main desk area, near the Arena",
         "level": "0",
@@ -432,7 +432,7 @@
       "properties": {
         "name": "Commissary (COM)",
         "alt_name": null,
-        "building_id": "015",
+        "building_code": "015",
         "note": "On-campus",
         "description": "By room 112",
         "level": "0",
@@ -460,7 +460,7 @@
       "properties": {
         "name": "Dana Porter Library (LIB)",
         "alt_name": null,
-        "building_id": "008",
+        "building_code": "008",
         "note": "On-campus",
         "description": "Circulation desk (room 229)",
         "level": "1",
@@ -488,7 +488,7 @@
       "properties": {
         "name": "William G. Davis Computer Research Centre (DC)",
         "alt_name": null,
-        "building_id": "037",
+        "building_code": "037",
         "note": "On-campus",
         "description": "Circulation desk (room 1511)",
         "level": "0",
@@ -516,7 +516,7 @@
       "properties": {
         "name": "East Campus Hall (ECH)",
         "alt_name": null,
-        "building_id": "036",
+        "building_code": "036",
         "note": "On-campus",
         "description": "Room 128, Receiving Area, Central Stores",
         "level": 0,
@@ -544,7 +544,7 @@
       "properties": {
         "name": "Centre for Environmental and Information Technology (EIT)",
         "alt_name": null,
-        "building_id": "039",
+        "building_code": "039",
         "note": "On-campus",
         "description": "Ground floor to the right of the elevator",
         "level": "0",
@@ -572,7 +572,7 @@
       "properties": {
         "name": "Engineering 5 (E5)",
         "alt_name": null,
-        "building_id": "053",
+        "building_code": "053",
         "note": "On-campus",
         "description": "Room 1103",
         "level": "0",
@@ -600,7 +600,7 @@
       "properties": {
         "name": "J.G. Hagey Hall of the Humanities (HH)",
         "alt_name": null,
-        "building_id": "024",
+        "building_code": "024",
         "note": "On-campus",
         "description": "Across from room 116 by the payphone, near the Theatre Centre",
         "level": "0",
@@ -628,7 +628,7 @@
       "properties": {
         "name": "Ira G. Needles Hall (NH)",
         "alt_name": null,
-        "building_id": "031",
+        "building_code": "031",
         "note": "On-campus",
         "description": "Second floor by the elevator",
         "level": "1",
@@ -656,7 +656,7 @@
       "properties": {
         "name": "Optometry Building (OPT)",
         "alt_name": null,
-        "building_id": "033",
+        "building_code": "033",
         "note": "On-campus",
         "description": "Administration desk area (room 142), Optometry Clinics",
         "level": "0",
@@ -684,7 +684,7 @@
       "properties": {
         "name": "Physical Activities Complex (PAC)",
         "alt_name": null,
-        "building_id": "018",
+        "building_code": "018",
         "note": "On-campus",
         "description": "Tote Desk - Athletics",
         "level": "0",
@@ -712,7 +712,7 @@
       "properties": {
         "name": "Physical Activities Complex (PAC)",
         "alt_name": null,
-        "building_id": "018",
+        "building_code": "018",
         "note": "On-campus",
         "description": "Pool area",
         "level": "0",
@@ -740,7 +740,7 @@
       "properties": {
         "name": "Physics (PHY)",
         "alt_name": null,
-        "building_id": "004",
+        "building_code": "004",
         "note": "On-campus",
         "description": "Second floor outside Physics Office, near stairwell across from men's washroom",
         "level": "1",
@@ -768,7 +768,7 @@
       "properties": {
         "name": "Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC)",
         "alt_name": null,
-        "building_id": "050",
+        "building_code": "050",
         "note": "On-campus",
         "description": "Room 2216, beside the kitchen, Institute for Quantum Computing",
         "level": "1",
@@ -796,7 +796,7 @@
       "properties": {
         "name": "Research Advancement Centre (RAC)",
         "alt_name": null,
-        "building_id": "051",
+        "building_code": "051",
         "note": "On-campus",
         "description": "East corridor, outside room 1809",
         "level": "0",
@@ -824,7 +824,7 @@
       "properties": {
         "name": "Research Advancement Centre 2 (RA2)",
         "alt_name": null,
-        "building_id": "058",
+        "building_code": "058",
         "note": "On-campus",
         "description": "East corridor, outside room 1802",
         "level": "0",
@@ -852,7 +852,7 @@
       "properties": {
         "name": "Student Life Centre (SLC)",
         "alt_name": null,
-        "building_id": "019",
+        "building_code": "019",
         "note": "On-campus",
         "description": "Turnkey Desk at Great Hall",
         "level": "0",
@@ -880,7 +880,7 @@
       "properties": {
         "name": "Engineering 6 (E6)",
         "alt_name": null,
-        "building_id": "060",
+        "building_code": "060",
         "note": "On-campus",
         "description": "Ground floor to the right of the elevator",
         "level": "0",
@@ -908,7 +908,7 @@
       "properties": {
         "name": "Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC)",
         "alt_name": null,
-        "building_id": "050",
+        "building_code": "050",
         "note": "On-campus",
         "description": "Third floor, south corridor by the elevator",
         "level": "2",
@@ -936,7 +936,7 @@
       "properties": {
         "name": "East Campus 2 (EC2)",
         "alt_name": null,
-        "building_id": "063",
+        "building_code": "063",
         "note": "On-campus",
         "description": "Ground floor foyer to the right of the IST Service Desk by the main entrance",
         "level": "0",
@@ -964,7 +964,7 @@
       "properties": {
         "name": "William M. Tatham Centre for Co-operative Education & Career Action (TC)",
         "alt_name": null,
-        "building_id": "045",
+        "building_code": "045",
         "note": "On-campus",
         "description": "Front main desk reception area in a case on the wall behind the desk",
         "level": "0",
@@ -992,7 +992,7 @@
       "properties": {
         "name": "Carl A. Pollock Hall (CPH)",
         "alt_name": null,
-        "building_id": "029",
+        "building_code": "029",
         "note": "On-campus",
         "description": null,
         "level": "3",
@@ -1020,7 +1020,7 @@
       "properties": {
         "name": "William G. Davis Computer Research Centre (DC)",
         "alt_name": null,
-        "building_id": "037",
+        "building_code": "037",
         "note": "On-campus",
         "description": null,
         "level": "1",
@@ -1048,7 +1048,7 @@
       "properties": {
         "name": "Douglas Wright Engineering Building (DWE)",
         "alt_name": null,
-        "building_id": "001",
+        "building_code": "001",
         "note": "On-campus",
         "description": null,
         "level": "1",
@@ -1076,7 +1076,7 @@
       "properties": {
         "name": "Engineering 2 (E2)",
         "alt_name": null,
-        "building_id": "002",
+        "building_code": "002",
         "note": "On-campus",
         "description": null,
         "level": "1",
@@ -1104,7 +1104,7 @@
       "properties": {
         "name": "Engineering 3 (E3)",
         "alt_name": null,
-        "building_id": "003",
+        "building_code": "003",
         "note": "On-campus",
         "description": null,
         "level": "1",
@@ -1132,7 +1132,7 @@
       "properties": {
         "name": "Engineering 5 (E5)",
         "alt_name": null,
-        "building_id": "053",
+        "building_code": "053",
         "note": "On-campus",
         "description": null,
         "level": "1",
@@ -1160,7 +1160,7 @@
       "properties": {
         "name": "Centre for Environmental and Information Technology (EIT)",
         "alt_name": null,
-        "building_id": "039",
+        "building_code": "039",
         "note": "On-campus",
         "description": null,
         "level": "2",
@@ -1188,7 +1188,7 @@
       "properties": {
         "name": "Energy Research Centre (ERC)",
         "alt_name": null,
-        "building_id": "048",
+        "building_code": "048",
         "note": "On-campus",
         "description": null,
         "level": "0",
@@ -1216,7 +1216,7 @@
       "properties": {
         "name": "J.R. Coutts Engineering Lecture Hall (RCH)",
         "alt_name": null,
-        "building_id": "011",
+        "building_code": "011",
         "note": "On-campus",
         "description": null,
         "level": "2",
@@ -1244,7 +1244,7 @@
       "properties": {
         "name": "J.R. Coutts Engineering Lecture Hall (RCH) - Portable",
         "alt_name": null,
-        "building_id": "",
+        "building_code": "",
         "note": "On-campus",
         "description": "At the portable behind RCH in the cabinet",
         "level": "2",
@@ -1272,7 +1272,7 @@
       "properties": {
         "name": "Health Services (HS)",
         "alt_name": null,
-        "building_id": "022",
+        "building_code": "022",
         "note": "On-campus",
         "description": "1st floor hallway Family Clinic, room 1204 (crash cart)",
         "level": "0",
@@ -1300,7 +1300,7 @@
       "properties": {
         "name": "Health Services (HS)",
         "alt_name": null,
-        "building_id": "022",
+        "building_code": "022",
         "note": "On-campus",
         "description": "1st floor hallway West Wing 1309 (crash cart)",
         "level": "0",
@@ -1328,7 +1328,7 @@
       "properties": {
         "name": "Health Services (HS)",
         "alt_name": null,
-        "building_id": "022",
+        "building_code": "022",
         "note": "On-campus",
         "description": "1st floor hallway West Wing 1311 (crash cart)",
         "level": "0",
@@ -1356,7 +1356,7 @@
       "properties": {
         "name": "Health Services (HS)",
         "alt_name": null,
-        "building_id": "022",
+        "building_code": "022",
         "note": "On-campus",
         "description": "1st floor hallway East Wing 1403 (crash cart)",
         "level": "0",
@@ -1384,7 +1384,7 @@
       "properties": {
         "name": "Health Services (HS)",
         "alt_name": null,
-        "building_id": "022",
+        "building_code": "022",
         "note": "On-campus",
         "description": "1st floor hallway West Wing 1503 (crash cart)",
         "level": "0",
@@ -1412,7 +1412,7 @@
       "properties": {
         "name": "Health Services (HS)",
         "alt_name": null,
-        "building_id": "022",
+        "building_code": "022",
         "note": "On-campus",
         "description": "2nd floor hallway outside conference room 2302",
         "level": "1",
