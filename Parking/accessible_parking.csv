@@ -1,31 +1,31 @@
 name,description,note,latitude,longitude
 O,Optometry Building (OPT),Permit,43.47582060865965,-80.54503210633384
-,Student Village 1 (V1); William Lyon Mackenzie King Village (MKV),,43.47111968920361,-80.55104258620942
-,Student Village 1 (V1); University Club (UC),,43.47211149208808,-80.54873834383558
+V1-MKV,Student Village 1 (V1); William Lyon Mackenzie King Village (MKV),,43.47111968920361,-80.55104258620942
+V1-UC,Student Village 1 (V1); University Club (UC),,43.47211149208808,-80.54873834383558
 M,Lyle S. Hallman Institute for Health Promotion (LHI); B.C. Matthews Hall (BMH),Visitor,43.47339709395617,-80.546363005513
-,Physical Activities Complex (PAC); Student Life Centre (SLC),,43.47168420988989,-80.54597809894267
-,B.C. Matthews Hall (BMH); Energy Research Centre (ERC),,43.47389629631672,-80.54471840733828
-,Mathematics 3 (M3); Mathematics & Computer Building (MC); William G. Davis Computer Research Centre (DC),,43.47288382269193,-80.54368518616727
-,Mathematics & Computer Building (MC); Mathematics 3 (M3); William G. Davis Computer Research Centre (DC),,43.47266050316475,-80.54388308341484
-,Commissary (COM); Central Services Building (CSB),,43.47435191811092,-80.54299139647125
-,William G. Davis Computer Research Centre (DC); General Services Complex (GSC),,43.47307672424381,-80.54287815256993
-,Engineering 5 (E5),,43.47334473933766,-80.54071380917523
-,Engineering 5 (E5),,43.47243266617137,-80.53981715520358
-,Engineering 6 (E6); East Campus Hall (ECH),,43.47307840979893,-80.53907755483621
+PAC-SLC,Physical Activities Complex (PAC); Student Life Centre (SLC),,43.47168420988989,-80.54597809894267
+BMH-ERC,B.C. Matthews Hall (BMH); Energy Research Centre (ERC),,43.47389629631672,-80.54471840733828
+M3-MC,Mathematics 3 (M3); Mathematics & Computer Building (MC); William G. Davis Computer Research Centre (DC),,43.47288382269193,-80.54368518616727
+Mc-M3,Mathematics & Computer Building (MC); Mathematics 3 (M3); William G. Davis Computer Research Centre (DC),,43.47266050316475,-80.54388308341484
+COM-CSB,Commissary (COM); Central Services Building (CSB),,43.47435191811092,-80.54299139647125
+DC-GSC,William G. Davis Computer Research Centre (DC); General Services Complex (GSC),,43.47307672424381,-80.54287815256993
+E5,Engineering 5 (E5),,43.47334473933766,-80.54071380917523
+E5,Engineering 5 (E5),,43.47243266617137,-80.53981715520358
+E5-ECH,Engineering 6 (E6); East Campus Hall (ECH),,43.47307840979893,-80.53907755483621
 B,Engineering 5 (E5); East Campus 2 (EC2),Permit,43.47375400665196,-80.5410334380408
-,University of Waterloo Place (UWP) Wilmot Court,,43.47071999071768,-80.53715398522576
-,"University of Waterloo Place (UWP) Wilmot Court, University of Waterloo Place (UWP) Eby Hall",,43.47082623643557,-80.53592788161649
-,University of Waterloo Place (UWP) Waterloo Court,,43.46979244155944,-80.53554399933942
-,"University of Waterloo Place (UWP) Wellesley Court, University of Waterloo Place (UWP) Beck Hall",,43.47110773969978,-80.53487124533369
-,University of Waterloo Place (UWP) Woolwich Court,,43.47111135827045,-80.53398247234942
+UWP Wilmot Court,University of Waterloo Place (UWP) Wilmot Court,,43.47071999071768,-80.53715398522576
+UWP Wilmot Court,"University of Waterloo Place (UWP) Wilmot Court, University of Waterloo Place (UWP) Eby Hall",,43.47082623643557,-80.53592788161649
+UWP Waterloo Court,University of Waterloo Place (UWP) Waterloo Court,,43.46979244155944,-80.53554399933942
+UWP Wellesley Court,"University of Waterloo Place (UWP) Wellesley Court, University of Waterloo Place (UWP) Beck Hall",,43.47110773969978,-80.53487124533369
+UWP Woolwich Court,University of Waterloo Place (UWP) Woolwich Court,,43.47111135827045,-80.53398247234942
 A,South Campus Hall (SCH),Permit,43.46895634149747,-80.53857046983835
 C,South Campus Hall (SCH),Visitor,43.46838433082806,-80.53881750834704
-,William M. Tatham Centre for Co-operative Education & Career Action (TC); South Campus Hall (SCH),,43.46884022055028,-80.54086581139049
-,"Psychology, Anthropology, Sociology (PAS); J.G. Hagey Hall of the Humanities (HH)",,43.46738809461772,-80.54199918296791
+TC-SCH,William M. Tatham Centre for Co-operative Education & Career Action (TC); South Campus Hall (SCH),,43.46884022055028,-80.54086581139049
+PAS-HH,"Psychology, Anthropology, Sociology (PAS); J.G. Hagey Hall of the Humanities (HH)",,43.46738809461772,-80.54199918296791
 T,Minota Hagey Residence (MHR),Permit,43.46537256648365,-80.54179835373799
 H,"Psychology, Anthropology, Sociology (PAS)",Permit,43.46695989799655,-80.54057374459813
 HV,South Campus Hall (SCH),Visitor,43.46857867933965,-80.53991305190023
-,Douglas Wright Engineering Building (DWE); South Campus Hall (SCH),,43.4696300130843,-80.53992480189123
-,Dana Porter Library (LIB); Modern Languages (ML),,43.46933551949604,-80.54245007405571
-,Dana Porter Library (LIB); Ira G. Needles Hall (NH),,43.46966418685307,-80.54270841011095
-,William G. Davis Computer Research Centre (DC); Chemistry 2 (C2),,43.47221825473746,-80.54241288540844
+DWE-SCH,Douglas Wright Engineering Building (DWE); South Campus Hall (SCH),,43.4696300130843,-80.53992480189123
+LIB-ML,Dana Porter Library (LIB); Modern Languages (ML),,43.46933551949604,-80.54245007405571
+LIB-NH,Dana Porter Library (LIB); Ira G. Needles Hall (NH),,43.46966418685307,-80.54270841011095
+DC-C2,William G. Davis Computer Research Centre (DC); Chemistry 2 (C2),,43.47221825473746,-80.54241288540844
