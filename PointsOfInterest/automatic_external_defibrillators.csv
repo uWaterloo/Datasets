@@ -5,46 +5,46 @@ Ron Eydt Village (REV),1st floor hallway by cafeteria computers,Residence,1,,,43
 University of Waterloo Place - Beck Hall Community Centre (UET),1st floor hallway (by cafeteria computers) across from the front desk,Residence,1,,,43.47078,-80.53469
 Student Village 1 (V1),1st floor hallway by cafeteria computers near the front desk,Residence,1,,,43.47173,-80.55012
 Allen Square Arts (ASA),Room 7007 off main entrance to department,Off-campus,7,7007,,43.46071,-80.51916
-Pharmacy (PHR),1st floor main foyer; outside the security office,Off-campus,1,,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/PHR.jpg,43.45272,-80.4987
-Digital Media Stratford (DMS),1st floor between the two washrooms - across from main reception,Off-campus,1,1809,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/Stratford.jpg,43.36793,-80.98234
-School of Architecture (ARC),1st floor by room 1110,Off-campus,1,1110,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/ARC.jpg,43.35836,-80.31652
+Pharmacy (PHR),1st floor main foyer; outside the security office,Off-campus,1,,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/PHR.jpg,43.45272,-80.4987
+Digital Media Stratford (DMS),1st floor between the two washrooms - across from main reception,Off-campus,1,1809,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/Stratford.jpg,43.36793,-80.98234
+School of Architecture (ARC),1st floor by room 1110,Off-campus,1,1110,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/ARC.jpg,43.35836,-80.31652
 Fire Research Facility (FRF),1st floor hallway outside room 106,Off-campus,1,106,,43.43644,-80.58022
 Renison University College (REN),1st floor hallway main link area/reception office,College,1,,,43.46864,-80.54714
 St. Jerome's University College (SJU),1st floor hallway outside of Siegfried Hall 1036,College,1,1036,,43.46866,-80.54553
-Biology 1 (B1),2nd floor hallway near entrance to room 271 Amphitheatre,On-campus,2,271,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/B1.jpg,43.47108,-80.54315
+Biology 1 (B1),2nd floor hallway near entrance to room 271 Amphitheatre,On-campus,2,271,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/B1.jpg,43.47108,-80.54315
 Lyle S. Hallman Institute for Health Promotion (LHI),1st floor room 1606; black cabinet by sink in Physical Assessment Lab,On-campus,1,1606,,43.47321,-80.54597
-B.C. Mathews Hall (BMH),1st floor hallway by School of Public Health; 1521A,On-campus,1,1521A,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/BMH.jpg,43.47372,-80.54526
-Chemistry 2 (C2),2nd floor; hallway outside room 261; Chemistry Office near fire hose,On-campus,2,261,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/C2.jpg,43.47194,-80.54312
-Columbia Icefield (CIF),1st floor hallway by meeting room 1101,On-campus,1,1101,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/CIF.jpg,43.47551,-80.54835
-Columbia Icefield (CIF),Inside Arena lobby to the right of concession stand,On-campus,1,7,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/CIF_Arena.jpg,43.47557,-80.54845
+B.C. Mathews Hall (BMH),1st floor hallway by School of Public Health; 1521A,On-campus,1,1521A,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/BMH.jpg,43.47372,-80.54526
+Chemistry 2 (C2),2nd floor; hallway outside room 261; Chemistry Office near fire hose,On-campus,2,261,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/C2.jpg,43.47194,-80.54312
+Columbia Icefield (CIF),1st floor hallway by meeting room 1101,On-campus,1,1101,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/CIF.jpg,43.47551,-80.54835
+Columbia Icefield (CIF),Inside Arena lobby to the right of concession stand,On-campus,1,7,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/CIF_Arena.jpg,43.47557,-80.54845
 Commissary (COM),1st floor; hallway by room 112,On-campus,1,112,,43.47416,-80.54278
 Dana Porter Library (LIB),2nd floor hallway by room 229; behind circulation desk,On-campus,2,229,,43.46963,-80.54234
-William G. Davis Computer Research Centre (DC),Inside Library behind circulation Desk; room 1511,On-campus,1,1511,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/DC_Library.jpg,43.47259,-80.54209
+William G. Davis Computer Research Centre (DC),Inside Library behind circulation Desk; room 1511,On-campus,1,1511,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/DC_Library.jpg,43.47259,-80.54209
 East Campus Hall (ECH),1st floor hallway by room 128 Receiving Area Central Stores,On-campus,1,128,,43.47384,-80.53907
-Centre for Environmental and Information Technology (EIT),1st floor hallway right of elevator; closest room 1010,On-campus,1,1010,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/EIT_GroundFloor.jpg,43.47175,-80.54204
+Centre for Environmental and Information Technology (EIT),1st floor hallway right of elevator; closest room 1010,On-campus,1,1010,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/EIT_GroundFloor.jpg,43.47175,-80.54204
 Engineering 5 (E5),1st floor hallway outside room 1103,On-campus,1,1103,,43.47251,-80.53986
-J.G. Hagey Hall of the Humanities (HH),1st floor hallway across from room 116 by the payphone; near the Theatre Centre,On-campus,1,116,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/HH.jpg,43.46803,-80.54154
-Ira G. Needles Hall (NH),2nd floor hallway by the elevator; by room 2026,On-campus,2,2026,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/NH.jpg,43.46973,-80.54361
-Optometry Building (OPT),1st floor hallway by room 142 administration desk area; Optometry Clinic,On-campus,1,142,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/OPT.jpg,43.47584,-80.54559
-Physical Activities Complex (PAC),Equipment desk; Athletics,On-campus,1,1054,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/PAC_Desk.jpg,43.47245,-80.54597
-Physical Activities Complex (PAC),1st floor pool area; outside of pool office,On-campus,1,1066,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/PAC_Pool.jpg,43.4726,-80.54604
-Physical Activities Complex (PAC),Fitness centre inside the door to the left,On-campus,1,1100,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/PAC_Fitness.jpg,43.47198,-80.54597
-Physics (PHY),2nd floor hallway outside Physics Office; near stairwell across from men's washroom,On-campus,2,239,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/PHY.jpg,43.47064,-80.54158
-Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC),2nd floor hallway outside room 2216 beside kitchen; Institute for Quantum Computing,On-campus,2,2216,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/QNC_IQC.jpg,43.47132,-80.54445
+J.G. Hagey Hall of the Humanities (HH),1st floor hallway across from room 116 by the payphone; near the Theatre Centre,On-campus,1,116,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/HH.jpg,43.46803,-80.54154
+Ira G. Needles Hall (NH),2nd floor hallway by the elevator; by room 2026,On-campus,2,2026,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/NH.jpg,43.46973,-80.54361
+Optometry Building (OPT),1st floor hallway by room 142 administration desk area; Optometry Clinic,On-campus,1,142,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/OPT.jpg,43.47584,-80.54559
+Physical Activities Complex (PAC),Equipment desk; Athletics,On-campus,1,1054,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/PAC_Desk.jpg,43.47245,-80.54597
+Physical Activities Complex (PAC),1st floor pool area; outside of pool office,On-campus,1,1066,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/PAC_Pool.jpg,43.4726,-80.54604
+Physical Activities Complex (PAC),Fitness centre inside the door to the left,On-campus,1,1100,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/PAC_Fitness.jpg,43.47198,-80.54597
+Physics (PHY),2nd floor hallway outside Physics Office; near stairwell across from men's washroom,On-campus,2,239,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/PHY.jpg,43.47064,-80.54158
+Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC),2nd floor hallway outside room 2216 beside kitchen; Institute for Quantum Computing,On-campus,2,2216,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/QNC_IQC.jpg,43.47132,-80.54445
 Research Advancement Centre (RAC),1st floor hallway east corridor; outside room 1809,On-campus,1,1809,,43.47881,-80.5547
 Research Advancement Centre 2 (RA2),1st floor hallway east corridor; outside room 1802,On-campus,1,1802,,43.47833,-80.55529
-Student Life Centre (SLC),1st floor Turnkey Desk - Great Hall,On-campus,1,1505,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/SLC.jpg,43.47157,-80.54565
-Engineering 6 (E6),1st floor hallway beside elevator; by room 1817,On-campus,1,1817,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/E6.jpg,43.47312,-80.53879
-Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC),3rd floor hallway corner of room 3608 by elevator; Waterloo Institute for Nanotechnology,On-campus,3,3608,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/QNC_WIN.jpg,43.47113,-80.54372
-East Campus 2 (EC2),1st floor foyer next to glass window by IST service desk,On-campus,1,1001,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/EC2.jpg,43.47113,-80.54372
-William M. Tatham Centre for Co-operative Education & Career Action (TC),1st floor hallway front main desk reception area in a case on the wall behind the information desk,On-campus,1,1203,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/TC.jpg,43.46898,-80.54121
-Carl A. Pollock Hall (CPH),4th floor hallway by room 4343; across from Women's Washroom,On-campus,4,4343,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/CPH.jpg,43.47104,-80.53933
-William G. Davis Computer Research Centre (DC),(CIM section) 2nd floor hallway by room 2741,On-campus,2,2741,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/DC.jpg,43.47185,-80.54138
-Douglas Wright Engineering Building (DWE),2nd floor hallway across from room 2401; beside Women's washroom,On-campus,2,2401,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/DWE.jpg,43.47019,-80.53955
-Engineering 2 (E2),2nd floor hallway outside room 2350,On-campus,2,2350,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/E2.jpg,43.47098,-80.54035
-Engineering 3 (E3),2nd floor hallway outside room 2101A,On-campus,2,2101A,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/E3.jpg,43.47134,-80.54066
-Engineering 5 (E5),2nd floor hallway outside room 2102,On-campus,2,2102,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/E5.jpg,43.47283,-80.53995
-Centre for Environmental and Information Technology (EIT),3rd floor hallway by elevator and stairwell,On-campus,3,1901,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/EIT_ThirdFloor.jpg,43.47144,-80.54179
+Student Life Centre (SLC),1st floor Turnkey Desk - Great Hall,On-campus,1,1505,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/SLC.jpg,43.47157,-80.54565
+Engineering 6 (E6),1st floor hallway beside elevator; by room 1817,On-campus,1,1817,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/E6.jpg,43.47312,-80.53879
+Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC),3rd floor hallway corner of room 3608 by elevator; Waterloo Institute for Nanotechnology,On-campus,3,3608,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/QNC_WIN.jpg,43.47113,-80.54372
+East Campus 2 (EC2),1st floor foyer next to glass window by IST service desk,On-campus,1,1001,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/EC2.jpg,43.47113,-80.54372
+William M. Tatham Centre for Co-operative Education & Career Action (TC),1st floor hallway front main desk reception area in a case on the wall behind the information desk,On-campus,1,1203,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/TC.jpg,43.46898,-80.54121
+Carl A. Pollock Hall (CPH),4th floor hallway by room 4343; across from Women's Washroom,On-campus,4,4343,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/CPH.jpg,43.47104,-80.53933
+William G. Davis Computer Research Centre (DC),(CIM section) 2nd floor hallway by room 2741,On-campus,2,2741,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/DC.jpg,43.47185,-80.54138
+Douglas Wright Engineering Building (DWE),2nd floor hallway across from room 2401; beside Women's washroom,On-campus,2,2401,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/DWE.jpg,43.47019,-80.53955
+Engineering 2 (E2),2nd floor hallway outside room 2350,On-campus,2,2350,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/E2.jpg,43.47098,-80.54035
+Engineering 3 (E3),2nd floor hallway outside room 2101A,On-campus,2,2101A,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/E3.jpg,43.47134,-80.54066
+Engineering 5 (E5),2nd floor hallway outside room 2102,On-campus,2,2102,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/E5.jpg,43.47283,-80.53995
+Centre for Environmental and Information Technology (EIT),3rd floor hallway by elevator and stairwell,On-campus,3,1901,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/EIT_ThirdFloor.jpg,43.47144,-80.54179
 Energy Research Centre (ERC),1st floor hallway by room 1901 men's washroom,On-campus,1,1901,,43.47352,-80.54441
-J.R. Coutts Engineering Lecture Hall (RCH),3rd floor hallway outside room 309 in foyer,On-campus,3,309,https://github.com/jmtjendra/Datasets/tree/master/PointsOfInterest/AEDImages/RCH.jpg,43.47041,-80.54076
+J.R. Coutts Engineering Lecture Hall (RCH),3rd floor hallway outside room 309 in foyer,On-campus,3,309,https://raw.githubusercontent.com/uWaterloo/Datasets/master/PointsOfInterest/AEDImages/RCH.jpg,43.47041,-80.54076
 Health Services (HS),2nd floor hallway outside conference room 2302,On-campus,2,2302,,43.47042,-80.54599
