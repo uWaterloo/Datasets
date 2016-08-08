@@ -1,0 +1,1337 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia Lake Village (CLV)",
+        "note": "Residence",
+        "description": "Between the male and female washrooms (across from the front desk)",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56244,
+          43.47082,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MacKenzie King Village (MKV)",
+        "note": "Residence",
+        "description": "Across from the front desk",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:province": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55202,
+          43.47118,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ron Eydt Village (REV)",
+        "note": "Residence",
+        "description": "By cafeteria computers",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55402,
+          43.47025,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Waterloo Place (UWP) - Beck Hall Community Centre (UET)",
+        "note": "Residence",
+        "description": "By cafeteria computers (across from the front desk)",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53469,
+          43.47078,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Student Village 1 (V1)",
+        "note": "Residence",
+        "description": "By cafeteria computers near the front desk",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55012,
+          43.47173,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allen Square Arts (ASA)",
+        "note": "Off-campus",
+        "description": "Off the main entrance to the department",
+        "level": "6",
+        "ref": "7007",
+        "source_ref": null,
+        "addr:unit": "700",
+        "addr:housenumber": "180",
+        "addr:street": "King Street South",
+        "addr:city": "Waterloo",
+        "addr:province": "ON",
+        "addr:postcode": "N2J 1P8",
+        "addr:country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.51916,
+          43.46071,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pharmacy (PHR)",
+        "note": "Off-campus",
+        "description": "First floor outside the security office",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": "10A",
+        "addr:street": "Victoria Street South",
+        "addr:city": "Kitchener",
+        "addr:postcode": "N2G 1C5",
+        "addr:province": "ON",
+        "addr:country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4987,
+          43.45272,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Media Stratford (DMS)",
+        "note": "Off-campus",
+        "description": "1st floor between the two washrooms - across from main reception",
+        "level": "0",
+        "ref": "1809",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": "125",
+        "addr:street": "St. Patrick Street",
+        "addr:city": "Stratford",
+        "addr:postcode": "N5A 0C1",
+        "addr:province": "ON",
+        "addr:country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.98234,
+          43.36793,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School of Architecture (ARC)",
+        "note": "Off-campus",
+        "description": "1st floor by room 1110",
+        "level": "0",
+        "ref": "1110",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": "7",
+        "addr:street": "Melville Street South",
+        "addr:city": "Cambridge",
+        "addr:province": "ON",
+        "addr:postcode": "N1S 2H4",
+        "addr:country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31652,
+          43.35836,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fire Research Facility (FRF)",
+        "note": "Off-campus",
+        "description": "1st floor hallway outside room 106",
+        "level": "0",
+        "ref": "106",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": "1001",
+        "addr:street": "Erb's Road, RR 3",
+        "addr:city": "Waterloo",
+        "addr:province": "ON",
+        "addr:postcode": "N2J 3Z4",
+        "addr:country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58022,
+          43.43644,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renison University College (REN)",
+        "note": "College",
+        "description": "1st floor hallway main link area/reception office",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": "240",
+        "addr:street": "Westmount Road North",
+        "addr:city": "Waterloo",
+        "addr:province": "ON",
+        "addr:postcode": "N2L 3G4",
+        "addr:country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54714,
+          43.46864,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biology 1 (B1)",
+        "note": "On-campus",
+        "description": "2nd floor hallway near entrance to the Amphitheatre (room 271)",
+        "level": "1",
+        "ref": "271",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54315,
+          43.47108,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyle S. Hallman Institute for Health Promotion (LHI)",
+        "note": "On-campus",
+        "description": "In the black cabinet by the sink, Physical Assessment Lab",
+        "level": "0",
+        "ref": "1606",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54597,
+          43.47321,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chemistry 2 (C2)",
+        "note": "On-campus",
+        "description": "Outside Chemistry Office (room 280), near the fire hose",
+        "level": "1",
+        "ref": "280",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54312,
+          43.47194,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia Icefield (CIF)",
+        "note": "On-campus",
+        "description": "Main desk area, near the Arena",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54835,
+          43.47551,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commissary (COM)",
+        "note": "On-campus",
+        "description": "By room 112",
+        "level": "0",
+        "ref": "112",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54278,
+          43.47416,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dana Porter Library (LIB)",
+        "note": "On-campus",
+        "description": "Circulation desk (room 229)",
+        "level": "1",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54234,
+          43.46963,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William G. Davis Computer Research Centre (DC)",
+        "note": "On-campus",
+        "description": "Circulation desk (room 1511)",
+        "level": "0",
+        "ref": "1511",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54209,
+          43.47259,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Campus Hall (ECH)",
+        "note": "On-campus",
+        "description": "Room 128, Receiving Area, Central Stores",
+        "level": 0,
+        "ref": 128,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53907,
+          43.47384,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre for Environmental and Information Technology (EIT)",
+        "note": "On-campus",
+        "description": "Ground floor to the right of the elevator",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54204,
+          43.47175,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engineering 5 (E5)",
+        "note": "On-campus",
+        "description": "Room 1103",
+        "level": "0",
+        "ref": "1103",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53986,
+          43.47251,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J.G. Hagey Hall of the Humanities (HH)",
+        "note": "On-campus",
+        "description": "Across from room 116 by the payphone, near the Theatre Centre",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54154,
+          43.46803,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ira G. Needles Hall (NH)",
+        "note": "On-campus",
+        "description": "Second floor by the elevator",
+        "level": "1",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54361,
+          43.46973,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Optometry Building (OPT)",
+        "note": "On-campus",
+        "description": "Administration desk area (room 142), Optometry Clinics",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54559,
+          43.47584,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Physical Activities Complex (PAC)",
+        "note": "On-campus",
+        "description": "Tote Desk - Athletics",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54597,
+          43.47245,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Physical Activities Complex (PAC)",
+        "note": "On-campus",
+        "description": "Pool area",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54604,
+          43.4726,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Physics (PHY)",
+        "note": "On-campus",
+        "description": "Second floor outside Physics Office, near stairwell across from men's washroom",
+        "level": "1",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54158,
+          43.47064,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC)",
+        "note": "On-campus",
+        "description": "Room 2216, beside the kitchen, Institute for Quantum Computing",
+        "level": "1",
+        "ref": "2216",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54445,
+          43.47132,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Research Advancement Centre (RAC)",
+        "note": "On-campus",
+        "description": "East corridor, outside room 1809",
+        "level": "0",
+        "ref": "1809",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5547,
+          43.47881,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Research Advancement Centre 2 (RA2)",
+        "note": "On-campus",
+        "description": "East corridor, outside room 1802",
+        "level": "0",
+        "ref": "1802",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55529,
+          43.47833,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Student Life Centre (SLC)",
+        "note": "On-campus",
+        "description": "Turnkey Desk at Great Hall",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54565,
+          43.47157,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engineering 6 (E6)",
+        "note": "On-campus",
+        "description": "Ground floor to the right of the elevator",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53879,
+          43.47312,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mike & Ophelia Lazaridis Quantum-Nano Centre (QNC)",
+        "note": "On-campus",
+        "description": "Third floor, south corridor by the elevator",
+        "level": "2",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54372,
+          43.47113,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Campus 2 (EC2)",
+        "note": "On-campus",
+        "description": "Ground floor foyer to the right of the IST Service Desk by the main entrance",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54132,
+          43.47477,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William M. Tatham Centre for Co-operative Education & Career Action (TC)",
+        "note": "On-campus",
+        "description": "Front main desk reception area in a case on the wall behind the desk",
+        "level": "0",
+        "ref": null,
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54121,
+          43.46898,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl A. Pollock Hall (CPH)",
+        "note": "On-campus",
+        "description": null,
+        "level": "3",
+        "ref": "4343",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53933,
+          43.47104,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William G. Davis Computer Research Centre (DC)",
+        "note": "On-campus",
+        "description": null,
+        "level": "1",
+        "ref": "2741",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54138,
+          43.47185,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douglas Wright Engineering Building (DWE)",
+        "note": "On-campus",
+        "description": null,
+        "level": "1",
+        "ref": "2401",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53955,
+          43.47019,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engineering 2 (E2)",
+        "note": "On-campus",
+        "description": null,
+        "level": "1",
+        "ref": "2350",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54035,
+          43.47098,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engineering 3 (E3)",
+        "note": "On-campus",
+        "description": null,
+        "level": "1",
+        "ref": "2101A",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54066,
+          43.47134,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engineering 5 (E5)",
+        "note": "On-campus",
+        "description": null,
+        "level": "1",
+        "ref": "2102",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53995,
+          43.47283,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre for Environmental and Information Technology (EIT)",
+        "note": "On-campus",
+        "description": null,
+        "level": "2",
+        "ref": "1901",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54179,
+          43.47144,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Energy Research Centre (ERC)",
+        "note": "On-campus",
+        "description": null,
+        "level": "0",
+        "ref": "1901",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54441,
+          43.47352,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J.R. Coutts Engineering Lecture Hall (RCH)",
+        "note": "On-campus",
+        "description": null,
+        "level": "2",
+        "ref": "309",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54076,
+          43.47041,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J.R. Coutts Engineering Lecture Hall (RCH) - Portable",
+        "note": "On-campus",
+        "description": "At the portable behind RCH in the cabinet",
+        "level": "2",
+        "ref": "309",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54032,
+          43.47051,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health Services (HS)",
+        "note": "On-campus",
+        "description": "1st floor hallway Family Clinic, room 1204 (crash cart)",
+        "level": "0",
+        "ref": "1204",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54596,
+          43.47064,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health Services (HS)",
+        "note": "On-campus",
+        "description": "1st floor hallway West Wing 1309 (crash cart)",
+        "level": "0",
+        "ref": "1309",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54613,
+          43.47040,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health Services (HS)",
+        "note": "On-campus",
+        "description": "1st floor hallway West Wing 1311 (crash cart)",
+        "level": "0",
+        "ref": "1311",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54621,
+          43.47041,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health Services (HS)",
+        "note": "On-campus",
+        "description": "1st floor hallway East Wing 1403 (crash cart)",
+        "level": "0",
+        "ref": "1403",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54617,
+          43.47031,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health Services (HS)",
+        "note": "On-campus",
+        "description": "1st floor hallway West Wing 1503 (crash cart)",
+        "level": "0",
+        "ref": "1503",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54599,
+          43.47034,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health Services (HS)",
+        "note": "On-campus",
+        "description": "2nd floor hallway outside conference room 2302",
+        "level": "1",
+        "ref": "2302",
+        "source_ref": null,
+        "addr:unit": null,
+        "addr:housenumber": null,
+        "addr:street": null,
+        "addr:city": null,
+        "addr:province": null,
+        "addr:postcode": null,
+        "addr:country": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54596,
+          43.47041,
+          0
+        ]
+      }
+    }
+  ]
+}
