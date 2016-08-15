@@ -1,21 +1,21 @@
-description,location,is_cancelled,location_tbd,buildng,room,note,latitude,longitude
-"Opening Ceremonies","Mathematics 3",0,0,M3,,,43.47325,-80.54405
-"Closing Ceremonies","Mathematics 3",0,0,M3,,,43.47325,-80.54405
-"Canadian Ninja Warrior","SLC Great Hall",0,0,SLC,1122,,43.47162,-80.54535
-"Ultimeate Frisbee",,1,0,,,,0,0
-"Doc-u-short Festival",QNC,0,0,QNC,,,43.47126,-80.54419
-Lipsyncing,"STC 1012",0,0,STC,1012,,43.4706,-80.5438
-"Lions Lair","Hagey Hall",0,0,HH,,,43.46793,-80.54145
-"Boat Building","CPH Courtyard",0,0,CPH,,,43.47065,-80.53947
-"Capture the Calculus",,1,0,,,,0,0
-Geocashing,"EV1 Courtyard",0,0,EV,250,,43.46835,-80.54263
-"Escape Rooms",MC,0,0,,,,43.47216,-80.54395
-"Reaction Rocketeering",,1,0,,,,0,0
-"Human Checkers","RCH 207",0,0,RCH,207,,43.47034,-80.54075
-"Coffee Run",TBD,0,1,,,,0,0
-Sardines,PAS,0,0,PAS,,,43.46729,-80.54238
-"Human Knot",TBD,0,1,,,,0,0
-"Human Bingo",TBD,0,1,,,,0,0
-"Elf, Goblins, Wizards",TBD,0,1,,,,0,0
-"Huckle Buckle","SLC Lower Atrium",0,0,SLC,54,,43.47179,-80.54527
-"Puzzle Pieces","DC Foyer",0,0,DC,1800,,43.47285,-80.54264
+name,description,location,is_cancelled,location_tbd,buildng,room,note,latitude,longitude
+"Opening Ceremonies",,"Mathematics 3",0,0,M3,,,43.47325,-80.54405
+"Closing Ceremonies",,"Mathematics 3",0,0,M3,,,43.47325,-80.54405
+"Canadian Ninja Warrior",,"SLC Great Hall",0,0,SLC,1122,,43.47162,-80.54535
+"Ultimeate Frisbee",,,1,0,,,,0,0
+"Doc-u-short Festival",,QNC,0,0,QNC,,,43.47126,-80.54419
+Lipsyncing,,"STC 1012",0,0,STC,1012,,43.4706,-80.5438
+"Lions Lair",,"Hagey Hall",0,0,HH,,,43.46793,-80.54145
+"Boat Building",,"CPH Courtyard",0,0,CPH,,,43.47065,-80.53947
+"Capture the Calculus",,,1,0,,,,0,0
+Geocashing,,"EV1 Courtyard",0,0,EV,250,,43.46835,-80.54263
+"Escape Rooms",,MC,0,0,,,,43.47216,-80.54395
+"Reaction Rocketeering",,,1,0,,,,0,0
+"Human Checkers",,"RCH 207",0,0,RCH,207,,43.47034,-80.54075
+"Coffee Run",,TBD,0,1,,,,0,0
+Sardines,,PAS,0,0,PAS,,,43.46729,-80.54238
+"Human Knot",,TBD,0,1,,,,0,0
+"Human Bingo",,TBD,0,1,,,,0,0
+"Elf, Goblins, Wizards",,TBD,0,1,,,,0,0
+"Huckle Buckle",,"SLC Lower Atrium",0,0,SLC,54,,43.47179,-80.54527
+"Puzzle Pieces",,"DC Foyer",0,0,DC,1800,,43.47285,-80.54264
