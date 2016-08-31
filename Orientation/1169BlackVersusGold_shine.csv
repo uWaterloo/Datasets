@@ -1,21 +1,21 @@
 name,description,location,is_cancelled,location_tbd,buildng,room,note,latitude,longitude
-"Opening Ceremonies",,"BMH Green",0,0,,,,43.47329,-80.54477
-"Closing Ceremonies",,"BMH Green",0,0,,,,43.47329,-80.54477
-"Canadian Ninja Warrior",,"V1 Green",0,0,,,,43.47114,-80.54784
-"Ultimeate Frisbee",,"V1 Green",0,0,,,,43.47114,-80.54784
-"Doc-u-short Festival",,QNC,0,0,QNC,,,43.47126,-80.54419
-Lipsyncing,,"STC 1012",0,0,STC,1012,,43.4706,-80.5438
-"Lions Lair",,"Hagey Hall",0,0,HH,,,43.46793,-80.54145
-"Boat Building",,"CPH Courtyard",0,0,,,,43.47065,-80.53947
-"Capture the Calculus",,"ML Green",0,0,,,,43.46885,-80.54355
-Geocashing,,"EV3 Green",0,0,,,,43.46885,-80.54355
-"Escape Rooms",,MC,0,0,,,,43.47216,-80.54395
-"Reaction Rocketeering",,"V1 Green",0,0,,,,43.47114,-80.54784
-"Human Checkers",,"Arts Quad",0,0,,,,43.46923,-80.54214
-"Coffee Run",,"SLC Courtyard",0,0,,,,43.47192,-80.54496
-Sardines,,PAS,0,0,PAS,,,43.46729,-80.54238
-"Human Knot",,"RCH Courtyard",0,0,,,,43.47025,-80.54021
-"Human Bingo",,"Physics Courtyard",0,0,,,,43.47033,-80.54165
-"Elf, Goblins, Wizards",,"Physics Green",0,0,,,,43.47094,-80.54207
-"Huckle Buckle",,"SLC Lower Atrium",0,0,SLC,0504,,43.47179,-80.54527
-"Puzzle Pieces",,"DC Courtyard",0,0,,,,43.4725,-80.54296
+Opening Ceremonies,Do you bleed black or gold? Head here to find out!,BMH Green,0,0,,,,43.47329,-80.54477
+Closing Ceremonies,Come see how you and your friends did! Will Black or Gold take the crown? ,BMH Green,0,0,,,,43.47329,-80.54477
+Canadian Ninja Warrior,Climb and slide your way through our inflatable obstacle course to battle for points!,V1 Green,0,0,,,,43.47114,-80.54784
+Ultimeate Frisbee,"A timeless classic where you can run, jump and catch your way to victory for your team",V1 Green,0,0,,,,43.47114,-80.54784
+Doc-u-short Festival,"Don't just watch documentaries on Netflix—make one yourself! Direct, produce & film your own short documentary with a surprise topic.",QNC,0,0,QNC,,,43.47126,-80.54419
+Lipsyncing,Unleash your inner rockstar in the Science Teaching Complex.,STC 1012,0,0,STC,1012,,43.4706,-80.5438
+Lions Lair,It's Dragon Den-- UW-style! Design your idea and pitch it to a panel of entrepreneurs with help from Waterloo's entrepreneurial ecosystem.,Hagey Hall,0,0,HH,,,43.46793,-80.54145
+Boat Building,All aboard! Can you build a boat fit for the sea?,CPH Courtyard,0,0,,,,43.47065,-80.53947
+Capture the Calculus,Have YOU studied? No? That's okay! Come help your team find X(am)!,ML Green,0,0,,,,43.46885,-80.54355
+Geocashing,Are you ready to Cache-in some points? Learn about Geocaching and win some points for your team!,EV3 Green,0,0,,,,43.46885,-80.54355
+Escape Rooms,Legends say those who find themselves in the University of Underloo never return. Will you escape to tell the tale?,MC,0,0,,,,43.47216,-80.54395
+Reaction Rocketeering,How far can you launch a rocket filled with vinegar and baking soda? Create the perfect formula to see!,V1 Green,0,0,,,,43.47114,-80.54784
+Human Checkers,Tacticians and Strategists unite in a game of lifesized checkers! Work together to win and earn points for your team!,Arts Quad,0,0,,,,43.46923,-80.54214
+Coffee Run,"It's important to be highly caffeinated as a UWaterloo student, so come out for this fast paced iNews sponsored event!",SLC Courtyard,0,0,,,,43.47192,-80.54496
+Sardines,"They say the Psychology, Anthropology & Sociology building was built to be complex and twisty like a brain—will you find the leaders hidden within?",PAS,0,0,PAS,,,43.46729,-80.54238
+Human Knot,Get your team into a mess of your own making and use your brains & teamwork to get yourselves out!,RCH Courtyard,0,0,,,,43.47025,-80.54021
+Human Bingo,B-I-N-G-O is not how you spell the names of the new friends you'll meet in this activity!,Physics Courtyard,0,0,,,,43.47033,-80.54165
+"Elf, Goblins, Wizards","#teamelf, #teamgoblin, or #teamwizard? Pick one and face off in the biggest magical war of the century.",Physics Green,0,0,,,,43.47094,-80.54207
+Huckle Buckle,High intensity test of your new found friendships!,SLC Lower Atrium,0,0,SLC,0504,,43.47179,-80.54527
+Puzzle Pieces,,DC Courtyard,0,0,,,,43.4725,-80.54296
