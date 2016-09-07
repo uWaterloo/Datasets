@@ -230,7 +230,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 811,STJ-FR,STJ,St. Jerome's University Finn Residence,STJ|St. Jerome's,43.46926818,-80.54588395,1,,,,
 812,STJ-LH,STJ,St. Jerome's University Louis Hall,,43.46926818,-80.54588395,1,,,,
 813,STJ-CB,STJ,St. Jerome's University Classroom Building,,43.46926818,-80.54588395,1,,,,
-814,STJ,STJ,St. Jerome's University Library Addition,,43.46926818,-80.54588395,1,,,,
+814,STJ-AC,STJ,St. Jerome's University Academic Centre,,43.46926818,-80.54588395,1,,,,
 815,STJ,STJ,St. Jerome's University Siegfried Hall,,43.46926818,-80.54588395,1,,,,
 820,REN,,Renison University College,REN|Renison,,,1,43.46884,-80.5474,RIcrH6yveY8,al01
 821,REN-OB,REN,Renison University College Original Building,REN|Renison,43.46881657,-80.54762202,1,,,,
