@@ -1,0 +1,9 @@
+name,short_name,description,ref,capacity,booking_information,opening_hours,latitude,longitude
+"Student Life Centre, 3rd Floor",SLC-3,"3rd floor, beside the Quiet Study Room","SLC 3109",130,"Through Turnkey Desk",24/7,43.4716,-80.5454
+"Student Life Centre, 1st Floor",SLC-1,"1st floor, room 0138, beside Watcard Office from the SLC atrium","SLC 1120",15,"(if locked, check with Turnkey Desk)","08:00-22:00; PH 08:00-22:00",43.4716,-80.5454
+"Davis Centre",DC,"3rd floor, end of hallway","DC 3830",8,,24/7,43.4727,-80.5421
+"Optometry 104B",OPT-104B,,"OPT 104",,,"Mo-Fr open; PH closed",43.4759,-80.5455
+"Optometry 1119",OPT-1119,,"OPT 1119",20,"Jennifer Fleet",24/7,43.4759,-80.5455
+"Mackenzie King Village",MKV,"Beside the Laundry Room",,,,24/7,43.4715,-80.5527
+"Physical Activities Complex",PAC,"Studio 1","PAC 2024",30,"Books through Muslim Students' Association (MSA)",24/7,43.4724,-80.5461
+"Math and Computer",MC,"MC 2018A and B","MC 2018",50,"Books through Muslim Students' Association (MSA)",24/7,43.472,-80.5439
