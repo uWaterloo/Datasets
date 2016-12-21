@@ -1,11 +1,11 @@
 name,description,route,note,latitude,longitude
-U.W. - B.C. Matthews Hall,GRT Stop 2519,North and South,,43.47403,-80.54587
-U.W. - Davis Centre,,North and South,GRT Stop 1123,43.47276,-80.54122
-U.W. - Engineering,GRT Stop 1124,North and South,,43.4694,-80.53949
-U.W. - South Campus Hall,GRT Stop 2515,North and South,,43.46861,-80.54021
-U.W. - Environment 3,GRT Stop 2516,North and South,,43.46796,-80.54362
-U.W. - Needles Hall,GRT Stop 2517,North and South,GRT Stop 2517,43.4696,-80.54387
-U.W. - University Club,GRT Stop 2518,North and South,,43.47271,-80.54794
+U.W. - B.C. Matthews Hall,GRT stop 2519,North and South,,43.47403,-80.54587
+U.W. - Davis Centre,GRT stop 1123,North and South,,43.47276,-80.54122
+U.W. - Engineering,GRT stop 1124,North and South,,43.4694,-80.53949
+U.W. - South Campus Hall,GRT stop 2515,North and South,,43.46861,-80.54021
+U.W. - Environment 3,GRT stop 2516,North and South,,43.46796,-80.54362
+U.W. - Needles Hall,GRT stop 2517,North and South,,43.4696,-80.54387
+U.W. - University Club,GRT stop 2518,North and South,,43.47271,-80.54794
 V1,Entrance to Lot J,North,,43.47275,-80.55007
 MKV,Entrance to Lot S,North,,43.47162,-80.55322
 REV,Entrance to Lot V,North,,43.47093,-80.55425
