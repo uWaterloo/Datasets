@@ -1,18 +1,18 @@
 name,description,route,note,latitude,longitude
-BMH,,North and South,
-DC,,North and South,
-DWE,,North and South,
-SCH,,North and South,
-EV3,,North and South,
-NH,,North and South,
-UC,,North and South,
-V1,,North,
-MKV,,North,
-REV,,North,
-CLV,,North,
-CLN,,North,
-STP,,North,
-REN,,North,
-Lot X,,South,
-CIF,,South,
-UWP,,South,
+U.W. - B.C. Matthews Hall,GRT Stop 2519,North and South,,43.47403,-80.54587
+U.W. - Davis Centre,,North and South,GRT Stop 1123,43.47276,-80.54122
+U.W. - Engineering,GRT Stop 1124,North and South,,43.4694,-80.53949
+U.W. - South Campus Hall,GRT Stop 2515,North and South,,43.46861,-80.54021
+U.W. - Environment 3,GRT Stop 2516,North and South,,43.46796,-80.54362
+U.W. - Needles Hall,GRT Stop 2517,North and South,GRT Stop 2517,43.4696,-80.54387
+U.W. - University Club,GRT Stop 2518,North and South,,43.47271,-80.54794
+V1,Entrance to Lot J,North,,43.47275,-80.55007
+MKV,Entrance to Lot S,North,,43.47162,-80.55322
+REV,Entrance to Lot V,North,,43.47093,-80.55425
+Columbia Lake Village (CLV),,North,,43.47028,-80.56166
+Columbia Lake Village North (CLN),,North,,43.47209,-80.56287
+STP,,North,,43.46688,-80.54618
+REN,,North,,43.46941,-80.54737
+Lot X,,South,In between parking Lot X,43.47711,-80.54622
+Columbia Icefield (CIF),East building entrance at the roundabout,South,,43.47559,-80.54827
+UW Place Beck Hall (UET),South building entrance at the parking lot,South,,43.47062,-80.53455
