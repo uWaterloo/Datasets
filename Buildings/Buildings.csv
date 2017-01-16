@@ -132,7 +132,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 51,RAC,,Research Advancement Centre,RAC1|IQC|Institute for Quantum Computing,43.47884,-80.55498,1,43.47884,-80.55485,,
 52,IHB,,Integrated Health Building,,43.452311,-80.499208,1,43.45236,-80.49919,,
 53,E5,,Engineering 5,,43.472953,-80.540085,1,43.47284,-80.54,OiLZjrYh-9k,bgrb
-54,STC,,Science Teaching Complex,,,,1,43.47064,-80.54338,,
+54,STC,,Science Teaching Complex,,43.47064,-80.54338,1,43.47064,-80.54338,,
 55,DMS,,Digital Media Stratford,,43.367830,-80.982100,1,43.3679,-80.98213,,
 56,M3,,Mathematics 3,,43.47320425,-80.5440498295589,1,43.47327,-80.54405,,
 57,EV3,,Environment 3,,43.468159,-80.543376,1,43.4682,-80.54337,-ldmmQmkzaE,fdh0
