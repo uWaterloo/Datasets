@@ -1,0 +1,1 @@
+Cropped to square, then resized to 200 px by 200 px.
