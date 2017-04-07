@@ -1,7 +1,7 @@
-name,description,latitude,longitude
-RCH secure bike locker,Outside of RCH (West),43.47030,-80.54107
-EV1 secure bike locker,Outside of EV1 (South),43.46803,-80.54250
-NH secure bike locker,Outside of NH (East),43.46967,-80.54306
-M3 secure bike locker,Outside of M3 (West),43.47296,-80.54430
-E5 secure bike locker,Outside of E5 (South),43.47224,-80.53977
-E6 secure bike locker,Outside of E6,43.47283,-80.53891
+name,description,capacity,email,website,latitude,longitude
+J.R. Coutts Engineering Lecture Hall (RCH),West of RCH building,4 bikes,uparking@uwaterloo.ca,https://uwaterloo.ca/parking/bike-locker-program,43.47030,-80.54107
+Environment 1 (EV1),South of EV1 building,4 bikes,uparking@uwaterloo.ca,https://uwaterloo.ca/parking/bike-locker-program,43.46803,-80.54250
+Ira G. Needles Hall (NH),East of NH building,4 bikes,uparking@uwaterloo.ca,https://uwaterloo.ca/parking/bike-locker-program,43.46967,-80.54306
+Mathematics 3 (M3),West of M3 building,4 bikes,uparking@uwaterloo.ca,https://uwaterloo.ca/parking/bike-locker-program,43.47296,-80.54430
+Engineering 5 (E5),South of E5 building,4 bikes,uparking@uwaterloo.ca,https://uwaterloo.ca/parking/bike-locker-program,43.47224,-80.53977
+Engineering 6 (E6),West of E6 building,4 bikes,uparking@uwaterloo.ca,https://uwaterloo.ca/parking/bike-locker-program,43.47283,-80.53891
