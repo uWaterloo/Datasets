@@ -1,13 +1,13 @@
-name,description,note,latitude,longitude
-O,Optometry Building (OPT),,43.47656,-80.54424
-K,William Lyon Mackenzie King Village (MKV); Student Village 1 (V1),,43.47231,-80.55181
-R,B.C. Matthews Hall (BMH); Lyle S. Hallman Institute for Health Promotion (LHI); Federation Hall (FED),,43.47395,-80.54704
-L,B.C. Matthews Hall (BMH); Energy Research Centre (ERC); Central Services Building (CSB); Commissary (COM),,43.47431,-80.54412
-B,Engineering 5 (E5); William G. Davis Computer Research Centre (DC); East Campus Hall (ECH),,43.47373,-80.5404
-T,Minota Hagey Residence (MHR),,43.46518,-80.54225
-H,"Psychology, Anthropology, Sociology (PAS); J.G. Hagey Hall of the Humanities (HH); William M. Tatham Centre for Co-operative Education & Career Action (TC)",,43.46741,-80.54036
-A,South Campus Hall (SCH); Douglas Wright Engineering Building (DWE),,43.46922,-80.53739
-N,B.C. Matthews Hall (BMH),,43.47462,-80.54516
-Q,East Campus 2 (EC2); East Campus 3 (EC3); General Services Complex (GSC),,43.47418,-80.54114
-X,Optometry Building (OPT); Columbia Icefield (CIF),,43.47672,-80.5471
-X,Optometry Building (OPT); Columbia Icefield (CIF),,43.47742,-80.54593
+name,description,note,latitude,longitude,additional_info
+O,Optometry Building (OPT),,43.47656,-80.54424,Visitor parking is available all day/evening at $5.00 per day
+K,William Lyon Mackenzie King Village (MKV); Student Village 1 (V1),,43.47231,-80.55181,Permits are sold to staff members of the residence buildings if space is available
+R,B.C. Matthews Hall (BMH); Lyle S. Hallman Institute for Health Promotion (LHI); Federation Hall (FED),,43.47395,-80.54704,"Visitor parking is available evenings after 3:45 p.m and weekends at a flate rate of $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa"
+L,B.C. Matthews Hall (BMH); Energy Research Centre (ERC); Central Services Building (CSB); Commissary (COM),,43.47431,-80.54412,No evening or weekend parking available
+B,Engineering 5 (E5); William G. Davis Computer Research Centre (DC); East Campus Hall (ECH),,43.47373,-80.5404,Permits are sold to faculty and staff if space is available
+T,Minota Hagey Residence (MHR),,43.46518,-80.54225,Evening and weekend parking for visitors is available until 10:00 pm each night at the meters. Overnight parking requires a permit purchased from Parking Services
+H,"Psychology, Anthropology, Sociology (PAS); J.G. Hagey Hall of the Humanities (HH); William M. Tatham Centre for Co-operative Education & Career Action (TC)",,43.46741,-80.54036,"Visitor parking is available during non-co-op days for $2.00 an hour to a maximum of $10. Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa"
+A,South Campus Hall (SCH); Douglas Wright Engineering Building (DWE),,43.46922,-80.53739,"Visitor parking is available evenings at 3:45 pm and weekends $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
+N,B.C. Matthews Hall (BMH),,43.47462,-80.54516,Visitor parking is available at all times by purchasing a ticket from the pay and display machine
+Q,East Campus 2 (EC2); East Campus 3 (EC3); General Services Complex (GSC),,43.47418,-80.54114,"Visitor parking is available at all times by purchasing a ticket from the pay and display machine with coin, WatCard or credit card. (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa"
+X,Optometry Building (OPT); Columbia Icefield (CIF),,43.47672,-80.5471,"Any faculty/staff permit holder may park their vehicle at any time, day or night, in X Lot as long as their permit is displayed"
+X,Optometry Building (OPT); Columbia Icefield (CIF),,43.47742,-80.54593,Visitor parking is available at all times by purchasing a ticket from the pay and display machine. Lot X is open and free from 4:30 pm Friday until 6:00 am Monday for daily visitors. School of Pharmacy permits are valid to park here while on main campus after 4:30 p.m.
