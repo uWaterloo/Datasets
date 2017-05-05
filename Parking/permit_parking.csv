@@ -1,13 +1,13 @@
-name,description,note,latitude,longitude,visitor_can_park,visitor_parking_info
-O,OPT,,43.47656,-80.54424,yes,Visitor parking is available all day/evening at $5.00 per day
-K,MKV; V1,,43.47231,-80.55181,no,
-R,BMH; LHI; FED,,43.47395,-80.54704,yes,"Visitor parking is available evenings after 3:45 p.m and weekends at a flate rate of $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
-L,BMH; ERC; CSB; COM,,43.47431,-80.54412,no,
-B,E5; DC; ECH,,43.47373,-80.5404,no,
-T,MHR,,43.46518,-80.54225,yes,Evening and weekend parking for visitors is available until 10:00 pm each night at the meters. Overnight parking requires a permit purchased from Parking Services
-H,PAS; HH; TC,,43.46741,-80.54036,yes,"Visitor parking cost $2.00 an hour to daily maximum of $10.00 during non co-op hours. A flat rate of $5.00 after 3:45 p.m during weekdays and all day on weekends. Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa"
-A,SCH; DWE,,43.46922,-80.53739,yes,"Visitor parking is available evenings at 3:45 pm and weekends $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
-N,BMH,,43.47462,-80.54516,yes,Visitor parking is available at all times by purchasing a ticket from the pay and display machine
-Q,EC2; EC3; GSC,,43.47418,-80.54114,yes,"Visitor parking is available at all times by purchasing a ticket from the pay and display machine with coin, WatCard or credit card. (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
-X,OPT; CIF,,43.47672,-80.5471,yes,Any faculty/staff permit holder may park their vehicle at any time  in X Lot as long as their permit is displayed
-X,OPT; CIF,,43.47742,-80.54593,yes,Visitor parking is available at all times by purchasing a ticket from the pay and display machine. Lot X is open and free from 4:30 pm Friday until 6:00 am Monday for daily visitors. School of Pharmacy permits are valid to park here while on main campus after 4:30 p.m.
+name,buildings,control_type,visitor_can_park,visitor_parking_info,latitude,longitude
+O,OPT,card,yes,,43.47656,-80.54424
+K,MKV; V1,permit,no,,43.47231,-80.55181
+R,BMH; LHI; FED,transponder,yes,,43.47395,-80.54704
+L,BMH; ERC; CSB; COM,transponder,no,,43.47431,-80.54412
+B,E5; DC; ECH,permit,no,,43.47373,-80.5404
+T,MHR,,yes,card,43.46518,-80.54225
+H,PAS; HH; TC,transponder,yes,,43.46741,-80.54036
+A,SCH; DWE,transponder,yes,,43.46922,-80.53739
+N,BMH,permit,yes,,43.47462,-80.54516
+Q,EC2; EC3; GSC,permit,yes,,43.47418,-80.54114
+X,OPT; CIF,permit,yes,,43.47672,-80.5471
+X,OPT; CIF,permit,yes,,43.47742,-80.54593
