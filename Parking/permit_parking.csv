@@ -4,7 +4,7 @@ K,MKV; V1,permit,no,,43.47231,-80.55181
 R,BMH; LHI; FED,transponder,yes,,43.47395,-80.54704
 L,BMH; ERC; CSB; COM,transponder,no,,43.47431,-80.54412
 B,E5; DC; ECH,permit,no,,43.47373,-80.5404
-T,MHR,,yes,card,43.46518,-80.54225
+T,MHR,card,yes,,43.46518,-80.54225
 H,PAS; HH; TC,transponder,yes,,43.46741,-80.54036
 A,SCH; DWE,transponder,yes,,43.46922,-80.53739
 N,BMH,permit,yes,,43.47462,-80.54516
