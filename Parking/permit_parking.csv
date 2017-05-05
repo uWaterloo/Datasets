@@ -1,6 +1,6 @@
 name,description,note,latitude,longitude,visitor_can_park,visitor_parking_info
 O,OPT,,43.47656,-80.54424,yes,Visitor parking is available all day/evening at $5.00 per day
-K,MKV; V1,,43.47231,-80.55181,no,,
+K,MKV; V1,,43.47231,-80.55181,no,
 R,BMH; LHI; FED,,43.47395,-80.54704,yes,"Visitor parking is available evenings after 3:45 p.m and weekends at a flate rate of $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
 L,BMH; ERC; CSB; COM,,43.47431,-80.54412,no,
 B,E5; DC; ECH,,43.47373,-80.5404,no,
