@@ -7,7 +7,7 @@ B,E5; DC; ECH,Permit,No,,,,,,43.47373,-80.5404
 AAAAAAAHHHHHHH - T,MHR,Card,Yes,until 10:00 pm,,,,,43.46518,-80.54225
 AAAAAAAHHHHHHH - H,PAS; HH; TC,Transponder,Yes,,,,,,43.46741,-80.54036
 A,SCH; DWE,Transponder,Yes,Evenings After 3:45 pm and All Day/Evening Weekends,$5/entry,Pay on Entry,Visa/MasterCard,,43.46922,-80.53739
-N,BMH,Permit,Yes,All Day/Evening Weekdays/Weekends,$5/entry,Visa/MasterCard,,,43.47462,-80.54516
-Q,EC2; EC3; GSC,Permit,Yes,All Day/Evening Weekdays/Weekends,,Visa/MasterCard,Pay and Display,,43.47418,-80.54114
+N,BMH,Permit,Yes,All Day/Evening Weekdays/Weekends,$5/entry,,Visa/MasterCard,,43.47462,-80.54516
+Q,EC2; EC3; GSC,Permit,Yes,All Day/Evening Weekdays/Weekends,,Pay and Display,Visa/MasterCard,,,43.47418,-80.54114
 X,OPT; CIF,Permit,Yes,All Day/Evening Weekdays/Weekends,$5/entry; Free Between Friday at 4:30 pm and Monday at 6:00 am,,,,43.47672,-80.5471
 X,OPT; CIF,Permit,Yes,All Day/Evening Weekdays/Weekends,$5/entry; Free Between Friday at 4:30 pm and Monday at 6:00 am,,,,43.47742,-80.54593
