@@ -1,5 +1,5 @@
 name,buildings,control_type,visitor_parking,vp_hours,vp_rate,vp_pay_when,vp_payment_method,vp_additional_info,latitude,longitude
-O,OPT,Card,Yes,All Day,$5/day,,Visa/MasterCard Credit Card,,43.47656,-80.54424
+O,OPT,Card,Yes,All Day,$5/day,Pay on Exit,Visa/MasterCard,,43.47656,-80.54424
 K,MKV; V1,Permit,No,,,,,,43.47231,-80.55181
 R,BMH; LHI; FED,Transponder,Yes,Weekdays After 3:45 pm and All Day Weekends,$5/entry,,Visa/MasterCard Credit Card,,43.47395,-80.54704
 L,BMH; ERC; CSB; COM,Transponder,No,,,,,,43.47431,-80.54412
