@@ -1,9 +1,9 @@
 name,description,note,latitude,longitude,visitor_can_park,visitor_parking_info
 O,OPT,,43.47656,-80.54424,yes,Visitor parking is available all day/evening at $5.00 per day
-K,MKV; V1,,43.47231,-80.55181,no,Permits are sold to staff members of the residence buildings if space is available
+K,MKV; V1,,43.47231,-80.55181,no,,
 R,BMH; LHI; FED,,43.47395,-80.54704,yes,"Visitor parking is available evenings after 3:45 p.m and weekends at a flate rate of $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
-L,BMH; ERC; CSB; COM,,43.47431,-80.54412,no,No evening or weekend parking available
-B,E5; DC; ECH,,43.47373,-80.5404,no,Permits are sold to faculty and staff if space is available
+L,BMH; ERC; CSB; COM,,43.47431,-80.54412,no,
+B,E5; DC; ECH,,43.47373,-80.5404,no,
 T,MHR,,43.46518,-80.54225,yes,Evening and weekend parking for visitors is available until 10:00 pm each night at the meters. Overnight parking requires a permit purchased from Parking Services
 H,PAS; HH; TC,,43.46741,-80.54036,yes,"Visitor parking cost $2.00 an hour to daily maximum of $10.00 during non co-op hours. A flat rate of $5.00 after 3:45 p.m during weekdays and all day on weekends. Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa"
 A,SCH; DWE,,43.46922,-80.53739,yes,"Visitor parking is available evenings at 3:45 pm and weekends $5.00 per entry with Visa or MasterCard (Does not accept Visa Debit, MasterCard Debit or Tim Hortons Visa)"
