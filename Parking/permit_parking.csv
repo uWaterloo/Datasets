@@ -5,7 +5,7 @@ R,BMH; LHI; FED,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/ev
 L,BMH; ERC; CSB; COM,Transponder,No,,,,,,43.47431,-80.54412
 B,E5; DC; ECH,Permit,No,,,,,,43.47373,-80.5404
 T,MHR,Card,No,,,,,,43.46518,-80.54225
-H,PAS; HH; TC,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/evening on weekends; $2/hour to $10 max on non-co-op days,$5/day,Pay on Exit,American Express/Visa/MasterCard,,43.46741,-80.54036
+H,PAS; HH; TC,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/evening on weekends; $2/hr to $10 max on non-co-op days,$5/day,Pay on Exit,American Express/Visa/MasterCard,,43.46741,-80.54036
 A,SCH; DWE,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/evening on weekends,$5/entry,Pay on Entry,Visa/MasterCard,,43.46922,-80.53739
 N,BMH,Permit,Yes,All day/evening on weekdays/weekends,$5/entry,Pay and Display,Visa/MasterCard,,43.47462,-80.54516
 Q,EC2; EC3; GSC,Permit,Yes,All day/evening on weekdays/weekends,$5/entry,Pay and Display,Visa/MasterCard,,43.47418,-80.54114
