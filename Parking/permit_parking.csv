@@ -12,3 +12,4 @@ Q,EC2; EC3; GSC,Permit,Yes,All day/evening on weekdays/weekends,$5/day,Pay and D
 X,OPT; CIF,Permit,Yes,All day/evening on weekdays/weekends,$5/day; Free between Friday at 4:30 pm and Monday at 6:00 am,Pay and Display,Visa/MasterCard,,43.47672,-80.5471
 X,OPT; CIF,Permit,Yes,All day/evening on weekdays/weekends,$5/day; Free between Friday at 4:30 pm and Monday at 6:00 am,Pay and Display,Visa/MasterCard,,43.47742,-80.54593
 ECEC,PAS; EV1; EV2; EV3,Card,Yes,Evening on weekdays from 3:45 pm to 1:00 am and weekends from 7:00 am to 1:00 am,$5/entry,Pay on Entry,Coins,,43.46753,-80.54298
+ECH,ECH; E4; E7,Permit,No,,,,,,43.47430,-80.53913
