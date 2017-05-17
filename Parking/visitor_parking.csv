@@ -10,11 +10,11 @@ S,MKV,$5,Pay and Display,43.47181,-80.5532
 V,REV,$5,Pay and Display - pay in lot S,43.47134,-80.55454
 CL,CLV; CLN,$5,Pay and Display,43.47058,-80.5631
 C,SCH; TC,$5/day,Pay and Display,43.46733,-80.53834
-HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 p.m. and on the weekends,Coin entry.,43.46836,-80.53989
+HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 p.m. and on the weekends,Coin Entry,43.46836,-80.53989
 UWP,UWP,$5,Pay and Display,43.47127,-80.53371
 CGR,CGR,$1/hour up to a $4 daily max,Coin or HonkMobile,43.4658,-80.54427
-STP,STP,$5,coin entry,43.46707,-80.54617
-REN,REN,$4,coin entry,43.46891,-80.54858
-STJ,STJ,$4,coin entry,43.46959,-80.54696
+STP,STP,$5,Coin Entry,43.46707,-80.54617
+REN,REN,$4,Coin Entry,43.46891,-80.54858
+STJ,STJ,$4,Coin Entry,43.46959,-80.54696
 Q,EC1; EC2; EC3,$5/day,Pay and Display,43.47466,-80.54024
 OV,OPT,$5,Coin Exit,43.4761,-80.54387
