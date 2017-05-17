@@ -5,9 +5,9 @@ W,CIF,$5/day,Pay and Display,43.47481,-80.5476
 M,UC; PAC; LHI,$6/day,Pay and Display,43.47323,-80.54685
 D,NH,$2/hr to $15 daily max on weekdays; $5/entry after 5 p.m. and on the weekends,Pay on Exit,43.46993,-80.54351
 N,BMH; ERC; CSB; COM,$5/day,Pay and Display,43.47507,-80.54396
-J,V1,$5,Pay and Display - pay in lot S,43.47286,-80.55022
+J,V1,$5,Pay and Display (in lot S),43.47286,-80.55022
 S,MKV,$5,Pay and Display,43.47181,-80.5532
-V,REV,$5,Pay and Display - pay in lot S,43.47134,-80.55454
+V,REV,$5,Pay and Display (in lot S),43.47134,-80.55454
 CL,CLV; CLN,$5,Pay and Display,43.47058,-80.5631
 C,SCH; TC,$5/day,Pay and Display,43.46733,-80.53834
 HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 p.m. and on the weekends,Coin Entry,43.46836,-80.53989
