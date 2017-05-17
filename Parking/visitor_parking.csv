@@ -3,7 +3,7 @@ X,OPT; CIF,$5/day,Pay and Display,43.47693,-80.54648
 X,OPT; CIF,$5/day,Pay and Display,43.4778,-80.54486
 W,CIF,$5/day,Pay and Display,43.47481,-80.5476
 M,UC; PAC; LHI,$6/day,Pay and Display,43.47323,-80.54685
-D,NH,,Weekdays: $12/hour up to $15 daily max. After 5 p.m. and weekends: $5 coin entry.,43.46993,-80.54351
+D,NH,Weekdays: $12/hour up to $15 daily max. After 5 p.m. and weekends: $5, coin entry.,43.46993,-80.54351
 N,BMH; ERC; CSB; COM,$5/day,Pay and Display,43.47507,-80.54396
 J,V1,$5,Pay and Display - pay in lot S,43.47286,-80.55022
 S,MKV,$5,Pay and Display,43.47181,-80.5532
@@ -17,4 +17,4 @@ STP,STP,$5, coin entry,43.46707,-80.54617
 REN,REN,$4, coin entry,43.46891,-80.54858
 STJ,STJ,$4, coin entry,43.46959,-80.54696
 Q,EC1; EC2; EC3,$5/day,Pay and Display,43.47466,-80.54024
-OV,OPT,$5,Pay and Display coin exit,43.4761,-80.54387
+OV,OPT,$5,coin exit,43.4761,-80.54387
