@@ -3,14 +3,14 @@ X,OPT; CIF,$5/day,Pay and Display,43.47693,-80.54648
 X,OPT; CIF,$5/day,Pay and Display,43.4778,-80.54486
 W,CIF,$5/day,Pay and Display,43.47481,-80.5476
 M,UC; PAC; LHI,$6/day,Pay and Display,43.47323,-80.54685
-D,NH,Weekdays: $2/hour up to $15 daily max. After 5 p.m. and weekends: $5,Pay on Exit,43.46993,-80.54351
+D,NH,$2/hr to $15 daily max on weekdays; $5/entry after 5 p.m. and on the weekends,Pay on Exit,43.46993,-80.54351
 N,BMH; ERC; CSB; COM,$5/day,Pay and Display,43.47507,-80.54396
 J,V1,$5,Pay and Display - pay in lot S,43.47286,-80.55022
 S,MKV,$5,Pay and Display,43.47181,-80.5532
 V,REV,$5,Pay and Display - pay in lot S,43.47134,-80.55454
 CL,CLV; CLN,$5,Pay and Display,43.47058,-80.5631
 C,SCH; TC,$5/day,Pay and Display,43.46733,-80.53834
-HV,SCH; TC,Weekdays: $2/hour up to $15 daily max. After 5 p.m. and weekends: $5,Coin entry.,43.46836,-80.53989
+HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 p.m. and on the weekends,Coin entry.,43.46836,-80.53989
 UWP,UWP,$5,Pay and Display,43.47127,-80.53371
 CGR,CGR,$1/hour up to a $4 daily max,Coin or HonkMobile,43.4658,-80.54427
 STP,STP,$5,coin entry,43.46707,-80.54617
