@@ -10,7 +10,7 @@ S,MKV,$5/entry,Pay and Display,Visa/MasterCard,43.47181,-80.5532
 V,REV,$5/entry,Pay and Display (in lot S),Visa/MasterCard,43.47134,-80.55454
 D,NH,$5/entry,Pay on Exit,Visa/MasterCard,43.46993,-80.54351
 M,UC; PAC; LHI,$6/entry,Pay and Display,Visa/MasterCard,43.47323,-80.54685
-HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 pm and on the weekends,Pay on Entry,Coin,43.46836,-80.53989
+HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 pm and on the weekends,Pay on Exit,Coin,43.46836,-80.53989
 OV,OPT,$5/entry,Pay on Exit,Coin,43.4761,-80.54387
 CL,CLV; CLN,$5/entry,Pay and Display,Visa/MasterCard,43.47058,-80.5631
 UWP,UWP,$5/entry,Pay and Display,Visa/MasterCard,43.47127,-80.53371
