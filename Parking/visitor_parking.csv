@@ -1,20 +1,20 @@
 name,buildings,rate,pay_when,payment_method,latitude,longitude
-C,SCH; TC,$5/entry,,Pay and Display,43.46733,-80.53834
-Q,EC1; EC2; EC3,$5/entry,,Pay and Display,43.47466,-80.54024
-N,BMH; ERC; CSB; COM,$5/entry,,Pay and Display,43.47507,-80.54396
-W,CIF,$5/entry,,Pay and Display,43.47481,-80.5476
-X,OPT; CIF,$5/entry,,Pay and Display,43.47693,-80.54648
-X,OPT; CIF,$5/entry,,Pay and Display,43.4778,-80.54486
-J,V1,$5/entry,,Pay and Display (in lot S),43.47286,-80.55022
-S,MKV,$5/entry,,Pay and Display,43.47181,-80.5532
-V,REV,$5/entry,,Pay and Display (in lot S),43.47134,-80.55454
-D,NH,$5/entry,,Pay on Exit,43.46993,-80.54351
-M,UC; PAC; LHI,$6/entry,,Pay and Display,43.47323,-80.54685
-HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 pm and on the weekends,,Coin Entry,43.46836,-80.53989
-OV,OPT,$5/entry,,Coin Exit,43.4761,-80.54387
-CL,CLV; CLN,$5/entry,,Pay and Display,43.47058,-80.5631
-UWP,UWP,$5/entry,,Pay and Display,43.47127,-80.53371
-CGR,CGR,$1/hr to $4 daily max,,Coin or HonkMobile,43.4658,-80.54427
-STP,STP,$5/entry,,Coin Entry,43.46707,-80.54617
-REN,REN,$4/entry,,Coin Entry,43.46891,-80.54858
-STJ,STJ,$4/entry,,Coin Entry,43.46959,-80.54696
+C,SCH; TC,$5/entry,Pay and Display,Visa/MasterCard,43.46733,-80.53834
+Q,EC1; EC2; EC3,$5/entry,Pay and Display,Visa/MasterCard,43.47466,-80.54024
+N,BMH; ERC; CSB; COM,$5/entry,Pay and Display,Visa/MasterCard,43.47507,-80.54396
+W,CIF,$5/entry,Pay and Display,Visa/MasterCard,43.47481,-80.5476
+X,OPT; CIF,$5/entry,Pay and Display,Visa/MasterCard,43.47693,-80.54648
+X,OPT; CIF,$5/entry,Pay and Display,Visa/MasterCard,43.4778,-80.54486
+J,V1,$5/entry,Pay and Display (in lot S),Visa/MasterCard,43.47286,-80.55022
+S,MKV,$5/entry,Pay and Display,Visa/MasterCard,43.47181,-80.5532
+V,REV,$5/entry,Pay and Display (in lot S),Visa/MasterCard,43.47134,-80.55454
+D,NH,$5/entry,Pay on Exit,Visa/MasterCard,43.46993,-80.54351
+M,UC; PAC; LHI,$6/entry,Pay and Display,Visa/MasterCard,43.47323,-80.54685
+HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 pm and on the weekends,Pay on Entry,Coin,43.46836,-80.53989
+OV,OPT,$5/entry,Pay on Exit,Coin,43.4761,-80.54387
+CL,CLV; CLN,$5/entry,Pay and Display,Visa/MasterCard,43.47058,-80.5631
+UWP,UWP,$5/entry,Pay and Display,Visa/MasterCard,43.47127,-80.53371
+CGR,CGR,$1/hr to $4 daily max,Pay on Exit,Coin or HonkMobile,43.4658,-80.54427
+STP,STP,$5/entry,Pay on Entry,Coin,43.46707,-80.54617
+REN,REN,$4/entry,Pay on Entry,Coin,43.46891,-80.54858
+STJ,STJ,$4/entry,Pay on Entry,Coin,43.46959,-80.54696
