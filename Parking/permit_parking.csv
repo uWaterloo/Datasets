@@ -1,8 +1,8 @@
 name,buildings,control_type,visitor_can_park,vp_hours,vp_rate,vp_pay_when,vp_payment_method,vp_additional_info,latitude,longitude
 A,SCH; DWE,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/evening on weekends,$5/entry,Pay on Entry,Visa/MasterCard,,43.46922,-80.53739
-E,UWP,Open,Yes,All day/evening on weekdays/weekends,Free,,,,43.46970,-80.53318
+E,UWP,Open,Yes,All day/evening on weekdays/weekends,$5/entry,Pay and Display,,,43.46970,-80.53318
 ECEC,PAS; EV1; EV2; EV3,Card,Yes,Evening on weekdays from 3:45 pm to 1:00 am and weekends from 7:00 am to 1:00 am,$5/entry,Pay on Entry,Coins,,43.46753,-80.54298
-H,PAS; HH; TC,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/evening on weekends; $2/hr to $10 max on non-co-op days,$5/day,Pay on Exit,American Express/Visa/MasterCard,,43.46741,-80.54036
+H,PAS; HH; TC,Transponder,Yes,Evening on weekdays after 3:45 pm and all day/evening on weekends,$5/day; $2/hr to $10 max on non-co-op days,Pay on Exit,American Express/Visa/MasterCard,,43.46741,-80.54036
 N,BMH,Permit,Yes,All day/evening on weekdays/weekends,$5/entry,Pay and Display,Visa/MasterCard,,43.47462,-80.54516
 O,OPT,Card,Yes,All day/evening on weekdays/weekends,$5/entry,Pay on Exit,Visa/MasterCard or Token,,43.47656,-80.54424
 Q,EC2; EC3; GSC,Permit,Yes,All day/evening on weekdays/weekends,$5/entry,Pay and Display,Visa/MasterCard,,43.47418,-80.54114
