@@ -1,8 +1,11 @@
-name,description,note,latitude,longitude
-OPT,Optometry Building (OPT),,43.47584,-80.54485
-DWE-SCH,Douglas Wright Engineering Building (DWE); South Campus Hall (SCH),,43.46966,-80.53972
-E5-ECH,Engineering 5 (E5); East Campus Hall (ECH),,43.47317,-80.53946
-PAC-SLC,Physical Activities Complex (PAC); Student Life Centre (SLC),,43.47164,-80.54618
-V1-UC,Student Village 1 (V1); University Club (UC),,43.47218,-80.54883
-MKV-V1,William Lyon Mackenzie King Village (MKV); Student Village 1 (V1),,43.47111,-80.55115
-EC2-EC3,East Campus 2 (EC2); East Campus 3 (EC3),,43.47498,-80.54183
+name,buildings,rate,maxstay,latitude,longitude
+DWE; SCH,DWE; SCH,$2/hr,1 hr,43.46966,-80.53972
+DC; GSC,DC; GSC,$2/hr,2 hrs,43.47320,-80.54268
+OPT,OPT,$2/hr,2 hrs,43.47584,-80.54485
+HS,HS,$2/hr,2 hrs,43.47021,-80.54593
+PAC; SLC,PAC; SLC,$2/hr,30 mins,43.47164,-80.54618
+Q,EC2; EC3,$2/hr,2 hrs,43.47498,-80.54183
+E7; ECH,E7; ECH,$2/hr,2 hrs,43.47317,-80.53946
+T,MHR,$2/hr,2 hrs,43.46535,-80.54142
+V1; UC,V1; UC,$2/hr,1 hr,43.47218,-80.54883
+MKV; V1,MKV; V1,$2/hr,2 hrs,43.47111,-80.55115
