@@ -1,0 +1,26 @@
+name,floor_level,description,quantity,note,hours,last_checked,latitude,longitude
+QNC 3403,3,In the faculty and staff lounge,1,Faculty and Staff,,,43.4714,-80.5438
+QNC 4403,4,In the faculty and staff lounge,1,Faculty and Staff,,,43.4714,-80.5438
+QNC 5403,5,In the faculty and staff lounge,1,Faculty and Staff,,,43.4714,-80.5438
+CPH 1337,1,Inside P.O.E.T.S.,2,All,,,43.47059,-80.5391
+CPH 1338,1,Inside Engineering Coffee & Donuts (EngSoc C&D),1,All,,,43.47062,-80.53914
+DWE 2528,1,Inside Chemical Engineering Student Society,1,All,,,43.47013,-80.53953
+E6 4802,4,Near the elevators,1,All,,,43.47293,-80.53882
+E6 5802,5,Near the elevators,1,All,,,43.47293,-80.53882
+STC 1036,1,Inside Physics Undergraduate Club,1,All,,,43.47051,-80.54315
+PHYS 345A,3,Inside Science Society,1,All,,,43.47069,-80.54154
+C2 260,2,Inside Chemistry Club,1,All,,,43.47197,-80.54288
+EIT 2027,2,Inside CEIT Café,1,All,,,43.47157,-80.5421
+B1 160,1,Inside Science Society C&D ,,All,,,43.47102,-80.543
+ESC 102A,1,Inside Biology Undergraduate Society,1,All,,,43.47113,-80.54271
+EV1 139,1,Inside Environment Student (ES) Lounge,2,All,,,43.46835,-80.54287
+EV3 2402,2,Inside Design Studio (need code to enter),1,Students,,,43.46827,-80.5434
+BMH 1035,1,AHS Student Lounge (need code to enter),1,Students,,,43.47373,-80.54527
+MC 3002,3,Inside Math Society C&D,2,All,,,43.47191,-80.54351
+MC 3001,3,Inside Math Comfy Lounge,1,All,,,43.47181,-80.54381
+AL 120,1,Inside Arts Student Union,1,All,,,43.46892,-80.54171
+ML 355,1,The Pierre Dubé Reading Room,1,All,,,43.46919,-80.54284
+SLC 1505,2,Near entrance of The Bombshelter Pub,2,All,,,43.47167,-80.54508
+SLC 2506,1,Near the stair in the study area,1,All,,,43.47172,-80.54548
+OPT 1121,1,Near the Museum of Vision Science,3,All,,,43.47555,-80.54548
+PAS 2062,2,Inside Sociology Society,1,All,,,43.46701,-80.54201
