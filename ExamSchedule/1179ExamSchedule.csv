@@ -1,62 +1,62 @@
 Exam,Section(s),Day,Date,Start,Finish,Location
-ACTSC 221,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-ACTSC 231,001 to 003,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-ACTSC 232,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-ACTSC 331,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-ACTSC 371,"001,002",Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-ACTSC 372,"001,002",Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-ACTSC 431,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-ACTSC 432,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-ACTSC 445,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-ACTSC 446,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-ACTSC 462,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-ACTSC 845,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-ACTSC 846,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-AFM 101,001 to 006,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-AFM 102,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-AFM 123,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-AFM 131,003 to 006,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
+ACTSC 221,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,"PAC 10,11"
+ACTSC 231,001 to 003,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"STC 0060,1012"
+ACTSC 232,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 1085
+ACTSC 331,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 2034,2035"
+ACTSC 371,"001,002",Thursday,"December 21, 2017",12:30 PM,3:00 PM,"PAC 7,8,11"
+ACTSC 372,"001,002",Tuesday,"December 19, 2017",9:00 AM,11:30 AM,M3 1006
+ACTSC 431,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4059
+ACTSC 432,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 3
+ACTSC 445,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4020
+ACTSC 446,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"MC 4041,4042,4045"
+ACTSC 462,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 4059
+ACTSC 845,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4020
+ACTSC 846,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"MC 4041,4042,4045"
+AFM 101,001 to 006,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
+AFM 102,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,M3 1006
+AFM 123,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,M3 1006
+AFM 131,003 to 006,Friday,"December 8, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11, DC 1350"
 AFM 131,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-AFM 202,001 to 004,Monday,"December 11, 2017",7:30 PM,9:00 PM,TBA
+AFM 202,001 to 004,Monday,"December 11, 2017",7:30 PM,9:00 PM,"DC 1350,1351"
 AFM 202,005 to 007,Monday,"December 11, 2017",7:30 PM,9:30 PM,Sched Only
-AFM 231,001,Friday,"December 15, 2017",7:30 PM,9:30 PM,TBA
-AFM 272,"001,002",Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-AFM 273,001 to 006,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-AFM 291,001 to 007,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
+AFM 231,001,Friday,"December 15, 2017",7:30 PM,9:30 PM,DC 1350
+AFM 272,"001,002",Tuesday,"December 19, 2017",12:30 PM,3:00 PM,PAC 8
+AFM 273,001 to 006,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,"PAC 4,5,6,7"
+AFM 291,001 to 007,Friday,"December 15, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5"
 AFM 321,001,Exam removed from schedule. Contact instructor for further information.,,,,
 AFM 323,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,Sched Only
-AFM 333,001 to 003,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-AFM 362,001 to 004,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-AFM 373,001 to 006,Monday,"December 18, 2017",9:00 AM,11:00 AM,TBA
-AFM 391,001 to 004,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-AFM 401,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
+AFM 333,001 to 003,Monday,"December 11, 2017",9:00 AM,11:30 AM,"STC 0010,0020"
+AFM 362,001 to 004,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
+AFM 373,001 to 006,Monday,"December 18, 2017",9:00 AM,11:00 AM,"STC 0010,0020,0040"
+AFM 391,001 to 004,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"DC 1350,1351"
+AFM 401,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"PAC 7,8,9,10"
 AFM 415,001,Thursday,"December 7, 2017",7:30 PM,9:30 PM,Sched Only
-AFM 415,002,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-AFM 425,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
+AFM 415,002,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4058
+AFM 425,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4061
 AFM 433,"001,002",Thursday,"December 14, 2017",7:30 PM,10:00 PM,Sched Only
 AFM 462,001 to 005,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,Sched Only
-AFM 476,001,Monday,"December 18, 2017",9:00 AM,11:00 AM,TBA
-AFM 477,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-AFM 479,001 to 006,Monday,"December 11, 2017",12:30 PM,2:00 PM,TBA
-AFM 482,001 to 005,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-AFM 491,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
+AFM 476,001,Monday,"December 18, 2017",9:00 AM,11:00 AM,"STC 0010,0020,0040"
+AFM 477,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 4061
+AFM 479,001 to 006,Monday,"December 11, 2017",12:30 PM,2:00 PM,"STC 0060,1012"
+AFM 482,001 to 005,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 4020,4021,4059,4060,4061"
+AFM 491,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,"STC 0050,0060"
 AMATH 231,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,Sched Only
-AMATH 250,"001,002",Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
+AMATH 250,"001,002",Tuesday,"December 12, 2017",9:00 AM,11:30 AM,STC 1012
 AMATH 251,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,Sched Only
-AMATH 271,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-AMATH 331,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
+AMATH 271,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,MC 4041
+AMATH 331,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,PAC 8
 AMATH 342,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,Sched Only
-AMATH 350,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,TBA
+AMATH 350,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,DC 1350
 AMATH 351,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,Sched Only
-AMATH 391,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-AMATH 442,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
+AMATH 391,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 4064
+AMATH 442,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,MC 4042
 AMATH 453,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
 AMATH 456,001,Friday,"December 8, 2017",4:00 PM,6:30 PM,Sched Only
 AMATH 463,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
-AMATH 473,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
+AMATH 473,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4020
 AMATH 663,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
-AMATH 673,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-ANTH 100,001,Wednesday,"December 20, 2017",12:30 PM,2:30 PM,TBA
+AMATH 673,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4020
+ANTH 100,001,Wednesday,"December 20, 2017",12:30 PM,2:30 PM,M3 1006
 ANTH 201,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,Sched Only
 ANTH 202,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
 ANTH 204,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,Sched Only
@@ -64,48 +64,49 @@ ANTH 222,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,Sched Only
 ANTH 321,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
 ANTH 355,001,Saturday,"December 9, 2017",9:00 AM,11:30 AM,Sched Only
 APPLS 301,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
-ARBUS 101,"001,002",Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
+ARBUS 101,"001,002",Friday,"December 8, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11, DC 1350"
 ARBUS 202,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,Sched Only
 ARBUS 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ARBUS 300,"001,002",Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-ARBUS 301,001 to 003,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
+ARBUS 300,"001,002",Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
+ARBUS 301,001 to 003,Monday,"December 11, 2017",9:00 AM,11:30 AM,"STC 0010,0020"
 ARTS 122,001,Monday,"December 11, 2017",9:00 AM,11:00 AM,Sched Only
 ARTS 190,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
 ARTS 280,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
-AVIA 100,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
-BIOL 110,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,TBA
-BIOL 130,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
-BIOL 150,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,TBA
+AVIA 100,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"MC 2017,2054"
+BIOL 110,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,"STC 0060,1012"
+BIOL 130,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+STC 0010,0020,0040,1012"
+BIOL 150,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,"PAC 4,5,6,7"
 BIOL 239,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-BIOL 240,"001,002",Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-BIOL 240L,001 to 019,Tuesday,"December 19, 2017",7:30 PM,8:30 PM,TBA
-BIOL 266,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
+BIOL 240,"001,002",Friday,"December 8, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8"
+BIOL 240L,001 to 019,Tuesday,"December 19, 2017",7:30 PM,8:30 PM,"PAC 1,2,3,4,5,6"
+BIOL 266,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"MC 4059,4060,4061"
 BIOL 273,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-BIOL 301,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-BIOL 303,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-BIOL 308,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
-BIOL 309,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-BIOL 310,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
+BIOL 301,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,"PAC 4,5,9,10,11"
+BIOL 303,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,"STC 0010,0020,0040"
+BIOL 308,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"PAC 6,7,8,9,10"
+BIOL 309,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
+BIOL 310,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 2017
 BIOL 323,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
-BIOL 325,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-BIOL 342,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
-BIOL 345,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-BIOL 350,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-BIOL 354,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-BIOL 359,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-BIOL 370,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-BIOL 376,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-BIOL 377,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-BIOL 434,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-BIOL 439,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-BIOL 443,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,TBA
-BIOL 444,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-BIOL 447,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,TBA
-BIOL 448,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,TBA
-BIOL 456,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
+BIOL 325,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0010
+BIOL 342,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
+BIOL 345,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,STC 0020
+BIOL 350,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
+BIOL 354,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+BIOL 359,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,STC 1012
+BIOL 370,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,DC 1350
+BIOL 376,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,MC 4059
+BIOL 377,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4040
+BIOL 434,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,STC 0010
+BIOL 439,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,STC 1012
+BIOL 443,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
+BIOL 444,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4041
+BIOL 447,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,"PAC 9,10"
+BIOL 448,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,MC 4040
+BIOL 456,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,MC 4041
 BIOL 470,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,Sched Only
-BIOL 473,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
-BIOL 479,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
+BIOL 473,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,DC 1350
+BIOL 479,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
 BME 101L,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,Sched Only
 BME 121,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,Sched Only
 BME 161,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,Sched Only
@@ -117,7 +118,7 @@ BME 285,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,Sched Only
 BME 384,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,Sched Only
 BME 386,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,Sched Only
 BME 392,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,Sched Only
-BUS 111W,,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
+BUS 111W,,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"PAC 1,2,3"
 BUS 127W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 208W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 231W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
@@ -148,52 +149,55 @@ BUS 481W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,
 BUS 486W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 487W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 493UW,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-CHE 100,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-CHE 102,001 to 012,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-CHE 200,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
+CHE 100,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
+CHE 102,001 to 012,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+STC 0050,0060,1012"
+CHE 200,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"MC 2034,2035"
 CHE 211,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
-CHE 220,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-CHE 230,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
+CHE 220,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,STC 0010
+CHE 230,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,MC 1085
 CHE 231,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
 CHE 241,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
-CHE 313,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
+CHE 313,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,DC 1350
 CHE 331,001,Saturday,"December 9, 2017",9:00 AM,11:30 AM,Sched Only
-CHE 361,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-CHE 420,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,TBA
-CHE 425,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-CHE 480,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
+CHE 361,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,STC 0050
+CHE 420,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+CHE 425,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,DC 1350
+CHE 480,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,STC 0020
 CHE 516,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 CHE 541,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,Sched Only
 CHE 571,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,Sched Only
-CHE 622,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-CHEM 120,001 to 006,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-CHEM 120L,001 to 014,Thursday,"December 7, 2017",7:30 PM,9:30 PM,TBA
+CHE 622,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,DC 1350
+CHEM 120,001 to 006,Thursday,"December 7, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11, DC 1350,1351
+STC 0010,0020,0040,0050,0060,1012"
+CHEM 120L,001 to 014,Thursday,"December 7, 2017",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+STC 0010,0020,0040,0050,1012"
 CHEM 123,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHEM 209,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-CHEM 220,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-CHEM 237,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-CHEM 237L,001 to 003,Monday,"December 11, 2017",12:30 PM,2:30 PM,TBA
+CHEM 209,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
+CHEM 220,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,STC 1012
+CHEM 237,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"STC 0010,0020"
+CHEM 237L,001 to 003,Monday,"December 11, 2017",12:30 PM,2:30 PM,"STC 0040,0050"
 CHEM 240,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,Sched Only
-CHEM 262,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-CHEM 264,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-CHEM 266,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
+CHEM 262,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,MC 1085
+CHEM 264,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,"PAC 1,2"
+CHEM 266,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,9,10"
 CHEM 267,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CHEM 302,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHEM 310,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-CHEM 331,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
-CHEM 333,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
+CHEM 310,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4040
+CHEM 331,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 3
+CHEM 333,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 9
 CHEM 339,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHEM 356,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-CHEM 363,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
+CHEM 356,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
+CHEM 363,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 4041
 CHEM 370,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,Sched Only
-CHEM 383,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-CHEM 400,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
-CHEM 400,002,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
+CHEM 383,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 9
+CHEM 400,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,MC 4042
+CHEM 400,002,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 2038
 CHEM 400,003,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
-CHEM 430,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-CHEM 432,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
-CHEM 464,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-CHEM 731,002,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
+CHEM 430,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,MC 4045
+CHEM 432,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,MC 2034
+CHEM 464,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4061
+CHEM 731,002,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,MC 4045
 CHEM 740,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 CHEM 770,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,Sched Only
 CHINA 101R,"001,002",Thursday,"December 21, 2017",9:00 AM,11:30 AM,Sched Only
@@ -204,7 +208,7 @@ CHINA 202R,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,Sched Only
 CHINA 301R,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,Sched Only
 CHINA 320R,001,Saturday,"December 9, 2017",9:00 AM,11:00 AM,Sched Only
 CIVE 100,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,Sched Only
-CIVE 115,"001,002",Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
+CIVE 115,"001,002",Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"STC 0010,0020,0040"
 CIVE 204,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,Sched Only
 CIVE 221,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 CIVE 224,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,Sched Only
@@ -217,173 +221,173 @@ CIVE 354,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,Sched Only
 CIVE 381,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,Sched Only
 CIVE 382,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,Sched Only
 CIVE 486,001,Friday,"December 8, 2017",4:00 PM,6:30 PM,Sched Only
-CIVE 497,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-CLAS 100,001,Thursday,"December 14, 2017",4:00 PM,6:00 PM,TBA
-CLAS 202,001,Thursday,"December 14, 2017",12:30 PM,2:00 PM,TBA
+CIVE 497,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4059
+CLAS 100,001,Thursday,"December 14, 2017",4:00 PM,6:00 PM,DC 1351
+CLAS 202,001,Thursday,"December 14, 2017",12:30 PM,2:00 PM,STC 1012
 CLAS 221,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,Sched Only
-CLAS 230,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-CLAS 252,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,TBA
+CLAS 230,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,MC 4045
+CLAS 252,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,MC 4061
 CLAS 261,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
 CLAS 321,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
-CLAS 384,001,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,TBA
-CLAS 486,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-CLAS 651,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-CM 762,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,TBA
-CM 763,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
+CLAS 384,001,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,PAC 11
+CLAS 486,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 8
+CLAS 651,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 8
+CM 762,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,MC 1085
+CM 763,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 8
 CMW 363,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
-CO 227,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-CO 250,"001,002",Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
+CO 227,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4045
+CO 250,"001,002",Friday,"December 15, 2017",9:00 AM,11:30 AM,STC 1012
 CO 255,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,Sched Only
-CO 330,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
-CO 342,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-CO 351,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-CO 367,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,TBA
-CO 370,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-CO 372,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
+CO 330,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,MC 4045
+CO 342,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 1085
+CO 351,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 1085
+CO 367,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,MC 4064
+CO 370,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
+CO 372,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 2054
 CO 442,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
-CO 450,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-CO 456,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-CO 485,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
+CO 450,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 2034
+CO 456,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4061
+CO 485,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 4
 CO 642,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
-CO 650,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-CO 685,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-COMM 231,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-COMM 421,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-COMM 431,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
+CO 650,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 2034
+CO 685,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 4
+COMM 231,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,M3 1006
+COMM 421,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,MC 4040
+COMM 431,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,MC 4040
 CROAT 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CS 100,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CS 105,"001,002",Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
-CS 115,001 to 011,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-CS 116,001 to 003,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-CS 135,001 to 011,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-CS 136,001 to 003,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,TBA
-CS 137,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-CS 145,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-CS 234,"001,002",Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-CS 240,001 to 003,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-CS 241,001 to 004,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-CS 241E,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-CS 245,001 to 007,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-CS 245E,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-CS 246,001 to 008,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-CS 246E,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-CS 251,001 to 003,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
-CS 330,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-CS 335,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-CS 338,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-CS 341,001 to 004,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-CS 343,"001,002",Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-CS 348,001 to 004,Friday,"December 15, 2017",7:30 PM,10:00 PM,TBA
-CS 349,"001,002",Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
-CS 350,001 to 005,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
-CS 360,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-CS 370,001 to 003,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-CS 430,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-CS 432,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-CS 445,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-CS 456,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-CS 458,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-CS 466,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-CS 486,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-CS 488,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-CS 489,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
-CS 645,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-CS 656,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-CS 658,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-CS 666,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-CS 686,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-CS 688,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-CS 698,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
+CS 105,"001,002",Thursday,"December 14, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
+CS 115,001 to 011,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8"
+CS 116,001 to 003,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,STC 1012
+CS 135,001 to 011,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10"
+CS 136,001 to 003,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
+CS 137,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
+CS 145,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"MC 4042,4045"
+CS 234,"001,002",Friday,"December 8, 2017",7:30 PM,10:00 PM,STC 1012
+CS 240,001 to 003,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"MC 4020,4021,4059,4061"
+CS 241,001 to 004,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"STC 0060,1012"
+CS 241E,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,STC 0050
+CS 245,001 to 007,Monday,"December 18, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5"
+CS 245E,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,PAC 6
+CS 246,001 to 008,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,7,8"
+CS 246E,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,PAC 6
+CS 251,001 to 003,Friday,"December 15, 2017",4:00 PM,6:30 PM,"DC 1350,1351"
+CS 330,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,"PAC 7,8"
+CS 335,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,PAC 8
+CS 338,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"STC 0010,0020"
+CS 341,001 to 004,Monday,"December 18, 2017",12:30 PM,3:00 PM,"PAC 4,5,6,7"
+CS 343,"001,002",Tuesday,"December 19, 2017",12:30 PM,3:00 PM,"PAC 1,2,3"
+CS 348,001 to 004,Friday,"December 15, 2017",7:30 PM,10:00 PM,"STC 0060,1012"
+CS 349,"001,002",Thursday,"December 21, 2017",9:00 AM,11:30 AM,"PAC 1,2"
+CS 350,001 to 005,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,8"
+CS 360,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0040
+CS 370,001 to 003,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,"DC 1350,1351"
+CS 430,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,MC 1085
+CS 432,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 4045
+CS 445,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4045
+CS 456,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,M3 1006
+CS 458,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+CS 466,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4059
+CS 486,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,M3 1006
+CS 488,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAC 11
+CS 489,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 2034,2035,2038"
+CS 645,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4045
+CS 656,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,M3 1006
+CS 658,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+CS 666,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4059
+CS 686,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,M3 1006
+CS 688,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAC 11
+CS 698,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 2034,2035,2038"
 DRAMA 386,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 DUTCH 101,001,Saturday,"December 9, 2017",4:00 PM,6:30 PM,Sched Only
 DUTCH 201,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
-EARTH 121,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
+EARTH 121,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,"PAC 4,5,6,7"
 EARTH 121,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-EARTH 121L,001 to 006,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-EARTH 123,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
+EARTH 121L,001 to 006,Monday,"December 18, 2017",7:30 PM,10:00 PM,M3 1006
+EARTH 123,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,"DC 1350,1351"
 EARTH 123L,001 to 003,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,Sched Only
 EARTH 231,001,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,Sched Only
-EARTH 235,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-EARTH 260,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-EARTH 331,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-EARTH 342,"001,002",Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-EARTH 421,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-EARTH 440,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-EARTH 461,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
+EARTH 235,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,PAC 7
+EARTH 260,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,PAC 8
+EARTH 331,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,MC 2034
+EARTH 342,"001,002",Monday,"December 18, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+EARTH 421,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4061
+EARTH 440,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 10
+EARTH 461,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,MC 2038
 EASIA 202R,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
 EASIA 360R,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
-ECE 105,001 to 004,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-ECE 150,001 to 003,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-ECE 205,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
-ECE 206,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-ECE 207,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-ECE 209,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-ECE 222,"001,002",Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-ECE 224,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-ECE 240,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-ECE 242,"001,002",Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
-ECE 250,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-ECE 254,"001,002",Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-ECE 290,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-ECE 318,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-ECE 356,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-ECE 358,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-ECE 361,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-ECE 390,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-ECE 451,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-ECE 484,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-ECON 101,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 101,002,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 101,"003,009",Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 101,004,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 101,005,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 101,"006,007",Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 101,008,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
+ECE 105,001 to 004,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 4,5,6,7,8"
+ECE 150,001 to 003,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"PAC 4,5,6,7"
+ECE 205,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ECE 206,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 5
+ECE 207,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,"PAC 7,8"
+ECE 209,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,MC 4045
+ECE 222,"001,002",Thursday,"December 7, 2017",9:00 AM,11:30 AM,"MC 4020,4021,4059,4060,4061"
+ECE 224,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"STC 0010,0020,0040"
+ECE 240,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"STC 0050,0060"
+ECE 242,"001,002",Friday,"December 15, 2017",4:00 PM,6:30 PM,STC 1012
+ECE 250,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ECE 254,"001,002",Monday,"December 11, 2017",9:00 AM,11:30 AM,STC 1012
+ECE 290,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ECE 318,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"STC 0010,0020"
+ECE 356,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+ECE 358,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,PAC 8
+ECE 361,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4021
+ECE 390,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
+ECE 451,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4045
+ECE 484,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,DC 1350
+ECON 101,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"DC 1350,1351"
+ECON 101,002,Saturday,"December 16, 2017",7:30 PM,10:00 PM,M3 1006
+ECON 101,"003,009",Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 6,7,8,9"
+ECON 101,004,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"MC 4020,4021,4059,4061"
+ECON 101,005,Saturday,"December 16, 2017",7:30 PM,10:00 PM,STC 1012
+ECON 101,"006,007",Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5"
+ECON 101,008,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"STC 0010,0020,0040"
 ECON 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ECON 102,"001,002",Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-ECON 102,"003,004",Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
+ECON 102,"001,002",Monday,"December 11, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5"
+ECON 102,"003,004",Monday,"December 11, 2017",9:00 AM,11:30 AM,"PAC 6,7,8,9,10,11"
 ECON 120W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-ECON 201,"001,002",Wednesday,"December 20, 2017",7:30 PM,10:00 PM,TBA
-ECON 201,003,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,TBA
-ECON 206,"001,002",Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-ECON 207,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
-ECON 211,"001,002",Thursday,"December 14, 2017",12:30 PM,2:30 PM,TBA
-ECON 212,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,TBA
-ECON 221,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-ECON 221,002,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-ECON 231,"001,002",Tuesday,"December 19, 2017",4:00 PM,6:00 PM,TBA
-ECON 255,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-ECON 290,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-ECON 301,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,TBA
-ECON 302,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,TBA
-ECON 322,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-ECON 323,001,Thursday,"December 14, 2017",7:30 PM,9:30 PM,TBA
-ECON 341,001,Monday,"December 11, 2017",9:00 AM,10:30 AM,TBA
-ECON 351,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-ECON 361,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,TBA
-ECON 371,"001,002",Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-ECON 391,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-ECON 401,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-ECON 421,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-ECON 484,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-ECON 491,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-ECON 673,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
+ECON 201,"001,002",Wednesday,"December 20, 2017",7:30 PM,10:00 PM,STC 1012
+ECON 201,003,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,DC 1350
+ECON 206,"001,002",Thursday,"December 7, 2017",7:30 PM,10:00 PM,"DC 1350,1351"
+ECON 207,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,STC 0050
+ECON 211,"001,002",Thursday,"December 14, 2017",12:30 PM,2:30 PM,M3 1006
+ECON 212,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,PAC 5
+ECON 221,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,"PAC 9,10"
+ECON 221,002,Saturday,"December 16, 2017",9:00 AM,11:30 AM,MC 4045
+ECON 231,"001,002",Tuesday,"December 19, 2017",4:00 PM,6:00 PM,M3 1006
+ECON 255,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4045
+ECON 290,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 1
+ECON 301,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,PAC 7
+ECON 302,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,PAC 8
+ECON 322,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"MC 4042,4045"
+ECON 323,001,Thursday,"December 14, 2017",7:30 PM,9:30 PM,PAC 5
+ECON 341,001,Monday,"December 11, 2017",9:00 AM,10:30 AM,MC 2034
+ECON 351,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 2035
+ECON 361,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,PAC 8
+ECON 371,"001,002",Saturday,"December 16, 2017",7:30 PM,10:00 PM,"STC 0050,0060"
+ECON 391,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 6
+ECON 401,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 6
+ECON 421,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4064
+ECON 484,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4042
+ECON 491,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 10
+ECON 673,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4042
 EMLS 129R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENBUS 202,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-ENBUS 204,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-ENBUS 306,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
+ENBUS 202,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,STC 1012
+ENBUS 204,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,M3 1006
+ENBUS 306,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,M3 1006
 ENGL 100B,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,Sched Only
 ENGL 101A,002,Monday,"December 18, 2017",12:30 PM,3:00 PM,Sched Only
-ENGL 101B,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
+ENGL 101B,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 4040
 ENGL 101B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 104,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-ENGL 108A,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
+ENGL 104,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,PAC 11
+ENGL 108A,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 2017
 ENGL 108A,002,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
 ENGL 108F,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
 ENGL 109,015,Saturday,"December 9, 2017",9:00 AM,11:30 AM,Sched Only
 ENGL 109,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 190,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 200A,001,Monday,"December 11, 2017",9:00 AM,10:00 AM,TBA
+ENGL 200A,001,Monday,"December 11, 2017",9:00 AM,10:00 AM,MC 2035
 ENGL 200A,002,Saturday,"December 16, 2017",7:30 PM,10:00 PM,Sched Only
 ENGL 200A,003,Saturday,"December 16, 2017",7:30 PM,10:00 PM,Sched Only
 ENGL 200A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -391,40 +395,40 @@ ENGL 210F,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/onlin
 ENGL 210I,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
 ENGL 213,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
 ENGL 251A,003,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
-ENGL 251A,004,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
+ENGL 251A,004,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4042
 ENGL 251A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 306A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 309B,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
+ENGL 309B,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,MC 2035
 ENGL 310B,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
-ENGL 362,001,Wednesday,"December 13, 2017",4:00 PM,6:00 PM,TBA
+ENGL 362,001,Wednesday,"December 13, 2017",4:00 PM,6:00 PM,MC 4064
 ENGL 362,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 371,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,Sched Only
 ENGL 430B,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,Sched Only
 ENGL 451B,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
-ENGL 460D,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
+ENGL 460D,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4063
 ENVE 100,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,Sched Only
 ENVE 225,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
 ENVE 277,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,Sched Only
 ENVE 279,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,Sched Only
 ENVE 472,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
-ENVS 105,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
-ENVS 178,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-ENVS 200,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
-ENVS 201,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-ENVS 278,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
+ENVS 105,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,"DC 1350,1351"
+ENVS 178,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"PAC 1,2,3"
+ENVS 200,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"STC 0050,0060"
+ENVS 201,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,M3 1006
+ENVS 278,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,"PAC 1,2,3"
 ERS 100,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,Sched Only
 ERS 234,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,Sched Only
 ERS 335,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
 ERS 346,001,Saturday,"December 9, 2017",9:00 AM,11:30 AM,Sched Only
 ERS 484,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,Sched Only
 ERS 684,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,Sched Only
-FINE 102,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
+FINE 102,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,M3 1006
 FR 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 151,001 to 003,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
+FR 151,001 to 003,Saturday,"December 16, 2017",12:30 PM,3:00 PM,M3 1006
 FR 151,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FR 152,"001,002",Tuesday,"December 12, 2017",12:30 PM,3:00 PM,Sched Only
 FR 152,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 192A,"001,002,004,005",Thursday,"December 14, 2017",7:30 PM,9:30 PM,TBA
+FR 192A,"001,002,004,005",Thursday,"December 14, 2017",7:30 PM,9:30 PM,PAC 6
 FR 192A,003,Thursday,"December 14, 2017",7:30 PM,9:30 PM,Sched Only
 FR 192A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FR 192B,"001,002",Saturday,"December 9, 2017",4:00 PM,6:00 PM,Sched Only
@@ -442,19 +446,19 @@ FR 303,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-e
 FR 353,001,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,Sched Only
 FR 424,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
 FR 484,001,Tuesday,"December 12, 2017",9:00 AM,11:00 AM,Sched Only
-GBDA 203,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-GENE 121,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-GEOG 102,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-GEOG 201,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
-GEOG 203,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-GEOG 215,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-GEOG 233,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
-GEOG 281,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-GEOG 310,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-GEOG 311,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-GEOG 374,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
+GBDA 203,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"STC 0010,0020"
+GENE 121,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,"MC 2017,2034,2035,2038,2054"
+GEOG 102,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 3
+GEOG 201,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,DC 1351
+GEOG 203,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,DC 1350
+GEOG 215,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,MC 2034
+GEOG 233,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,MC 1085
+GEOG 281,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,STC 0060
+GEOG 310,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"MC 2017,2054"
+GEOG 311,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 2017
+GEOG 374,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4064
 GEOG 404,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,Sched Only
-GEOG 453,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
+GEOG 453,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,DC 1350
 GER 100,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,Sched Only
 GER 101,001 to 004,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,Sched Only
 GER 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -464,10 +468,10 @@ GER 201,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-
 GER 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GER 220,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,Sched Only
 GER 301,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
-GERON 201,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-GERON 320,001,Thursday,"December 7, 2017",4:00 PM,6:00 PM,TBA
-GRK 101,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-GRK 201,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
+GERON 201,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
+GERON 320,001,Thursday,"December 7, 2017",4:00 PM,6:00 PM,M3 1006
+GRK 101,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4042
+GRK 201,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,MC 4064
 HIST 102,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,Sched Only
 HIST 103,001,Friday,"December 8, 2017",7:30 PM,9:30 PM,Sched Only
 HIST 105,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,Sched Only
@@ -475,30 +479,30 @@ HIST 113,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,Sched Only
 HIST 115,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,Sched Only
 HIST 221,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,Sched Only
 HIST 230,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,Sched Only
-HIST 252,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,TBA
-HIST 257,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,Sched Only
+HIST 252,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,MC 4061
+HIST 257,001,Exam removed from schedule. Contact instructor for further information.,,,,
 HIST 275,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,Sched Only
 HIST 389,001,Friday,"December 8, 2017",4:00 PM,6:30 PM,Sched Only
 HIST 391,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
-HLTH 101,"001,002",Monday,"December 18, 2017",4:00 PM,6:00 PM,TBA
-HLTH 103,001,Tuesday,"December 12, 2017",7:30 PM,9:30 PM,TBA
-HLTH 173,002,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-HLTH 201,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-HLTH 202,001,Saturday,"December 16, 2017",9:00 AM,11:00 AM,TBA
-HLTH 204,001,Friday,"December 8, 2017",9:00 AM,10:30 AM,TBA
-HLTH 320,001,Thursday,"December 7, 2017",4:00 PM,6:00 PM,TBA
-HLTH 333,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-HLTH 340,001,Thursday,"December 14, 2017",4:00 PM,6:00 PM,TBA
-HLTH 355,001,Friday,"December 15, 2017",9:00 AM,11:00 AM,TBA
-HLTH 407,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
+HLTH 101,"001,002",Monday,"December 18, 2017",4:00 PM,6:00 PM,"STC 0050,0060,1012"
+HLTH 103,001,Tuesday,"December 12, 2017",7:30 PM,9:30 PM,STC 0060
+HLTH 173,002,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,MC 4063
+HLTH 201,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
+HLTH 202,001,Saturday,"December 16, 2017",9:00 AM,11:00 AM,"STC 0060,1012"
+HLTH 204,001,Friday,"December 8, 2017",9:00 AM,10:30 AM,"DC 1350,1351"
+HLTH 320,001,Thursday,"December 7, 2017",4:00 PM,6:00 PM,M3 1006
+HLTH 333,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,M3 1006
+HLTH 340,001,Thursday,"December 14, 2017",4:00 PM,6:00 PM,MC 4045
+HLTH 355,001,Friday,"December 15, 2017",9:00 AM,11:00 AM,DC 1350
+HLTH 407,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"STC 0040,0050"
 HRM 200,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-HRM 301,001,Friday,"December 8, 2017",9:00 AM,11:00 AM,TBA
-HRM 303,001,Thursday,"December 14, 2017",9:00 AM,11:00 AM,TBA
-HRM 307,001,Saturday,"December 9, 2017",12:30 PM,2:30 PM,TBA
+HRM 301,001,Friday,"December 8, 2017",9:00 AM,11:00 AM,MC 1085
+HRM 303,001,Thursday,"December 14, 2017",9:00 AM,11:00 AM,MC 2034
+HRM 307,001,Saturday,"December 9, 2017",12:30 PM,2:30 PM,MC 4041
 HUMSC 101,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,Sched Only
-INDEV 100,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-INDEV 262,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-INDEV 302,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
+INDEV 100,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,M3 1006
+INDEV 262,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,STC 0060
+INDEV 302,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,MC 2038
 JAPAN 101R,"001,002",Thursday,"December 21, 2017",4:00 PM,6:00 PM,Sched Only
 JAPAN 101R,"003,004",Thursday,"December 21, 2017",4:00 PM,6:00 PM,Sched Only
 JAPAN 102R,001,Saturday,"December 9, 2017",7:30 PM,9:30 PM,Sched Only
@@ -506,130 +510,132 @@ JAPAN 201R,"001,002",Saturday,"December 16, 2017",12:30 PM,3:00 PM,Sched Only
 JAPAN 202R,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,Sched Only
 JAPAN 301R,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,Sched Only
 JS 131,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,Sched Only
-KIN 104,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
+KIN 104,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,"DC 1350,1351"
 KIN 104L,001 to 014,Tuesday,"December 19, 2017",9:00 AM,10:00 AM,Sched Only
-KIN 105,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,TBA
-KIN 217,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
-KIN 301,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
-KIN 354,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-KIN 405,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-KIN 407,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-KIN 422,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-KIN 428,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-LAT 101,"001,002",Monday,"December 18, 2017",7:30 PM,9:30 PM,TBA
-LAT 201,001,Monday,"December 11, 2017",9:00 AM,11:00 AM,TBA
+KIN 105,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,"DC 1350,1351"
+KIN 217,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,"PAC 4,5,6,7"
+KIN 301,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,DC 1350
+KIN 354,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,"PAC 1,2,3"
+KIN 405,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
+KIN 407,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"STC 0040,0050"
+KIN 422,001,Exam removed from schedule. Contact instructor for further information.,,,,
+KIN 428,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,DC 1351
+LAT 101,"001,002",Monday,"December 18, 2017",7:30 PM,9:30 PM,STC 0040
+LAT 201,001,Monday,"December 11, 2017",9:00 AM,11:00 AM,MC 2038
 LS 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 LS 201,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,Sched Only
 LS 271,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,Sched Only
 LS 271,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 LS 273,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-LS 283,001,Friday,"December 15, 2017",7:30 PM,9:30 PM,TBA
+LS 283,001,Friday,"December 15, 2017",7:30 PM,9:30 PM,DC 1350
 LS 291,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
 LS 292,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
 LS 300,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,Sched Only
 LS 306,001,Thursday,"December 7, 2017",9:00 AM,11:00 AM,Sched Only
-LS 366,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-MATBUS 470,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-MATBUS 471,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
+LS 366,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0020
+MATBUS 470,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 11
+MATBUS 471,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4061
 MATH 103,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
 MATH 103,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 104,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-MATH 106,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-MATH 109,001 to 003,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-MATH 114,"001,002",Saturday,"December 16, 2017",4:00 PM,6:30 PM,TBA
-MATH 115,001 to 010,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-MATH 116,001 to 008,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-MATH 117,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-MATH 124,"001,002",Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
-MATH 127,001 to 010,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
+MATH 104,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"MC 1056,1085"
+MATH 106,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,PAC 8
+MATH 109,001 to 003,Monday,"December 18, 2017",7:30 PM,10:00 PM,"PAC 4,5,6,7"
+MATH 114,"001,002",Saturday,"December 16, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
+MATH 115,001 to 010,Friday,"December 15, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11, M3 1006"
+MATH 116,001 to 008,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
+MATH 117,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6"
+MATH 124,"001,002",Tuesday,"December 12, 2017",7:30 PM,10:00 PM,"PAC 4,5,6,7,9,10"
+MATH 127,001 to 010,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11"
 MATH 127,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 128,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
+MATH 128,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 4059,4061"
 MATH 128,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 135,001 to 031,Friday,"December 8, 2017",9:00 AM,11:30 AM,TBA
-MATH 136,001 to 003,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
+MATH 135,001 to 031,Friday,"December 8, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+STC 0020,0040,0050,0060,1012"
+MATH 136,001 to 003,Monday,"December 18, 2017",9:00 AM,11:30 AM,"STC 0060,1012"
 MATH 136,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 137,"001 to 009,011",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-MATH 137,010,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
+MATH 137,"001 to 009,011",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+STC 0050,0060,1012"
+MATH 137,010,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 1056,1085"
 MATH 137,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 138,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
-MATH 145,"001,002",Friday,"December 8, 2017",9:00 AM,11:30 AM,TBA
-MATH 147,"001,002",Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-MATH 207,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-MATH 215,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-MATH 217,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-MATH 218,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-MATH 225,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
+MATH 138,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,M3 1006
+MATH 145,"001,002",Friday,"December 8, 2017",9:00 AM,11:30 AM,"MC 4058,4059,4060,4061"
+MATH 147,"001,002",Wednesday,"December 13, 2017",4:00 PM,6:30 PM,DC 1351
+MATH 207,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4041
+MATH 215,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+MATH 217,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,STC 0040
+MATH 218,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 7
+MATH 225,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 4045
 MATH 227,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,Sched Only
-MATH 228,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-MATH 229,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-MATH 235,001 to 005,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-MATH 237,001 to 005,Saturday,"December 16, 2017",9:00 AM,11:30 AM,TBA
-MATH 239,001 to 004,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-MATH 245,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,TBA
-MATH 247,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-MATH 249,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-ME 201,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,TBA
-ME 202,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-ME 203,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-ME 212,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-ME 219,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-ME 220,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-ME 230,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
-ME 235,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-ME 250,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
-ME 250,002,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-ME 262,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-ME 269,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-ME 322,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-ME 351,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-ME 353,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-ME 360,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-ME 362,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-ME 423,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-ME 436,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,TBA
-ME 456,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-ME 459,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-ME 548,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-ME 559,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-ME 561,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-ME 599,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
-ME 599,002,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-ME 760,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,TBA
+MATH 228,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,DC 1350
+MATH 229,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,MC 4064
+MATH 235,001 to 005,Friday,"December 8, 2017",12:30 PM,3:00 PM,"STC 0020,0040,0050,0060,1012"
+MATH 237,001 to 005,Saturday,"December 16, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6"
+MATH 239,001 to 004,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,"PAC 4,5,6,7"
+MATH 245,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,DC 1351
+MATH 247,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"MC 4059,4061"
+MATH 249,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4021
+ME 201,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"MC 2034,2035,2038"
+ME 202,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,DC 1351
+ME 203,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"MC 4020,4021"
+ME 212,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"MC 2017,2054"
+ME 219,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,DC 1350
+ME 220,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,DC 1351
+ME 230,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,M3 1006
+ME 235,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 2
+ME 250,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 2017,2054"
+ME 250,002,Saturday,"December 9, 2017",12:30 PM,3:00 PM,STC 0040
+ME 262,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"MC 2034,2035"
+ME 269,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,"MC 4059,4061"
+ME 322,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ME 351,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,"MC 2035,2038"
+ME 353,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"MC 4059,4061"
+ME 360,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+ME 362,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+ME 423,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4040
+ME 436,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,PAC 11
+ME 456,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4042
+ME 459,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 10
+ME 548,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4059
+ME 559,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 1085
+ME 561,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 2054
+ME 599,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4059
+ME 599,002,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4041
+ME 760,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4059
 MEDVL 115,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,Sched Only
 MEDVL 250R,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
-MNS 101,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-MNS 211,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-MNS 321,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-MNS 331,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-MSCI 211,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,TBA
+MNS 101,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 5
+MNS 211,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,STC 0060
+MNS 321,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,MC 4064
+MNS 331,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 1085
+MSCI 211,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
 MSCI 211,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MSCI 240,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
+MSCI 240,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,STC 0010
 MSCI 261,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,Sched Only
-MSCI 261,002,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-MSCI 261,003,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-MSCI 262,"001,002",Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-MSCI 271,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-MSCI 311,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
+MSCI 261,002,Thursday,"December 7, 2017",12:30 PM,3:00 PM,DC 1350
+MSCI 261,003,Monday,"December 18, 2017",7:30 PM,10:00 PM,STC 0010
+MSCI 262,"001,002",Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0060
+MSCI 271,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,STC 0060
+MSCI 311,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,PAC 6
 MSCI 331,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,Sched Only
 MSCI 332,"001,002",Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
-MSCI 333,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
+MSCI 333,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,MC 4020
 MSCI 342,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
-MSCI 422,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-MSCI 432,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
+MSCI 422,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,STC 0050
+MSCI 432,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 8
 MSCI 446,001,Saturday,"December 9, 2017",4:00 PM,6:30 PM,Sched Only
-MTE 201,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-MTE 202,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-MTE 203,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
-MTE 204,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-MTE 219,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-MTE 220,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-MTE 241,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
-MTE 262,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
-MTE 322,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-MTE 360,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-MTE 420,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,TBA
-MTE 545,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-MTHEL 131,001,Tuesday,"December 19, 2017",12:30 PM,2:30 PM,TBA
+MTE 201,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,DC 1350
+MTE 202,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+MTE 203,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,PAC 8
+MTE 204,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,PAC 8
+MTE 219,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,DC 1350
+MTE 220,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 2017,2054"
+MTE 241,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,"PAC 9,10"
+MTE 262,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"MC 2035,2038"
+MTE 322,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,DC 1351
+MTE 360,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 4040,4045"
+MTE 420,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4045
+MTE 545,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,MC 2035
+MTHEL 131,001,Tuesday,"December 19, 2017",12:30 PM,2:30 PM,M3 1006
 MUSIC 100,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,Sched Only
 MUSIC 140,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,Sched Only
 MUSIC 253,001,Monday,"December 11, 2017",9:00 AM,11:00 AM,Sched Only
@@ -638,28 +644,28 @@ MUSIC 270,001,Saturday,"December 9, 2017",4:00 PM,6:30 PM,Sched Only
 MUSIC 275,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 MUSIC 363,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
 MUSIC 370,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
-NE 100,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,TBA
-NE 109,001,Saturday,"December 9, 2017",12:30 PM,1:30 PM,TBA
-NE 111,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,TBA
-NE 112,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-NE 121,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
-NE 201,001,Thursday,"December 7, 2017",12:30 PM,2:00 PM,TBA
-NE 215,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-NE 216,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-NE 224,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
-NE 232,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-NE 241,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-NE 335,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-NE 336,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-NE 345,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
-NE 352,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
-NE 353,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-NE 381,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-NE 451,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-NE 461,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
-NE 471,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
-NE 481,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
-NE 491,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
+NE 100,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"MC 4059,4061"
+NE 109,001,Saturday,"December 9, 2017",12:30 PM,1:30 PM,DC 1351
+NE 111,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,Sched Only
+NE 112,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
+NE 121,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
+NE 201,001,Thursday,"December 7, 2017",12:30 PM,2:00 PM,"MC 4020,4021"
+NE 215,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"MC 4040,4041,4042"
+NE 216,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"MC 2017,2054"
+NE 224,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 4020,4021"
+NE 232,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,DC 1351
+NE 241,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+NE 335,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 4059
+NE 336,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0050
+NE 345,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 10
+NE 352,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,STC 0050
+NE 353,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4045
+NE 381,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,PAC 9
+NE 451,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4058
+NE 461,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 9
+NE 471,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4059
+NE 481,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 4061
+NE 491,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 2038
 OPTOM 104,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,REV 200
 OPTOM 105,001,Wednesday,"December 13, 2017",9:00 AM,10:30 AM,REV 200
 OPTOM 106,001,Saturday,"December 9, 2017",9:00 AM,11:00 AM,REV 200
@@ -685,90 +691,90 @@ PHIL 145,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online
 PHIL 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 215,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,Sched Only
 PHIL 215,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 226,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
+PHIL 226,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,STC 0010
 PHIL 240,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 258,001,Saturday,"December 9, 2017",9:00 AM,11:30 AM,Sched Only
 PHIL 265,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 283,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,Sched Only
 PHIL 284,001,Thursday,"December 7, 2017",12:30 PM,2:30 PM,Sched Only
 PHIL 319J,001,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,Sched Only
-PHYS 111,001 to 004,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-PHYS 115,001 to 004,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-PHYS 121,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-PHYS 121L,001 to 004,Tuesday,"December 19, 2017",12:30 PM,1:30 PM,TBA
-PHYS 131L,001 to 007,Tuesday,"December 19, 2017",12:30 PM,1:30 PM,TBA
+PHYS 111,001 to 004,Monday,"December 11, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
+PHYS 115,001 to 004,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"PAC 4,5,6,7,9"
+PHYS 121,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5"
+PHYS 121L,001 to 004,Tuesday,"December 19, 2017",12:30 PM,1:30 PM,STC 0060
+PHYS 131L,001 to 007,Tuesday,"December 19, 2017",12:30 PM,1:30 PM,STC 1012
 PHYS 224,001,Thursday,"December 14, 2017",7:30 PM,10:00 PM,Sched Only
 PHYS 225,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,Sched Only
-PHYS 236,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,TBA
-PHYS 256,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-PHYS 275,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-PHYS 342,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,TBA
-PHYS 358,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,TBA
-PHYS 363,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,TBA
+PHYS 236,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
+PHYS 256,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+PHYS 275,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 4059,4061"
+PHYS 342,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,DC 1351
+PHYS 358,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,STC 0050
+PHYS 363,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 1085
 PHYS 364,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,Sched Only
 PHYS 380,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
-PHYS 434,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,TBA
-PHYS 442,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-PHYS 454,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,TBA
-PHYS 474,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,TBA
+PHYS 434,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 4
+PHYS 442,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4045
+PHYS 454,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4020
+PHYS 474,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,MC 4064
 PHYS 475,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,Sched Only
 PHYS 490,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 PHYS 491,001,Friday,"December 8, 2017",4:00 PM,6:30 PM,Sched Only
 PHYS 771,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
-PLAN 100,001,Monday,"December 11, 2017",12:30 PM,2:30 PM,TBA
-PLAN 105,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-PLAN 262,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-PLAN 281,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-PLAN 300,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,TBA
-PLAN 362,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-PLAN 453,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
-PMATH 330,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,TBA
-PMATH 331,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,TBA
-PMATH 336,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,TBA
-PMATH 340,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
-PMATH 347,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
+PLAN 100,001,Monday,"December 11, 2017",12:30 PM,2:30 PM,"DC 1350,1351"
+PLAN 105,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,M3 1006
+PLAN 262,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,STC 0060
+PLAN 281,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,STC 0060
+PLAN 300,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+PLAN 362,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,MC 1085
+PLAN 453,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,DC 1350
+PMATH 330,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,MC 4021
+PMATH 331,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,PAC 8
+PMATH 336,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,PAC 9
+PMATH 340,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4061
+PMATH 347,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,MC 1085
 PMATH 351,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,Sched Only
 PMATH 440,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
-PMATH 445,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-PMATH 451,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-PMATH 453,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-PMATH 465,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
-PMATH 651,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
-PMATH 665,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,TBA
+PMATH 445,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 2054
+PMATH 451,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,PAC 11
+PMATH 453,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4060
+PMATH 465,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 4064
+PMATH 651,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,PAC 11
+PMATH 665,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 4064
 PMATH 740,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,Sched Only
-PMATH 745,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,TBA
-PMATH 753,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-PSCI 255,001,Thursday,"December 14, 2017",12:30 PM,2:30 PM,TBA
+PMATH 745,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 2054
+PMATH 753,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4060
+PSCI 255,001,Thursday,"December 14, 2017",12:30 PM,2:30 PM,MC 4045
 PSCI 257,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,Sched Only
-PSCI 353,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,TBA
-PSCI 389,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-PSYCH 101,"001,002",Tuesday,"December 12, 2017",12:30 PM,2:30 PM,TBA
-PSYCH 101,004,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,TBA
+PSCI 353,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 11
+PSCI 389,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0020
+PSYCH 101,"001,002",Tuesday,"December 12, 2017",12:30 PM,2:30 PM,"PAC 1,2,3,4,5,6,7,8"
+PSYCH 101,004,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,"PAC 9,10"
 PSYCH 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 101R,001 to 003,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,Sched Only
 PSYCH 207,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 211,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-PSYCH 253,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
+PSYCH 211,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
+PSYCH 253,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,STC 1012
 PSYCH 253,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 257,001,Tuesday,"December 19, 2017",9:00 AM,11:00 AM,TBA
-PSYCH 291,001,Thursday,"December 7, 2017",4:00 PM,6:00 PM,TBA
-PSYCH 306,001,Saturday,"December 16, 2017",9:00 AM,11:00 AM,TBA
+PSYCH 257,001,Tuesday,"December 19, 2017",9:00 AM,11:00 AM,"DC 1350,1351"
+PSYCH 291,001,Thursday,"December 7, 2017",4:00 PM,6:00 PM,"MC 4020,4021,4059,4061"
+PSYCH 306,001,Saturday,"December 16, 2017",9:00 AM,11:00 AM,STC 0040
 PSYCH 312R,001,Thursday,"December 14, 2017",7:30 PM,10:00 PM,Sched Only
 PSYCH 318,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
-PSYCH 320,001,Monday,"December 11, 2017",4:00 PM,6:00 PM,TBA
-PSYCH 336,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,TBA
-PSYCH 340,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,TBA
-PSYCH 352,001,Thursday,"December 14, 2017",4:00 PM,5:30 PM,TBA
-PSYCH 391,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,TBA
-REC 101,001,Thursday,"December 14, 2017",9:00 AM,11:00 AM,TBA
-REC 371,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,TBA
+PSYCH 320,001,Monday,"December 11, 2017",4:00 PM,6:00 PM,"MC 2017,2054"
+PSYCH 336,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,PAC 7
+PSYCH 340,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,STC 0050
+PSYCH 352,001,Thursday,"December 14, 2017",4:00 PM,5:30 PM,STC 0040
+PSYCH 391,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,PAC 4
+REC 101,001,Thursday,"December 14, 2017",9:00 AM,11:00 AM,M3 1006
+REC 371,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
 REES 220,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,Sched Only
 REES 273,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 RS 130,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,Sched Only
 RS 357,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
 RUSS 101,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,Sched Only
-SCI 200,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,TBA
-SCI 206,001,Thursday,"December 14, 2017",7:30 PM,9:30 PM,TBA
+SCI 200,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,PAC 6
+SCI 206,001,Thursday,"December 14, 2017",7:30 PM,9:30 PM,"PAC 1,2,3,4"
 SCI 238,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SCI 267,001,Saturday,"December 9, 2017",9:00 AM,11:30 AM,Sched Only
 SDS 150R,001,Saturday,"December 16, 2017",12:30 PM,2:30 PM,Sched Only
@@ -780,16 +786,16 @@ SDS 251R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online
 SDS 355R,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,Sched Only
 SDS 358R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SDS 400R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SE 212,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
-SE 380,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,TBA
-SE 464,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,TBA
+SE 212,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+SE 380,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,PAC 6
+SE 464,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,DC 1351
 SI 101R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SI 221R,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
 SI 250R,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,Sched Only
 SMF 204,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,Sched Only
 SOC 101,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,Sched Only
-SOC 101,002,Monday,"December 11, 2017",7:30 PM,10:00 PM,TBA
-SOC 101,003,Monday,"December 11, 2017",7:30 PM,10:00 PM,TBA
+SOC 101,002,Monday,"December 11, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4"
+SOC 101,003,Monday,"December 11, 2017",7:30 PM,10:00 PM,PAC 5
 SOC 101R,001 to 003,Thursday,"December 14, 2017",9:00 AM,11:30 AM,Sched Only
 SOC 200,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,Sched Only
 SOC 202,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
@@ -798,41 +804,41 @@ SOC 370,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,Sched Only
 SOCWK 220R,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 SOCWK 221R,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,Sched Only
 SOCWK 300R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SPAN 101,001 to 004,Friday,"December 15, 2017",7:30 PM,9:30 PM,TBA
+SPAN 101,001 to 004,Friday,"December 15, 2017",7:30 PM,9:30 PM,M3 1006
 SPAN 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SPAN 102,001,Monday,"December 11, 2017",4:00 PM,6:00 PM,TBA
-SPAN 201A,001,Monday,"December 18, 2017",9:00 AM,11:00 AM,TBA
-STAT 202,"001,002",Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
-STAT 206,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,TBA
-STAT 220,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,TBA
-STAT 221,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,TBA
-STAT 230,001 to 005,Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
+SPAN 102,001,Monday,"December 11, 2017",4:00 PM,6:00 PM,MC 4040
+SPAN 201A,001,Monday,"December 18, 2017",9:00 AM,11:00 AM,MC 4040
+STAT 202,"001,002",Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5"
+STAT 206,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,DC 1351
+STAT 220,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 11
+STAT 221,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,MC 4041
+STAT 230,001 to 005,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8"
 STAT 230,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-STAT 231,"001,002",Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
+STAT 231,"001,002",Thursday,"December 14, 2017",9:00 AM,11:30 AM,"STC 0010,0020,0040,1012"
 STAT 231,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-STAT 240,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,TBA
-STAT 322,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,TBA
-STAT 330,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,TBA
-STAT 331,"001,002",Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-STAT 332,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
-STAT 333,"001,002",Thursday,"December 7, 2017",12:30 PM,3:00 PM,TBA
-STAT 334,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-STAT 337,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,TBA
-STAT 341,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
-STAT 371,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,TBA
+STAT 240,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"PAC 9,10"
+STAT 322,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,MC 4061
+STAT 330,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,"PAC 1,2,3"
+STAT 331,"001,002",Friday,"December 8, 2017",12:30 PM,3:00 PM,"DC 1350,1351"
+STAT 332,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
+STAT 333,"001,002",Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 1012
+STAT 334,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,MC 4045
+STAT 337,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,PAC 6
+STAT 341,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,M3 1006
+STAT 371,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
 STAT 372,001,Exam removed from schedule. Contact instructor for further information.,,,,
-STAT 373,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,TBA
-STAT 430,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-STAT 431,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-STAT 433,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-STAT 441,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-STAT 442,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,TBA
-STAT 443,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,TBA
-STAT 830,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,TBA
-STAT 831,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,TBA
-STAT 833,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,TBA
-STAT 841,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,TBA
-STAT 842,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,TBA
+STAT 373,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 10,11"
+STAT 430,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 4040,4041,4042,4045"
+STAT 431,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+STAT 433,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+STAT 441,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 8
+STAT 442,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,MC 1085
+STAT 443,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC 7,8"
+STAT 830,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 4040,4041,4042,4045"
+STAT 831,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+STAT 833,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
+STAT 841,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 8
+STAT 842,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,MC 1085
 SWREN 220R,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 SWREN 300R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SYDE 101L,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,Sched Only
@@ -841,16 +847,16 @@ SYDE 113,"001,002",Friday,"December 8, 2017",4:00 PM,6:30 PM,Sched Only
 SYDE 121,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,Sched Only
 SYDE 161,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,Sched Only
 SYDE 181,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
-SYDE 182,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,TBA
+SYDE 182,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"MC 4059,4061"
 SYDE 212,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
 SYDE 252,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,Sched Only
-SYDE 252,002,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,TBA
+SYDE 252,002,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,DC 1351
 SYDE 262,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,Sched Only
 SYDE 286,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,Sched Only
 SYDE 292,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,Sched Only
 SYDE 411,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,Sched Only
 SYDE 553,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,Sched Only
 SYDE 575,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,Sched Only
-VCULT 100,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,TBA
+VCULT 100,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,M3 1006
 WS 206,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,Sched Only
 WS 222,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
