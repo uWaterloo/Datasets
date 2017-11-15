@@ -1,5 +1,5 @@
 Exam,Section(s),Day,Date,Start,Finish,Location
-ACTSC 221,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,"PAC 10,11"
+ACTSC 221,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,"PAC Upper 10,11"
 ACTSC 231,001 to 003,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"STC 0060,1012"
 ACTSC 232,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 1085
 ACTSC 331,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 2034,2035"
@@ -15,7 +15,9 @@ ACTSC 846,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"MC 4041,4042,4045"
 AFM 101,001 to 006,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
 AFM 102,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,M3 1006
 AFM 123,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,M3 1006
-AFM 131,003 to 006,Friday,"December 8, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11, DC 1350"
+AFM 131,003 to 006,Friday,"December 8, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
+DC 1350"
 AFM 131,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 AFM 202,001 to 004,Monday,"December 11, 2017",7:30 PM,9:00 PM,"DC 1350,1351"
 AFM 202,005 to 007,Monday,"December 11, 2017",7:30 PM,9:30 PM,"CPH 1346, E2 1310"
@@ -29,7 +31,8 @@ AFM 333,001 to 003,Monday,"December 11, 2017",9:00 AM,11:30 AM,"STC 0010,0020"
 AFM 362,001 to 004,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
 AFM 373,001 to 006,Monday,"December 18, 2017",9:00 AM,11:00 AM,"STC 0010,0020,0040"
 AFM 391,001 to 004,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"DC 1350,1351"
-AFM 401,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"PAC 7,8,9,10"
+AFM 401,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"PAC 7,8
+PAC Upper 9,10"
 AFM 415,001,Thursday,"December 7, 2017",7:30 PM,9:30 PM,HH 280
 AFM 415,002,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4058
 AFM 425,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4061
@@ -64,7 +67,9 @@ ANTH 222,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,HH 1102
 ANTH 321,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAS 1241
 ANTH 355,001,Saturday,"December 9, 2017",9:00 AM,11:30 AM,PAS 1098D
 APPLS 301,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,ML 246
-ARBUS 101,"001,002",Friday,"December 8, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11, DC 1350"
+ARBUS 101,"001,002",Friday,"December 8, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
+DC 1350"
 ARBUS 202,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,EV3 1408
 ARBUS 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ARBUS 300,"001,002",Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
@@ -74,7 +79,8 @@ ARTS 190,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,ML 212
 ARTS 280,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,B1 370
 AVIA 100,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"MC 2017,2054"
 BIOL 110,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,"STC 0060,1012"
-BIOL 130,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+BIOL 130,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
 STC 0010,0020,0040,1012"
 BIOL 150,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,"PAC 4,5,6,7"
 BIOL 239,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -82,9 +88,11 @@ BIOL 240,"001,002",Friday,"December 8, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7
 BIOL 240L,001 to 019,Tuesday,"December 19, 2017",7:30 PM,8:30 PM,"PAC 1,2,3,4,5,6"
 BIOL 266,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"MC 4059,4060,4061"
 BIOL 273,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-BIOL 301,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,"PAC 4,5,9,10,11"
+BIOL 301,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,"PAC 4,5
+PAC Upper 9,10,11"
 BIOL 303,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,"STC 0010,0020,0040"
-BIOL 308,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"PAC 6,7,8,9,10"
+BIOL 308,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"PAC 6,7,8
+PAC Upper 9,10"
 BIOL 309,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
 BIOL 310,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 2017
 BIOL 323,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,STC 0010
@@ -92,7 +100,7 @@ BIOL 325,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0010
 BIOL 342,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
 BIOL 345,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,STC 0020
 BIOL 350,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
-BIOL 354,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+BIOL 354,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 BIOL 359,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,STC 1012
 BIOL 370,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,DC 1350
 BIOL 376,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,MC 4059
@@ -101,7 +109,7 @@ BIOL 434,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,STC 0010
 BIOL 439,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,STC 1012
 BIOL 443,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
 BIOL 444,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4041
-BIOL 447,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,"PAC 9,10"
+BIOL 447,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,"PAC Upper 9,10"
 BIOL 448,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,MC 4040
 BIOL 456,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,MC 4041
 BIOL 470,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,B2 149
@@ -150,7 +158,8 @@ BUS 486W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,
 BUS 487W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 493UW,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 CHE 100,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
-CHE 102,001 to 012,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+CHE 102,001 to 012,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
 STC 0050,0060,1012"
 CHE 200,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"MC 2034,2035"
 CHE 211,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"E6 2024,4022"
@@ -168,9 +177,12 @@ CHE 516,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,"E6 2022,2024,4022"
 CHE 541,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,E6 4022
 CHE 571,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,"E6 2024,4022"
 CHE 622,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,DC 1350
-CHEM 120,001 to 006,Thursday,"December 7, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11, DC 1350,1351
+CHEM 120,001 to 006,Thursday,"December 7, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
+DC 1350,1351
 STC 0010,0020,0040,0050,0060,1012"
-CHEM 120L,001 to 014,Thursday,"December 7, 2017",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+CHEM 120L,001 to 014,Thursday,"December 7, 2017",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
 STC 0010,0020,0040,0050,1012"
 CHEM 123,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CHEM 209,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
@@ -180,17 +192,18 @@ CHEM 237L,001 to 003,Monday,"December 11, 2017",12:30 PM,2:30 PM,"STC 0040,0050"
 CHEM 240,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,STC 0050
 CHEM 262,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,MC 1085
 CHEM 264,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,"PAC 1,2"
-CHEM 266,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,9,10"
+CHEM 266,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6
+PAC Upper 9,10"
 CHEM 267,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CHEM 302,081 Online,Exam removed from schedule. Contact instructor for further information.,,,,
 CHEM 310,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 4040
 CHEM 331,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 3
-CHEM 333,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 9
+CHEM 333,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC Upper 9
 CHEM 339,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CHEM 356,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 4020,4021"
 CHEM 363,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 4041
 CHEM 370,001,Thursday,"December 7, 2017",4:00 PM,6:30 PM,MC 1056
-CHEM 383,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 9
+CHEM 383,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC Upper 9
 CHEM 400,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,MC 4042
 CHEM 400,002,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 2038
 CHEM 400,003,Exam removed from schedule. Contact instructor for further information.,,,,
@@ -230,7 +243,7 @@ CLAS 230,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,MC 4045
 CLAS 252,001,Wednesday,"December 20, 2017",12:30 PM,2:00 PM,MC 4061
 CLAS 261,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,SJ1 3015
 CLAS 321,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAS 1241
-CLAS 384,001,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,PAC 11
+CLAS 384,001,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,PAC Upper 11
 CLAS 486,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 8
 CLAS 651,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 8
 CM 762,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,MC 1085
@@ -242,7 +255,7 @@ CO 255,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,MC 4064
 CO 330,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,MC 4045
 CO 342,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 1085
 CO 351,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 1085
-CO 367,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,MC 4064
+CO 367,001,Exam removed from schedule. Contact instructor for further information.,,,,
 CO 370,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
 CO 372,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 2054
 CO 442,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,MC 4058
@@ -260,7 +273,8 @@ CS 100,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-e
 CS 105,"001,002",Thursday,"December 14, 2017",9:00 AM,11:30 AM,"DC 1350,1351"
 CS 115,001 to 011,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8"
 CS 116,001 to 003,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,STC 1012
-CS 135,001 to 011,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10"
+CS 135,001 to 011,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10"
 CS 136,001 to 003,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
 CS 137,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
 CS 145,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"MC 4042,4045"
@@ -287,17 +301,17 @@ CS 430,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,MC 1085
 CS 432,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 4045
 CS 445,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4045
 CS 456,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,M3 1006
-CS 458,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+CS 458,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 CS 466,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4059
 CS 486,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,M3 1006
-CS 488,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAC 11
+CS 488,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAC Upper 11
 CS 489,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 2034,2035,2038"
 CS 645,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4045
 CS 656,"001,002",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,M3 1006
-CS 658,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+CS 658,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 CS 666,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4059
 CS 686,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,M3 1006
-CS 688,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAC 11
+CS 688,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,PAC Upper 11
 CS 698,"001,002",Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 2034,2035,2038"
 DRAMA 386,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 DUTCH 101,001,Saturday,"December 9, 2017",4:00 PM,6:30 PM,RCH 204
@@ -311,15 +325,15 @@ EARTH 231,001,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,DC 1351
 EARTH 235,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,PAC 7
 EARTH 260,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,PAC 8
 EARTH 331,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,MC 2034
-EARTH 342,"001,002",Monday,"December 18, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+EARTH 342,"001,002",Monday,"December 18, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 EARTH 421,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4061
-EARTH 440,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 10
+EARTH 440,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC Upper 10
 EARTH 461,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,MC 2038
 EASIA 202R,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,REN 0106
 EASIA 360R,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,REN 2102
 ECE 105,001 to 004,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 4,5,6,7,8"
 ECE 150,001 to 003,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"PAC 4,5,6,7"
-ECE 205,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ECE 205,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 ECE 206,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 5
 ECE 207,"001,002",Monday,"December 18, 2017",9:00 AM,11:30 AM,"PAC 7,8"
 ECE 209,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,MC 4045
@@ -327,9 +341,9 @@ ECE 222,"001,002",Thursday,"December 7, 2017",9:00 AM,11:30 AM,"MC 4020,4021,405
 ECE 224,"001,002",Thursday,"December 7, 2017",4:00 PM,6:30 PM,"STC 0010,0020,0040"
 ECE 240,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"STC 0050,0060"
 ECE 242,"001,002",Friday,"December 15, 2017",4:00 PM,6:30 PM,STC 1012
-ECE 250,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ECE 250,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 ECE 254,"001,002",Monday,"December 11, 2017",9:00 AM,11:30 AM,STC 1012
-ECE 290,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ECE 290,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 ECE 318,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"STC 0010,0020"
 ECE 356,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
 ECE 358,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,PAC 8
@@ -339,14 +353,16 @@ ECE 451,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4045
 ECE 484,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,DC 1350
 ECON 101,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"DC 1350,1351"
 ECON 101,002,Saturday,"December 16, 2017",7:30 PM,10:00 PM,M3 1006
-ECON 101,"003,009",Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 6,7,8,9"
+ECON 101,"003,009",Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 6,7,8
+PAC Upper 9"
 ECON 101,004,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"MC 4020,4021,4059,4061"
 ECON 101,005,Saturday,"December 16, 2017",7:30 PM,10:00 PM,STC 1012
 ECON 101,"006,007",Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 1,2,3,4,5"
 ECON 101,008,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"STC 0010,0020,0040"
 ECON 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ECON 102,"001,002",Monday,"December 11, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5"
-ECON 102,"003,004",Monday,"December 11, 2017",9:00 AM,11:30 AM,"PAC 6,7,8,9,10,11"
+ECON 102,"003,004",Monday,"December 11, 2017",9:00 AM,11:30 AM,"PAC 6,7,8
+PAC Upper 9,10,11"
 ECON 120W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 ECON 201,"001,002",Wednesday,"December 20, 2017",7:30 PM,10:00 PM,STC 1012
 ECON 201,003,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,DC 1350
@@ -354,7 +370,7 @@ ECON 206,"001,002",Thursday,"December 7, 2017",7:30 PM,10:00 PM,"DC 1350,1351"
 ECON 207,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,STC 0050
 ECON 211,"001,002",Thursday,"December 14, 2017",12:30 PM,2:30 PM,M3 1006
 ECON 212,001,Saturday,"December 16, 2017",4:00 PM,6:30 PM,PAC 5
-ECON 221,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,"PAC 9,10"
+ECON 221,001,Saturday,"December 16, 2017",9:00 AM,11:30 AM,"PAC Upper 9,10"
 ECON 221,002,Saturday,"December 16, 2017",9:00 AM,11:30 AM,MC 4045
 ECON 231,"001,002",Tuesday,"December 19, 2017",4:00 PM,6:00 PM,M3 1006
 ECON 255,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4045
@@ -371,7 +387,7 @@ ECON 391,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC 6
 ECON 401,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 6
 ECON 421,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,MC 4064
 ECON 484,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4042
-ECON 491,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 10
+ECON 491,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC Upper 10
 ECON 673,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4042
 EMLS 129R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENBUS 202,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,STC 1012
@@ -381,7 +397,7 @@ ENGL 100B,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,HH 1102
 ENGL 101A,002,Monday,"December 18, 2017",12:30 PM,3:00 PM,SJ2 2003
 ENGL 101B,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 4040
 ENGL 101B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 104,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,PAC 11
+ENGL 104,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,PAC Upper 11
 ENGL 108A,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 2017
 ENGL 108A,002,Saturday,"December 9, 2017",7:30 PM,10:00 PM,SJ2 2007
 ENGL 108F,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,SJ2 2003
@@ -534,7 +550,7 @@ LS 292,001,Friday,"December 8, 2017",9:00 AM,11:30 AM,SJ2 2007
 LS 300,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,HH 1101
 LS 306,001,Thursday,"December 7, 2017",9:00 AM,11:00 AM,HH 1108
 LS 366,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0020
-MATBUS 470,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 11
+MATBUS 470,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC Upper 11
 MATBUS 471,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 4061
 MATH 103,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,STC 0040
 MATH 103,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -542,19 +558,25 @@ MATH 104,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,"MC 1056,1085"
 MATH 106,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,PAC 8
 MATH 109,001 to 003,Monday,"December 18, 2017",7:30 PM,10:00 PM,"PAC 4,5,6,7"
 MATH 114,"001,002",Saturday,"December 16, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
-MATH 115,001 to 010,Friday,"December 15, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11, M3 1006"
+MATH 115,001 to 010,Friday,"December 15, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
+M3 1006"
 MATH 116,001 to 008,Thursday,"December 7, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
 MATH 117,001 to 005,Thursday,"December 7, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6"
-MATH 124,"001,002",Tuesday,"December 12, 2017",7:30 PM,10:00 PM,"PAC 4,5,6,7,9,10"
-MATH 127,001 to 010,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8,9,10,11"
+MATH 124,"001,002",Tuesday,"December 12, 2017",7:30 PM,10:00 PM,"PAC 4,5,6,7
+PAC Upper 9,10"
+MATH 127,001 to 010,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11"
 MATH 127,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 MATH 128,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,"MC 4059,4061"
 MATH 128,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 135,001 to 031,Friday,"December 8, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+MATH 135,001 to 031,Friday,"December 8, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
 STC 0020,0040,0050,0060,1012"
 MATH 136,001 to 003,Monday,"December 18, 2017",9:00 AM,11:30 AM,"STC 0060,1012"
 MATH 136,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 137,"001 to 009,011",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8,9,10,11
+MATH 137,"001 to 009,011",Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8
+PAC Upper 9,10,11
 STC 0050,0060,1012"
 MATH 137,010,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 1056,1085"
 MATH 137,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -562,7 +584,7 @@ MATH 138,001 to 003,Friday,"December 15, 2017",12:30 PM,3:00 PM,M3 1006
 MATH 145,"001,002",Friday,"December 8, 2017",9:00 AM,11:30 AM,"MC 4058,4059,4060,4061"
 MATH 147,"001,002",Wednesday,"December 13, 2017",4:00 PM,6:30 PM,DC 1351
 MATH 207,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4041
-MATH 215,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+MATH 215,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 MATH 217,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,STC 0040
 MATH 218,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 7
 MATH 225,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 4045
@@ -587,15 +609,15 @@ ME 250,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 2017,2054"
 ME 250,002,Saturday,"December 9, 2017",12:30 PM,3:00 PM,STC 0040
 ME 262,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,"MC 2034,2035"
 ME 269,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,"MC 4059,4061"
-ME 322,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+ME 322,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 ME 351,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,"MC 2035,2038"
 ME 353,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"MC 4059,4061"
-ME 360,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
-ME 362,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+ME 360,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
+ME 362,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 ME 423,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4040
-ME 436,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,PAC 11
+ME 436,001,Tuesday,"December 12, 2017",7:30 PM,10:00 PM,PAC Upper 11
 ME 456,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4042
-ME 459,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 10
+ME 459,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC Upper 10
 ME 548,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4059
 ME 559,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,MC 1085
 ME 561,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,MC 2054
@@ -630,7 +652,7 @@ MTE 203,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,PAC 8
 MTE 204,001,Monday,"December 18, 2017",12:30 PM,3:00 PM,PAC 8
 MTE 219,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,DC 1350
 MTE 220,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 2017,2054"
-MTE 241,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,"PAC 9,10"
+MTE 241,001,Wednesday,"December 20, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10"
 MTE 262,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"MC 2035,2038"
 MTE 322,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,DC 1351
 MTE 360,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 4040,4045"
@@ -658,12 +680,12 @@ NE 232,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,DC 1351
 NE 241,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
 NE 335,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 4059
 NE 336,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0050
-NE 345,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 10
+NE 345,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC Upper 10
 NE 352,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,STC 0050
 NE 353,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4045
-NE 381,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,PAC 9
+NE 381,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,PAC Upper 9
 NE 451,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4058
-NE 461,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 9
+NE 461,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC Upper 9
 NE 471,001,Tuesday,"December 19, 2017",4:00 PM,6:30 PM,MC 4059
 NE 481,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,MC 4061
 NE 491,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 2038
@@ -700,14 +722,15 @@ PHIL 283,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,SJ1 3015
 PHIL 284,001,Thursday,"December 7, 2017",12:30 PM,2:30 PM,HH 335
 PHIL 319J,001,Wednesday,"December 20, 2017",7:30 PM,10:00 PM,SJ2 2002
 PHYS 111,001 to 004,Monday,"December 11, 2017",4:00 PM,6:30 PM,"PAC 1,2,3,4,5,6,7,8"
-PHYS 115,001 to 004,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"PAC 4,5,6,7,9"
+PHYS 115,001 to 004,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,"PAC 4,5,6,7
+PAC Upper 9"
 PHYS 121,"001,002",Monday,"December 11, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5"
 PHYS 121L,001 to 004,Tuesday,"December 19, 2017",12:30 PM,1:30 PM,STC 0060
 PHYS 131L,001 to 007,Tuesday,"December 19, 2017",12:30 PM,1:30 PM,STC 1012
 PHYS 224,001,Thursday,"December 14, 2017",7:30 PM,10:00 PM,PHY 313
 PHYS 225,001,Saturday,"December 9, 2017",12:30 PM,3:00 PM,RCH 211
 PHYS 236,001,Thursday,"December 7, 2017",9:00 AM,11:30 AM,"MC 2034,2035,2038"
-PHYS 256,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+PHYS 256,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 PHYS 275,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,"MC 4059,4061"
 PHYS 342,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,DC 1351
 PHYS 358,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,STC 0050
@@ -731,26 +754,26 @@ PLAN 362,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,MC 1085
 PLAN 453,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,DC 1350
 PMATH 330,001,Wednesday,"December 13, 2017",4:00 PM,6:30 PM,MC 4021
 PMATH 331,001,Monday,"December 18, 2017",7:30 PM,10:00 PM,PAC 8
-PMATH 336,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,PAC 9
+PMATH 336,001,Wednesday,"December 20, 2017",4:00 PM,6:30 PM,PAC Upper 9
 PMATH 340,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4061
 PMATH 347,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,MC 1085
 PMATH 351,001,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4020
 PMATH 440,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,MC 2017
 PMATH 445,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 2054
-PMATH 451,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,PAC 11
+PMATH 451,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,PAC Upper 11
 PMATH 453,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4060
 PMATH 465,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 4064
-PMATH 651,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,PAC 11
+PMATH 651,001,Monday,"December 18, 2017",9:00 AM,11:30 AM,PAC Upper 11
 PMATH 665,001,Friday,"December 15, 2017",9:00 AM,11:30 AM,MC 4064
 PMATH 740,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,MC 2017
 PMATH 745,001,Tuesday,"December 19, 2017",12:30 PM,3:00 PM,MC 2054
 PMATH 753,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,MC 4060
 PSCI 255,001,Thursday,"December 14, 2017",12:30 PM,2:30 PM,MC 4045
 PSCI 257,001,Wednesday,"December 20, 2017",9:00 AM,11:30 AM,RCH 307
-PSCI 353,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC 11
+PSCI 353,001,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,PAC Upper 11
 PSCI 389,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,STC 0020
 PSYCH 101,"001,002",Tuesday,"December 12, 2017",12:30 PM,2:30 PM,"PAC 1,2,3,4,5,6,7,8"
-PSYCH 101,004,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,"PAC 9,10"
+PSYCH 101,004,Tuesday,"December 12, 2017",12:30 PM,2:30 PM,"PAC Upper 9,10"
 PSYCH 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 101R,001 to 003,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,"REN 2102,2104,2106,2107"
 PSYCH 207,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -787,7 +810,7 @@ SDS 251R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online
 SDS 355R,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,REN 2106
 SDS 358R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SDS 400R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SE 212,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,"PAC 9,10,11"
+SE 212,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 SE 380,001,Monday,"December 11, 2017",12:30 PM,3:00 PM,PAC 6
 SE 464,001,Wednesday,"December 13, 2017",12:30 PM,3:00 PM,DC 1351
 SI 101R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -811,13 +834,13 @@ SPAN 102,001,Monday,"December 11, 2017",4:00 PM,6:00 PM,MC 4040
 SPAN 201A,001,Monday,"December 18, 2017",9:00 AM,11:00 AM,MC 4040
 STAT 202,"001,002",Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC 1,2,3,4,5"
 STAT 206,001,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,DC 1351
-STAT 220,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC 11
+STAT 220,001,Thursday,"December 21, 2017",9:00 AM,11:30 AM,PAC Upper 11
 STAT 221,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,MC 4041
 STAT 230,001 to 005,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8"
 STAT 230,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 STAT 231,"001,002",Thursday,"December 14, 2017",9:00 AM,11:30 AM,"STC 0010,0020,0040,1012"
 STAT 231,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-STAT 240,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"PAC 9,10"
+STAT 240,001,Thursday,"December 14, 2017",9:00 AM,11:30 AM,"PAC Upper 9,10"
 STAT 322,001,Friday,"December 15, 2017",7:30 PM,10:00 PM,MC 4061
 STAT 330,"001,002",Thursday,"December 14, 2017",12:30 PM,3:00 PM,"PAC 1,2,3"
 STAT 331,"001,002",Friday,"December 8, 2017",12:30 PM,3:00 PM,"DC 1350,1351"
@@ -828,15 +851,15 @@ STAT 337,001,Monday,"December 11, 2017",7:30 PM,10:00 PM,PAC 6
 STAT 341,001,Tuesday,"December 12, 2017",12:30 PM,3:00 PM,M3 1006
 STAT 371,001,Friday,"December 15, 2017",12:30 PM,3:00 PM,"MC 4059,4061"
 STAT 372,001,Exam removed from schedule. Contact instructor for further information.,,,,
-STAT 373,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC 10,11"
+STAT 373,001,Saturday,"December 16, 2017",7:30 PM,10:00 PM,"PAC Upper 10,11"
 STAT 430,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 4040,4041,4042,4045"
-STAT 431,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+STAT 431,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 STAT 433,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
 STAT 441,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 8
 STAT 442,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,MC 1085
 STAT 443,001,Saturday,"December 16, 2017",12:30 PM,3:00 PM,"PAC 7,8"
 STAT 830,001,Friday,"December 8, 2017",12:30 PM,3:00 PM,"MC 4040,4041,4042,4045"
-STAT 831,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC 9,10,11"
+STAT 831,001,Thursday,"December 14, 2017",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 STAT 833,001,Monday,"December 11, 2017",9:00 AM,11:30 AM,"MC 2017,2054"
 STAT 841,001,Tuesday,"December 12, 2017",9:00 AM,11:30 AM,PAC 8
 STAT 842,001,Tuesday,"December 19, 2017",7:30 PM,10:00 PM,MC 1085
