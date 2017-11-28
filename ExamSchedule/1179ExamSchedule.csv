@@ -37,7 +37,7 @@ AFM 415,001,Thursday,"December 7, 2017",7:30 PM,9:30 PM,HH 280
 AFM 415,002,Thursday,"December 7, 2017",7:30 PM,10:00 PM,MC 4058
 AFM 425,001,Friday,"December 8, 2017",7:30 PM,10:00 PM,MC 4061
 AFM 433,"001,002",Thursday,"December 14, 2017",7:30 PM,10:00 PM,"CPH 1346, HH 280"
-AFM 462,001 to 005,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,"CPH 1346, E2 1310, HH 280"
+AFM 462,001 to 005,Wednesday,"December 13, 2017",7:30 PM,10:00 PM,"CPH 1346, E2 1310, HH 280, PAS 1237"
 AFM 476,001,Monday,"December 18, 2017",9:00 AM,11:00 AM,"STC 0010,0020,0040"
 AFM 477,001,Monday,"December 18, 2017",4:00 PM,6:30 PM,MC 4061
 AFM 479,001 to 006,Monday,"December 11, 2017",12:30 PM,2:00 PM,"STC 0060,1012"
@@ -75,7 +75,7 @@ ARBUS 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/onlin
 ARBUS 300,"001,002",Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 1,2,3"
 ARBUS 301,001 to 003,Monday,"December 11, 2017",9:00 AM,11:30 AM,"STC 0010,0020"
 ARTS 122,001,Monday,"December 11, 2017",9:00 AM,11:00 AM,STP 201
-ARTS 190,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,ML 212
+ARTS 190,001,Exam removed from schedule. Contact instructor for further information.,,,,
 ARTS 280,001,Thursday,"December 7, 2017",12:30 PM,3:00 PM,B1 370
 AVIA 100,001,Friday,"December 15, 2017",4:00 PM,6:30 PM,"MC 2017,2054"
 BIOL 110,001,Thursday,"December 21, 2017",4:00 PM,6:30 PM,"STC 0060,1012"
@@ -328,7 +328,7 @@ EARTH 331,001,Monday,"December 11, 2017",4:00 PM,6:30 PM,MC 2034
 EARTH 342,"001,002",Monday,"December 18, 2017",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 EARTH 421,001,Tuesday,"December 19, 2017",9:00 AM,11:30 AM,MC 4061
 EARTH 440,001,Thursday,"December 21, 2017",12:30 PM,3:00 PM,PAC Upper 10
-EARTH 461,001,Thursday,"December 14, 2017",12:30 PM,3:00 PM,MC 2038
+EARTH 461,001,Exam removed from schedule. Contact instructor for further information.,,,,
 EASIA 202R,001,Saturday,"December 9, 2017",7:30 PM,10:00 PM,REN 0106
 EASIA 360R,001,Wednesday,"December 13, 2017",9:00 AM,11:30 AM,REN 2102
 ECE 105,001 to 004,Tuesday,"December 12, 2017",4:00 PM,6:30 PM,"PAC 4,5,6,7,8"
