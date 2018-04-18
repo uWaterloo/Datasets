@@ -73,7 +73,7 @@ BIOL 331,001,Wednesday,"April 18, 2018",7:30 PM,10:00 PM,M3 1006
 BIOL 341,001,Thursday,"April 12, 2018",4:00 PM,6:30 PM,"PAC 7,8"
 BIOL 346,001,Thursday,"April 12, 2018",12:30 PM,3:00 PM,RCH 211
 BIOL 351,001,Wednesday,"April 18, 2018",7:30 PM,10:00 PM,PAC 4
-BIOL 355,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,"PAC 4,5,6"
+BIOL 355,001,Sunday,"April 22, 2018",12:30 PM,3:00 PM,"PAC 4,5,6"
 BIOL 359,001,Friday,"April 20, 2018",9:00 AM,11:30 AM,"PAC 4,5,6,7"
 BIOL 360,001,Thursday,"April 19, 2018",4:00 PM,6:30 PM,"PAC 1,2"
 BIOL 361,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,"PAC 7,8"
@@ -83,7 +83,7 @@ BIOL 373,001,Tuesday,"April 17, 2018",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6"
 BIOL 373L,001 to 007,Monday,"April 16, 2018",4:00 PM,5:00 PM,STC 1012
 BIOL 383,001,Thursday,"April 12, 2018",12:30 PM,3:00 PM,RCH 302
 BIOL 428,001,Wednesday,"April 18, 2018",4:00 PM,6:30 PM,RCH 206
-BIOL 431,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,PAC 7
+BIOL 431,001,Sunday,"April 22, 2018",12:30 PM,3:00 PM,PAC 7
 BIOL 432,001,Tuesday,"April 17, 2018",7:30 PM,10:00 PM,PAC 7
 BIOL 441,001,Friday,"April 20, 2018",4:00 PM,6:30 PM,STC 0060
 BIOL 442,001,Wednesday,"April 11, 2018",7:30 PM,10:00 PM,MC 4064
@@ -184,7 +184,7 @@ CHEM 265,001,Monday,"April 9, 2018",12:30 PM,3:00 PM,STC 0010
 CHEM 267,001,Tuesday,"April 10, 2018",4:00 PM,6:30 PM,"PAC 1,2,3"
 CHEM 313,001,Wednesday,"April 18, 2018",9:00 AM,11:30 AM,STC 0020
 CHEM 350,001,Friday,"April 13, 2018",7:30 PM,10:00 PM,DC 1351
-CHEM 357,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,DC 1351
+CHEM 357,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,DC 1351
 CHEM 360,001,Tuesday,"April 24, 2018",12:30 PM,3:00 PM,DC 1351
 CHEM 381,001,Wednesday,"April 11, 2018",9:00 AM,11:30 AM,STC 0020
 CHEM 400,001,Saturday,"April 21, 2018",4:00 PM,6:30 PM,MC 4041
@@ -205,7 +205,7 @@ CHINA 302R,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,REN 2104
 CIVE 105,001,Thursday,"April 12, 2018",9:00 AM,11:30 AM,"PAC 1,2"
 CIVE 121,001,Friday,"April 20, 2018",9:00 AM,11:30 AM,M3 1006
 CIVE 303,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
-CIVE 332,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,"RCH 103,105,106"
+CIVE 332,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,"RCH 103,105,106"
 CIVE 341,001,Thursday,"April 12, 2018",9:00 AM,11:30 AM,"CPH 3602,3604,3607"
 CIVE 353,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,"HH 1101,1102"
 CIVE 381,001,Wednesday,"April 18, 2018",9:00 AM,11:30 AM,RCH 301
@@ -219,7 +219,7 @@ CIVE 505,001,Monday,"April 23, 2018",7:30 PM,10:00 PM,DWE 2527
 CIVE 507,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,"RCH 103,105,106"
 CIVE 542,001,Friday,"April 13, 2018",4:00 PM,6:30 PM,CPH 3607
 CIVE 554,001,Tuesday,"April 24, 2018",4:00 PM,6:30 PM,DWE 2527
-CIVE 583,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,CPH 3607
+CIVE 583,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 CIVE 596,001,Wednesday,"April 11, 2018",9:00 AM,11:30 AM,"RCH 301,302"
 CIVE 641,001,Thursday,"April 19, 2018",7:30 PM,10:00 PM,STC 0050
 CLAS 104,001,Thursday,"April 19, 2018",7:30 PM,9:30 PM,"PAC 1,2,3,4,5,6,7"
@@ -240,7 +240,7 @@ CO 255,001,Friday,"April 13, 2018",12:30 PM,3:00 PM,STC 0020
 CO 327,001,Friday,"April 20, 2018",12:30 PM,3:00 PM,RCH 306
 CO 331,001,Saturday,"April 21, 2018",12:30 PM,3:00 PM,PAC 4
 CO 353,001,Tuesday,"April 24, 2018",12:30 PM,3:00 PM,PAC Upper 9
-CO 370,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,"RCH 302,305"
+CO 370,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,"RCH 302,305"
 CO 372,001,Tuesday,"April 24, 2018",9:00 AM,11:30 AM,PAC 8
 CO 430,001,Tuesday,"April 10, 2018",9:00 AM,11:30 AM,RCH 205
 CO 463,001,Monday,"April 9, 2018",7:30 PM,10:00 PM,MC 4064
@@ -260,8 +260,8 @@ CS 100,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-e
 CS 106,"001,002",Friday,"April 20, 2018",12:30 PM,3:00 PM,"PAC 7,8"
 CS 115,001 to 004,Tuesday,"April 24, 2018",9:00 AM,11:30 AM,"PAC 4,5,6,7"
 CS 116,001 to 011,Monday,"April 16, 2018",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7"
-CS 135,"001,002",Monday,"April 16, 2018",9:00 AM,11:30 AM,M3 1006
-CS 136,001 to 011,Monday,"April 16, 2018",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8"
+CS 135,"001,002",Wednesday,"April 25, 2018",9:00 AM,11:30 AM,M3 1006
+CS 136,001 to 011,Sunday,"April 22, 2018",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8"
 CS 138,001,Thursday,"April 19, 2018",9:00 AM,11:30 AM,M3 1006
 CS 146,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,DC 1351
 CS 200,001,Monday,"April 9, 2018",4:00 PM,6:30 PM,"STC 0020,0040"
@@ -270,7 +270,7 @@ CS 240,001 to 004,Monday,"April 23, 2018",9:00 AM,11:30 AM,"PAC 4,5,6"
 CS 240E,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,PAC Upper 9
 CS 241,001 to 005,Monday,"April 9, 2018",4:00 PM,6:30 PM,"STC 0050,0060,1012"
 CS 245,001 to 003,Tuesday,"April 24, 2018",9:00 AM,11:30 AM,"PAC 1,2"
-CS 246,001 to 003,Saturday,"April 14, 2018",12:30 PM,3:00 PM,"PAC 1,2"
+CS 246,001 to 003,Sunday,"April 22, 2018",12:30 PM,3:00 PM,"PAC 1,2"
 CS 251,001 to 004,Wednesday,"April 11, 2018",4:00 PM,6:30 PM,"PAC 4,5,6"
 CS 330,001,Tuesday,"April 10, 2018",9:00 AM,11:30 AM,STC 1012
 CS 330,002,Tuesday,"April 10, 2018",9:00 AM,11:30 AM,STC 0010
@@ -280,7 +280,7 @@ CS 341,001 to 005,Wednesday,"April 18, 2018",12:30 PM,3:00 PM,"PAC 4,5,6,7"
 CS 343,"001,002",Thursday,"April 19, 2018",4:00 PM,6:30 PM,M3 1006
 CS 348,"001,002",Friday,"April 20, 2018",7:30 PM,10:00 PM,DC 1351
 CS 349,001 to 004,Thursday,"April 12, 2018",4:00 PM,6:30 PM,"PAC 1,2,3"
-CS 350,001 to 004,Monday,"April 16, 2018",9:00 AM,11:30 AM,"STC 0060,1012"
+CS 350,001 to 004,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,"STC 0060,1012"
 CS 360,001,Monday,"April 9, 2018",7:30 PM,10:00 PM,MC 4020
 CS 365,001,Saturday,"April 21, 2018",7:30 PM,10:00 PM,MC 4041
 CS 370,001 to 003,Tuesday,"April 10, 2018",4:00 PM,6:30 PM,M3 1006
@@ -299,7 +299,7 @@ CS 451,"001,002",Wednesday,"April 18, 2018",4:00 PM,6:30 PM,"STC 0010,0020"
 CS 452,001,Exam removed from schedule. Contact instructor for further information.,,,,
 CS 454,"001,002",Saturday,"April 21, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
 CS 456,"001,002",Wednesday,"April 11, 2018",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
-CS 458,"001,002",Monday,"April 16, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
+CS 458,"001,002",Contact instructor for exam rescheduling details.,,,,
 CS 467,001,Tuesday,"April 17, 2018",7:30 PM,10:00 PM,PAC 8
 CS 476,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,STC 0020
 CS 482,001,Friday,"April 20, 2018",9:00 AM,11:30 AM,PAC Upper 11
@@ -323,7 +323,7 @@ CS 649,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,STC 0020
 CS 651,001,Wednesday,"April 18, 2018",4:00 PM,6:30 PM,"STC 0010,0020"
 CS 654,"001,002",Saturday,"April 21, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
 CS 656,"001,002",Wednesday,"April 11, 2018",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
-CS 658,002,Monday,"April 16, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
+CS 658,002,Contact instructor for exam rescheduling details.,,,,
 CS 676,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,STC 0020
 CS 682,001,Friday,"April 20, 2018",9:00 AM,11:30 AM,PAC Upper 11
 CS 685,001,Thursday,"April 12, 2018",12:30 PM,3:00 PM,STC 0020
@@ -338,8 +338,8 @@ DUTCH 102,001,Saturday,"April 21, 2018",9:00 AM,11:30 AM,ML 349
 DUTCH 202,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,ML 354
 EARTH 122,001,Tuesday,"April 17, 2018",7:30 PM,10:00 PM,"PAC 1,2,3"
 EARTH 122L,001 to 004,Friday,"April 20, 2018",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
-EARTH 221,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,PAC 8
-EARTH 232,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,STC 0050
+EARTH 221,001,Sunday,"April 22, 2018",12:30 PM,3:00 PM,PAC 8
+EARTH 232,001,Sunday,"April 22, 2018",9:00 AM,11:30 AM,STC 0050
 EARTH 238,001,Tuesday,"April 17, 2018",12:30 PM,3:00 PM,STC 0020
 EARTH 270,001,Monday,"April 16, 2018",7:30 PM,10:00 PM,"PAC 4,5"
 EARTH 281,001,Tuesday,"April 10, 2018",9:00 AM,11:30 AM,STC 0020
@@ -364,7 +364,7 @@ ECE 106,"001,002",Monday,"April 16, 2018",12:30 PM,3:00 PM,"STC 0060,1012"
 ECE 108,001,Friday,"April 20, 2018",12:30 PM,3:00 PM,M3 1006
 ECE 124,"001,002",Monday,"April 23, 2018",12:30 PM,3:00 PM,"PAC 1,2,3"
 ECE 140,"001,002",Thursday,"April 12, 2018",9:00 AM,11:30 AM,"PAC 4,5,6"
-ECE 205,"001,002",Monday,"April 16, 2018",9:00 AM,11:30 AM,"STC 0010,0020,0040"
+ECE 205,"001,002",Sunday,"April 22, 2018",9:00 AM,11:30 AM,"STC 0010,0020,0040"
 ECE 222,"001,002",Wednesday,"April 18, 2018",12:30 PM,3:00 PM,"STC 0060,1012"
 ECE 224,001,Thursday,"April 19, 2018",4:00 PM,6:30 PM,PAC 3
 ECE 240,"001,002",Thursday,"April 12, 2018",4:00 PM,6:30 PM,"PAC 4,5,6"
@@ -455,9 +455,9 @@ ENGL 101B,001,Monday,"April 23, 2018",7:30 PM,10:00 PM,STC 0040
 ENGL 101B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 108A,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,PAC Upper 11
 ENGL 108P,002,Tuesday,"April 24, 2018",4:00 PM,6:30 PM,RCH 305
-ENGL 109,002,Monday,"April 16, 2018",9:00 AM,10:00 AM,SJ1 3016
+ENGL 109,002,Wednesday,"April 25, 2018",9:00 AM,10:00 AM,SJ1 3016
 ENGL 109,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 119,004,Saturday,"April 14, 2018",7:30 PM,8:30 PM,SJ1 3016
+ENGL 119,004,Sunday,"April 22, 2018",7:30 PM,8:30 PM,SJ1 3016
 ENGL 190,001,Monday,"April 16, 2018",12:30 PM,2:00 PM,RCH 204
 ENGL 200A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 200B,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,SJ2 2007
@@ -475,7 +475,7 @@ ENGL 251B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/onlin
 ENGL 292,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 306A,001,Friday,"April 20, 2018",7:30 PM,10:00 PM,SJ2 2007
 ENGL 306A,002,Friday,"April 20, 2018",12:30 PM,3:00 PM,RCH 307
-ENGL 309B,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,SJ1 3027
+ENGL 309B,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,SJ1 3027
 ENGL 309C,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 325,001,Monday,"April 9, 2018",12:30 PM,3:00 PM,SJ2 2007
 ENGL 410F,001,Tuesday,"April 10, 2018",9:00 AM,11:30 AM,HH 2107
@@ -483,7 +483,7 @@ ENVE 223,001,Friday,"April 20, 2018",9:00 AM,11:30 AM,RCH 302
 ENVE 224,001,Monday,"April 9, 2018",12:30 PM,3:00 PM,RCH 302
 ENVE 275,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,CPH 3607
 ENVE 280,001,Thursday,"April 12, 2018",9:00 AM,11:30 AM,RCH 301
-ENVE 375,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,CPH 3607
+ENVE 375,001,Sunday,"April 22, 2018",12:30 PM,3:00 PM,RCH 307
 ENVE 391,001,Monday,"April 23, 2018",7:30 PM,10:00 PM,RCH 301
 ENVE 573,001,Monday,"April 9, 2018",7:30 PM,10:00 PM,DWE 2527
 ENVE 577,001,Thursday,"April 12, 2018",7:30 PM,10:00 PM,CPH 3607
@@ -541,7 +541,7 @@ GER 201,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-
 GER 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GERON 245,001,Wednesday,"April 18, 2018",12:30 PM,3:00 PM,"PAC 1,2,3,8"
 GERON 310,001,Monday,"April 9, 2018",12:30 PM,2:00 PM,STC 1012
-GERON 355,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,"PAC 4,5,6"
+GERON 355,001,Sunday,"April 22, 2018",12:30 PM,3:00 PM,"PAC 4,5,6"
 GRK 102,001,Monday,"April 16, 2018",12:30 PM,2:30 PM,RCH 205
 GRK 134,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GRK 202,001,Tuesday,"April 10, 2018",9:00 AM,11:00 AM,RCH 207
@@ -664,12 +664,12 @@ ME 340,001,Wednesday,"April 18, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
 ME 351,001,Monday,"April 16, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
 ME 351,002,Wednesday,"April 18, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
 ME 353,001,Monday,"April 9, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
-ME 354,001,Saturday,"April 14, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
+ME 354,001,Sunday,"April 22, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
 ME 360,001,Monday,"April 16, 2018",7:30 PM,10:00 PM,"E5 3101,3102"
 ME 362,001,Thursday,"April 12, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
 ME 452,001,Wednesday,"April 18, 2018",7:30 PM,10:00 PM,DWE 2402
 ME 524,001,Wednesday,"April 11, 2018",12:30 PM,3:00 PM,DWE 2402
-ME 526,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,"DWE 2402,2527"
+ME 526,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,"DWE 2402,2527"
 ME 535,001,Tuesday,"April 10, 2018",7:30 PM,10:00 PM,CPH 3679
 ME 538,001,Tuesday,"April 17, 2018",7:30 PM,10:00 PM,RCH 308
 ME 547,001,Tuesday,"April 17, 2018",9:00 AM,11:30 AM,DWE 2402
@@ -706,8 +706,8 @@ MSCI 431,"001,002",Wednesday,"April 11, 2018",4:00 PM,6:30 PM,"RCH 110,112"
 MSCI 432,001,Monday,"April 23, 2018",9:00 AM,11:30 AM,PAC 3
 MSCI 433,001,Monday,"April 9, 2018",4:00 PM,6:30 PM,CPH 3681
 MSCI 435,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,CPH 3681
-MSCI 541,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,CPH 3681
-MSCI 720,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,CPH 3681
+MSCI 541,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,CPH 3681
+MSCI 720,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,CPH 3681
 MTE 111,001,Tuesday,"April 17, 2018",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 MTE 119,001,Monday,"April 23, 2018",12:30 PM,3:00 PM,DC 1351
 MTE 120,001,Friday,"April 13, 2018",12:30 PM,3:00 PM,M3 1006
@@ -718,16 +718,16 @@ MTE 219,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
 MTE 262,001,Wednesday,"April 18, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
 MTE 309,001,Friday,"April 13, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
 MTE 320,001,Monday,"April 9, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
-MTE 322,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
+MTE 322,001,Exam removed from schedule. Contact instructor for further information.,,,,
 MTE 325,001,Thursday,"April 19, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
 MTE 360,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,RCH 302
-MTE 546,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,DWE 2402
+MTE 546,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 MTHEL 131,001,Friday,"April 20, 2018",9:00 AM,11:00 AM,DC 1351
 MUSIC 100,001,Thursday,"April 12, 2018",9:00 AM,11:30 AM,"CGC 1111,1208,1302"
 MUSIC 140,001,Friday,"April 20, 2018",4:00 PM,6:30 PM,STC 1012
 MUSIC 240,001,Saturday,"April 21, 2018",7:30 PM,10:00 PM,CGC 1111
 MUSIC 246,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,"RCH 101,103"
-MUSIC 271,001,Saturday,"April 14, 2018",7:30 PM,10:00 PM,CGC 1208
+MUSIC 271,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 NE 113,001,Thursday,"April 19, 2018",12:30 PM,3:00 PM,PAC 7
 NE 122,001,Friday,"April 13, 2018",12:30 PM,3:00 PM,DC 1351
 NE 125,001,Monday,"April 16, 2018",12:30 PM,3:00 PM,M3 1006
@@ -750,7 +750,7 @@ OPTOM 255,001,Monday,"April 9, 2018",12:30 PM,2:30 PM,REV 200
 OPTOM 261,001,Wednesday,"April 11, 2018",12:30 PM,3:00 PM,REV 200
 OPTOM 262,001,Friday,"April 20, 2018",12:30 PM,1:30 PM,REV 200
 OPTOM 272,001,Friday,"April 13, 2018",12:30 PM,2:30 PM,REV 200
-OPTOM 339,001,Monday,"April 16, 2018",9:00 AM,11:00 AM,REV 200
+OPTOM 339,001,Exam removed from schedule. Contact instructor for further information.,,,,
 OPTOM 342B,001,Monday,"April 9, 2018",4:00 PM,6:30 PM,REV 200
 OPTOM 365,001,Monday,"April 16, 2018",4:00 PM,6:30 PM,REV 200
 OPTOM 367,001,Wednesday,"April 11, 2018",4:00 PM,6:30 PM,REV 200
@@ -792,7 +792,7 @@ PHYS 263,001,Saturday,"April 21, 2018",4:00 PM,6:30 PM,"PAC Upper 9,10"
 PHYS 270,001,Tuesday,"April 10, 2018",12:30 PM,3:00 PM,PHY 313
 PHYS 280,001,Thursday,"April 12, 2018",7:30 PM,10:00 PM,STC 0050
 PHYS 334,001,Tuesday,"April 24, 2018",12:30 PM,3:00 PM,PAC 7
-PHYS 335,001,Saturday,"April 14, 2018",12:30 PM,3:00 PM,PAC 3
+PHYS 335,001,Sunday,"April 22, 2018",12:30 PM,3:00 PM,PAC 3
 PHYS 359,001,Tuesday,"April 10, 2018",7:30 PM,10:00 PM,"PAC 4,5"
 PHYS 365,001,Monday,"April 23, 2018",12:30 PM,3:00 PM,RCH 307
 PHYS 375,001,Exam removed from schedule. Contact instructor for further information.,,,,
@@ -852,7 +852,7 @@ PSYCH 292,001,Friday,"April 20, 2018",4:00 PM,6:30 PM,"PAC 7,8"
 PSYCH 315,001,Tuesday,"April 24, 2018",4:00 PM,6:30 PM,SJ2 1002
 PSYCH 317,001,Friday,"April 13, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
 PSYCH 318,001,Monday,"April 9, 2018",9:00 AM,11:30 AM,SJ2 2003
-PSYCH 334R,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,REN 2106
+PSYCH 334R,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,REN 2106
 PSYCH 340,001,Monday,"April 23, 2018",7:30 PM,9:00 PM,STC 0060
 PSYCH 356,001,Thursday,"April 12, 2018",9:00 AM,11:00 AM,DC 1351
 PSYCH 391,001,Tuesday,"April 10, 2018",4:00 PM,6:00 PM,STC 0060
@@ -874,7 +874,7 @@ RUSS 102,001,Thursday,"April 19, 2018",9:00 AM,11:00 AM,ML 354
 SCI 201,001,Saturday,"April 21, 2018",7:30 PM,10:00 PM,STC 1012
 SCI 238,001,Tuesday,"April 17, 2018",9:00 AM,11:30 AM,"PAC 7,8"
 SCI 250,001,Friday,"April 20, 2018",7:30 PM,10:00 PM,M3 1006
-SDS 150R,"001,002",Monday,"April 16, 2018",9:00 AM,11:30 AM,SJ2 1004
+SDS 150R,"001,002",Wednesday,"April 25, 2018",9:00 AM,11:30 AM,SJ2 1004
 SDS 150R,003,Tuesday,"April 24, 2018",4:00 PM,5:30 PM,REN 2106
 SDS 150R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SDS 215R,001,Monday,"April 9, 2018",7:30 PM,10:00 PM,REN 2107
@@ -968,7 +968,7 @@ SYDE 332,001,Thursday,"April 19, 2018",9:00 AM,11:30 AM,RCH 307
 SYDE 334,001,Saturday,"April 21, 2018",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 SYDE 348,001,Thursday,"April 12, 2018",9:00 AM,11:30 AM,E2 1310
 SYDE 351,001,Wednesday,"April 11, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
-SYDE 352,001,Monday,"April 16, 2018",9:00 AM,11:30 AM,RCH 301
+SYDE 352,001,Wednesday,"April 25, 2018",9:00 AM,11:30 AM,RCH 301
 SYDE 372,001,Friday,"April 20, 2018",9:00 AM,11:30 AM,RCH 301
 SYDE 384,001,Tuesday,"April 17, 2018",12:30 PM,3:00 PM,RCH 204
 WS 101,001,Friday,"April 20, 2018",12:30 PM,3:00 PM,HH 1102
