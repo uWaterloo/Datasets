@@ -13,16 +13,17 @@ ACTSC 845,001,Tuesday,"August 7, 2018",12:30 PM,3:00 PM,MC 1085
 ACTSC 846,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,PAC 2
 AFM 101,001,Thursday,"August 9, 2018",7:30 PM,10:00 PM,STC 1012
 AFM 102,001,Friday,"August 3, 2018",7:30 PM,10:00 PM,M3 1006
-AFM 211,001 to 010,Tuesday,"July 31, 2018",4:00 PM,6:30 PM,Sched Only
+AFM 211,001 to 010,Tuesday,"July 31, 2018",4:00 PM,6:30 PM,"CPH 1346, E2 1310"
 AFM 231,001 to 007,Wednesday,"August 1, 2018",9:00 AM,11:00 AM,"PAC 1,2,3,4,5"
-AFM 241,"001,002",Thursday,"August 9, 2018",9:00 AM,11:30 AM,Sched Only
+AFM 241,"001,002",Thursday,"August 9, 2018",9:00 AM,11:30 AM,"CPH 1346, E2 1310"
 AFM 274,001 to 006,Tuesday,"August 7, 2018",12:30 PM,3:00 PM,"PAC 1,2,3,4"
 AFM 280,001 to 006,Friday,"August 3, 2018",9:00 AM,11:30 AM,"PAC 1,2,3,4"
 AFM 333,"001,002",Wednesday,"August 1, 2018",9:00 AM,11:30 AM,STC 0010
-AFM 351,001 to 005,Monday,"July 30, 2018",12:30 PM,3:00 PM,Sched Only
+AFM 351,001 to 005,Monday,"July 30, 2018",12:30 PM,3:00 PM,"CPH 1346, E2 1310, 
+HH 280, PAS 1237"
 AFM 363,001 to 005,Thursday,"August 2, 2018",12:30 PM,3:00 PM,"PAC 4,5,6"
-AFM 372,"001,002",Tuesday,"August 7, 2018",12:30 PM,3:00 PM,Sched Only
-AFM 433,"001,002",Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
+AFM 372,"001,002",Tuesday,"August 7, 2018",12:30 PM,3:00 PM,CPH 1346
+AFM 433,"001,002",Tuesday,"July 31, 2018",9:00 AM,11:30 AM,"CPH 1346, HH 280"
 AFM 491,"001,002",Wednesday,"August 8, 2018",12:30 PM,3:00 PM,STC 0010
 AMATH 231,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,PAC 4
 AMATH 242,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,PAC 5
@@ -30,8 +31,8 @@ AMATH 250,001,Wednesday,"August 8, 2018",4:00 PM,6:30 PM,M3 1006
 AMATH 332,001,Saturday,"August 11, 2018",12:30 PM,3:00 PM,MC 4061
 AMATH 351,001,Thursday,"August 9, 2018",12:30 PM,3:00 PM,PAC 5
 AMATH 353,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,MC 4063
-ANTH 100,001,Wednesday,"August 1, 2018",7:30 PM,9:30 PM,Sched Only
-ANTH 202,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
+ANTH 100,001,Wednesday,"August 1, 2018",7:30 PM,9:30 PM,PAS 2083
+ANTH 202,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,PAS 1229
 ARBUS 301,"001,002",Wednesday,"August 1, 2018",9:00 AM,11:30 AM,STC 0010
 ARTS 280,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 BIOL 120,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,PAC 8
@@ -45,17 +46,16 @@ BIOL 303,001,Monday,"July 30, 2018",4:00 PM,6:30 PM,"PAC Upper 9,10,11"
 BIOL 308,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,STC 1012
 BIOL 309,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
 BIOL 354,001,Thursday,"August 9, 2018",12:30 PM,3:00 PM,"PAC 7,8"
-BME 252,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,Sched Only
-BME 282,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,Sched Only
-BME 284,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,Sched Only
-BME 294,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
+BME 252,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,"E5 6006,6008"
+BME 282,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,"E5 6006,6008"
+BME 284,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,RCH 307
+BME 294,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,"E5 6006,6008"
 BUS 111W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 121W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 127W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 231W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 247W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 275W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 321W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 352W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 353W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 357W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
@@ -64,50 +64,36 @@ BUS 375W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,
 BUS 387W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 397W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 398W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 400W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 408W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 412W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 413W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 419W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 423W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 432W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 433W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 442W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 443W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 445W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 449W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 453W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 455W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 460W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 461XW,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 463W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 466W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 467W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 470W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 472W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 473W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 474W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 479W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 480W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 481W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 485W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 486W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 487W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-BUS 491W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 493UW,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 CHE 101,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 4045
 CHE 102,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,PAC 8
 CHE 121,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,MC 4045
-CHE 161,001,Friday,"August 10, 2018",12:30 PM,3:00 PM,Sched Only
+CHE 161,001,Friday,"August 10, 2018",12:30 PM,3:00 PM,MC 2017
 CHE 211,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,MC 1085
 CHE 231,001,Tuesday,"August 7, 2018",4:00 PM,6:30 PM,STC 0010
 CHE 241,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,STC 0010
-CHE 312,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,Sched Only
-CHE 314,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,Sched Only
-CHE 322,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,Sched Only
-CHE 330,001,Friday,"August 3, 2018",4:00 PM,6:30 PM,Sched Only
-CHE 420,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,Sched Only
-CHE 480,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,Sched Only
+CHE 312,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,"E6 2024,4022"
+CHE 314,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,"E6 2024,4022"
+CHE 322,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,"E6 2022,2024"
+CHE 330,001,Friday,"August 3, 2018",4:00 PM,6:30 PM,"E6 2024,4022"
+CHE 420,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,"E6 2024,4022"
+CHE 480,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,"E6 2024,4022"
 CHEM 120,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CHEM 123,001,Tuesday,"August 7, 2018",4:00 PM,6:30 PM,STC 1012
 CHEM 212,001,Wednesday,"August 1, 2018",12:30 PM,3:00 PM,"MC 4059,4061"
@@ -120,28 +106,28 @@ CHEM 254,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,"PAC 1,2"
 CHEM 264,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,"PAC 7,8"
 CHEM 265,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,"PAC 7,8"
 CHEM 266,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHINA 101R,001,Friday,"August 10, 2018",12:30 PM,3:00 PM,Sched Only
-CHINA 102R,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
-CHINA 120R,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
-CHINA 201R,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
-CHINA 202R,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,Sched Only
+CHINA 101R,001,Friday,"August 10, 2018",12:30 PM,3:00 PM,REN 2106
+CHINA 102R,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,REN 2106
+CHINA 120R,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,REN 2106
+CHINA 201R,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,REN 2107
+CHINA 202R,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,REN 2106
 CIVE 105,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,STC 0040
 CIVE 121,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,PAC 1
-CIVE 205,001,Saturday,"July 28, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 222,001,Thursday,"August 9, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 230,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 280,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 353,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 392,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
+CIVE 205,001,Saturday,"July 28, 2018",9:00 AM,11:30 AM,"RCH 301,302"
+CIVE 222,001,Thursday,"August 9, 2018",9:00 AM,11:30 AM,"RCH 301,302"
+CIVE 230,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,"STC 0040,0050"
+CIVE 280,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,"RCH 301,302"
+CIVE 353,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,"RCH 301,302"
+CIVE 392,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,"STC 0010,0020,0040"
 CIVE 403,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-CIVE 413,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 414,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 444,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
+CIVE 413,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,RCH 301
+CIVE 414,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,RCH 307
+CIVE 444,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,STC 0050
 CIVE 484,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,PAC 6
-CIVE 486,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,Sched Only
-CIVE 491,001,Saturday,"July 28, 2018",7:30 PM,10:00 PM,Sched Only
-CIVE 512,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,Sched Only
-CIVE 572,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,Sched Only
+CIVE 486,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,RCH 306
+CIVE 491,001,Saturday,"July 28, 2018",7:30 PM,10:00 PM,RCH 301
+CIVE 512,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,RCH 301
+CIVE 572,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,RCH 206
 CLAS 104,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CLAS 261,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 CM 761,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 2034
@@ -180,7 +166,7 @@ CS 371,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,PAC 5
 CS 432,001,Saturday,"August 11, 2018",4:00 PM,6:30 PM,STC 0020
 CS 446,001,Wednesday,"August 1, 2018",12:30 PM,3:00 PM,DC 1351
 CS 449,001,Monday,"July 30, 2018",4:00 PM,6:30 PM,PAC 4
-CS 452,001,Thursday,"August 9, 2018",9:00 AM,11:30 AM,Sched Only
+CS 452,001,Thursday,"August 9, 2018",9:00 AM,11:30 AM,MC 4040
 CS 454,"001,002",Tuesday,"July 31, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10,11"
 CS 456,"001,002",Wednesday,"August 1, 2018",7:30 PM,10:00 PM,M3 1006
 CS 458,"001,002",Friday,"August 10, 2018",12:30 PM,3:00 PM,"PAC 4,5"
@@ -254,8 +240,8 @@ ECON 241,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 2038
 ECON 290,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,PAC 7
 ECON 322,001,Thursday,"August 9, 2018",12:30 PM,3:00 PM,PAC 4
 ECON 361,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ECON 371,001,Saturday,"August 11, 2018",12:30 PM,3:00 PM,Sched Only
-ECON 372,001,Thursday,"August 9, 2018",7:30 PM,10:00 PM,Sched Only
+ECON 371,001,Saturday,"August 11, 2018",12:30 PM,3:00 PM,CPH 1346
+ECON 372,001,Thursday,"August 9, 2018",7:30 PM,10:00 PM,CPH 1346
 ECON 393,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,PAC 3
 ECON 401,001,Friday,"August 10, 2018",4:00 PM,6:30 PM,MC 4061
 ECON 402,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,PAC 5
@@ -263,25 +249,25 @@ ECON 483,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,MC 4064
 ELPE 100,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 EMLS 129R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 101B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 108P,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
+ENGL 108P,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,HH 2107
 ENGL 109,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 200B,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,MC 4058
 ENGL 200B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 208A,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,PAC 6
 ENGL 210F,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 251B,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,Sched Only
+ENGL 251B,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,HH 2107
 ENGL 251B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 292,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 306A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 315,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 363,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 378,002,Tuesday,"July 31, 2018",9:00 AM,11:00 AM,Sched Only
-ENVE 375,001,Saturday,"July 28, 2018",9:00 AM,11:30 AM,Sched Only
+ENGL 378,002,Tuesday,"July 31, 2018",9:00 AM,11:00 AM,EV3 3412
+ENVE 375,001,Saturday,"July 28, 2018",9:00 AM,11:30 AM,STC 0010
 ENVS 200,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,"PAC 1,2,3"
 FR 151,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 152,001,Tuesday,"July 31, 2018",12:30 PM,2:30 PM,Sched Only
+FR 152,001,Tuesday,"July 31, 2018",12:30 PM,2:30 PM,ML 246
 FR 152,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 192A,001,Monday,"July 30, 2018",7:30 PM,9:30 PM,Sched Only
+FR 192A,001,Monday,"July 30, 2018",7:30 PM,9:30 PM,ML 246
 FR 192A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FR 192B,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 FR 192B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -298,8 +284,8 @@ GER 102,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-
 GER 201,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GER 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 HIST 247,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-HIST 256,001,Thursday,"August 2, 2018",12:30 PM,3:00 PM,Sched Only
-HIST 258,001,Thursday,"August 9, 2018",9:00 AM,11:30 AM,Sched Only
+HIST 256,001,Thursday,"August 2, 2018",12:30 PM,3:00 PM,HH 1102
+HIST 258,001,Thursday,"August 9, 2018",9:00 AM,11:30 AM,EV3 1408
 HRM 200,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 HRM 303,001,Monday,"July 30, 2018",9:00 AM,11:00 AM,MC 2035
 HRM 307,001,Wednesday,"August 1, 2018",12:30 PM,2:30 PM,MC 4020
@@ -341,27 +327,27 @@ MATH 245,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,PAC Upper 11
 MATH 247,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,PAC Upper 11
 ME 101,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,PAC 4
 ME 115,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,DC 1351
-ME 203,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,Sched Only
-ME 212,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,Sched Only
-ME 219,001,Tuesday,"August 7, 2018",7:30 PM,10:00 PM,Sched Only
-ME 220,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,Sched Only
-ME 250,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,Sched Only
-ME 262,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
-ME 303,001,Thursday,"August 9, 2018",12:30 PM,3:00 PM,Sched Only
-ME 321,001,Tuesday,"August 7, 2018",12:30 PM,3:00 PM,Sched Only
-ME 321,002,Tuesday,"August 7, 2018",12:30 PM,3:00 PM,Sched Only
-ME 340,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,Sched Only
-ME 351,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,Sched Only
-ME 354,001,Thursday,"August 2, 2018",12:30 PM,3:00 PM,Sched Only
-ME 423,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,Sched Only
-ME 456,001,Saturday,"July 28, 2018",9:00 AM,11:30 AM,Sched Only
-ME 459,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,Sched Only
-ME 548,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,Sched Only
-ME 559,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,Sched Only
-ME 561,001,Wednesday,"August 1, 2018",7:30 PM,10:00 PM,Sched Only
+ME 203,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 212,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 219,001,Tuesday,"August 7, 2018",7:30 PM,10:00 PM,RCH 301
+ME 220,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 250,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 262,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,"E5 3101,3102"
+ME 303,001,Thursday,"August 9, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 321,001,Tuesday,"August 7, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 321,002,Tuesday,"August 7, 2018",12:30 PM,3:00 PM,"DWE 2402,2527"
+ME 340,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 351,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 354,001,Thursday,"August 2, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+ME 423,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,"DWE 2402,2527"
+ME 456,001,Saturday,"July 28, 2018",9:00 AM,11:30 AM,CPH 3679
+ME 459,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,CPH 3679
+ME 548,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,CPH 3679
+ME 559,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,CPH 3679
+ME 561,001,Wednesday,"August 1, 2018",7:30 PM,10:00 PM,"E5 3101,3102"
 ME 595,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 ME 765,002,Exam removed from the schedule. Contact instructor for further information.,,,,
-MNS 221,001,Thursday,"August 9, 2018",7:30 PM,10:00 PM,Sched Only
+MNS 221,001,Thursday,"August 9, 2018",7:30 PM,10:00 PM,PHY 308
 MNS 321,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,STC 0020
 MSCI 252,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,STC 0020
 MSCI 261,"001,003",Monday,"July 30, 2018",4:00 PM,6:30 PM,"PAC 7,8"
@@ -369,26 +355,26 @@ MSCI 261,002,Wednesday,"August 8, 2018",4:00 PM,6:30 PM,STC 1012
 MSCI 263,"001,002",Saturday,"July 28, 2018",12:30 PM,3:00 PM,STC 0040
 MSCI 331,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 1085
 MSCI 331,002,Saturday,"August 11, 2018",4:00 PM,6:30 PM,STC 0050
-MSCI 346,001,Friday,"August 3, 2018",12:30 PM,3:00 PM,Sched Only
+MSCI 346,001,Friday,"August 3, 2018",12:30 PM,3:00 PM,RCH 301
 MSCI 445,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-MSCI 452,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,Sched Only
-MSCI 531,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,Sched Only
+MSCI 452,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,STC 0020
+MSCI 531,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,CPH 4335
 MSCI 551,001,Wednesday,"August 1, 2018",7:30 PM,10:00 PM,PAC Upper 9
 MTE 111,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,DC 1351
 MTE 119,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,DC 1351
 MTE 120,001,Friday,"August 3, 2018",12:30 PM,3:00 PM,"PAC Upper 9,10,11"
 MTE 140,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,DC 1351
-MTE 203,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,Sched Only
-MTE 204,001,Friday,"August 3, 2018",12:30 PM,3:00 PM,Sched Only
-MTE 220,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,Sched Only
-MTE 241,001,Friday,"August 10, 2018",12:30 PM,3:00 PM,Sched Only
-MTE 309,001,Saturday,"July 28, 2018",7:30 PM,10:00 PM,Sched Only
-MTE 320,001,Monday,"July 30, 2018",4:00 PM,6:30 PM,Sched Only
-MTE 325,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,Sched Only
+MTE 203,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+MTE 204,001,Friday,"August 3, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+MTE 220,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+MTE 241,001,Friday,"August 10, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+MTE 309,001,Saturday,"July 28, 2018",7:30 PM,10:00 PM,"E5 3101,3102"
+MTE 320,001,Monday,"July 30, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
+MTE 325,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,"E5 3101,3102"
 MTHEL 131,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,PAC 4
-MTHEL 300,002,Tuesday,"July 31, 2018",9:00 AM,11:00 AM,Sched Only
-MUSIC 100,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,Sched Only
-MUSIC 140,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,Sched Only
+MTHEL 300,002,Tuesday,"July 31, 2018",9:00 AM,11:00 AM,EV3 3412
+MUSIC 100,001,Wednesday,"August 8, 2018",9:00 AM,11:30 AM,CGC 1111
+MUSIC 140,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,STC 1012
 NE 217,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,PAC 3
 NE 225,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,PAC 6
 NE 226,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,PAC 7
@@ -413,7 +399,7 @@ PHYS 112,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online
 PHYS 112L,"001,002",Exam removed from the schedule. Contact instructor for further information.,,,,
 PHYS 122,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHYS 234,001,Friday,"August 10, 2018",4:00 PM,6:30 PM,"STC 0050,0060"
-PHYS 239,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
+PHYS 239,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,RCH 305
 PHYS 242,001,Thursday,"August 2, 2018",4:00 PM,6:30 PM,"PAC 7,8"
 PHYS 263,001,Wednesday,"August 8, 2018",4:00 PM,6:30 PM,"STC 0010,0020"
 PHYS 270,001,Exam removed from the schedule. Contact instructor for further information.,,,,
@@ -422,7 +408,7 @@ PHYS 342,001,Wednesday,"August 8, 2018",12:30 PM,3:00 PM,"PAC Upper 9,10"
 PHYS 358,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,PAC 8
 PHYS 363,001,Wednesday,"August 1, 2018",9:00 AM,11:30 AM,STC 0040
 PHYS 364,001,Thursday,"August 9, 2018",4:00 PM,6:30 PM,"PAC Upper 9,10"
-PHYS 380,001,Tuesday,"July 31, 2018",7:30 PM,10:00 PM,Sched Only
+PHYS 380,001,Tuesday,"July 31, 2018",7:30 PM,10:00 PM,RCH 301
 PLAN 484,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,PAC 6
 PLAN 684,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,PAC 6
 PMATH 320,001,Friday,"August 10, 2018",9:00 AM,11:30 AM,"PAC Upper 9,10"
@@ -438,16 +424,16 @@ PMATH 450,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,PAC Upper 9
 PMATH 641,001,Saturday,"July 28, 2018",12:30 PM,3:00 PM,MC 4042
 PMATH 650,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,PAC Upper 9
 PSCI 281,001,Tuesday,"August 7, 2018",9:00 AM,11:30 AM,STC 0010
-PSCI 373,001,Thursday,"August 2, 2018",9:00 AM,11:00 AM,Sched Only
+PSCI 373,001,Thursday,"August 2, 2018",9:00 AM,11:00 AM,HH 1102
 PSCI 387,001,Monday,"July 30, 2018",12:30 PM,3:00 PM,PAC Upper 11
-PSYCH 101,001,Wednesday,"August 8, 2018",7:30 PM,10:00 PM,Sched Only
+PSYCH 101,001,Wednesday,"August 8, 2018",7:30 PM,10:00 PM,STC 1012
 PSYCH 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 211,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 256,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 257,001,Friday,"August 10, 2018",7:30 PM,9:30 PM,Sched Only
+PSYCH 257,001,Friday,"August 10, 2018",7:30 PM,9:30 PM,STC 1012
 PSYCH 292,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 306,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 4021
-PSYCH 334R,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,Sched Only
+PSYCH 334R,001,Monday,"July 30, 2018",7:30 PM,10:00 PM,REN 2106
 PSYCH 354R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 461,001,Monday,"July 30, 2018",9:00 AM,11:00 AM,MC 4064
 REC 251,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
@@ -484,16 +470,16 @@ STAT 440,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 2034
 STAT 443,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 STAT 830,001,Thursday,"August 2, 2018",7:30 PM,10:00 PM,"PAC Upper 9,10,11"
 STAT 840,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,MC 2034
-SYDE 112,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,Sched Only
-SYDE 114,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,Sched Only
-SYDE 162,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,Sched Only
-SYDE 182,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
-SYDE 192,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,Sched Only
-SYDE 211,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
-SYDE 252,001,Wednesday,"August 1, 2018",12:30 PM,3:00 PM,Sched Only
-SYDE 311,001,Friday,"August 3, 2018",4:00 PM,6:30 PM,Sched Only
-SYDE 351,001,Tuesday,"July 31, 2018",7:30 PM,10:00 PM,Sched Only
-SYDE 351,002,Friday,"August 3, 2018",9:00 AM,11:30 AM,Sched Only
-SYDE 381,001,Saturday,"July 28, 2018",7:30 PM,10:00 PM,Sched Only
-SYDE 383,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,Sched Only
+SYDE 112,001,Wednesday,"August 1, 2018",4:00 PM,6:30 PM,"E5 6006,6008"
+SYDE 114,001,Tuesday,"July 31, 2018",12:30 PM,3:00 PM,"E5 6006,6008"
+SYDE 162,001,Monday,"July 30, 2018",9:00 AM,11:30 AM,E2 1310
+SYDE 182,001,Friday,"August 3, 2018",9:00 AM,11:30 AM,"RCH 103,105"
+SYDE 192,001,Thursday,"August 2, 2018",9:00 AM,11:30 AM,DC 1351
+SYDE 211,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,RCH 307
+SYDE 252,001,Wednesday,"August 1, 2018",12:30 PM,3:00 PM,"E5 3101,3102"
+SYDE 311,001,Friday,"August 3, 2018",4:00 PM,6:30 PM,"E5 6006,6008"
+SYDE 351,001,Tuesday,"July 31, 2018",7:30 PM,10:00 PM,"E5 6006,6008"
+SYDE 351,002,Friday,"August 3, 2018",9:00 AM,11:30 AM,"DWE 2402,2527"
+SYDE 381,001,Saturday,"July 28, 2018",7:30 PM,10:00 PM,RCH 302
+SYDE 383,001,Tuesday,"July 31, 2018",9:00 AM,11:30 AM,"E5 6006,6008"
 WS 222,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
