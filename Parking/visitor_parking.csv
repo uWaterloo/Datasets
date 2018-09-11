@@ -14,7 +14,7 @@ HV,SCH; TC,$2/hr to $15 daily max on weekdays; $5/entry after 5 pm and on the we
 OV,OPT,$5/entry,Pay on Exit,Coin,43.4761,-80.54387
 CL,CLV; CLN,$5/entry,Pay and Display,Visa/MasterCard,43.47058,-80.5631
 UWP,UWP,$5/entry,Pay and Display,Visa/MasterCard,43.47127,-80.53371
-CGR,CGR,$1/hr to $4 daily max,Pay on Exit,Coin or HonkMobile,43.4658,-80.54427
+CGR,CGR,$3/hr to $9 daily max,Pay on Exit,Coin or HonkMobile,43.4658,-80.54427
 STP,STP,$5/entry,Pay on Entry,Coin,43.46707,-80.54617
 REN,REN,$4/entry,Pay on Entry,Coin,43.46891,-80.54858
 STJ,STJ,$4/entry,Pay on Entry,Coin,43.46959,-80.54696
