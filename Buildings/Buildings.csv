@@ -244,12 +244,12 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 833,STP-EW,STP,St. Paul's United College East Wing,,43.467762,-80.546404,1,,,,
 834,STP-GRAD,STP,St. Paul's United College Graduate Apartment,,43.467762,-80.546404,1,,,,
 835,STP-NW,STP,St. Paul's United College North Wing,,43.467762,-80.546404,1,,,,
-840,CGR,,Conrad Grebel University College,CGR|Conrad Grebel,,,1,43.46656,-80.54525,pQfP44_LKJ8,z9di
-841,CGR,CGR,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1,,,,
-842,CGR,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1,,,,
-843,CGR,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1,,,,
-844,CGR,CGR,Conrad Grebel University College Administration Addition,,43.46666747,-80.54541188,1,,,,
-845,CGR,CGR,Conrad Grebel University College Apartments,,43.46666747,-80.54541188,1,,,,
+840,CGR,,Conrad Grebel University College,CGR|Conrad Grebel,43.46656,-80.54525,1,43.46656,-80.54525,pQfP44_LKJ8,z9di
+841,CGR,CGR,Conrad Grebel University College Residence,CGR|Conrad Grebel,43.46666747,-80.54541188,1,43.46666747,-80.54541188,,
+842,CGR,CGR,Conrad Grebel University College Administration Building,,43.46666747,-80.54541188,1,43.46666747,-80.54541188,,
+843,CGR,CGR,Conrad Grebel University College Residence Addition,,43.46666747,-80.54541188,1,43.46666747,-80.54541188,,
+844,CGR,CGR,Conrad Grebel University College Administration Addition,,43.46666747,-80.54541188,1,43.46666747,-80.54541188,,
+845,CGR,CGR,Conrad Grebel University College Apartments,,43.46666747,-80.54541188,1,43.46666747,-80.54541188,,
 4600,CLN,,Columbia Lake Village North,CLN|CLV North,,,1,43.4721,-80.56299,,
 4601,L01,CLN,Columbia Lake Village North Block 1,,43.473547,-80.562819,1,43.47358,-80.5628,,
 4602,L02,CLN,Columbia Lake Village North Block 2,,43.473173,-80.562532,1,43.47326,-80.56257,,
