@@ -62,7 +62,7 @@ BIOL 120,001,Thursday,"April 11, 2019",7:30 PM,10:00 PM,PAC 8,
 BIOL 130,001,Thursday,"April 11, 2019",7:30 PM,10:00 PM,"PAC 1,2,3",
 BIOL 165,001,Tuesday,"April 23, 2019",9:00 AM,11:30 AM,"PAC 1,2,3",
 BIOL 211,001,Thursday,"April 25, 2019",4:00 PM,6:30 PM,"PAC 7,8",
-BIOL 239,"001,002",Thursday,"April 18, 2019",12:30 PM,3:00 PM,"PAC 1.2.3.4.5.6.7.8, PAC UPPER 9,10,11",
+BIOL 239,"001,002",Thursday,"April 18, 2019",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8, PAC UPPER 9,10,11",
 BIOL 240,081,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,,
 BIOL 241,001,Thursday,"April 25, 2019",12:30 PM,3:00 PM,"PAC 1,2,3",
 BIOL 273,"001,002",Monday,"April 22, 2019",9:00 AM,11:30 AM,"PAC 1,2,3,4,5,6,7,8",
@@ -639,9 +639,8 @@ MATH 137,081,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-s
 MATH 137,"001,002",Tuesday,"April 16, 2019",9:00 AM,11:30 AM,M3 1006,
 MATH 138,005,Tuesday,"April 16, 2019",12:30 PM,3:00 PM,STC 0050,
 MATH 138,081,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,,
-MATH 138,001-004,Tuesday,"April 16, 2019",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8, PAC UPPER 9,10,11
-STC 1012,0060",
-MATH 138,006-009,Tuesday,"April 16, 2019",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8, PAC UPPER 9,10,11
+MATH 138,"001-004
+006-009",Tuesday,"April 16, 2019",12:30 PM,3:00 PM,"PAC 1,2,3,4,5,6,7,8, PAC UPPER 9,10,11
 STC 1012,0060",
 MATH 146,"001,002",Wednesday,"April 10, 2019",4:00 PM,6:30 PM,DC 1351,
 MATH 148,"001,002",Tuesday,"April 16, 2019",4:00 PM,6:30 PM,PAC 8,
