@@ -14,8 +14,8 @@ AE 105,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,STC 0020
 AE 121,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,PAC 8
 AFM 101,001,Tuesday,"August 13, 2019",12:30 PM,3:00 PM,"STC 1012, 0010"
 AFM 102,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,M3 1006
-AFM 211,001-004,Thursday,"August 8, 2019",4:00 PM,6:30 PM,Sched Only
-AFM 211,005-008,Thursday,"August 8, 2019",12:30 PM,3:00 PM,Sched Only
+AFM 211,001-004,Thursday,"August 8, 2019",4:00 PM,6:30 PM,"CPH 1346, E2 1792"
+AFM 211,005-008,Thursday,"August 8, 2019",12:30 PM,3:00 PM,"CPH 1346, E2 1792"
 AFM 231,001-006,Wednesday,"August 7, 2019",9:00 AM,11:00 AM,"PAC 4,5,6,7"
 AFM 241,001-005,Monday,"August 12, 2019",4:00 PM,6:30 PM,"PAC 4,5,6"
 AFM 274,001-005,Friday,"August 2, 2019",9:00 AM,11:00 AM,"STC 1012, 0050, 0060"
@@ -26,7 +26,7 @@ AFM 363,001-006,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,"PAC 4,5,6,7"
 AFM 372,"001, 002",Friday,"August 2, 2019",7:30 PM,10:00 PM,STC 0060
 AFM 391,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,MC 1056
 AFM 424,001,Monday,"August 12, 2019",7:30 PM,9:30 PM,PAC UPPER 11
-AFM 433,001-003,Tuesday,"August 6, 2019",4:00 PM,6:30 PM,Sched Only
+AFM 433,001-003,Tuesday,"August 6, 2019",4:00 PM,6:30 PM,"CPH 1346, HH 280"
 AFM 481,001-006,Monday,"August 12, 2019",12:30 PM,3:00 PM,"PAC 4,5,6,7"
 AFM 491,"001, 002",Thursday,"August 8, 2019",4:00 PM,6:00 PM,DC 1351
 AMATH 231,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,MC 1085
@@ -36,7 +36,7 @@ AMATH 250,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/wri
 AMATH 332,001,Thursday,"August 8, 2019",7:30 PM,10:00 PM,MC 1085
 AMATH 351,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,PAC 8
 AMATH 353,001,Wednesday,"August 7, 2019",12:30 PM,3:00 PM,PAC 8
-ANTH 100,001,Thursday,"August 15, 2019",9:00 AM,11:00 AM,Sched Only
+ANTH 100,001,Thursday,"August 15, 2019",9:00 AM,11:00 AM,STC 0010
 ARBUS 301,"001, 002",Friday,"August 9, 2019",9:00 AM,11:30 AM,"PAC UPPER 9,10,11"
 ARTS 280,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 BIOL 120,001,Tuesday,"August 13, 2019",7:30 PM,10:00 PM,STC 0010
@@ -52,10 +52,10 @@ BIOL 308,001,Monday,"August 12, 2019",4:00 PM,6:30 PM,M3 1006
 BIOL 309,001,Thursday,"August 15, 2019",9:00 AM,11:30 AM,DC 1351
 BIOL 354,001,Wednesday,"August 14, 2019",12:30 PM,3:00 PM,"PAC 7,8"
 BIOL 359,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-BME 252,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,Sched Only
-BME 282,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,Sched Only
-BME 284,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,Sched Only
-BME 294,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,Sched Only
+BME 252,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+BME 282,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+BME 284,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+BME 294,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
 BUS 111W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 121W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 231W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
@@ -89,15 +89,15 @@ CHE 101,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,STC 0020
 CHE 102,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,MC 1056
 CHE 121,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,STC 0020
 CHE 161,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,MC 1085
-CHE 211,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 231,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,Sched Only
-CHE 241,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 312,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
-CHE 314,001,Thursday,"August 8, 2019",7:30 PM,10:00 PM,Sched Only
-CHE 322,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 330,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 420,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 480,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,Sched Only
+CHE 211,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 231,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,"E6 2024, 4022"
+CHE 241,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 312,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,"E6 2024, 4022"
+CHE 314,001,Thursday,"August 8, 2019",7:30 PM,10:00 PM,"E6 2024, 4022"
+CHE 322,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,CPH 1346
+CHE 330,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 420,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,DWE 2529
+CHE 480,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,E6 2024 
 CHEM 120,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 CHEM 123,001,Tuesday,"August 13, 2019",4:00 PM,6:30 PM,"PAC 1,2"
 CHEM 212,001,Tuesday,"August 6, 2019",4:00 PM,6:30 PM,"PAC 7,8 "
@@ -116,17 +116,17 @@ CHINA 120R,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,MC 1056
 CHINA 201R,001,Thursday,"August 15, 2019",9:00 AM,11:30 AM,MC 1056
 CIVE 105,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 4
 CIVE 121,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,PAC 7
-CIVE 205,001,Thursday,"August 15, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 222,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 230,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 280,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
+CIVE 205,001,Thursday,"August 15, 2019",9:00 AM,11:30 AM,"RCH 301, 302"
+CIVE 222,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,"RCH 301, 302"
+CIVE 230,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,"RCH 301, 302"
+CIVE 280,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,"RCH 301, 302"
 CIVE 353,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-CIVE 392,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 413,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 414,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 484,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
-CIVE 491,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 596,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,Sched Only
+CIVE 392,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,"STC 0010, 0020, 0040"
+CIVE 413,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,RCH 301 
+CIVE 414,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,DC 1351
+CIVE 484,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,RCH 302
+CIVE 491,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,AHS 1689
+CIVE 596,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,DWE 1501
 CLAS 104,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 CLAS 261,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 CM 761,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,MC 1085
@@ -172,7 +172,7 @@ CS 475,001,Tuesday,"August 6, 2019",4:00 PM,6:30 PM,"PAC UPPER 9,10 "
 CS 480,"001, 002",Wednesday,"August 14, 2019",12:30 PM,3:00 PM,"PAC 1,2,3"
 CS 486,001-003,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,"PAC 1,2,3"
 CS 488,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,MC 1085
-CS 490,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,Sched Only
+CS 490,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,MC 2017
 CS 646,"001, 002",Tuesday,"August 6, 2019",4:00 PM,6:30 PM,M3 1006
 CS 649,"001, 002",Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 8
 CS 654,"001, 002",Thursday,"August 8, 2019",12:30 PM,3:00 PM,M3 1006
@@ -234,8 +234,8 @@ ECON 101,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/writ
 ECON 102,001,Wednesday,"August 7, 2019",7:30 PM,10:00 PM,"PAC 1,2"
 ECON 102,002,Wednesday,"August 7, 2019",7:30 PM,10:00 PM,"PAC 3,8"
 ECON 102,003,Wednesday,"August 7, 2019",7:30 PM,10:00 PM,"PAC 6,7"
-ECON 201,003,Friday,"August 9, 2019",4:00 PM,6:00 PM,STC 0010
 ECON 201,"001, 002",Friday,"August 9, 2019",4:00 PM,6:30 PM,STC 1012
+ECON 201,003,Friday,"August 9, 2019",4:00 PM,6:00 PM,STC 0010
 ECON 206,"001, 002",Tuesday,"August 6, 2019",7:30 PM,10:00 PM,"PAC 7,8 "
 ECON 207,001,Wednesday,"August 14, 2019",12:30 PM,3:00 PM,"PAC 9,10"
 ECON 211,001,Thursday,"August 15, 2019",7:30 PM,10:00 PM,STC 0010
@@ -250,17 +250,17 @@ ECON 393,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,STC 0010
 ECON 443,001,Exam removed from the schedule. Contact instructor for further information.,,,,
 EMLS 129R,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 ENGL 101B,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-ENGL 108A,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,Sched Only
+ENGL 108A,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,MC 2054
 ENGL 108P,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,PAC 3
 ENGL 109,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-ENGL 200B,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,Sched Only
+ENGL 200B,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,MC 2035
 ENGL 200B,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 ENGL 210F,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 ENGL 251,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 ENGL 306A,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 ENGL 309A,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 ENGL 345,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-ENVE 375,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,Sched Only
+ENVE 375,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,RCH 301
 ENVS 200,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,"PAC 7,8 "
 ERS 215,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 FR 151,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
@@ -290,7 +290,7 @@ KIN 221,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,M3 1006
 KIN 232,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,"STC 0040, 0050"
 LS 101,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 LS 229,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-LS 263,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,Sched Only
+LS 263,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,"STC 0040, 0050"
 LS 271,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 LS 273,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 LS 327,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
@@ -306,7 +306,7 @@ MATH 128,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/writ
 MATH 135,001,Tuesday,"August 13, 2019",7:30 PM,10:00 PM,MC 1085
 MATH 136,001-003,Monday,"August 12, 2019",4:00 PM,6:30 PM,"PAC 7,8"
 MATH 136,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-MATH 137,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,Sched Only
+MATH 137,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,MC 2034
 MATH 137,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 MATH 138,"001, 002",Wednesday,"August 7, 2019",12:30 PM,3:00 PM,"PAC UPPER 9,10,11"
 MATH 138,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
@@ -320,33 +320,33 @@ MATH 239,001-004,Friday,"August 2, 2019",9:00 AM,11:30 AM,"PAC 4,5,6,7,8"
 MATH 245,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 6
 ME 101,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,DC 1351
 ME 115,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,"PAC UPPER 9,10,11"
-ME 203,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-ME 212,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,Sched Only
-ME 219,001,Monday,"August 12, 2019",9:00 AM,11:00 AM,Sched Only
-ME 220,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,Sched Only
-ME 250,001,Thursday,"August 8, 2019",9:00 AM,11:30 AM,Sched Only
-ME 262,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,Sched Only
-ME 303,001,Thursday,"August 15, 2019",12:30 PM,3:00 PM,Sched Only
-ME 321,001,Tuesday,"August 13, 2019",12:30 PM,3:00 PM,Sched Only
-ME 321,002,Thursday,"August 15, 2019",9:00 AM,11:30 AM,Sched Only
-ME 340,001,Wednesday,"August 7, 2019",12:30 PM,3:00 PM,Sched Only
-ME 351,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,Sched Only
-ME 354,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,Sched Only
-ME 401,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,Sched Only
-ME 423,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,Sched Only
-ME 435,001,Wednesday,"August 14, 2019",12:30 PM,3:00 PM,Sched Only
-ME 436,001,Thursday,"August 15, 2019",9:00 AM,11:30 AM,Sched Only
-ME 456,001,Thursday,"August 8, 2019",9:00 AM,11:30 AM,Sched Only
-ME 459,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,Sched Only
-ME 548,001,Monday,"August 12, 2019",7:30 PM,10:00 PM,Sched Only
-ME 559,001,Tuesday,"August 13, 2019",4:00 PM,6:30 PM,Sched Only
-ME 561,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-ME 566,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,Sched Only
+ME 203,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 212,001,Wednesday,"August 14, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 219,001,Monday,"August 12, 2019",9:00 AM,11:00 AM,STC 0050
+ME 220,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 250,001,Thursday,"August 8, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 262,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 303,001,Thursday,"August 15, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 321,001,Tuesday,"August 13, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 321,002,Thursday,"August 15, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+ME 340,001,Wednesday,"August 7, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 351,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 354,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 401,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,CPH 3679
+ME 423,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,CPH 3679
+ME 435,001,Exam removed from the schedule. Contact instructor for further information.,,,,
+ME 436,001,Thursday,"August 15, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 456,001,Thursday,"August 8, 2019",9:00 AM,11:30 AM,CPH 3679
+ME 459,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,E5 6006 
+ME 548,001,Monday,"August 12, 2019",7:30 PM,10:00 PM,CPH 3679
+ME 559,001,Tuesday,"August 13, 2019",4:00 PM,6:30 PM,CPH 3679
+ME 561,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,DWE 2402
+ME 566,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,CPH 3679
 MNS 221,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,MC 2038
 MNS 321,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,MC 1085
 MSCI 252,001,Thursday,"August 8, 2019",4:00 PM,6:30 PM,PAC 5
 MSCI 261,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 3
-MSCI 261,002,Friday,"August 9, 2019",12:30 PM,3:00 PM,Sched Only
+MSCI 261,002,Friday,"August 9, 2019",12:30 PM,3:00 PM,CPH 1346
 MSCI 261,003,Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 2
 MSCI 263,"001, 002",Saturday,"August 10, 2019",12:30 PM,3:00 PM,DC 1351
 MSCI 331,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,STC 0020
@@ -358,17 +358,17 @@ MTE 111,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,DC 1351
 MTE 119,001,Wednesday,"August 14, 2019",12:30 PM,3:00 PM,PAC 6
 MTE 120,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,PAC 6
 MTE 140,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 1
-MTE 203,001,Wednesday,"August 14, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 204,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 220,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 241,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,Sched Only
-MTE 309,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-MTE 320,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,Sched Only
-MTE 325,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,Sched Only
+MTE 203,001,Wednesday,"August 14, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+MTE 204,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+MTE 220,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+MTE 241,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,"E5 3101, 3102"
+MTE 309,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+MTE 320,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+MTE 325,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
 MTHEL 131,001,Monday,"August 12, 2019",9:00 AM,11:30 AM,PAC UPPER 10
-MTHEL 206A,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-MUSIC 100,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,Sched Only
-MUSIC 140,001,Thursday,"August 8, 2019",9:00 AM,11:00 AM,Sched Only
+MTHEL 206A,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,DWE 1502
+MUSIC 100,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,CGR 1111
+MUSIC 140,001,Thursday,"August 8, 2019",9:00 AM,11:00 AM,"SJ2 1002, 1004"
 NE 217,001,Tuesday,"August 13, 2019",4:00 PM,6:30 PM,PAC 3
 NE 225,001,Thursday,"August 15, 2019",12:30 PM,3:00 PM,DC 1351
 NE 226,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,"PAC UPPER 9,10,11"
@@ -393,19 +393,19 @@ PHYS 112,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/writ
 PHYS 112L,"001, 002",Exam removed from the schedule. Contact instructor for further information.,,,,
 PHYS 122,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 PHYS 234,001,Thursday,"August 8, 2019",7:30 PM,10:00 PM,M3 1006
-PHYS 239,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,Sched Only
+PHYS 239,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,MC 2017
 PHYS 242,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,"PAC UPPER 9,10,11"
 PHYS 263,001,Thursday,"August 15, 2019",4:00 PM,6:30 PM,"STC 0040, 0050"
 PHYS 270,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,MC 2054
 PHYS 280,001,Tuesday,"August 13, 2019",12:30 PM,3:00 PM,M3 1006
 PHYS 342,001,Thursday,"August 8, 2019",12:30 PM,3:00 PM,DC 1351
 PHYS 358,001,Friday,"August 16, 2019",12:30 PM,3:00 PM,STC 0010
-PHYS 363,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,Sched Only
-PHYS 364,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
+PHYS 363,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,STC 0010
+PHYS 364,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,STC 0010
 PHYS 380,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,STC 0020
-PLAN 484,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
-PLAN 684,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
-PMATH 321,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,Sched Only
+PLAN 484,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,RCH 302
+PLAN 684,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,RCH 302
+PMATH 321,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,STC 0010
 PMATH 330,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 PMATH 332,001,Thursday,"August 8, 2019",7:30 PM,10:00 PM,MC 1085
 PMATH 336,001,Friday,"August 9, 2019",12:30 PM,3:00 PM,PAC 5
@@ -416,11 +416,11 @@ PMATH 352,001,Saturday,"August 10, 2019",12:30 PM,3:00 PM,MC 1056
 PMATH 450,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,MC 2034
 PMATH 650,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,MC 2034
 PSCI 225,001,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,PAC 6
-PSYCH 101,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,Sched Only
+PSYCH 101,001,Wednesday,"August 7, 2019",9:00 AM,11:30 AM,M3 1006
 PSYCH 101,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 PSYCH 211,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 PSYCH 256,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-PSYCH 257,001,Wednesday,"August 7, 2019",12:30 PM,2:30 PM,Sched Only
+PSYCH 257,001,Wednesday,"August 7, 2019",12:30 PM,2:30 PM,M3 1006
 PSYCH 292,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 PSYCH 354R,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 REC 251,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
@@ -433,7 +433,7 @@ SDS 355R,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/writ
 SE 463,"001, 002",Wednesday,"August 7, 2019",12:30 PM,3:00 PM,PAC 1
 SOC 101,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 SOC 229,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
-SOC 263,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,Sched Only
+SOC 263,001,Tuesday,"August 6, 2019",9:00 AM,11:30 AM,"STC 0040, 0050"
 SOC 327,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 SOCWK 120R,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
 SOCWK 222R,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
@@ -458,16 +458,16 @@ STAT 444,001,Friday,"August 16, 2019",12:30 PM,3:00 PM,MC 1085
 STAT 830,001,Thursday,"August 15, 2019",7:30 PM,10:00 PM,M3 1006
 STAT 840,001,Friday,"August 2, 2019",7:30 PM,10:00 PM,MC 1085
 STAT 844,001,Friday,"August 16, 2019",12:30 PM,3:00 PM,MC 1085
-SYDE 112,001,Tuesday,"August 13, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 114,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 162,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 182,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 192,001,Thursday,"August 8, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 211,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 252,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 311,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 351,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 351,002,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 381,001,Thursday,"August 8, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 383,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,Sched Only
+SYDE 112,001,Tuesday,"August 13, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 114,001,Friday,"August 2, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 162,001,Friday,"August 9, 2019",4:00 PM,6:30 PM,CPH 1346
+SYDE 182,001,Monday,"August 12, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 192,001,Thursday,"August 8, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+SYDE 211,001,Wednesday,"August 7, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+SYDE 252,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+SYDE 311,001,Friday,"August 2, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 351,001,Tuesday,"August 6, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 351,002,Tuesday,"August 13, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+SYDE 381,001,Thursday,"August 8, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 383,001,Friday,"August 9, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
 WS 222,081 Online,See https://uwaterloo.ca/extended-learning/learn-online/write-exams,,,,
