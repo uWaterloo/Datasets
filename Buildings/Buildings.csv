@@ -201,7 +201,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 142,,,Artery Gallery Kitchener,,,,0,,,,
 143,,,"Broad Street, New York, NY, USA",,,,0,,,,
 144,ACW,,Accelerator Centre Waterloo,,43.47738445,-80.5490990988843,1,43.47743,-80.5491,,
-145,WFF,,Warrior Football Field,,43.4747,-80.55014,1,43.47464,-80.54993,,
+145,WF,,Warrior Field,Warrior Football Field,43.4747,-80.55014,1,43.47464,-80.54993,,
 146,MRS,,Medical & Related Sciences,,,,1,,,,
 147,,,50 Queen Street North,,,,0,,,,
 148,SCO,,Shanghai China Office,,,,1,,,,
