@@ -1,123 +1,129 @@
 Exam,Section(s),Day,Date,Start,Finish,Location
-ACTSC 221,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-ACTSC 231,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-ACTSC 232,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,TBA
-ACTSC 331,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-ACTSC 371,"001,002",Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-ACTSC 372,"001,002",Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-ACTSC 431,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-ACTSC 432,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-ACTSC 445,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-ACTSC 446,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-ACTSC 462,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,TBA
-ACTSC 845,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-ACTSC 846,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-AE 104,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-AE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-AFM 101,001-006,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-AFM 102,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-AFM 112,"001,002",Tuesday,"December 17, 2019",7:30 PM,9:00 PM,TBA
-AFM 123,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-AFM 131,001-003,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
+ACTSC 221,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC 7
+ACTSC 231,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3"
+ACTSC 232,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,STC 0060
+ACTSC 331,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,MC 4061
+ACTSC 371,"001,002",Saturday,"December 14, 2019",9:00 AM,11:30 AM,M3 1006
+ACTSC 372,"001,002",Tuesday,"December 10, 2019",12:30 PM,3:00 PM,M3 1006
+ACTSC 431,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC 4
+ACTSC 432,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,MC 4021
+ACTSC 445,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,MC 1056
+ACTSC 446,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,STC 0050
+ACTSC 462,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,STC 0060
+ACTSC 845,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,MC 1056
+ACTSC 846,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,STC 0050
+AE 104,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,STC 0060
+AE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,"MC 4042, 4045"
+AFM 101,001-006,Monday,"December 16, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3, 4, 5, 6, 7"
+AFM 102,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,STC 1012
+AFM 112,"001,002",Tuesday,"December 17, 2019",7:30 PM,9:00 PM,"STC 1012, 0050, 0060"
+AFM 123,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,M3 1006
+AFM 131,001-003,Friday,"December 6, 2019",7:30 PM,10:00 PM,"STC 1012, 0010, 0020, 0040, 0050, 0060
+MC 4044"
 AFM 131,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-AFM 132,001-003,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-AFM 202,001-003,Monday,"December 16, 2019",4:00 PM,5:30 PM,TBA
-AFM 202,004-006,Monday,"December 16, 2019",9:00 AM,10:30 AM,Sched Only
-AFM 231,001,Monday,"December 9, 2019",9:00 AM,11:00 AM,TBA
-AFM 272,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-AFM 273,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,Sched Only
-AFM 291,001-008,Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-AFM 321,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-AFM 323,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-AFM 333,001-004,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-AFM 341,001-004,Wednesday,"December 11, 2019",4:00 PM,6:00 PM,TBA
-AFM 362,001-004,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-AFM 373,001-006,Tuesday,"December 17, 2019",12:30 PM,2:30 PM,TBA
-AFM 391,001-004,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-AFM 401,001-005,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-AFM 415,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,Sched Only
-AFM 425,"001,002",Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-AFM 433,001-003,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-AFM 462,001-005,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-AFM 463,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-AFM 476,001,Tuesday,"December 17, 2019",12:30 PM,2:30 PM,TBA
-AFM 477,001,Wednesday,"December 18, 2019",12:30 PM,2:30 PM,TBA
-AFM 479,001-007,Thursday,"December 12, 2019",9:00 AM,11:00 AM,TBA
-AFM 482,001-005,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-AFM 491,001-004,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-AMATH 231,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-AMATH 250,"001,002",Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-AMATH 251,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,TBA
-AMATH 271,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,TBA
-AMATH 331,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-AMATH 342,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,Sched Only
-AMATH 343,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,TBA
-AMATH 350,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-AMATH 351,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-AMATH 391,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-AMATH 442,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,Sched Only
-AMATH 453,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,TBA
-AMATH 456,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-AMATH 463,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-AMATH 473,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-AMATH 477,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-AMATH 663,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-AMATH 673,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-ANTH 100,001,Friday,"December 13, 2019",12:30 PM,2:30 PM,TBA
-ANTH 201,001,Friday,"December 6, 2019",12:30 PM,2:00 PM,Sched Only
-ANTH 202,001,Thursday,"December 19, 2019",12:30 PM,2:30 PM,Sched Only
-ANTH 204,001,Friday,"December 13, 2019",12:30 PM,2:30 PM,Sched Only
-ANTH 355,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,Sched Only
-ARBUS 101,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
+AFM 132,001-003,Friday,"December 6, 2019",12:30 PM,3:00 PM,"STC 1012, 0060, 0050, 0040"
+AFM 202,001-003,Monday,"December 16, 2019",4:00 PM,5:30 PM,M3 1006
+AFM 202,004-006,Monday,"December 16, 2019",9:00 AM,10:30 AM,"CPH 1346, E2 1792"
+AFM 231,001,Monday,"December 9, 2019",9:00 AM,11:00 AM,DC 1351
+AFM 272,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,PAC 1
+AFM 273,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,"CPH 1346, E2 1792, HH 280
+HH 1102, 1104, 1106, 1108"
+AFM 291,001-008,Thursday,"December 12, 2019",7:30 PM,10:00 PM,"PAC 4, 5, 6, 7, 8"
+AFM 321,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,STC 0010
+AFM 323,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,HH 280
+AFM 333,001-004,Friday,"December 13, 2019",7:30 PM,10:00 PM,"PAC 4, 5, 6"
+AFM 341,001-004,Wednesday,"December 11, 2019",4:00 PM,6:00 PM,"MC 2017, 2035, 2038, 2054"
+AFM 362,001-004,Monday,"December 9, 2019",9:00 AM,11:30 AM,"MC 4042, 4045, 4059, 4061"
+AFM 373,001-006,Tuesday,"December 17, 2019",12:30 PM,2:30 PM,STC 1012
+AFM 391,001-004,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"PAC 1, 2"
+AFM 401,001-005,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"STC 1012, 0060"
+AFM 415,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,HH 280
+AFM 425,"001,002",Monday,"December 9, 2019",7:30 PM,10:00 PM,MC 1085
+AFM 433,001-003,Thursday,"December 12, 2019",4:00 PM,6:30 PM,"CPH 1346, E2 1792"
+AFM 462,001-005,Friday,"December 6, 2019",9:00 AM,11:30 AM,"CPH 1346, E2 1792, HH 280, PAS 1237"
+AFM 463,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,MC 4063
+AFM 476,001,Tuesday,"December 17, 2019",12:30 PM,2:30 PM,MC 4064
+AFM 477,001,Wednesday,"December 18, 2019",12:30 PM,2:30 PM,MC 1085
+AFM 479,001-007,Thursday,"December 12, 2019",9:00 AM,11:00 AM,"STC 1012, 0060"
+AFM 482,001-005,Monday,"December 9, 2019",9:00 AM,11:30 AM,"CPH 1346, E2 1792, HH 280, PAS 1237"
+AFM 491,001-004,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"STC 0010, 0020"
+AMATH 231,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,MC 2054
+AMATH 250,"001,002",Friday,"December 20, 2019",12:30 PM,3:00 PM,M3 1006
+AMATH 251,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,PAC 6
+AMATH 271,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,MC 1056
+AMATH 331,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,DC 1350
+AMATH 342,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,MC 4045
+AMATH 343,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,MC 1056
+AMATH 350,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,"PAC 7, 8"
+AMATH 351,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,MC 1085
+AMATH 391,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC UPPER 11
+AMATH 442,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 4058
+AMATH 453,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,MC 4063
+AMATH 456,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,RCH 309
+AMATH 463,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,MC 4064
+AMATH 473,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,STC 0010
+AMATH 477,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,MC 4063
+AMATH 663,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,MC 4064
+AMATH 673,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,STC 0010
+ANTH 100,001,Friday,"December 13, 2019",12:30 PM,2:30 PM,"MC 4059, 4061"
+ANTH 201,001,Friday,"December 6, 2019",12:30 PM,2:00 PM,PAS 2083
+ANTH 202,001,Thursday,"December 19, 2019",12:30 PM,2:30 PM,HH 334
+ANTH 204,001,Friday,"December 13, 2019",12:30 PM,2:30 PM,EV3 1408
+ANTH 355,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,PAS 2271
+ARBUS 101,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,"STC 1012, 0010, 0020, 0040, 0050, 0060
+MC 4044"
 ARBUS 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ARBUS 301,001-004,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-ARTS 122,001,Friday,"December 6, 2019",12:30 PM,2:30 PM,Sched Only
-AVIA 100,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-BIOL 110,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,TBA
-BIOL 130,001-003,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-BIOL 150,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
+ARBUS 301,001-004,Friday,"December 13, 2019",7:30 PM,10:00 PM,"PAC 4, 5, 6"
+ARTS 122,001,Friday,"December 6, 2019",12:30 PM,2:30 PM,RCH 204
+AVIA 100,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,"PAC UPPER 9, 10, 11"
+BIOL 110,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,"PAC 4, 5, 6"
+BIOL 130,001-003,Monday,"December 16, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11
+STC 1012, 0040, 0050, 0060"
+BIOL 150,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3, 8"
 BIOL 239,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-BIOL 240,"001,002",Wednesday,"December 18, 2019",9:00 AM,11:30 AM,TBA
-BIOL 240L,001-020,Monday,"December 9, 2019",7:30 PM,8:30 PM,TBA
-BIOL 266,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,TBA
+BIOL 240,"001,002",Wednesday,"December 18, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8"
+BIOL 240L,001-020,Monday,"December 9, 2019",7:30 PM,8:30 PM,"STC 1012, 0010, 0020, 0040, 0050, 0060"
+BIOL 266,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,STC 1012
 BIOL 273,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-BIOL 301,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-BIOL 303,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-BIOL 308,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
-BIOL 309,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-BIOL 310,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-BIOL 323,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-BIOL 325,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-BIOL 342,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-BIOL 345,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,TBA
-BIOL 350,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-BIOL 354,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
-BIOL 359,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
-BIOL 370,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,TBA
-BIOL 376,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-BIOL 434,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-BIOL 439,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-BIOL 443,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-BIOL 444,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-BIOL 447,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-BIOL 448,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,TBA
-BIOL 462,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,TBA
-BIOL 473,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-BIOL 476,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-BIOL 479,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-BME 101L,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,Sched Only
-BME 121,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-BME 161,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,Sched Only
-BME 181,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,Sched Only
-BME 281,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,Sched Only
-BME 282,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-BME 285,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,Sched Only
-BME 356,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,Sched Only
-BME 384,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-BME 386,001,Friday,"December 6, 2019",4:00 PM,6:30 PM,Sched Only
-BME 411,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-BME 487,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,Sched Only
-BUS 111W,,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
+BIOL 301,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3, 8"
+BIOL 303,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,"PAC 3, 7, 8"
+BIOL 308,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,"PAC 4, 5, 6,  
+PAC UPPER 9, 10"
+BIOL 309,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"DC 1350, 1351"
+BIOL 310,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,STC 0040
+BIOL 323,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,MC 4064
+BIOL 325,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,DC 1350
+BIOL 342,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"MC 4059, 4061"
+BIOL 345,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,MC 1056
+BIOL 350,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 1085
+BIOL 354,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,DC 1351
+BIOL 359,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,"PAC 7, 8"
+BIOL 370,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,STC 0010
+BIOL 376,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,STC 0020
+BIOL 434,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,STC 0010
+BIOL 439,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,"STC 1012, 0060 "
+BIOL 443,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,"PAC UPPER 9, 10, 11"
+BIOL 444,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,MC 4064
+BIOL 447,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,STC 0010
+BIOL 448,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,MC 4063
+BIOL 462,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,"PAC 7, 8"
+BIOL 473,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,"PAC UPPER 9, 10, 11"
+BIOL 476,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 4064
+BIOL 479,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,"STC 0010, 0020"
+BME 101L,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,E2 1792 
+BME 121,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,E2 1792 
+BME 161,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,"E5 6006, 6008"
+BME 181,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,"E5 6006, 6008"
+BME 281,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+BME 282,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+BME 285,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+BME 356,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+BME 384,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+BME 386,001,Friday,"December 6, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+BME 411,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"E5 6004, 6006, 6008"
+BME 487,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+BUS 111W,,Saturday,"December 7, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3"
 BUS 127W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 208W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 223W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
@@ -164,725 +170,751 @@ BUS 487W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,
 BUS 490AW,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 490W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
 BUS 491W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-CHE 100,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-CHE 102,001-010,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,TBA
-CHE 120,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,Sched Only
+CHE 100,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,"PAC 7, 8"
+CHE 102,001-010,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11
+MC 4020, 4021"
+CHE 120,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,"CPH 1346, E2 1792"
 CHE 180,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-CHE 200,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-CHE 211,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,Sched Only
-CHE 220,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-CHE 230,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
-CHE 231,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 241,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-CHE 313,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 331,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-CHE 361,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 420,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 425,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-CHE 480,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 514,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,Sched Only
-CHE 516,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,Sched Only
-CHE 541,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,Sched Only
-CHE 571,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,Sched Only
-CHEM 120,001-004,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-CHEM 120L,001-014,Wednesday,"December 11, 2019",4:00 PM,6:00 PM,TBA
-CHEM 209,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-CHEM 220,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
+CHE 200,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"MC  2035, 2038"
+CHE 211,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,"E6 2024, 4022"
+CHE 220,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,STC 0020
+CHE 230,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,MC 1085
+CHE 231,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 241,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"DWE 2527, 2529"
+CHE 313,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 331,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"E6 2024, 4022"
+CHE 361,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,"DWE 2527, 2529"
+CHE 420,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 425,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,MC 4059
+CHE 480,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,"E6 2024, 4022"
+CHE 514,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,E6 4022
+CHE 516,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,"DWE 2527, 2529"
+CHE 541,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,"E6 2024, 4022"
+CHE 571,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,"E6 2022, 2024, 4022"
+CHEM 120,001-004,Friday,"December 6, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6 , 7, 8
+PAC UPPER 9, 10, 11
+STC 1012, 0010, 0020, 0040, 0050, 0060 MC 4063"
+CHEM 120L,001-014,Wednesday,"December 11, 2019",4:00 PM,6:00 PM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11
+STC 1012, 0040, 0050, 0060"
+CHEM 209,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,"PAC 4, 5"
+CHEM 220,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"M3 1006, DC 1350 "
 CHEM 237,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHEM 240,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-CHEM 262,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-CHEM 264,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-CHEM 266,"001,002",Wednesday,"December 11, 2019",9:00 AM,11:30 AM,TBA
+CHEM 240,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,"MC 2017, 2054"
+CHEM 262,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,MC 1085
+CHEM 264,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,"DC 1350, 1351"
+CHEM 266,"001,002",Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"STC 1012, 0010, 0020, 0040, 0050, 0060
+MC 1085"
 CHEM 267,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHEM 310,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-CHEM 331,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-CHEM 333,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
+CHEM 310,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,MC 4045
+CHEM 331,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,STC 0020
+CHEM 333,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,MC 4059
 CHEM 339,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CHEM 356,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-CHEM 370,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,Sched Only
-CHEM 383,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
-CHEM 400,002,Saturday,"December 14, 2019",4:00 PM,6:30 PM,TBA
-CHEM 404,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-CHEM 432,001,Saturday,"December 7, 2019",9:00 AM,11:00 AM,TBA
-CHEM 464,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,TBA
-CHEM 770,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,Sched Only
-CHINA 101R,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-CHINA 102R,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-CHINA 120R,"001,002",Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-CHINA 201R,"001,002",Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-CHINA 202R,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-CHINA 301R,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-CIVE 100,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-CIVE 104,"001,002",Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-CIVE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-CIVE 204,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,Sched Only
-CIVE 221,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-CIVE 224,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 241,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-CIVE 265,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 306,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-CIVE 310,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 343,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,Sched Only
-CIVE 354,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-CIVE 375,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-CIVE 382,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,Sched Only
-CIVE 497,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-CIVE 497,002,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-CLAS 100,001,Tuesday,"December 17, 2019",7:30 PM,9:30 PM,TBA
+CHEM 356,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,STC 0040 
+CHEM 370,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,RCH 204
+CHEM 383,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,MC 1056
+CHEM 400,002,Saturday,"December 14, 2019",4:00 PM,6:30 PM,MC 4063
+CHEM 404,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,MC 4020
+CHEM 432,001,Saturday,"December 7, 2019",9:00 AM,11:00 AM,MC 4063
+CHEM 464,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,MC 1056
+CHEM 770,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,RCH 204
+CHINA 101R,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,MC 1085
+CHINA 102R,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,MC 4064
+CHINA 120R,"001,002",Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 4059
+CHINA 201R,"001,002",Tuesday,"December 10, 2019",9:00 AM,11:30 AM,MC 1056
+CHINA 202R,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,MC 4064
+CHINA 301R,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,MC 4064
+CIVE 100,001,Exam removed from the schedule. Contact instructor for further information.,,,,
+CIVE 104,"001,002",Friday,"December 13, 2019",4:00 PM,6:30 PM,STC 1012
+CIVE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,"MC 4059, 4061 "
+CIVE 204,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,"RCH 301, 302"
+CIVE 221,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,"PAC 4, 5"
+CIVE 224,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"RCH 301, 302"
+CIVE 241,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,M3 1006
+CIVE 265,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"RCH 301, 302"
+CIVE 306,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,PAC 3
+CIVE 310,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"MC 4020, 4021"
+CIVE 343,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,DWE 2527
+CIVE 354,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,"RCH 302, 305"
+CIVE 375,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,PAC 4
+CIVE 382,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,RCH 105
+CIVE 497,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,CPH 3679
+CIVE 497,002,Friday,"December 6, 2019",9:00 AM,11:30 AM,EIT 2014
+CLAS 100,001,Tuesday,"December 17, 2019",7:30 PM,9:30 PM,DC 1350
 CLAS 104,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CLAS 105,001,Thursday,"December 19, 2019",9:00 AM,11:00 AM,TBA
-CLAS 202,001,Monday,"December 16, 2019",7:30 PM,9:00 PM,Sched Only
-CLAS 221,001,Friday,"December 6, 2019",12:30 PM,2:00 PM,Sched Only
-CLAS 230,001,Wednesday,"December 18, 2019",7:30 PM,9:30 PM,Sched Only
-CLAS 251,001,Thursday,"December 12, 2019",7:30 PM,9:30 PM,TBA
-CLAS 261,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-CLAS 325,001,Thursday,"December 12, 2019",4:00 PM,6:00 PM,Sched Only
-CLAS 342,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,Sched Only
+CLAS 105,001,Thursday,"December 19, 2019",9:00 AM,11:00 AM,MC 4020
+CLAS 202,001,Monday,"December 16, 2019",7:30 PM,9:00 PM,DC 1351
+CLAS 221,001,Friday,"December 6, 2019",12:30 PM,2:00 PM,PAS 2083
+CLAS 230,001,Wednesday,"December 18, 2019",7:30 PM,9:30 PM,ML 246
+CLAS 251,001,Thursday,"December 12, 2019",7:30 PM,9:30 PM,MC 1085
+CLAS 261,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,SJ1 3016
+CLAS 325,001,Thursday,"December 12, 2019",4:00 PM,6:00 PM,AL 105
+CLAS 342,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,RCH 209
 CLAS 361,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CM 762,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-CM 763,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-CO 227,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-CO 250,"001,002",Friday,"December 20, 2019",9:00 AM,11:30 AM,TBA
-CO 255,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-CO 330,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-CO 342,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-CO 351,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-CO 367,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-CO 370,001,Thursday,"December 19, 2019",7:30 PM,10:00 PM,Sched Only
-CO 372,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,TBA
-CO 442,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-CO 450,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-CO 456,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-CO 485,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-CO 487,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-CO 642,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-CO 650,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-CO 685,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-CO 687,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-COMM 101,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-COMM 231,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,TBA
-COMM 421,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,TBA
-COMM 431,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-CROAT 101,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
+CM 762,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,PAC 8
+CM 763,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 1
+CO 227,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,MC 1085
+CO 250,"001,002",Friday,"December 20, 2019",9:00 AM,11:30 AM,"PAC 7 
+PAC UPPER 9, 10, 11"
+CO 255,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,MC 2034
+CO 330,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,MC 1056
+CO 342,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 1085
+CO 351,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,STC 0010
+CO 367,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,PAC 9
+CO 370,001,Thursday,"December 19, 2019",7:30 PM,10:00 PM,DC 1351
+CO 372,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,PAC 2
+CO 442,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 4064
+CO 450,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,RCH 306
+CO 456,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,STC 0010
+CO 485,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4063
+CO 487,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,"PAC 1, 2"
+CO 642,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 4064
+CO 650,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,RCH 306
+CO 685,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4063
+CO 687,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,"PAC 1, 2"
+COMM 101,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,"MC 4020, 4021 "
+COMM 231,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,M3 1006
+COMM 421,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,MC 4064
+COMM 431,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,RCH 103
+CROAT 101,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,ML 242
 CS 100,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-CS 105,001-004,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-CS 115,001-010,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-CS 116,001-003,Thursday,"December 19, 2019",7:30 PM,10:00 PM,TBA
-CS 135,001-011,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-CS 136,001-003,Thursday,"December 19, 2019",12:30 PM,3:00 PM,TBA
-CS 137,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-CS 145,"001,002",Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-CS 234,"001,002",Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-CS 240,"001,002",Saturday,"December 14, 2019",4:00 PM,6:30 PM,TBA
-CS 241,001-003,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-CS 241E,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-CS 245,001-005,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-CS 245E,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-CS 246,001-006,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-CS 246E,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-CS 251,"001,002",Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-CS 330,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-CS 335,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-CS 338,"001,002",Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-CS 341,001-003,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-CS 343,001-003,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-CS 348,001-003,Saturday,"December 14, 2019",4:00 PM,6:30 PM,TBA
-CS 349,"001,002",Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-CS 350,001-003,Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-CS 360,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,TBA
-CS 370,001-003,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,TBA
-CS 430,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,TBA
+CS 105,001-004,Saturday,"December 14, 2019",9:00 AM,11:30 AM,"STC 1012, 0050, 0060"
+CS 115,001-010,Friday,"December 13, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3, 4, 5, 6, 7"
+CS 116,001-003,Thursday,"December 19, 2019",7:30 PM,10:00 PM,"PAC 1, 2, 3"
+CS 135,001-011,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3, 4, 5, 6, 7, 8"
+CS 136,001-003,Thursday,"December 19, 2019",12:30 PM,3:00 PM,"PAC 7, 8"
+CS 137,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,"PAC UPPER 9, 10, 11"
+CS 145,"001,002",Friday,"December 13, 2019",4:00 PM,6:30 PM,M3 1006
+CS 234,"001,002",Saturday,"December 7, 2019",12:30 PM,3:00 PM,"PAC 4, 5, 6"
+CS 240,"001,002",Saturday,"December 14, 2019",4:00 PM,6:30 PM,"PAC 7, 8"
+CS 241,001-003,Thursday,"December 19, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3"
+CS 241E,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC 8
+CS 245,001-005,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,"PAC 4, 5, 6, 7, 8"
+CS 245E,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,MC 1056
+CS 246,001-006,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"PAC 4, 5, 6, 7, 8"
+CS 246E,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,MC 1085
+CS 251,"001,002",Thursday,"December 12, 2019",7:30 PM,10:00 PM,M3 1006
+CS 330,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,"RCH 103, 105, 106, 110, 112"
+CS 335,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,"MC 2035, 2038"
+CS 338,"001,002",Wednesday,"December 18, 2019",12:30 PM,3:00 PM,"PAC 7, 8"
+CS 341,001-003,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3"
+CS 343,001-003,Saturday,"December 7, 2019",12:30 PM,3:00 PM,"PAC 7, 8"
+CS 348,001-003,Saturday,"December 14, 2019",4:00 PM,6:30 PM,"PAC 4, 5, 6"
+CS 349,"001,002",Tuesday,"December 10, 2019",7:30 PM,10:00 PM,"STC 0010, 0020"
+CS 350,001-003,Thursday,"December 12, 2019",7:30 PM,10:00 PM,"PAC 1, 2, 3"
+CS 360,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,PAC 3
+CS 370,001-003,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"DC 1350, 1351"
+CS 430,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,PAC 8
 CS 431,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-CS 445,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-CS 451,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-CS 452,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-CS 454,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-CS 456,"001,002",Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-CS 458,"001,002",Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-CS 466,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-CS 480,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
-CS 484,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-CS 486,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-CS 488,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
+CS 445,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,MC 4059
+CS 451,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,MC 1085
+CS 452,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4058
+CS 454,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,PAC 3
+CS 456,"001,002",Saturday,"December 14, 2019",9:00 AM,11:30 AM,"DC 1350, 1351"
+CS 458,"001,002",Monday,"December 16, 2019",4:00 PM,6:30 PM,"MC 4059, 4060, 4061"
+CS 466,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4021
+CS 480,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,DC 1350
+CS 484,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,STC 0010
+CS 486,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,"PAC 4, 5"
+CS 488,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,MC 1056
 CS 631,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-CS 645,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-CS 651,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-CS 652,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-CS 654,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-CS 656,"001,002",Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-CS 658,"001,002",Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-CS 666,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-CS 680,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
-CS 684,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-CS 686,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-CS 688,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-DUTCH 101,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,Sched Only
+CS 645,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,MC 4059
+CS 651,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,MC 1085
+CS 652,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4058
+CS 654,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,PAC 3
+CS 656,"001,002",Saturday,"December 14, 2019",9:00 AM,11:30 AM,"DC 1350, 1351"
+CS 658,"001,002",Monday,"December 16, 2019",4:00 PM,6:30 PM,"MC 4059, 4060, 4061"
+CS 666,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4021
+CS 680,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,DC 1350
+CS 684,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,STC 0010
+CS 686,"001,002",Tuesday,"December 17, 2019",4:00 PM,6:30 PM,"PAC 4, 5"
+CS 688,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,MC 1056
+DUTCH 101,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,ML 246
 DUTCH 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 DUTCH 102,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-EARTH 121,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,TBA
+EARTH 121,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,"PAC 4, 5, 6"
 EARTH 121,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-EARTH 121L,001-006,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,TBA
-EARTH 123,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-EARTH 223,001-004,Saturday,"December 7, 2019",7:30 PM,10:00 PM,TBA
-EARTH 231,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
-EARTH 235,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-EARTH 260,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-EARTH 331,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-EARTH 342,"001,002",Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-EARTH 421,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-EARTH 440,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,TBA
-EARTH 444,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,TBA
-EARTH 461,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-EARTH 491,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-EARTH 668,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-EARTH 691,004,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-EARTH 692,003,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-ECE 105,001-004,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-ECE 109,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-ECE 150,001-003,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,TBA
-ECE 204,001,Saturday,"December 14, 2019",4:00 PM,6:00 PM,TBA
-ECE 205,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-ECE 206,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-ECE 207,"001,002",Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-ECE 208,"001,002",Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-ECE 209,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,TBA
-ECE 222,"001,002",Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-ECE 224,"001,002",Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-ECE 240,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-ECE 250,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-ECE 252,"001,002",Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-ECE 260,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-ECE 318,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-ECE 356,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-ECE 358,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-ECE 361,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-ECE 390,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
-ECE 451,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-ECE 484,"001,002",Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-ECON 101,"001,002",Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-ECON 101,"003,004",Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-ECON 101,005,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-ECON 101,006,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-ECON 101,"007,008",Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
+EARTH 121L,001-006,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,"PAC 1, 2, 3"
+EARTH 123,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,"PAC 1, 2"
+EARTH 223,001-004,Saturday,"December 7, 2019",7:30 PM,10:00 PM,STC 0050
+EARTH 231,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,STC 0060
+EARTH 235,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,STC 0010
+EARTH 260,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,STC 0040 
+EARTH 331,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,PAC UPPER 9
+EARTH 342,"001,002",Tuesday,"December 10, 2019",7:30 PM,10:00 PM,STC 1012
+EARTH 421,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,MC 2054
+EARTH 440,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,PAC UPPER 9
+EARTH 444,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,"PAC 7, 8"
+EARTH 461,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,MC 4063
+EARTH 491,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,EIT 2014
+EARTH 668,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,MC 4063
+EARTH 691,004,Friday,"December 6, 2019",9:00 AM,11:30 AM,EIT 2014
+EARTH 692,003,Friday,"December 6, 2019",9:00 AM,11:30 AM,EIT 2014
+ECE 105,001-004,Monday,"December 9, 2019",12:30 PM,3:00 PM,"PAC 4, 5, 6, 7, 
+PAC UPPER 9, 10, 11 "
+ECE 109,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"MC 4020, 4021"
+ECE 150,001-003,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"M3 1006, DC 1350, 1351"
+ECE 204,001,Saturday,"December 14, 2019",4:00 PM,6:00 PM,DC 1351
+ECE 205,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,DC 1351
+ECE 206,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,MC 1056
+ECE 207,"001,002",Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"DC 1350, 1351"
+ECE 208,"001,002",Thursday,"December 12, 2019",12:30 PM,3:00 PM,M3 1006
+ECE 209,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,MC 2034
+ECE 222,"001,002",Friday,"December 13, 2019",12:30 PM,3:00 PM,"M3 1006, DC 1351"
+ECE 224,"001,002",Tuesday,"December 10, 2019",12:30 PM,3:00 PM,"PAC 6 
+PAC UPPER 9, 10, 11"
+ECE 240,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,"PAC UPPER 9, 10, 11"
+ECE 250,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"MC 4020, 4021"
+ECE 252,"001,002",Wednesday,"December 18, 2019",12:30 PM,3:00 PM,"PAC 4, 5"
+ECE 260,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4045
+ECE 318,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,DC 1351
+ECE 356,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,"STC 0010, 0020 "
+ECE 358,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,M3 1006
+ECE 361,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 2034
+ECE 390,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,"PAC UPPER 9, 10, 11"
+ECE 451,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,MC 4059
+ECE 484,"001,002",Friday,"December 20, 2019",12:30 PM,3:00 PM,STC 1012
+ECON 101,"001,002",Monday,"December 9, 2019",9:00 AM,11:30 AM,"PAC 4, 5, 6
+PAC UPPER 9, 10, 11"
+ECON 101,"003,004",Monday,"December 9, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 7, 8"
+ECON 101,005,Monday,"December 9, 2019",9:00 AM,11:30 AM,"STC 0010, 0020, 0040"
+ECON 101,006,Monday,"December 9, 2019",9:00 AM,11:30 AM,M3 1006
+ECON 101,"007,008",Monday,"December 9, 2019",9:00 AM,11:30 AM,"STC 1012, 0050, 0060"
 ECON 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ECON 102,"001,003",Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
-ECON 102,002,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
+ECON 102,"001,003",Saturday,"December 14, 2019",7:30 PM,10:00 PM,"PAC 1, 2, 3, 4"
+ECON 102,002,Saturday,"December 14, 2019",7:30 PM,10:00 PM,"PAC 5, 6"
 ECON 120W,,See https://students.wlu.ca/academics/exams/exam-schedules/index.html,,,,
-ECON 201,"001,003",Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-ECON 201,002,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-ECON 206,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,TBA
-ECON 206,002,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,TBA
-ECON 207,001,Tuesday,"December 17, 2019",4:00 PM,6:00 PM,TBA
-ECON 211,"001,002",Wednesday,"December 18, 2019",12:30 PM,2:30 PM,TBA
-ECON 212,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-ECON 221,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-ECON 221,002,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-ECON 231,"001,002",Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-ECON 241,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-ECON 254,001,Thursday,"December 19, 2019",12:30 PM,2:30 PM,TBA
-ECON 255,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-ECON 290,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
-ECON 306,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-ECON 322,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-ECON 323,001,Tuesday,"December 10, 2019",4:00 PM,6:00 PM,TBA
-ECON 361,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,TBA
-ECON 366,001,Friday,"December 6, 2019",4:00 PM,6:00 PM,Sched Only
-ECON 371,"001,002",Wednesday,"December 11, 2019",4:00 PM,6:30 PM,TBA
-ECON 391,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-ECON 392,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-ECON 393,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-ECON 401,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
-ECON 406,001,Wednesday,"December 18, 2019",4:00 PM,6:00 PM,TBA
-ECON 436,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-ECON 441,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-ECON 484,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-ECON 491,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
-ECON 601,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
-ECON 673,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
+ECON 201,"001,003",Friday,"December 13, 2019",12:30 PM,3:00 PM,"STC 0010, 0020, 0040"
+ECON 201,002,Friday,"December 13, 2019",12:30 PM,3:00 PM,"MC 4020, 4021"
+ECON 206,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,"PAC 7, 8"
+ECON 206,002,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,"PAC 4, 5"
+ECON 207,001,Tuesday,"December 17, 2019",4:00 PM,6:00 PM,MC 1056
+ECON 211,"001,002",Wednesday,"December 18, 2019",12:30 PM,2:30 PM,M3 1006
+ECON 212,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,"MC 2017, 2054"
+ECON 221,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,PAC 8
+ECON 221,002,Monday,"December 9, 2019",12:30 PM,3:00 PM,PAC 1
+ECON 231,"001,002",Saturday,"December 7, 2019",12:30 PM,3:00 PM,DC 1350
+ECON 241,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4061
+ECON 254,001,Thursday,"December 19, 2019",12:30 PM,2:30 PM,DC 1350
+ECON 255,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC 6
+ECON 290,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,DC 1350
+ECON 306,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 3
+ECON 322,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,PAC 6 
+ECON 323,001,Tuesday,"December 10, 2019",4:00 PM,6:00 PM,"MC 2035, 2038"
+ECON 361,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,MC 1085
+ECON 366,001,Friday,"December 6, 2019",4:00 PM,6:00 PM,RCH 305
+ECON 371,"001,002",Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"MC 4020, 4021"
+ECON 391,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"MC 2035, 2038"
+ECON 392,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,PAC 6
+ECON 393,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,MC 4020
+ECON 401,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,MC 2035
+ECON 406,001,Wednesday,"December 18, 2019",4:00 PM,6:00 PM,MC 4059
+ECON 436,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,RCH 105
+ECON 441,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,MC 4063
+ECON 484,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4064
+ECON 491,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,MC 4063
+ECON 601,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,MC 2035
+ECON 673,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4064
 EMLS 129R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENBUS 102,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-ENBUS 202,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-ENBUS 204,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-ENBUS 306,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-ENBUS 406,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
+ENBUS 102,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,DC 1350
+ENBUS 202,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,DC 1351
+ENBUS 204,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,"PAC UPPER 9, 10, 11"
+ENBUS 306,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,PAC 6
+ENBUS 406,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,MC 2034
 ENBUS 408,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-ENGL 101A,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,Sched Only
+ENGL 101A,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,AL 211
 ENGL 101B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 104,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-ENGL 108A,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-ENGL 108F,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,Sched Only
+ENGL 104,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,MC 2035
+ENGL 108A,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 1056
+ENGL 108F,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,SJ2 2002
 ENGL 108P,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 ENGL 109,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 190,001,Monday,"December 9, 2019",12:30 PM,2:00 PM,TBA
-ENGL 200A,003,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
+ENGL 190,001,Monday,"December 9, 2019",12:30 PM,2:00 PM,MC 4064
+ENGL 200A,003,Thursday,"December 12, 2019",4:00 PM,6:30 PM,SJ1 3027
 ENGL 200A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 208B,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,Sched Only
-ENGL 208N,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
+ENGL 208B,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,AL 124
+ENGL 208N,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,SJ2 2003
 ENGL 210F,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 210I,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-ENGL 306A,002,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
+ENGL 210I,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,SJ2 2007
+ENGL 306A,002,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,MC 1056
 ENGL 309C,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 325,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,Sched Only
+ENGL 325,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,SJ2 2007
 ENGL 362,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ENGL 371,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,Sched Only
-ENGL 378,006,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-ENVE 100,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-ENVE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-ENVE 225,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-ENVE 277,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,Sched Only
-ENVE 279,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-ENVS 105,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-ENVS 178,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-ENVS 195,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-ENVS 200,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
-ENVS 201,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-ENVS 274,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
-ENVS 278,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-ERS 100,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
+ENGL 371,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,SJ2 2007
+ENGL 378,006,Monday,"December 16, 2019",9:00 AM,11:30 AM,SJ2 2007
+ENVE 100,001,Exam removed from the schedule. Contact instructor for further information.,,,,
+ENVE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,STC 0040 
+ENVE 225,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,MC 1056
+ENVE 277,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,EV3 1408
+ENVE 279,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,STC 0050 
+ENVS 105,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,M3 1006
+ENVS 178,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"M3 1006, MC 4061"
+ENVS 195,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3"
+ENVS 200,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,STC 1012
+ENVS 201,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"DC 1350, 1351"
+ENVS 274,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,MC 4060
+ENVS 278,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3"
+ERS 100,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,"MC 4059, 4061"
 ERS 215,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-ERS 234,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-ERS 300,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
-ERS 335,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,TBA
-ERS 346,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-ERS 484,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-ERS 684,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-FINE 102,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,TBA
+ERS 234,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,MC 1056
+ERS 300,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,MC 4061
+ERS 335,001,Saturday,"December 7, 2019",7:30 PM,10:00 PM,MC 4058
+ERS 346,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,MC 4063
+ERS 484,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4064
+ERS 684,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4064
+FINE 102,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,DC 1351
+FINE 342,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,RCH 209
 FR 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 151,001-003,Wednesday,"December 11, 2019",7:30 PM,9:30 PM,TBA
+FR 151,001-003,Wednesday,"December 11, 2019",7:30 PM,9:30 PM,"STC 0010, 0020"
 FR 151,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 152,"001,002",Saturday,"December 14, 2019",7:30 PM,9:30 PM,Sched Only
+FR 152,"001,002",Saturday,"December 14, 2019",7:30 PM,9:30 PM,SJ2 2007
 FR 152,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 192A,003,Friday,"December 6, 2019",4:00 PM,6:00 PM,Sched Only
-FR 192A,"001,002,004,005",Friday,"December 6, 2019",4:00 PM,6:00 PM,Sched Only
+FR 192A,"001,002,004,005",Friday,"December 6, 2019",4:00 PM,6:00 PM,"RCH 307, 308"
+FR 192A,003,Friday,"December 6, 2019",4:00 PM,6:00 PM,SJ2 2007
 FR 192A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 192B,001-003,Saturday,"December 7, 2019",12:30 PM,2:30 PM,Sched Only
+FR 192B,001-003,Saturday,"December 7, 2019",12:30 PM,2:30 PM,"RCH 307, 308"
 FR 192B,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 251,001,Thursday,"December 19, 2019",12:30 PM,2:30 PM,Sched Only
+FR 251,001,Thursday,"December 19, 2019",12:30 PM,2:30 PM,AL 124
 FR 251,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 252,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-FR 276,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,Sched Only
+FR 252,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,RCH 305
+FR 276,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,AL 211
 FR 291,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 FR 296,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 297,001,Wednesday,"December 18, 2019",4:00 PM,6:00 PM,Sched Only
+FR 297,001,Wednesday,"December 18, 2019",4:00 PM,6:00 PM,AL 211
 FR 351,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-FR 353,001,Tuesday,"December 17, 2019",4:00 PM,6:00 PM,Sched Only
-FR 485,001,Wednesday,"December 11, 2019",9:00 AM,11:00 AM,Sched Only
-GBDA 203,001-003,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-GENE 121,"001,002",Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-GEOE 100,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-GEOE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-GEOE 221,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-GEOE 354,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
+FR 353,001,Tuesday,"December 17, 2019",4:00 PM,6:00 PM,EV3 3412
+FR 485,001,Wednesday,"December 11, 2019",9:00 AM,11:00 AM,RCH 205
+GBDA 203,001-003,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,M3 1006
+GENE 121,"001,002",Monday,"December 9, 2019",4:00 PM,6:30 PM,"DC 1350, 1351 "
+GEOE 100,001,Exam removed from the schedule. Contact instructor for further information.,,,,
+GEOE 115,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,MC 4064
+GEOE 221,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,"PAC 4, 5"
+GEOE 354,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,"RCH 302, 305"
 GEOG 102,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-GEOG 201,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-GEOG 203,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-GEOG 222,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-GEOG 233,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-GEOG 281,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-GEOG 310,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
-GEOG 319,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-GEOG 340,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
+GEOG 201,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"PAC UPPER 9, 10, 11"
+GEOG 203,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,M3 1006
+GEOG 222,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,DC 1350
+GEOG 233,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,MC 4045
+GEOG 281,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,DC 1351
+GEOG 310,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"MC 2017, 2054"
+GEOG 319,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4061
+GEOG 340,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 4063
 GEOG 351,001,Exam removed from the schedule. Contact instructor for further information.,,,,
-GEOG 404,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-GEOG 453,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-GER 100,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-GER 101,001-003,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
+GEOG 404,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4064
+GEOG 453,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,DC 1350
+GER 100,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,EV3 3412
+GER 101,001-003,Friday,"December 6, 2019",12:30 PM,3:00 PM,EV3 1408
 GER 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GER 102,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GER 201,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 GER 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-GER 220,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,Sched Only
-GERON 201,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,TBA
-GRK 101,001,Monday,"December 9, 2019",12:30 PM,2:30 PM,Sched Only
-HIST 105,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
-HIST 115,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,Sched Only
-HIST 242,001,Thursday,"December 12, 2019",7:30 PM,9:30 PM,TBA
-HIST 278,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,Sched Only
-HIST 359,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,Sched Only
-HIST 389,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-HLTH 101,"001,002",Monday,"December 9, 2019",12:30 PM,2:30 PM,TBA
-HLTH 103,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,TBA
-HLTH 201,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,TBA
-HLTH 202,001,Thursday,"December 12, 2019",4:00 PM,6:00 PM,TBA
-HLTH 204,001,Tuesday,"December 10, 2019",4:00 PM,5:30 PM,TBA
-HLTH 333,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
-HLTH 340,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,TBA
-HLTH 407,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-HLTH 442,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-HLTH 473,003,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
+GER 220,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,AL 105
+GERON 201,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,"STC 1012, 0050, 0060"
+GRK 101,001,Monday,"December 9, 2019",12:30 PM,2:30 PM,RCH 205
+HIST 105,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,"PAC UPPER 9, 10, 11"
+HIST 115,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,SJ2 2002
+HIST 242,001,Thursday,"December 12, 2019",7:30 PM,9:30 PM,MC 1085
+HIST 278,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,RCH 204
+HIST 359,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,AL 105
+HIST 389,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,SJ1 3027
+HLTH 101,"001,002",Monday,"December 9, 2019",12:30 PM,2:30 PM,"DC 1350, 1351, M3 1006, MC 4063"
+HLTH 103,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,PAC 6
+HLTH 201,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,"STC 1012, 0050, 0060"
+HLTH 202,001,Thursday,"December 12, 2019",4:00 PM,6:00 PM,"STC 0010, 0020, 0040, 0050"
+HLTH 204,001,Tuesday,"December 10, 2019",4:00 PM,5:30 PM,"DC 1350, 1351"
+HLTH 333,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,"PAC 4, 5"
+HLTH 340,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,MC 4021
+HLTH 407,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"PAC 1, 2"
+HLTH 442,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 11
+HLTH 473,003,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,MC 4063
 HRM 200,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-HRM 301,001,Tuesday,"December 10, 2019",7:30 PM,9:30 PM,TBA
-HRM 303,001,Saturday,"December 7, 2019",9:00 AM,11:00 AM,TBA
-HRM 307,001,Saturday,"December 14, 2019",4:00 PM,6:00 PM,TBA
-HRTS 101,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-HUMSC 101,001,Saturday,"December 14, 2019",12:30 PM,2:00 PM,Sched Only
-INDEV 100,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,TBA
-INDEV 262,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-INDEV 302,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,TBA
-JAPAN 101R,"001,002",Monday,"December 16, 2019",7:30 PM,9:30 PM,TBA
-JAPAN 102R,001,Wednesday,"December 18, 2019",7:30 PM,9:30 PM,TBA
-JAPAN 201R,"001,002",Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-JAPAN 202R,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-JAPAN 301R,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,TBA
+HRM 301,001,Tuesday,"December 10, 2019",7:30 PM,9:30 PM,MC 4061
+HRM 303,001,Saturday,"December 7, 2019",9:00 AM,11:00 AM,MC 4060
+HRM 307,001,Saturday,"December 14, 2019",4:00 PM,6:00 PM,MC 4064
+HRTS 101,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,MC 4063
+HUMSC 101,001,Saturday,"December 14, 2019",12:30 PM,2:00 PM,SJ1 3016
+INDEV 100,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,M3 1006
+INDEV 262,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4059
+INDEV 302,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,MC 4060
+JAPAN 101R,"001,002",Monday,"December 16, 2019",7:30 PM,9:30 PM,M3 1006
+JAPAN 102R,001,Wednesday,"December 18, 2019",7:30 PM,9:30 PM,MC 1085
+JAPAN 201R,"001,002",Friday,"December 13, 2019",7:30 PM,10:00 PM,MC 1056
+JAPAN 202R,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,MC 4064
+JAPAN 301R,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,MC 4058
 JS 114,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-KIN 104,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-KIN 104L,001-007,Wednesday,"December 18, 2019",9:00 AM,10:00 AM,TBA
-KIN 104L,008-014,Tuesday,"December 17, 2019",9:00 AM,10:00 AM,TBA
-KIN 121,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-KIN 202,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,TBA
-KIN 202L,001-013,Monday,"December 16, 2019",4:00 PM,5:30 PM,TBA
-KIN 217,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-KIN 255,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-KIN 255L,001-013,Tuesday,"December 10, 2019",4:00 PM,6:00 PM,TBA
-KIN 301,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-KIN 346,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-KIN 407,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-KIN 422,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-KIN 428,001,Saturday,"December 14, 2019",4:00 PM,6:30 PM,TBA
-KIN 657,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-LAT 101,"001,002",Wednesday,"December 18, 2019",7:30 PM,9:30 PM,TBA
-LAT 201,001,Wednesday,"December 11, 2019",12:30 PM,2:30 PM,TBA
-LS 101,001,Thursday,"December 12, 2019",12:30 PM,2:30 PM,Sched Only
+KIN 104,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,"DC 1350, 1351"
+KIN 104L,001-007,Wednesday,"December 18, 2019",9:00 AM,10:00 AM,"AHS 3686, 3687, 3688, 3689"
+KIN 104L,008-014,Tuesday,"December 17, 2019",9:00 AM,10:00 AM,"AHS 3686, 3687, 3688, 3689"
+KIN 121,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"DC 1350, 1351"
+KIN 202,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3"
+KIN 202L,001-013,Monday,"December 16, 2019",4:00 PM,5:30 PM,"DC 1350, 1351"
+KIN 217,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,"PAC 4, 5, 6 
+PAC UPPER 9, 10, 11"
+KIN 255,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"DC 1350, 1351"
+KIN 255L,001-013,Tuesday,"December 10, 2019",4:00 PM,6:00 PM,M3 1006
+KIN 301,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,DC 1350
+KIN 346,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,DC 1351
+KIN 407,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"PAC 1, 2"
+KIN 422,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,"MC 2035, 2038"
+KIN 428,001,Saturday,"December 14, 2019",4:00 PM,6:30 PM,"PAC UPPER 9, 10, 11"
+KIN 657,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,DC 1350
+LAT 101,"001,002",Wednesday,"December 18, 2019",7:30 PM,9:30 PM,MC 1056
+LAT 201,001,Wednesday,"December 11, 2019",12:30 PM,2:30 PM,MC 4064
+LS 101,001,Thursday,"December 12, 2019",12:30 PM,2:30 PM,SJ2 1004
 LS 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-LS 227,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-LS 240,001,Thursday,"December 12, 2019",9:00 AM,11:00 AM,Sched Only
-LS 271,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
+LS 227,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,MC 1085
+LS 240,001,Thursday,"December 12, 2019",9:00 AM,11:00 AM,RCH 301
+LS 271,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,DC 1350
 LS 271,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-LS 283,001,Monday,"December 9, 2019",9:00 AM,11:00 AM,TBA
-LS 291,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-LS 300,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-LS 306,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,Sched Only
-LS 325,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-LS 328,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-MATBUS 470,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-MATBUS 471,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-MATH 103,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
+LS 283,001,Monday,"December 9, 2019",9:00 AM,11:00 AM,DC 1351
+LS 291,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,SJ2 2007
+LS 300,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"RCH 207, 211"
+LS 306,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,RCH 105
+LS 325,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,DC 1350
+LS 328,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,MC 1085
+MATBUS 470,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4045
+MATBUS 471,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 4061
+MATH 103,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 10
 MATH 103,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 104,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-MATH 106,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-MATH 114,"001,002",Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
-MATH 115,001-010,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-MATH 116,001-009,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-MATH 117,001-005,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-MATH 124,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
-MATH 127,001-010,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
+MATH 104,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,PAC 8
+MATH 106,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,DC 1351
+MATH 114,"001,002",Wednesday,"December 18, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3"
+MATH 115,001-010,Friday,"December 13, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11
+STC 1012, 0060"
+MATH 116,001-009,Friday,"December 6, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3, 4, 5, 6, 7, 8, 
+PAC UPPER 9, 10, 11"
+MATH 117,001-005,Friday,"December 6, 2019",7:30 PM,10:00 PM,"PAC 4, 5, 6, 7, 8, 
+PAC UPPER 9, 10, 11"
+MATH 124,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,"DC 1350, 1351"
+MATH 127,001-010,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 10, 11"
 MATH 127,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 128,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
+MATH 128,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"MC 4020, 4021"
 MATH 128,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 135,001-028,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-MATH 136,"001,002",Wednesday,"December 18, 2019",4:00 PM,6:30 PM,TBA
+MATH 135,001-028,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11
+STC 1012, 0040, 0050, 0060"
+MATH 136,"001,002",Wednesday,"December 18, 2019",4:00 PM,6:30 PM,"PAC 7, 8"
 MATH 136,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 137,001-008,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
-MATH 137,009,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
+MATH 137,009,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"MC 2035, 2038"
+MATH 137,001-008,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11
+STC 0010, 0020, 0040, 0050"
 MATH 137,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 138,001-003,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
+MATH 138,001-003,Monday,"December 16, 2019",9:00 AM,11:30 AM,DC 1350
 MATH 138,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 145,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,TBA
-MATH 145,002,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,TBA
-MATH 147,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-MATH 147,002,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-MATH 207,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-MATH 217,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-MATH 218,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-MATH 225,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-MATH 227,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-MATH 228,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-MATH 229,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,TBA
-MATH 235,001-005,Thursday,"December 12, 2019",4:00 PM,6:30 PM,TBA
+MATH 145,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,PAC 5
+MATH 145,002,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,PAC 4
+MATH 147,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"MC 4042, 4045"
+MATH 147,002,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 1085
+MATH 207,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,PAC UPPER 11
+MATH 217,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,MC 1085
+MATH 218,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 4059
+MATH 225,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,MC 2034
+MATH 227,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,"STC 0010, 0020"
+MATH 228,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,DC 1350
+MATH 229,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,MC 4064
+MATH 235,001-005,Thursday,"December 12, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3, 7, 8"
 MATH 235,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MATH 237,001-005,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-MATH 239,001-004,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,TBA
-MATH 245,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-MATH 247,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
-MATH 249,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,TBA
-ME 201,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-ME 202,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,Sched Only
-ME 203,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,Sched Only
-ME 212,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-ME 219,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,Sched Only
-ME 220,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,Sched Only
-ME 230,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,Sched Only
-ME 235,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,Sched Only
-ME 250,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-ME 250,002,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-ME 262,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,Sched Only
-ME 269,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-ME 322,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,Sched Only
-ME 351,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-ME 353,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,Sched Only
-ME 360,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,Sched Only
-ME 362,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,Sched Only
-ME 401,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,Sched Only
-ME 423,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,Sched Only
-ME 435,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,Sched Only
-ME 456,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,Sched Only
-ME 459,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-ME 548,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-ME 559,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,Sched Only
-ME 561,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-ME 566,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-ME 598,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,Sched Only
-ME 599,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-ME 760,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-MEDVL 105,001,Thursday,"December 19, 2019",9:00 AM,11:00 AM,TBA
-MEDVL 115,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,Sched Only
-MNS 101,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-MNS 211,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-MNS 321,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-MSCI 211,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,TBA
+MATH 237,001-005,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"PAC 3, 4, 5, 6, 7, 8"
+MATH 239,001-004,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,"STC 1012, 0050, 0060"
+MATH 245,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,MC 2034
+MATH 247,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,MC 1056
+MATH 249,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,MC 4045
+ME 201,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,"E7 3343, 3353"
+ME 202,001,Wednesday,"December 18, 2019",4:00 PM,6:30 PM,"E7 3343, 3353"
+ME 203,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+ME 212,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 219,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"E7 3343, 3353"
+ME 220,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 230,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,"E7 3343, 3353"
+ME 235,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,"RCH 207, 211"
+ME 250,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 250,002,Monday,"December 9, 2019",12:30 PM,3:00 PM,"RCH 207, 211"
+ME 262,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+ME 269,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 322,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 351,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"E5 3101, 3102"
+ME 353,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 360,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 362,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+ME 401,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,CPH 3679
+ME 423,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,DWE 2402
+ME 435,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,DWE 2402
+ME 456,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,CPH 3679
+ME 459,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,DWE 2402
+ME 548,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,CPH 3679
+ME 559,001,Tuesday,"December 17, 2019",7:30 PM,10:00 PM,CPH 3679
+ME 561,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,DWE 2402
+ME 566,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,DWE 2402
+ME 598,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,CPH 3679
+ME 599,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,CPH 3679
+ME 760,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,CPH 3679
+MEDVL 105,001,Thursday,"December 19, 2019",9:00 AM,11:00 AM,MC 4020
+MEDVL 115,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,SJ2 2002
+MNS 101,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC 5
+MNS 211,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,RCH 110
+MNS 321,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,RCH 308
+MSCI 211,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,DC 1350
 MSCI 211,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-MSCI 240,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,TBA
-MSCI 251,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,TBA
-MSCI 261,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-MSCI 261,"002,003",Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-MSCI 271,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-MSCI 311,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,Sched Only
-MSCI 331,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,TBA
-MSCI 332,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,TBA
-MSCI 333,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-MSCI 342,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-MSCI 432,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-MSCI 446,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,TBA
-MTE 201,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,Sched Only
-MTE 202,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-MTE 203,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 204,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 219,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-MTE 220,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 241,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 262,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,Sched Only
-MTE 322,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,Sched Only
-MTE 360,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-MTE 420,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-MTE 545,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,Sched Only
-MTHEL 131,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,TBA
-MTHEL 300,006,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-MUSIC 100,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,Sched Only
-MUSIC 140,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,TBA
-MUSIC 246,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,TBA
-MUSIC 255,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,Sched Only
-MUSIC 270,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,Sched Only
-MUSIC 275,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-MUSIC 370,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-MUSIC 376,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-NE 100,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-NE 109,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-NE 111,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,Sched Only
-NE 112,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,TBA
-NE 121,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-NE 201,001,Friday,"December 6, 2019",12:30 PM,2:00 PM,TBA
-NE 215,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-NE 216,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-NE 222,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-NE 232,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-NE 241,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-NE 335,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,TBA
-NE 336,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,TBA
-NE 345,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-NE 352,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-NE 353,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-NE 381,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,TBA
-NE 451,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,TBA
-NE 461,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,TBA
-NE 471,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-NE 481,001,Monday,"December 16, 2019",4:00 PM,6:00 PM,TBA
-NE 491,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-OPTOM 104,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-OPTOM 105,001,Friday,"December 13, 2019",9:00 AM,10:30 AM,TBA
-OPTOM 106,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,TBA
-OPTOM 108,001,Monday,"December 16, 2019",9:00 AM,10:30 AM,TBA
-OPTOM 124,001,Wednesday,"December 11, 2019",9:00 AM,11:00 AM,TBA
-OPTOM 215,001,Wednesday,"December 11, 2019",9:00 AM,11:00 AM,TBA
-OPTOM 216,001,Monday,"December 9, 2019",9:00 AM,11:00 AM,TBA
-OPTOM 245,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,TBA
-OPTOM 252,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,TBA
-OPTOM 342A,001,Wednesday,"December 11, 2019",12:30 PM,2:30 PM,TBA
-OPTOM 347,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
-OPTOM 375,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-OPTOM 387,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-PACS 201,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,TBA
-PACS 202,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,TBA
+MSCI 240,001,Monday,"December 16, 2019",7:30 PM,10:00 PM,STC 0060
+MSCI 251,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"MC 4042, 4045"
+MSCI 261,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,MC 2017
+MSCI 261,002,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"E7 3343, 3353"
+MSCI 261,003,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+MSCI 271,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,PAC 7
+MSCI 311,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,CPH 1346
+MSCI 331,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,DC 1350
+MSCI 332,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,STC 0050
+MSCI 333,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,PAC 3
+MSCI 342,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 6
+MSCI 432,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,MC 4059
+MSCI 446,001,Friday,"December 13, 2019",7:30 PM,10:00 PM,PAC 8
+MTE 201,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,"E5 3101, 3102"
+MTE 202,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"E7 3343, 3353"
+MTE 203,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,"E7 3343, 3353"
+MTE 204,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"E5 3101, 3102"
+MTE 219,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"MC 4020, 4021"
+MTE 220,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,"E7 3343, 3353"
+MTE 241,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,"E7 3343, 3353"
+MTE 262,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,"E5 3101, 3102"
+MTE 322,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,"E5 3101, 3102"
+MTE 360,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"E7 3343, 3353"
+MTE 420,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,DWE 2402
+MTE 545,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,CPH 3679
+MTHEL 131,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,M3 1006
+MTHEL 300,006,Monday,"December 16, 2019",9:00 AM,11:30 AM,SJ2 2007
+MUSIC 100,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,"CGR 1111, 1208"
+MUSIC 140,001,Wednesday,"December 18, 2019",7:30 PM,10:00 PM,STC 1012
+MUSIC 246,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,STC 1012
+MUSIC 255,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,CGR 1208
+MUSIC 270,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,CGR 1208
+MUSIC 275,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,CGR 1208
+MUSIC 370,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,CGR 1208
+MUSIC 376,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,CGR 1208
+NE 100,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,"PAC UPPER 9, 10, 11"
+NE 109,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,DC 1350
+NE 111,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,"CPH 1346, E2 1792"
+NE 112,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"MC 4059, 4061"
+NE 121,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,DC 1350
+NE 201,001,Friday,"December 6, 2019",12:30 PM,2:00 PM,"MC 2017, 2054"
+NE 215,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,PAC 2
+NE 216,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"MC 2017, 2054"
+NE 222,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,"MC 2017, 2054"
+NE 232,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,"PAC UPPER 9, 10, 11"
+NE 241,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,"PAC UPPER 9, 10, 11"
+NE 335,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,MC 2035
+NE 336,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,STC 0020
+NE 345,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,MC 1056
+NE 352,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 1085
+NE 353,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,MC 2034
+NE 381,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,MC 1056
+NE 451,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,MC 1056
+NE 461,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,MC 2054
+NE 471,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,MC 4059
+NE 481,001,Monday,"December 16, 2019",4:00 PM,6:00 PM,MC 1056
+NE 491,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,MC 1056
+OPTOM 104,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,STP 105
+OPTOM 105,001,Friday,"December 13, 2019",9:00 AM,10:30 AM,STP 105
+OPTOM 106,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,STP 105
+OPTOM 108,001,Monday,"December 16, 2019",9:00 AM,10:30 AM,STP 105
+OPTOM 124,001,Wednesday,"December 11, 2019",9:00 AM,11:00 AM,STP 105
+OPTOM 215,001,Wednesday,"December 11, 2019",9:00 AM,11:00 AM,STP 105
+OPTOM 216,001,Monday,"December 9, 2019",9:00 AM,11:00 AM,STP 105
+OPTOM 245,001,Friday,"December 6, 2019",9:00 AM,11:00 AM,STP 105
+OPTOM 252,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,STP 105
+OPTOM 342A,001,Wednesday,"December 11, 2019",12:30 PM,2:30 PM,STP 105
+OPTOM 347,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,STP 105
+OPTOM 375,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,STP 105
+OPTOM 387,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,STP 105
+PACS 201,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,MC 1085
+PACS 202,001,Friday,"December 13, 2019",12:30 PM,3:00 PM,DC 1350
 PACS 202,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 100J,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,Sched Only
-PHIL 100J,002,Friday,"December 20, 2019",9:00 AM,11:30 AM,Sched Only
-PHIL 101,"001,002",Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
+PHIL 100J,001,Friday,"December 20, 2019",9:00 AM,11:30 AM,SJ1 3015
+PHIL 100J,002,Friday,"December 20, 2019",9:00 AM,11:30 AM,SJ1 3016
+PHIL 101,"001,002",Thursday,"December 12, 2019",7:30 PM,10:00 PM,DC 1350
 PHIL 110A,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 145,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 200J,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
+PHIL 200J,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,SJ1 3015
 PHIL 215,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 230J,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,Sched Only
-PHIL 240,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
+PHIL 230J,001,Thursday,"December 12, 2019",4:00 PM,6:30 PM,SJ1 3016
+PHIL 240,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,RCH 305
 PHIL 251,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 256,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHIL 283,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-PHIL 285J,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,Sched Only
+PHIL 283,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,SJ1 3016
+PHIL 285J,001,Saturday,"December 7, 2019",12:30 PM,3:00 PM,SJ1 3016
 PHIL 324,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PHIL 380,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PHYS 111,001-004,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-PHYS 115,001-003,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-PHYS 121,001-003,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-PHYS 121L,001-008,Friday,"December 13, 2019",9:00 AM,10:00 AM,TBA
-PHYS 131L,001-010,Friday,"December 13, 2019",9:00 AM,10:00 AM,TBA
-PHYS 224,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-PHYS 225,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-PHYS 236,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-PHYS 256,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,TBA
-PHYS 275,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,TBA
-PHYS 342,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-PHYS 358,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,TBA
-PHYS 363,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-PHYS 364,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-PHYS 380,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-PHYS 434,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-PHYS 442,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-PHYS 454,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-PHYS 461,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-PHYS 474,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,Sched Only
-PHYS 475,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,Sched Only
-PHYS 491,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,Sched Only
-PLAN 100,001,Saturday,"December 7, 2019",12:30 PM,2:30 PM,TBA
-PLAN 104,001,Monday,"December 9, 2019",7:30 PM,9:00 PM,TBA
-PLAN 105,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-PLAN 262,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,TBA
-PLAN 281,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-PLAN 300,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-PLAN 320,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-PLAN 453,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,TBA
-PMATH 330,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-PMATH 331,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,TBA
-PMATH 333,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,TBA
-PMATH 336,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-PMATH 340,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,TBA
-PMATH 347,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-PMATH 351,001,Thursday,"December 19, 2019",7:30 PM,10:00 PM,TBA
-PMATH 440,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-PMATH 445,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,TBA
-PMATH 451,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,TBA
-PMATH 453,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-PMATH 465,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-PMATH 651,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,TBA
-PMATH 665,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,TBA
-PMATH 740,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,TBA
-PMATH 745,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,TBA
-PMATH 753,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,TBA
-PORT 101,001,Tuesday,"December 10, 2019",7:30 PM,9:30 PM,TBA
-PSCI 255,001,Tuesday,"December 10, 2019",12:30 PM,2:00 PM,TBA
-PSYCH 101,"001,002,004",Tuesday,"December 10, 2019",7:30 PM,9:30 PM,TBA
+PHYS 111,001-004,Friday,"December 13, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8"
+PHYS 115,001-003,Monday,"December 9, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3"
+PHYS 121,001-003,Monday,"December 9, 2019",12:30 PM,3:00 PM,"STC 1012, 0010, 0020, 0040, 0050, 0060"
+PHYS 121L,001-008,Friday,"December 13, 2019",9:00 AM,10:00 AM,"STC 0010, 0020"
+PHYS 131L,001-010,Friday,"December 13, 2019",9:00 AM,10:00 AM,STC 1012
+PHYS 224,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,MC 4040
+PHYS 225,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,"MC 2017, 2054"
+PHYS 236,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,M3 1006
+PHYS 256,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,"PAC 7, 8"
+PHYS 275,001,Wednesday,"December 18, 2019",9:00 AM,11:30 AM,"PAC UPPER 9, 10, 11"
+PHYS 342,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4021
+PHYS 358,001,Saturday,"December 14, 2019",7:30 PM,10:00 PM,MC 2054
+PHYS 363,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,MC 2035
+PHYS 364,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,MC 2054
+PHYS 380,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,RCH 309
+PHYS 434,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,"MC 4020, 4021"
+PHYS 442,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,PAC 5 
+PHYS 454,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,STC 0010
+PHYS 461,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,MC 4064
+PHYS 474,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,RCH 103
+PHYS 475,001,Friday,"December 20, 2019",12:30 PM,3:00 PM,STC 0050
+PHYS 491,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,PHY 352
+PLAN 100,001,Saturday,"December 7, 2019",12:30 PM,2:30 PM,STC 1012
+PLAN 104,001,Monday,"December 9, 2019",7:30 PM,9:00 PM,M3 1006
+PLAN 105,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"STC 0050, 0060"
+PLAN 262,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,MC 4059
+PLAN 281,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,DC 1351
+PLAN 300,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,DC 1350
+PLAN 320,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,MC 4061
+PLAN 453,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,DC 1350
+PMATH 330,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,MC 1085
+PMATH 331,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,DC 1350
+PMATH 333,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,PAC UPPER 10
+PMATH 336,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC UPPER 9
+PMATH 340,001,Thursday,"December 19, 2019",12:30 PM,3:00 PM,PAC 1
+PMATH 347,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 2
+PMATH 351,001,Thursday,"December 19, 2019",7:30 PM,10:00 PM,PAC 4
+PMATH 440,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 4060
+PMATH 445,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,MC 2034
+PMATH 451,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,MC 4060
+PMATH 453,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,MC 2038
+PMATH 465,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC UPPER 10
+PMATH 651,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,MC 4060
+PMATH 665,001,Thursday,"December 19, 2019",9:00 AM,11:30 AM,PAC UPPER 10
+PMATH 740,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,MC 4060
+PMATH 745,001,Saturday,"December 7, 2019",4:00 PM,6:30 PM,MC 2034
+PMATH 753,001,Wednesday,"December 18, 2019",12:30 PM,3:00 PM,MC 2038
+PORT 101,001,Tuesday,"December 10, 2019",7:30 PM,9:30 PM,MC 4063
+PSCI 255,001,Tuesday,"December 10, 2019",12:30 PM,2:00 PM,MC 4045
+PSYCH 101,"001,002,004",Tuesday,"December 10, 2019",7:30 PM,9:30 PM,"PAC 1, 2, 3, 4, 5, 6, 7, 8 
+PAC UPPER 9, 10, 11"
 PSYCH 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 101R,001-003,Tuesday,"December 17, 2019",4:00 PM,6:00 PM,TBA
-PSYCH 211,001,Thursday,"December 19, 2019",7:30 PM,9:30 PM,TBA
-PSYCH 212,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,Sched Only
-PSYCH 253,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
+PSYCH 101R,001-003,Tuesday,"December 17, 2019",4:00 PM,6:00 PM,"PAC UPPER 9, 10, 11"
+PSYCH 211,001,Thursday,"December 19, 2019",7:30 PM,9:30 PM,"STC 1012, 0060"
+PSYCH 212,001,Friday,"December 13, 2019",9:00 AM,11:00 AM,SJ2 1002
+PSYCH 253,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,STC 1012
 PSYCH 253,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 PSYCH 256,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 257,001,Thursday,"December 19, 2019",9:00 AM,11:00 AM,TBA
+PSYCH 257,001,Thursday,"December 19, 2019",9:00 AM,11:00 AM,"STC 1012, 0060"
 PSYCH 261,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 291,001,Saturday,"December 14, 2019",4:00 PM,6:30 PM,TBA
+PSYCH 291,001,Saturday,"December 14, 2019",4:00 PM,6:30 PM,"PAC 1, 2, 3"
 PSYCH 312,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-PSYCH 320,001,Friday,"December 6, 2019",12:30 PM,2:30 PM,TBA
-PSYCH 334R,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-PSYCH 352,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,TBA
-PSYCH 391,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,TBA
-PSYCH 492,001,Wednesday,"December 18, 2019",12:30 PM,2:30 PM,TBA
-REC 101,001,Monday,"December 16, 2019",12:30 PM,2:00 PM,TBA
-REC 371,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-REES 220,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,Sched Only
-REES 273,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-RS 101,001,Monday,"December 9, 2019",12:30 PM,2:30 PM,Sched Only
+PSYCH 320,001,Friday,"December 6, 2019",12:30 PM,2:30 PM,"MC 4020, 4021"
+PSYCH 334R,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 1056
+PSYCH 352,001,Tuesday,"December 17, 2019",9:00 AM,11:00 AM,MC 1085
+PSYCH 391,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,DC 1350
+PSYCH 492,001,Wednesday,"December 18, 2019",12:30 PM,2:30 PM,MC 4063
+REC 101,001,Monday,"December 16, 2019",12:30 PM,2:00 PM,STC 1012
+REC 371,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,DC 1351
+REES 220,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,AL 105
+REES 273,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,ML 245
+RS 101,001,Monday,"December 9, 2019",12:30 PM,2:30 PM,RCH 205
 RS 114,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 RS 235,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-RS 315,001,Thursday,"December 12, 2019",4:00 PM,6:00 PM,Sched Only
-RUSS 101,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-SCI 206,001,Thursday,"December 19, 2019",4:00 PM,6:00 PM,TBA
+RS 315,001,Thursday,"December 12, 2019",4:00 PM,6:00 PM,AL 105
+RUSS 101,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,EV3 4412
+SCI 206,001,Thursday,"December 19, 2019",4:00 PM,6:00 PM,"PAC 1, 2, 3, 4, 5"
 SCI 238,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SDS 131R,001,Friday,"December 20, 2019",4:00 PM,5:30 PM,TBA
+SDS 131R,001,Friday,"December 20, 2019",4:00 PM,5:30 PM,MC 2035
 SDS 150R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SDS 250R,001-003,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
+SDS 250R,001-003,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"PAC UPPER 9, 10, 11"
 SDS 251R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SDS 355R,001,Monday,"December 9, 2019",7:30 PM,9:30 PM,TBA
+SDS 355R,001,Monday,"December 9, 2019",7:30 PM,9:30 PM,MC 1056
 SDS 358R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SDS 400R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SE 212,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,TBA
-SE 380,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,TBA
-SE 464,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
+SE 212,"001,002",Monday,"December 9, 2019",12:30 PM,3:00 PM,"MC 4059, 4060, 4061"
+SE 380,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,"MC 4059, 4060"
+SE 464,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"MC 2017, 2054"
 SI 101R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SI 102R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SI 201R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SMF 204,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-SOC 101,002,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-SOC 101,003,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,Sched Only
-SOC 101R,001-003,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,TBA
-SOC 200,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,Sched Only
-SOC 227,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-SOC 240,001,Thursday,"December 12, 2019",9:00 AM,11:00 AM,Sched Only
-SOC 306,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,Sched Only
-SOC 325,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-SOC 328,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-SOC 370,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-SOCWK 120R,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,TBA
-SOCWK 120R,"002,003",Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-SOCWK 222R,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
+SMF 204,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,SJ2 1004
+SOC 101,002,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"STC 1012, 0060"
+SOC 101,003,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,RCH 301
+SOC 101R,001-003,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"PAC UPPER 9, 10, 11"
+SOC 200,001,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,AL 208
+SOC 227,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,MC 1085
+SOC 240,001,Thursday,"December 12, 2019",9:00 AM,11:00 AM,RCH 301
+SOC 306,001,Tuesday,"December 10, 2019",7:30 PM,10:00 PM,RCH 105
+SOC 325,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,DC 1350
+SOC 328,001,Monday,"December 9, 2019",4:00 PM,6:30 PM,MC 1085
+SOC 370,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,"RCH 207, 211"
+SOCWK 120R,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,MC 2034
+SOCWK 120R,"002,003",Monday,"December 16, 2019",12:30 PM,3:00 PM,DC 1350
+SOCWK 222R,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4040
 SOCWK 300R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SPAN 101,001-004,Wednesday,"December 18, 2019",4:00 PM,6:00 PM,TBA
+SPAN 101,001-004,Wednesday,"December 18, 2019",4:00 PM,6:00 PM,M3 1006
 SPAN 101,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SPAN 102,"001,002",Tuesday,"December 10, 2019",9:00 AM,11:00 AM,TBA
-SPAN 201A,"001,002",Friday,"December 13, 2019",4:00 PM,6:00 PM,TBA
-SPCOM 226,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,Sched Only
-SPCOM 228,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,Sched Only
-SPCOM 335,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,Sched Only
-SPCOM 401,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-STAT 206,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-STAT 220,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,TBA
-STAT 221,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-STAT 230,001-004,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
+SPAN 102,"001,002",Tuesday,"December 10, 2019",9:00 AM,11:00 AM,MC 4063
+SPAN 201A,"001,002",Friday,"December 13, 2019",4:00 PM,6:00 PM,MC 4021
+SPCOM 226,001,Wednesday,"December 11, 2019",4:00 PM,6:30 PM,RCH 204
+SPCOM 228,001,Friday,"December 6, 2019",9:00 AM,11:30 AM,RCH 308
+SPCOM 335,001,Friday,"December 6, 2019",7:30 PM,10:00 PM,RCH 205
+SPCOM 401,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,AL 105
+STAT 206,001,Monday,"December 16, 2019",12:30 PM,3:00 PM,PAC 7
+STAT 220,001,Saturday,"December 14, 2019",12:30 PM,3:00 PM,MC 4059
+STAT 221,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,MC 4063
+STAT 230,001-004,Saturday,"December 14, 2019",9:00 AM,11:30 AM,"PAC 1, 2, 3, 4, 5, 6, 7, 8"
 STAT 230,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-STAT 231,001-003,Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
+STAT 231,001-003,Monday,"December 9, 2019",4:00 PM,6:30 PM,"PAC 4,5,6 
+PAC UPPER 9, 10, 11"
 STAT 231,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-STAT 240,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,TBA
-STAT 322,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-STAT 330,"001,002",Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-STAT 331,"001,002",Tuesday,"December 17, 2019",7:30 PM,10:00 PM,TBA
-STAT 332,"001,002",Monday,"December 9, 2019",4:00 PM,6:30 PM,TBA
-STAT 333,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,TBA
-STAT 334,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,TBA
-STAT 337,001,Saturday,"December 14, 2019",4:00 PM,6:30 PM,TBA
-STAT 341,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-STAT 371,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-STAT 372,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,TBA
-STAT 373,001,Thursday,"December 19, 2019",7:30 PM,10:00 PM,TBA
-STAT 430,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-STAT 431,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-STAT 433,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-STAT 441,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-STAT 442,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-STAT 443,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,TBA
-STAT 830,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,TBA
-STAT 831,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,TBA
-STAT 833,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,TBA
-STAT 841,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,TBA
-STAT 842,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,TBA
-SWREN 120R,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,TBA
-SWREN 120R,"002,003",Monday,"December 16, 2019",12:30 PM,3:00 PM,TBA
-SWREN 222R,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,TBA
-SWREN 250R,001-003,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,TBA
+STAT 240,001,Friday,"December 20, 2019",4:00 PM,6:30 PM,MC 4021
+STAT 322,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 9
+STAT 330,"001,002",Monday,"December 16, 2019",12:30 PM,3:00 PM,"PAC 4, 5, 6"
+STAT 331,"001,002",Tuesday,"December 17, 2019",7:30 PM,10:00 PM,"PAC 1, 2, 3"
+STAT 332,"001,002",Monday,"December 9, 2019",4:00 PM,6:30 PM,"PAC 7, 8"
+STAT 333,"001,002",Friday,"December 6, 2019",7:30 PM,10:00 PM,"PAC 2, 3"
+STAT 334,001,Friday,"December 13, 2019",9:00 AM,11:30 AM,MC 1056
+STAT 337,001,Saturday,"December 14, 2019",4:00 PM,6:30 PM,DC 1350
+STAT 341,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,STC 1012
+STAT 371,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"MC 2035, 2038"
+STAT 372,001,Thursday,"December 12, 2019",7:30 PM,10:00 PM,"PAC UPPER 9, 10, 11"
+STAT 373,001,Thursday,"December 19, 2019",7:30 PM,10:00 PM,PAC 5
+STAT 430,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,M3 1006
+STAT 431,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"STC 0010, 0020, 0040"
+STAT 433,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,MC 4059
+STAT 441,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 1
+STAT 442,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,PAC 8
+STAT 443,001,Wednesday,"December 11, 2019",12:30 PM,3:00 PM,"STC 0040, 0050"
+STAT 830,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,M3 1006
+STAT 831,001,Thursday,"December 12, 2019",12:30 PM,3:00 PM,"STC 0010, 0020, 0040"
+STAT 833,001,Saturday,"December 14, 2019",9:00 AM,11:30 AM,MC 4059
+STAT 841,001,Monday,"December 9, 2019",7:30 PM,10:00 PM,PAC 1
+STAT 842,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,PAC 8
+SWREN 120R,001,Monday,"December 16, 2019",12:30 PM,2:30 PM,MC 2034
+SWREN 120R,"002,003",Monday,"December 16, 2019",12:30 PM,3:00 PM,DC 1350
+SWREN 222R,001,Saturday,"December 7, 2019",9:00 AM,11:30 AM,MC 4040
+SWREN 250R,001-003,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"PAC UPPER 9, 10, 11"
 SWREN 251R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
 SWREN 300R,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-SYDE 101L,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 111,"001,002",Thursday,"December 12, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 113,"001,002",Tuesday,"December 17, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 121,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 161,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 181,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 182,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 211,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 212,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 252,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 252,002,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,Sched Only
-SYDE 262,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 286,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 292,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,Sched Only
-SYDE 411,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 553,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,Sched Only
-SYDE 575,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,Sched Only
+SYDE 101L,001,Friday,"December 13, 2019",4:00 PM,6:30 PM,E2 1792 
+SYDE 111,"001,002",Thursday,"December 12, 2019",12:30 PM,3:00 PM,"RCH 103, 105, 110, 112"
+SYDE 113,001,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 113,002,Tuesday,"December 17, 2019",9:00 AM,11:30 AM,DC 1350
+SYDE 121,001,Monday,"December 16, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 161,001,Friday,"December 6, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 181,001,Monday,"December 9, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 182,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,"E5 3101, 3102"
+SYDE 211,001,Tuesday,"December 10, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+SYDE 212,001,Thursday,"December 12, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 252,001,Tuesday,"December 10, 2019",12:30 PM,3:00 PM,"E5 6006, 6008"
+SYDE 252,002,Tuesday,"December 17, 2019",12:30 PM,3:00 PM,"E7 3343, 3353"
+SYDE 262,001,Monday,"December 16, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+SYDE 286,001,Monday,"December 9, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 292,001,Tuesday,"December 17, 2019",4:00 PM,6:30 PM,"E5 6006, 6008"
+SYDE 411,001,Tuesday,"December 10, 2019",9:00 AM,11:30 AM,"E5 6004, 6006, 6008"
+SYDE 553,001,Wednesday,"December 11, 2019",9:00 AM,11:30 AM,"E5 6006, 6008"
+SYDE 575,001,Wednesday,"December 11, 2019",7:30 PM,10:00 PM,"E5 6006, 6008"
 THPERF 386,081 Online,See https://uwaterloo.ca/quest/help/students/how-do-i/online-exam-schedule,,,,
-VCULT 100,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,TBA
+VCULT 100,001,Thursday,"December 19, 2019",4:00 PM,6:30 PM,DC 1351
