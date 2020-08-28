@@ -1,6 +1,6 @@
 [
   {
-    "buildingId": 1,
+    "buildingId": "1",
     "buildingCode": "DWE",
     "parentBuildingCode": null,
     "buildingName": "Douglas Wright Engineering Building",
@@ -9,7 +9,7 @@
     "longitude": -80.53970638
   },
   {
-    "buildingId": 2,
+    "buildingId": "2",
     "buildingCode": "E2",
     "parentBuildingCode": null,
     "buildingName": "Engineering 2",
@@ -18,7 +18,7 @@
     "longitude": -80.54041224
   },
   {
-    "buildingId": 3,
+    "buildingId": "3",
     "buildingCode": "E3",
     "parentBuildingCode": null,
     "buildingName": "Engineering 3",
@@ -27,7 +27,7 @@
     "longitude": -80.54086285
   },
   {
-    "buildingId": 4,
+    "buildingId": "4",
     "buildingCode": "PHY",
     "parentBuildingCode": null,
     "buildingName": "Physics",
@@ -36,7 +36,7 @@
     "longitude": -80.54153806
   },
   {
-    "buildingId": 5,
+    "buildingId": "5",
     "buildingCode": "ML",
     "parentBuildingCode": null,
     "buildingName": "Modern Languages",
@@ -45,7 +45,7 @@
     "longitude": -80.54287987
   },
   {
-    "buildingId": 6,
+    "buildingId": "6",
     "buildingCode": "ESC",
     "parentBuildingCode": null,
     "buildingName": "Earth Sciences & Chemistry",
@@ -54,7 +54,7 @@
     "longitude": -80.54270285
   },
   {
-    "buildingId": 7,
+    "buildingId": "7",
     "buildingCode": "B1",
     "parentBuildingCode": null,
     "buildingName": "Biology 1",
@@ -63,7 +63,7 @@
     "longitude": -80.54298461
   },
   {
-    "buildingId": 8,
+    "buildingId": "8",
     "buildingCode": "LIB",
     "parentBuildingCode": null,
     "buildingName": "Dana Porter Arts Library",
@@ -72,7 +72,7 @@
     "longitude": -80.54242926
   },
   {
-    "buildingId": 9,
+    "buildingId": "9",
     "buildingCode": "AL",
     "parentBuildingCode": null,
     "buildingName": "Arts Lecture Hall",
@@ -81,7 +81,7 @@
     "longitude": -80.54187136
   },
   {
-    "buildingId": 10,
+    "buildingId": "10",
     "buildingCode": "EV1",
     "parentBuildingCode": null,
     "buildingName": "Environment 1",
@@ -90,7 +90,7 @@
     "longitude": -80.54262238
   },
   {
-    "buildingId": 11,
+    "buildingId": "11",
     "buildingCode": "RCH",
     "parentBuildingCode": null,
     "buildingName": "J.R. Coutts Engineering Lecture Hall",
@@ -101,7 +101,7 @@
     "longitude": -80.54084139
   },
   {
-    "buildingId": 12,
+    "buildingId": "12",
     "buildingCode": "CSB",
     "parentBuildingCode": null,
     "buildingName": "Central Services Building",
@@ -110,7 +110,7 @@
     "longitude": -80.54378898
   },
   {
-    "buildingId": 13,
+    "buildingId": "13",
     "buildingCode": "B2",
     "parentBuildingCode": null,
     "buildingName": "Biology 2",
@@ -119,7 +119,7 @@
     "longitude": -80.54372874
   },
   {
-    "buildingId": 14,
+    "buildingId": "14",
     "buildingCode": "GSC",
     "parentBuildingCode": null,
     "buildingName": "General Services Complex",
@@ -128,7 +128,7 @@
     "longitude": -80.54308372
   },
   {
-    "buildingId": 15,
+    "buildingId": "15",
     "buildingCode": "COM",
     "parentBuildingCode": null,
     "buildingName": "Commissary",
@@ -137,7 +137,7 @@
     "longitude": -80.54292118
   },
   {
-    "buildingId": 16,
+    "buildingId": "16",
     "buildingCode": "SCH",
     "parentBuildingCode": null,
     "buildingName": "South Campus Hall",
@@ -146,7 +146,7 @@
     "longitude": -80.54021338
   },
   {
-    "buildingId": 17,
+    "buildingId": "17",
     "buildingCode": "MC",
     "parentBuildingCode": null,
     "buildingName": "Mathematics & Computer Building",
@@ -155,7 +155,7 @@
     "longitude": -80.54394739
   },
   {
-    "buildingId": 18,
+    "buildingId": "18",
     "buildingCode": "PAC",
     "parentBuildingCode": null,
     "buildingName": "Physical Activities Complex",
@@ -164,7 +164,7 @@
     "longitude": -80.54613339
   },
   {
-    "buildingId": 19,
+    "buildingId": "19",
     "buildingCode": "SLC",
     "parentBuildingCode": null,
     "buildingName": "Student Life Centre",
@@ -173,7 +173,7 @@
     "longitude": -80.545455
   },
   {
-    "buildingId": 20,
+    "buildingId": "20",
     "buildingCode": "V1",
     "parentBuildingCode": null,
     "buildingName": "Student Village 1",
@@ -191,7 +191,7 @@
     "longitude": -80.54996
   },
   {
-    "buildingId": 200,
+    "buildingId": "20E1",
     "buildingCode": "VE1",
     "parentBuildingCode": "V1",
     "buildingName": "Student Village 1 House East 1",
@@ -200,7 +200,7 @@
     "longitude": -80.549317
   },
   {
-    "buildingId": 2000,
+    "buildingId": "20E2",
     "buildingCode": "VE2",
     "parentBuildingCode": "V1",
     "buildingName": "Student Village 1 House East 2",
@@ -209,7 +209,7 @@
     "longitude": -80.549017
   },
   {
-    "buildingId": 20000,
+    "buildingId": "20E3",
     "buildingCode": "VE3",
     "parentBuildingCode": "V1",
     "buildingName": "Student Village 1 House East 3",
@@ -218,7 +218,7 @@
     "longitude": -80.548612
   },
   {
-    "buildingId": 200000,
+    "buildingId": "20E4",
     "buildingCode": "VE4",
     "parentBuildingCode": "V1",
     "buildingName": "Student Village 1 House East 4",
@@ -227,7 +227,7 @@
     "longitude": -80.548526
   },
   {
-    "buildingId": 2000000,
+    "buildingId": "20E5",
     "buildingCode": "VE5",
     "parentBuildingCode": "V1",
     "buildingName": "Student Village 1 House East 5",
@@ -236,7 +236,7 @@
     "longitude": -80.548917
   },
   {
-    "buildingId": 20000000,
+    "buildingId": "20E6",
     "buildingCode": "VE6",
     "parentBuildingCode": "V1",
     "buildingName": "Student Village 1 House East 6",
@@ -425,7 +425,7 @@
     "longitude": -80.550647
   },
   {
-    "buildingId": 21,
+    "buildingId": "21",
     "buildingCode": "TH",
     "parentBuildingCode": null,
     "buildingName": "Tutors' Houses",
@@ -434,7 +434,7 @@
     "longitude": -80.552748
   },
   {
-    "buildingId": 22,
+    "buildingId": "22",
     "buildingCode": "HS",
     "parentBuildingCode": null,
     "buildingName": "Health Services",
@@ -443,7 +443,7 @@
     "longitude": -80.54611194
   },
   {
-    "buildingId": 23,
+    "buildingId": "23",
     "buildingCode": "MHR",
     "parentBuildingCode": null,
     "buildingName": "Minota Hagey Residence",
@@ -452,7 +452,7 @@
     "longitude": -80.54275113
   },
   {
-    "buildingId": 24,
+    "buildingId": "24",
     "buildingCode": "HH",
     "parentBuildingCode": null,
     "buildingName": "J.G. Hagey Hall of the Humanities",
@@ -461,7 +461,7 @@
     "longitude": -80.54165679
   },
   {
-    "buildingId": 25,
+    "buildingId": "25",
     "buildingCode": "REV",
     "parentBuildingCode": null,
     "buildingName": "Ron Eydt Village",
@@ -731,7 +731,7 @@
     "longitude": null
   },
   {
-    "buildingId": 26,
+    "buildingId": "26",
     "buildingCode": "UWP",
     "parentBuildingCode": null,
     "buildingName": "University of Waterloo Place",
@@ -803,7 +803,7 @@
     "longitude": -80.53512
   },
   {
-    "buildingId": 27,
+    "buildingId": "27",
     "buildingCode": "UC",
     "parentBuildingCode": null,
     "buildingName": "University Club",
@@ -812,7 +812,7 @@
     "longitude": -80.547378
   },
   {
-    "buildingId": 28,
+    "buildingId": "28",
     "buildingCode": "C2",
     "parentBuildingCode": null,
     "buildingName": "Chemistry 2",
@@ -821,7 +821,7 @@
     "longitude": -80.54290487
   },
   {
-    "buildingId": 29,
+    "buildingId": "29",
     "buildingCode": "CPH",
     "parentBuildingCode": null,
     "buildingName": "Carl A. Pollock Hall",
@@ -830,7 +830,7 @@
     "longitude": -80.53933936
   },
   {
-    "buildingId": 30,
+    "buildingId": "30",
     "buildingCode": "PAS",
     "parentBuildingCode": null,
     "buildingName": "Psychology, Anthropology, Sociology",
@@ -839,7 +839,7 @@
     "longitude": -80.54246097
   },
   {
-    "buildingId": 31,
+    "buildingId": "31",
     "buildingCode": "NH",
     "parentBuildingCode": null,
     "buildingName": "Ira G. Needles Hall",
@@ -848,7 +848,7 @@
     "longitude": -80.54363089
   },
   {
-    "buildingId": 32,
+    "buildingId": "32",
     "buildingCode": "BMH",
     "parentBuildingCode": null,
     "buildingName": "B.C. Matthews Hall",
@@ -857,7 +857,7 @@
     "longitude": -80.54517584
   },
   {
-    "buildingId": 33,
+    "buildingId": "33",
     "buildingCode": "OPT",
     "parentBuildingCode": null,
     "buildingName": "Optometry",
@@ -866,7 +866,7 @@
     "longitude": -80.5455299
   },
   {
-    "buildingId": 34,
+    "buildingId": "34",
     "buildingCode": "EV2",
     "parentBuildingCode": null,
     "buildingName": "Environment 2",
@@ -875,7 +875,7 @@
     "longitude": -80.54324
   },
   {
-    "buildingId": 35,
+    "buildingId": "35",
     "buildingCode": "FED",
     "parentBuildingCode": null,
     "buildingName": "Federation Hall",
@@ -884,7 +884,7 @@
     "longitude": -80.54864126
   },
   {
-    "buildingId": 36,
+    "buildingId": "36",
     "buildingCode": "ECH",
     "parentBuildingCode": null,
     "buildingName": "East Campus Hall",
@@ -893,7 +893,7 @@
     "longitude": -80.53864735
   },
   {
-    "buildingId": 37,
+    "buildingId": "37",
     "buildingCode": "DC",
     "parentBuildingCode": null,
     "buildingName": "William G. Davis Computer Research Centre",
@@ -902,7 +902,7 @@
     "longitude": -80.542164
   },
   {
-    "buildingId": 39,
+    "buildingId": "39",
     "buildingCode": "EIT",
     "parentBuildingCode": null,
     "buildingName": "Centre for Environmental and Information Technology",
@@ -911,7 +911,7 @@
     "longitude": -80.54206448
   },
   {
-    "buildingId": 40,
+    "buildingId": "40",
     "buildingCode": "BAU",
     "parentBuildingCode": null,
     "buildingName": "Bauer Warehouse",
@@ -920,7 +920,7 @@
     "longitude": -80.545715
   },
   {
-    "buildingId": 41,
+    "buildingId": "41",
     "buildingCode": "COG",
     "parentBuildingCode": null,
     "buildingName": "Columbia Greenhouses",
@@ -929,7 +929,7 @@
     "longitude": -80.559405
   },
   {
-    "buildingId": 42,
+    "buildingId": "42",
     "buildingCode": "CIF",
     "parentBuildingCode": null,
     "buildingName": "Columbia Icefield",
@@ -938,7 +938,7 @@
     "longitude": -80.54852324
   },
   {
-    "buildingId": 43,
+    "buildingId": "43",
     "buildingCode": "CLV",
     "parentBuildingCode": null,
     "buildingName": "Columbia Lake Village",
@@ -1082,7 +1082,7 @@
     "longitude": -80.5625084
   },
   {
-    "buildingId": 44,
+    "buildingId": "44",
     "buildingCode": "MKV",
     "parentBuildingCode": "MKV",
     "buildingName": "William Lyon Mackenzie King Village",
@@ -1118,7 +1118,7 @@
     "longitude": -80.553056
   },
   {
-    "buildingId": 45,
+    "buildingId": "45",
     "buildingCode": "TC",
     "parentBuildingCode": null,
     "buildingName": "William M. Tatham Centre for Co-operative Education & Career Action",
@@ -1127,7 +1127,7 @@
     "longitude": -80.5412835
   },
   {
-    "buildingId": 47,
+    "buildingId": "47",
     "buildingCode": "ARC",
     "parentBuildingCode": null,
     "buildingName": "School of Architecture",
@@ -1136,7 +1136,7 @@
     "longitude": -80.31692
   },
   {
-    "buildingId": 48,
+    "buildingId": "48",
     "buildingCode": "ERC",
     "parentBuildingCode": null,
     "buildingName": "Energy Research Centre",
@@ -1145,7 +1145,7 @@
     "longitude": -80.54447847
   },
   {
-    "buildingId": 49,
+    "buildingId": "49",
     "buildingCode": "PHR",
     "parentBuildingCode": null,
     "buildingName": "Pharmacy",
@@ -1154,7 +1154,7 @@
     "longitude": -80.49902
   },
   {
-    "buildingId": 50,
+    "buildingId": "50",
     "buildingCode": "QNC",
     "parentBuildingCode": null,
     "buildingName": "Mike & Ophelia Lazaridis Quantum-Nano Centre",
@@ -1163,7 +1163,7 @@
     "longitude": -80.54419245
   },
   {
-    "buildingId": 51,
+    "buildingId": "51",
     "buildingCode": "RAC",
     "parentBuildingCode": null,
     "buildingName": "Research Advancement Centre",
@@ -1172,7 +1172,7 @@
     "longitude": -80.55498
   },
   {
-    "buildingId": 52,
+    "buildingId": "52",
     "buildingCode": "IHB",
     "parentBuildingCode": null,
     "buildingName": "Integrated Health Building",
@@ -1181,7 +1181,7 @@
     "longitude": -80.499208
   },
   {
-    "buildingId": 53,
+    "buildingId": "53",
     "buildingCode": "E5",
     "parentBuildingCode": null,
     "buildingName": "Engineering 5",
@@ -1190,7 +1190,7 @@
     "longitude": -80.540085
   },
   {
-    "buildingId": 54,
+    "buildingId": "54",
     "buildingCode": "STC",
     "parentBuildingCode": null,
     "buildingName": "Science Teaching Complex",
@@ -1199,7 +1199,7 @@
     "longitude": -80.54338
   },
   {
-    "buildingId": 55,
+    "buildingId": "55",
     "buildingCode": "DMS",
     "parentBuildingCode": null,
     "buildingName": "Digital Media Stratford",
@@ -1208,7 +1208,7 @@
     "longitude": -80.9821
   },
   {
-    "buildingId": 56,
+    "buildingId": "56",
     "buildingCode": "M3",
     "parentBuildingCode": null,
     "buildingName": "Mathematics 3",
@@ -1217,7 +1217,7 @@
     "longitude": -80.54404983
   },
   {
-    "buildingId": 57,
+    "buildingId": "57",
     "buildingCode": "EV3",
     "parentBuildingCode": null,
     "buildingName": "Environment 3",
@@ -1226,7 +1226,7 @@
     "longitude": -80.543376
   },
   {
-    "buildingId": 58,
+    "buildingId": "58",
     "buildingCode": "RA2",
     "parentBuildingCode": null,
     "buildingName": "Research Advancement Centre 2",
@@ -1235,7 +1235,7 @@
     "longitude": -80.55553
   },
   {
-    "buildingId": 59,
+    "buildingId": "59",
     "buildingCode": "ART",
     "parentBuildingCode": null,
     "buildingName": "Arts Building",
@@ -1244,7 +1244,7 @@
     "longitude": null
   },
   {
-    "buildingId": 60,
+    "buildingId": "60",
     "buildingCode": "E6",
     "parentBuildingCode": null,
     "buildingName": "Engineering 6",
@@ -1253,7 +1253,7 @@
     "longitude": -80.53868181
   },
   {
-    "buildingId": 61,
+    "buildingId": "61",
     "buildingCode": "TJB",
     "parentBuildingCode": null,
     "buildingName": "Toby Jenkins Applied Health Research Building",
@@ -1262,7 +1262,7 @@
     "longitude": null
   },
   {
-    "buildingId": 62,
+    "buildingId": "62",
     "buildingCode": "EC1",
     "parentBuildingCode": null,
     "buildingName": "East Campus 1",
@@ -1271,7 +1271,7 @@
     "longitude": -80.54004246
   },
   {
-    "buildingId": 63,
+    "buildingId": "63",
     "buildingCode": "EC2",
     "parentBuildingCode": null,
     "buildingName": "East Campus 2",
@@ -1280,7 +1280,7 @@
     "longitude": -80.54134834
   },
   {
-    "buildingId": 64,
+    "buildingId": "64",
     "buildingCode": "EC3",
     "parentBuildingCode": null,
     "buildingName": "East Campus 3",
@@ -1289,7 +1289,7 @@
     "longitude": -80.54219408
   },
   {
-    "buildingId": 65,
+    "buildingId": "65",
     "buildingCode": "EC4",
     "parentBuildingCode": null,
     "buildingName": "East Campus 4",
@@ -1298,7 +1298,7 @@
     "longitude": null
   },
   {
-    "buildingId": 66,
+    "buildingId": "66",
     "buildingCode": "EC5",
     "parentBuildingCode": null,
     "buildingName": "East Campus 5",
@@ -1307,7 +1307,7 @@
     "longitude": null
   },
   {
-    "buildingId": 67,
+    "buildingId": "67",
     "buildingCode": "E7",
     "parentBuildingCode": null,
     "buildingName": "Engineering 7",
@@ -1316,7 +1316,7 @@
     "longitude": -80.53958
   },
   {
-    "buildingId": 68,
+    "buildingId": "68",
     "buildingCode": "CMH",
     "parentBuildingCode": null,
     "buildingName": "Claudette Millar Hall",
@@ -1325,7 +1325,7 @@
     "longitude": -80.53592688
   },
   {
-    "buildingId": 69,
+    "buildingId": "69",
     "buildingCode": "ST2",
     "parentBuildingCode": null,
     "buildingName": "Science Teaching 2",
@@ -1334,7 +1334,7 @@
     "longitude": null
   },
   {
-    "buildingId": 85,
+    "buildingId": "85",
     "buildingCode": "TUN",
     "parentBuildingCode": null,
     "buildingName": "Service Tunnels",
@@ -1343,7 +1343,7 @@
     "longitude": null
   },
   {
-    "buildingId": 87,
+    "buildingId": "87",
     "buildingCode": "GST",
     "parentBuildingCode": null,
     "buildingName": "Ground Storage Building V2",
@@ -1352,7 +1352,7 @@
     "longitude": null
   },
   {
-    "buildingId": 88,
+    "buildingId": "88",
     "buildingCode": "KKS",
     "parentBuildingCode": null,
     "buildingName": "Kiosks 1, 2, 3, 4, & 5",
@@ -1361,7 +1361,7 @@
     "longitude": null
   },
   {
-    "buildingId": 89,
+    "buildingId": "89",
     "buildingCode": "EV",
     "parentBuildingCode": null,
     "buildingName": "Electrical Vault",
@@ -1370,7 +1370,7 @@
     "longitude": null
   },
   {
-    "buildingId": 90,
+    "buildingId": "90",
     "buildingCode": "MV",
     "parentBuildingCode": null,
     "buildingName": "Mechanical Vault",
@@ -1379,7 +1379,7 @@
     "longitude": null
   },
   {
-    "buildingId": 93,
+    "buildingId": "93",
     "buildingCode": "POV",
     "parentBuildingCode": null,
     "buildingName": "Pedestrian Overpass",
@@ -1388,7 +1388,7 @@
     "longitude": null
   },
   {
-    "buildingId": 94,
+    "buildingId": "94",
     "buildingCode": "PT",
     "parentBuildingCode": null,
     "buildingName": "Pedestrian Tunnels",
@@ -1397,7 +1397,7 @@
     "longitude": null
   },
   {
-    "buildingId": 95,
+    "buildingId": "95",
     "buildingCode": "TEN",
     "parentBuildingCode": null,
     "buildingName": "Tennis Courts",
@@ -1406,7 +1406,7 @@
     "longitude": null
   },
   {
-    "buildingId": 100,
+    "buildingId": "100",
     "buildingCode": "SGR",
     "parentBuildingCode": null,
     "buildingName": "Schmidt Greenhouse",
@@ -1415,7 +1415,7 @@
     "longitude": null
   },
   {
-    "buildingId": 104,
+    "buildingId": "104",
     "buildingCode": "GH",
     "parentBuildingCode": null,
     "buildingName": "Graduate House",
@@ -1424,7 +1424,7 @@
     "longitude": -80.54091806
   },
   {
-    "buildingId": 106,
+    "buildingId": "106",
     "buildingCode": "DB",
     "parentBuildingCode": null,
     "buildingName": "Dearborn Pumphouse",
@@ -1433,7 +1433,7 @@
     "longitude": null
   },
   {
-    "buildingId": 112,
+    "buildingId": "112",
     "buildingCode": "BRH",
     "parentBuildingCode": null,
     "buildingName": "Brubacher House",
@@ -1442,7 +1442,7 @@
     "longitude": -80.552348
   },
   {
-    "buildingId": 115,
+    "buildingId": "115",
     "buildingCode": "KDC",
     "parentBuildingCode": null,
     "buildingName": "Klemmer Farmhouse Cooperative Nursery Inc.",
@@ -1451,7 +1451,7 @@
     "longitude": -80.549178
   },
   {
-    "buildingId": 123,
+    "buildingId": "123",
     "buildingCode": "HMN",
     "parentBuildingCode": null,
     "buildingName": "Hildegard-Marsden Co-operative Day Nursery",
@@ -1460,7 +1460,7 @@
     "longitude": -80.549349
   },
   {
-    "buildingId": 124,
+    "buildingId": "124",
     "buildingCode": "BEG",
     "parentBuildingCode": null,
     "buildingName": "BEG Test Building",
@@ -1469,7 +1469,7 @@
     "longitude": null
   },
   {
-    "buildingId": 125,
+    "buildingId": "125",
     "buildingCode": "AN3",
     "parentBuildingCode": null,
     "buildingName": "145 Columbia",
@@ -1478,7 +1478,7 @@
     "longitude": null
   },
   {
-    "buildingId": 128,
+    "buildingId": "128",
     "buildingCode": "TUL",
     "parentBuildingCode": null,
     "buildingName": "Tri-University Library",
@@ -1487,7 +1487,7 @@
     "longitude": null
   },
   {
-    "buildingId": 129,
+    "buildingId": "129",
     "buildingCode": "AB",
     "parentBuildingCode": null,
     "buildingName": "Aberfoyle Building",
@@ -1496,7 +1496,7 @@
     "longitude": null
   },
   {
-    "buildingId": 130,
+    "buildingId": "130",
     "buildingCode": "AH",
     "parentBuildingCode": null,
     "buildingName": "Aberfoyle House",
@@ -1505,7 +1505,7 @@
     "longitude": null
   },
   {
-    "buildingId": 131,
+    "buildingId": "131",
     "buildingCode": "AS",
     "parentBuildingCode": null,
     "buildingName": "Aberfoyle Storage",
@@ -1514,7 +1514,7 @@
     "longitude": null
   },
   {
-    "buildingId": 132,
+    "buildingId": "132",
     "buildingCode": "GA",
     "parentBuildingCode": null,
     "buildingName": "335 Gage Avenue",
@@ -1523,7 +1523,7 @@
     "longitude": -80.5184
   },
   {
-    "buildingId": 134,
+    "buildingId": "134",
     "buildingCode": "KGC",
     "parentBuildingCode": null,
     "buildingName": "KW Garden Club",
@@ -1532,7 +1532,7 @@
     "longitude": null
   },
   {
-    "buildingId": 135,
+    "buildingId": "135",
     "buildingCode": "FRF",
     "parentBuildingCode": null,
     "buildingName": "Fire Research Facility",
@@ -1541,7 +1541,7 @@
     "longitude": null
   },
   {
-    "buildingId": 136,
+    "buildingId": "136",
     "buildingCode": "PTB",
     "parentBuildingCode": null,
     "buildingName": "Pavement & Transportation Technology Building",
@@ -1550,7 +1550,7 @@
     "longitude": null
   },
   {
-    "buildingId": 137,
+    "buildingId": "137",
     "buildingCode": "PTG",
     "parentBuildingCode": null,
     "buildingName": "Pavement & Transportation Technology Garage",
@@ -1559,7 +1559,7 @@
     "longitude": null
   },
   {
-    "buildingId": 138,
+    "buildingId": "138",
     "buildingCode": "VS",
     "parentBuildingCode": null,
     "buildingName": "Victoria School",
@@ -1568,7 +1568,7 @@
     "longitude": null
   },
   {
-    "buildingId": 139,
+    "buildingId": "139",
     "buildingCode": "VSS",
     "parentBuildingCode": null,
     "buildingName": "68 Victoria Street South",
@@ -1577,7 +1577,7 @@
     "longitude": null
   },
   {
-    "buildingId": 140,
+    "buildingId": "140",
     "buildingCode": "AAR",
     "parentBuildingCode": null,
     "buildingName": "Architecture Annex Rome",
@@ -1586,7 +1586,7 @@
     "longitude": 12.470925
   },
   {
-    "buildingId": 144,
+    "buildingId": "144",
     "buildingCode": "ACW",
     "parentBuildingCode": null,
     "buildingName": "Accelerator Centre Waterloo",
@@ -1595,7 +1595,7 @@
     "longitude": -80.5490991
   },
   {
-    "buildingId": 145,
+    "buildingId": "145",
     "buildingCode": "WF",
     "parentBuildingCode": null,
     "buildingName": "Warrior Field",
@@ -1604,7 +1604,7 @@
     "longitude": -80.55014
   },
   {
-    "buildingId": 146,
+    "buildingId": "146",
     "buildingCode": "MRS",
     "parentBuildingCode": null,
     "buildingName": "Medical & Related Sciences",
@@ -1613,7 +1613,7 @@
     "longitude": null
   },
   {
-    "buildingId": 148,
+    "buildingId": "148",
     "buildingCode": "SCO",
     "parentBuildingCode": null,
     "buildingName": "Shanghai China Office",
@@ -1622,7 +1622,7 @@
     "longitude": null
   },
   {
-    "buildingId": 149,
+    "buildingId": "149",
     "buildingCode": "KSW",
     "parentBuildingCode": null,
     "buildingName": "195 King Street West",
@@ -1631,7 +1631,7 @@
     "longitude": null
   },
   {
-    "buildingId": 150,
+    "buildingId": "150",
     "buildingCode": "HSC",
     "parentBuildingCode": null,
     "buildingName": "Huntsville Summit Centre",
@@ -1640,7 +1640,7 @@
     "longitude": -79.20695
   },
   {
-    "buildingId": 151,
+    "buildingId": "151",
     "buildingCode": "UAE",
     "parentBuildingCode": null,
     "buildingName": "United Arab Emirates Dubai",
@@ -1649,7 +1649,7 @@
     "longitude": null
   },
   {
-    "buildingId": 152,
+    "buildingId": "152",
     "buildingCode": "WSS",
     "parentBuildingCode": null,
     "buildingName": "6 Wellington Street, Stratford",
@@ -1658,7 +1658,7 @@
     "longitude": -80.982231
   },
   {
-    "buildingId": 153,
+    "buildingId": "153",
     "buildingCode": "BSC",
     "parentBuildingCode": null,
     "buildingName": "Bright Starts Co-operative Early Learning Centre",
@@ -1667,7 +1667,7 @@
     "longitude": null
   },
   {
-    "buildingId": 155,
+    "buildingId": "155",
     "buildingCode": "ASA",
     "parentBuildingCode": null,
     "buildingName": "Allen Square Arts",
@@ -1676,7 +1676,7 @@
     "longitude": null
   },
   {
-    "buildingId": 156,
+    "buildingId": "156",
     "buildingCode": "CIGI",
     "parentBuildingCode": null,
     "buildingName": "Centre for International Governance Innovation (BSIA)",
@@ -1685,7 +1685,7 @@
     "longitude": null
   },
   {
-    "buildingId": 158,
+    "buildingId": "158",
     "buildingCode": "VG",
     "parentBuildingCode": null,
     "buildingName": "Velocity Garage",
@@ -1694,7 +1694,7 @@
     "longitude": null
   },
   {
-    "buildingId": 159,
+    "buildingId": "159",
     "buildingCode": "GSK",
     "parentBuildingCode": null,
     "buildingName": "44 Gaukel Street, Kitchener",
@@ -1703,7 +1703,7 @@
     "longitude": -80.4933625
   },
   {
-    "buildingId": 160,
+    "buildingId": "160",
     "buildingCode": "WCP",
     "parentBuildingCode": null,
     "buildingName": "Waterloo Central Place",
@@ -1712,7 +1712,7 @@
     "longitude": null
   },
   {
-    "buildingId": 161,
+    "buildingId": "161",
     "buildingCode": "MWS",
     "parentBuildingCode": null,
     "buildingName": "Manulife Water Street",
@@ -1721,7 +1721,7 @@
     "longitude": -80.494966
   },
   {
-    "buildingId": 162,
+    "buildingId": "162",
     "buildingCode": "MTT",
     "parentBuildingCode": null,
     "buildingName": "Master of Taxation Toronto",
@@ -1730,7 +1730,7 @@
     "longitude": null
   },
   {
-    "buildingId": 163,
+    "buildingId": "163",
     "buildingCode": "CSA",
     "parentBuildingCode": null,
     "buildingName": "55 Caroline St. Apartments",
@@ -1739,7 +1739,7 @@
     "longitude": null
   },
   {
-    "buildingId": 164,
+    "buildingId": "164",
     "buildingCode": "PGC",
     "parentBuildingCode": null,
     "buildingName": "166 Pinegrove Cres., Waterloo",
@@ -1748,7 +1748,7 @@
     "longitude": null
   },
   {
-    "buildingId": 165,
+    "buildingId": "165",
     "buildingCode": "TEC",
     "parentBuildingCode": null,
     "buildingName": "220 Yonge Street, Suite 115, Toronto",
@@ -1757,7 +1757,7 @@
     "longitude": null
   },
   {
-    "buildingId": 166,
+    "buildingId": "166",
     "buildingCode": "STM",
     "parentBuildingCode": null,
     "buildingName": "Shelburne Terrace, Gaithersburg, Maryland",
@@ -1766,7 +1766,7 @@
     "longitude": null
   },
   {
-    "buildingId": 167,
+    "buildingId": "167",
     "buildingCode": "LHI",
     "parentBuildingCode": null,
     "buildingName": "Lyle S. Hallman Institute for Health Promotion",
@@ -1775,7 +1775,7 @@
     "longitude": -80.546066
   },
   {
-    "buildingId": 800,
+    "buildingId": "800",
     "buildingCode": "STJ",
     "parentBuildingCode": null,
     "buildingName": "St. Jerome's University",
@@ -1784,7 +1784,7 @@
     "longitude": null
   },
   {
-    "buildingId": 801,
+    "buildingId": "801",
     "buildingCode": "STJ-SW",
     "parentBuildingCode": "STJ",
     "buildingName": "St. Jerome's University Sweeney Hall",
@@ -1793,7 +1793,7 @@
     "longitude": -80.54588395
   },
   {
-    "buildingId": 802,
+    "buildingId": "802",
     "buildingCode": "STJ-SWA",
     "parentBuildingCode": "STJ",
     "buildingName": "St. Jerome's University Sweeney Hall Addition",
@@ -1802,7 +1802,7 @@
     "longitude": -80.54588395
   },
   {
-    "buildingId": 811,
+    "buildingId": "811",
     "buildingCode": "STJ-FR",
     "parentBuildingCode": "STJ",
     "buildingName": "St. Jerome's University Finn Residence",
@@ -1811,7 +1811,7 @@
     "longitude": -80.54588395
   },
   {
-    "buildingId": 812,
+    "buildingId": "812",
     "buildingCode": "STJ-LH",
     "parentBuildingCode": "STJ",
     "buildingName": "St. Jerome's University Louis Hall",
@@ -1820,7 +1820,7 @@
     "longitude": -80.54588395
   },
   {
-    "buildingId": 813,
+    "buildingId": "813",
     "buildingCode": "STJ-CB",
     "parentBuildingCode": "STJ",
     "buildingName": "St. Jerome's University Classroom Building",
@@ -1829,7 +1829,7 @@
     "longitude": -80.54588395
   },
   {
-    "buildingId": 814,
+    "buildingId": "814",
     "buildingCode": "STJ-AC",
     "parentBuildingCode": "STJ",
     "buildingName": "St. Jerome's University Academic Centre",
@@ -1838,7 +1838,7 @@
     "longitude": -80.54588395
   },
   {
-    "buildingId": 815,
+    "buildingId": "815",
     "buildingCode": "STJ-RC",
     "parentBuildingCode": null,
     "buildingName": "St. Jerome's University Residence Complex",
@@ -1847,7 +1847,7 @@
     "longitude": null
   },
   {
-    "buildingId": 820,
+    "buildingId": "820",
     "buildingCode": "REN",
     "parentBuildingCode": null,
     "buildingName": "Renison University College",
@@ -1856,7 +1856,7 @@
     "longitude": null
   },
   {
-    "buildingId": 821,
+    "buildingId": "821",
     "buildingCode": "REN-OB",
     "parentBuildingCode": "REN",
     "buildingName": "Renison University College Original Building",
@@ -1865,7 +1865,7 @@
     "longitude": -80.54762202
   },
   {
-    "buildingId": 822,
+    "buildingId": "822",
     "buildingCode": "REN",
     "parentBuildingCode": "REN",
     "buildingName": "Renison University College Addition",
@@ -1874,7 +1874,7 @@
     "longitude": -80.54762202
   },
   {
-    "buildingId": 823,
+    "buildingId": "823",
     "buildingCode": "REN",
     "parentBuildingCode": "REN",
     "buildingName": "Renison University College Addition 2 - Chapel",
@@ -1883,7 +1883,7 @@
     "longitude": -80.54762202
   },
   {
-    "buildingId": 824,
+    "buildingId": "824",
     "buildingCode": "REN",
     "parentBuildingCode": "REN",
     "buildingName": "Renison University College Addition 3 - Link",
@@ -1892,7 +1892,7 @@
     "longitude": -80.54762202
   },
   {
-    "buildingId": 825,
+    "buildingId": "825",
     "buildingCode": "REN",
     "parentBuildingCode": "REN",
     "buildingName": "Renison University College Addition 4 - Academic Centre",
@@ -1901,7 +1901,7 @@
     "longitude": -80.54762202
   },
   {
-    "buildingId": 830,
+    "buildingId": "830",
     "buildingCode": "STP",
     "parentBuildingCode": null,
     "buildingName": "St. Paul's University College",
@@ -1910,7 +1910,7 @@
     "longitude": null
   },
   {
-    "buildingId": 831,
+    "buildingId": "831",
     "buildingCode": "STP-ADMIN",
     "parentBuildingCode": "STP",
     "buildingName": "St. Paul's United College Main Building",
@@ -1919,7 +1919,7 @@
     "longitude": -80.546404
   },
   {
-    "buildingId": 832,
+    "buildingId": "832",
     "buildingCode": "STP-WW",
     "parentBuildingCode": "STP",
     "buildingName": "St. Paul's United College West Wing",
@@ -1928,7 +1928,7 @@
     "longitude": -80.546404
   },
   {
-    "buildingId": 833,
+    "buildingId": "833",
     "buildingCode": "STP-EW",
     "parentBuildingCode": "STP",
     "buildingName": "St. Paul's United College East Wing",
@@ -1937,7 +1937,7 @@
     "longitude": -80.546404
   },
   {
-    "buildingId": 834,
+    "buildingId": "834",
     "buildingCode": "STP-GRAD",
     "parentBuildingCode": "STP",
     "buildingName": "St. Paul's United College Graduate Apartment",
@@ -1946,7 +1946,7 @@
     "longitude": -80.546404
   },
   {
-    "buildingId": 835,
+    "buildingId": "835",
     "buildingCode": "STP-NW",
     "parentBuildingCode": "STP",
     "buildingName": "St. Paul's United College North Wing",
@@ -1955,7 +1955,7 @@
     "longitude": -80.546404
   },
   {
-    "buildingId": 840,
+    "buildingId": "840",
     "buildingCode": "CGR",
     "parentBuildingCode": null,
     "buildingName": "Conrad Grebel University College",
@@ -1964,7 +1964,7 @@
     "longitude": -80.54525
   },
   {
-    "buildingId": 841,
+    "buildingId": "841",
     "buildingCode": "CGR",
     "parentBuildingCode": "CGR",
     "buildingName": "Conrad Grebel University College Residence",
@@ -1973,7 +1973,7 @@
     "longitude": -80.54541188
   },
   {
-    "buildingId": 842,
+    "buildingId": "842",
     "buildingCode": "CGR",
     "parentBuildingCode": "CGR",
     "buildingName": "Conrad Grebel University College Administration Building",
@@ -1982,7 +1982,7 @@
     "longitude": -80.54541188
   },
   {
-    "buildingId": 843,
+    "buildingId": "843",
     "buildingCode": "CGR",
     "parentBuildingCode": "CGR",
     "buildingName": "Conrad Grebel University College Residence Addition",
@@ -1991,7 +1991,7 @@
     "longitude": -80.54541188
   },
   {
-    "buildingId": 844,
+    "buildingId": "844",
     "buildingCode": "CGR",
     "parentBuildingCode": "CGR",
     "buildingName": "Conrad Grebel University College Administration Addition",
@@ -2000,7 +2000,7 @@
     "longitude": -80.54541188
   },
   {
-    "buildingId": 845,
+    "buildingId": "845",
     "buildingCode": "CGR",
     "parentBuildingCode": "CGR",
     "buildingName": "Conrad Grebel University College Apartments",
@@ -2009,7 +2009,7 @@
     "longitude": -80.54541188
   },
   {
-    "buildingId": 4600,
+    "buildingId": "4600",
     "buildingCode": "CLN",
     "parentBuildingCode": null,
     "buildingName": "Columbia Lake Village North",
@@ -2018,7 +2018,7 @@
     "longitude": null
   },
   {
-    "buildingId": 4601,
+    "buildingId": "4601",
     "buildingCode": "L01",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 1",
@@ -2027,7 +2027,7 @@
     "longitude": -80.562819
   },
   {
-    "buildingId": 4602,
+    "buildingId": "4602",
     "buildingCode": "L02",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 2",
@@ -2036,7 +2036,7 @@
     "longitude": -80.562532
   },
   {
-    "buildingId": 4603,
+    "buildingId": "4603",
     "buildingCode": "L03",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 3",
@@ -2045,7 +2045,7 @@
     "longitude": -80.562125
   },
   {
-    "buildingId": 4604,
+    "buildingId": "4604",
     "buildingCode": "L04",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 4",
@@ -2054,7 +2054,7 @@
     "longitude": -80.561728
   },
   {
-    "buildingId": 4605,
+    "buildingId": "4605",
     "buildingCode": "L05",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 5",
@@ -2063,7 +2063,7 @@
     "longitude": -80.561368
   },
   {
-    "buildingId": 4606,
+    "buildingId": "4606",
     "buildingCode": "L06",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 6",
@@ -2072,7 +2072,7 @@
     "longitude": -80.561191
   },
   {
-    "buildingId": 4607,
+    "buildingId": "4607",
     "buildingCode": "L07",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 7",
@@ -2081,7 +2081,7 @@
     "longitude": -80.561706
   },
   {
-    "buildingId": 4608,
+    "buildingId": "4608",
     "buildingCode": "L08",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 8",
@@ -2090,7 +2090,7 @@
     "longitude": -80.562194
   },
   {
-    "buildingId": 4609,
+    "buildingId": "4609",
     "buildingCode": "L09",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 9",
@@ -2099,7 +2099,7 @@
     "longitude": -80.562642
   },
   {
-    "buildingId": 4610,
+    "buildingId": "4610",
     "buildingCode": "L10",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 10",
@@ -2108,7 +2108,7 @@
     "longitude": -80.562618
   },
   {
-    "buildingId": 4611,
+    "buildingId": "4611",
     "buildingCode": "L11",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 11",
@@ -2117,7 +2117,7 @@
     "longitude": -80.562495
   },
   {
-    "buildingId": 4612,
+    "buildingId": "4612",
     "buildingCode": "L12",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 12",
@@ -2126,7 +2126,7 @@
     "longitude": -80.56213
   },
   {
-    "buildingId": 4613,
+    "buildingId": "4613",
     "buildingCode": "L13",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 13",
@@ -2135,7 +2135,7 @@
     "longitude": -80.562699
   },
   {
-    "buildingId": 4614,
+    "buildingId": "4614",
     "buildingCode": "L14",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 14",
@@ -2144,7 +2144,7 @@
     "longitude": -80.562964
   },
   {
-    "buildingId": 4615,
+    "buildingId": "4615",
     "buildingCode": "L15",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 15",
@@ -2153,7 +2153,7 @@
     "longitude": -80.563334
   },
   {
-    "buildingId": 4616,
+    "buildingId": "4616",
     "buildingCode": "L16",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 16",
@@ -2162,7 +2162,7 @@
     "longitude": -80.56405
   },
   {
-    "buildingId": 4617,
+    "buildingId": "4617",
     "buildingCode": "L17",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 17",
@@ -2171,7 +2171,7 @@
     "longitude": -80.56364
   },
   {
-    "buildingId": 4618,
+    "buildingId": "4618",
     "buildingCode": "L18",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 18",
@@ -2180,7 +2180,7 @@
     "longitude": -80.563315
   },
   {
-    "buildingId": 4619,
+    "buildingId": "4619",
     "buildingCode": "L19",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 19",
@@ -2189,7 +2189,7 @@
     "longitude": -80.563176
   },
   {
-    "buildingId": 4620,
+    "buildingId": "4620",
     "buildingCode": "L20",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 20",
@@ -2198,7 +2198,7 @@
     "longitude": -80.56349
   },
   {
-    "buildingId": 4621,
+    "buildingId": "4621",
     "buildingCode": "L21",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 21",
@@ -2207,7 +2207,7 @@
     "longitude": -80.563852
   },
   {
-    "buildingId": 4622,
+    "buildingId": "4622",
     "buildingCode": "L22",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 22",
@@ -2216,7 +2216,7 @@
     "longitude": -80.564235
   },
   {
-    "buildingId": 4623,
+    "buildingId": "4623",
     "buildingCode": "L23",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 23",
@@ -2225,7 +2225,7 @@
     "longitude": -80.564713
   },
   {
-    "buildingId": 4624,
+    "buildingId": "4624",
     "buildingCode": "L24",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 24",
@@ -2234,7 +2234,7 @@
     "longitude": -80.565011
   },
   {
-    "buildingId": 4625,
+    "buildingId": "4625",
     "buildingCode": "L25",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 25",
@@ -2243,7 +2243,7 @@
     "longitude": -80.565327
   },
   {
-    "buildingId": 4626,
+    "buildingId": "4626",
     "buildingCode": "L26",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 26",
@@ -2252,7 +2252,7 @@
     "longitude": -80.564995
   },
   {
-    "buildingId": 4627,
+    "buildingId": "4627",
     "buildingCode": "L27",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 27",
@@ -2261,7 +2261,7 @@
     "longitude": -80.564517
   },
   {
-    "buildingId": 4628,
+    "buildingId": "4628",
     "buildingCode": "L28",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 28",
@@ -2270,7 +2270,7 @@
     "longitude": -80.56405
   },
   {
-    "buildingId": 4629,
+    "buildingId": "4629",
     "buildingCode": "L29",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 29",
@@ -2279,7 +2279,7 @@
     "longitude": -80.563578
   },
   {
-    "buildingId": 4630,
+    "buildingId": "4630",
     "buildingCode": "L30",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 30",
@@ -2288,7 +2288,7 @@
     "longitude": -80.562943
   },
   {
-    "buildingId": 4631,
+    "buildingId": "4631",
     "buildingCode": "L31",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 31",
@@ -2297,7 +2297,7 @@
     "longitude": -80.562948
   },
   {
-    "buildingId": 4632,
+    "buildingId": "4632",
     "buildingCode": "L32",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 32",
@@ -2306,7 +2306,7 @@
     "longitude": -80.56345
   },
   {
-    "buildingId": 4633,
+    "buildingId": "4633",
     "buildingCode": "L33",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 33",
@@ -2315,7 +2315,7 @@
     "longitude": -80.563895
   },
   {
-    "buildingId": 4634,
+    "buildingId": "4634",
     "buildingCode": "L34",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 34",
@@ -2324,7 +2324,7 @@
     "longitude": -80.564705
   },
   {
-    "buildingId": 4635,
+    "buildingId": "4635",
     "buildingCode": "L35",
     "parentBuildingCode": "CLN",
     "buildingName": "Columbia Lake Village North Block 35",
