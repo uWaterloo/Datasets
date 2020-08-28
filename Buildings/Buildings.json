@@ -1419,7 +1419,7 @@
     "buildingCode": "GH",
     "parentBuildingCode": null,
     "buildingName": "Graduate House",
-    "alternateBuildingNames": "Grad House",
+    "alternateBuildingNames": [ "Grad House" ],
     "latitude": 43.46973295,
     "longitude": -80.54091806
   },
