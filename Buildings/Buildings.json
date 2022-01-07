@@ -2343,9 +2343,9 @@
   },
   {
     "buildingId": "AHSX",
-    "buildingCode": "AHS",
+    "buildingCode": "EXP",
     "parentBuildingCode": null,
-    "buildingName": "AHS Expansion",
+    "buildingName": "Expansion",
     "alternateBuildingNames": null,
     "latitude": 43.47361,
     "longitude": -80.54624
