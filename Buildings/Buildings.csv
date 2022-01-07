@@ -287,7 +287,7 @@ building_id,building_code,parent_code,building_name,alternate_building_names,lat
 4634,L34,CLN,Columbia Lake Village North Block 34,,43.471439,-80.564705,1,43.47148,-80.56471,,
 4635,L35,CLN,Columbia Lake Village North Block 35,,43.47185,-80.564235,1,43.47191,-80.56425,,
 A,SCS,,South Campus - South Grounds,,,,1,,,,
-AHSX,AHS,,AHS Expansion,,43.47361,-80.54624,1,43.47361,-80.54624,,
+AHSX,EXP,,Expansion,,43.47361,-80.54624,1,43.47361,-80.54624,,
 B,SCN,,South Campus - North Grounds,,,,1,,,,
 C,,,Seagram Stadium Grounds,,,,0,,,,
 CGB,CGB,,Campus General Buildings,,,,1,,,,
