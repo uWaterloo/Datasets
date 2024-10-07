@@ -178,8 +178,8 @@
     "parentBuildingCode": null,
     "buildingName": "Student Village 1",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.47302,
+    "longitude": -80.5497
   },
   {
     "buildingId": "20CC",
@@ -466,9 +466,9 @@
     "parentBuildingCode": null,
     "buildingName": "Ron Eydt Village",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
-  },
+    "latitude": 43.47039,
+    "longitude": -80.5539
+  }, 
   {
     "buildingId": "25CC",
     "buildingCode": "REC",
@@ -538,8 +538,8 @@
     "parentBuildingCode": "REV",
     "buildingName": "Ron Eydt Village East L",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.469547,
+    "longitude": -80.552989
   },
   {
     "buildingId": "25N",
@@ -601,8 +601,8 @@
     "parentBuildingCode": "REV",
     "buildingName": "Ron Eydt Village North L",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.470526,
+    "longitude": -80.553539
   },
   {
     "buildingId": "25S",
@@ -664,8 +664,8 @@
     "parentBuildingCode": "REV",
     "buildingName": "Ron Eydt Village South L",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.469679,
+    "longitude": -80.554716
   },
   {
     "buildingId": "25W",
@@ -727,8 +727,8 @@
     "parentBuildingCode": "REV",
     "buildingName": "Ron Eydt Village West L",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.470579,
+    "longitude": -80.555062
   },
   {
     "buildingId": "26",
@@ -736,8 +736,8 @@
     "parentBuildingCode": null,
     "buildingName": "University of Waterloo Place",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.47001,
+    "longitude":  -80.53432
   },
   {
     "buildingId": "26CC",
@@ -943,8 +943,8 @@
     "parentBuildingCode": null,
     "buildingName": "Columbia Lake Village",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.47081,
+    "longitude": -80.56254
   },
   {
     "buildingId": "43A",
@@ -1069,8 +1069,8 @@
     "parentBuildingCode": "CLV",
     "buildingName": "Columbia Lake Village South Block P",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.469598,
+    "longitude": -80.563256
   },
   {
     "buildingId": "43Q",
@@ -1258,8 +1258,8 @@
     "parentBuildingCode": null,
     "buildingName": "Toby Jenkins Applied Health Research Building",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.47917126, 
+    "longitude": -80.5485888
   },
   {
     "buildingId": "62",
@@ -1294,8 +1294,8 @@
     "parentBuildingCode": null,
     "buildingName": "East Campus 4",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.475044,
+    "longitude": -80.539698
   },
   {
     "buildingId": "66",
@@ -1303,8 +1303,8 @@
     "parentBuildingCode": null,
     "buildingName": "East Campus 5",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4754884, 
+    "longitude": -80.540716
   },
   {
     "buildingId": "67",
@@ -1780,8 +1780,8 @@
     "parentBuildingCode": null,
     "buildingName": "St. Jerome's University",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.469088, 
+    "longitude": -80.545749
   },
   {
     "buildingId": "801",
@@ -1843,8 +1843,8 @@
     "parentBuildingCode": null,
     "buildingName": "St. Jerome's University Residence Complex",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.46890, 
+    "longitude": -80.545780
   },
   {
     "buildingId": "820",
@@ -1906,8 +1906,8 @@
     "parentBuildingCode": null,
     "buildingName": "St. Paul's University College",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4672980, 
+    "longitude": -80.5464525
   },
   {
     "buildingId": "831",
@@ -2014,8 +2014,8 @@
     "parentBuildingCode": null,
     "buildingName": "Columbia Lake Village North",
     "alternateBuildingNames": null,
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4721036,
+    "longitude": -80.5629732
   },
   {
     "buildingId": "4601",
